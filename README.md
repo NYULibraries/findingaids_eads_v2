@@ -24,10 +24,6 @@ There is also a job for running a full reindex in case things get out of sync. *
 
 We can also run single index jobs for a named EAD.
 
-## Known problematic commit range
-
-The commits within range [5a67a80](https://github.com/NYULibraries/findingaids_eads/commit/5a67a801e81563e1d88768357bd520bcddecee40) to [bfb2f0e](https://github.com/NYULibraries/findingaids_eads/commit/bfb2f0e848d66b464bfcb418da86519a20b167c0) (inclusive) are known to corrupt the state of the repo on case-insensitive filesystems.  Note that Macos and Windows filesystems default to case-insensitive.  For full details on this issue, see Jira ticket [DLFA-155: Duplicate finding aids and filename collision in findingaids_eads Github repo](https://jira.nyu.edu/jira/browse/DLFA-155).
-
 ## Reporting Issues
 
 The special collections content owners can [create issues here](https://github.com/NYULibraries/findingaids_eads/issues) if they are relevant to data errors in the EADs.
