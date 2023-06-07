@@ -23,7 +23,3 @@ There is also a job for running a full reindex in case things get out of sync. *
 ### Single EAD reindex
 
 We can also run single index jobs for a named EAD.
-
-## Reporting Issues
-
-The special collections content owners can [create issues here](https://github.com/NYULibraries/findingaids_eads/issues) if they are relevant to data errors in the EADs.
