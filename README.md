@@ -10,11 +10,11 @@ The [EAD publishing tool](https://github.com/NYULibraries/git_transactor) has a 
 
 ### Reindexing changed files in real-time
 
-A K8s job is triggered every time this index is updated. This job calls [a reindex task](https://github.com/NYULibraries/findingaids/blob/master/lib/tasks/findingaids.rake#L61) which gets the previous commit and updates the Solr index with all the changed files.
+A K8s job is triggered every time this index is updated. This job calls [a re-index task](https://github.com/NYULibraries/ead_indexer/tree/64d4e0048bf687da15016654d371895ca1a77a1f) which gets the previous commit and updates the Solr index with all the changed files.
 
 ### Reindexing changed files nightly and weekly 
 
-In addition to real-time updates we run a nightly job that reindexes any files changes in commits over the past 24 hours and a weekly job that reindexes changes in commits over the past 7 days. This serves as a failsafe for any failed rebuilds.
+In addition to real-time updates we run a nightly job that re-indexes any files changes in commits over the past 24 hours and a weekly job that re-indexes changes in commits over the past 7 days. This serves as a failsafe for any failed rebuilds.
 
 ### Full reindex
 
