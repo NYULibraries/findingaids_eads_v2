@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/1974_002">1974_002</eadid><filedesc><titlestmt><titleproper>Guide to the Mid-Atlantic Early Manuscripts collection <num>1974.002</num></titleproper><author>Jonathan W. Montgomery</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.
+Further description enabled through funding from The Robert Lion Gardiner Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 2005</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:51:01 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Mid-Atlantic Early Manuscripts collection</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Ross, John, 1790-1866</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">George, King of Great Britain, III</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Beecher, Lyman</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Toussaint Louverture, 1743-1803</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs">Graham, George, 1772-1830</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Franklin, William, 1731-1813</persname>
+    </origination>
+    <unitid>1974.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 21 folders in one half of a manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1648/1867" type="inclusive">1648-1867</unitdate>
+    <abstract id="aspace_b5eee2dc4cc3cc056ec9a113767225d9">This collection contains correspondence, deeds, indentures, wills, land conveyances, genealogies, and printed materials from the 17th through 19th centuries. The majority of the collection relates to New York and the surrounding states, but some items are from New England or the Mid-Atlantic region. Materials are in English, French, and Dutch. Subjects of note include Native American relations and slavery.</abstract>
+    <langmaterial id="aspace_98c6fc97f1333d9c9a4c7735d1c50a27">Materials are primarily in English, with some additional materials in Dutch and French.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_812994a6ea13d73718c6a449dffa9f9e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_701f3beeefa9e9946d924cc6ef7778d2">
+    <head>Immediate Source of Acquisition</head>
+<p>Portions of this collection were the gift of Sylvester Dering, 1890. The source and date of acquisition for the remaining items in the collection are unknown. This collection was likely assembled by BHS staff from multiple donations at an unknown date. The collection was formally accessioned in 1974.</p>  </acqinfo>
+  <arrangement id="aspace_76d69394185b5939c35c7b7fd4fc2a4c">
+    <head>Arrangement</head>
+<p>Materials are grouped by subject.</p>  </arrangement>
+  <otherfindaid id="aspace_d02bd108b839e0c1930352962c8ddf14">
+    <head>Other Finding Aids</head>
+<p>Paper finding aid created by Jonathan W. Montgomery in 2005 can be found with the collection.</p>  </otherfindaid>
+  <prefercite id="aspace_57f118510ce5d7b2a2e943831b417f17">
+    <head>Preferred Citation</head>
+<p>Identification of Item, date (if known); Mid-Atlantic Early Manuscripts collection, 1974.002, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_4ecef5be395d973270f260a5b2ffa607">
+    <head>Processing Information</head>
+<p>Materials have been housed in acid free folders. Folder titles have been supplied by the archivist. The collection was re-named in 2018 to better reflect the contents.</p>  </processinfo>
+  <scopecontent id="aspace_ea616875f6471bbba2432dd47d8a8e20">
+    <head>Scope and Contents</head>
+<p>This collection contains correspondence, deeds, indentures, wills, land conveyance documents, and printed materials authored by or pertaining to various figures from colonial and early national Long Island, New England, District of Columbia, Tennessee, and Europe. Many documents originate from prominent individuals, such as Lyman Beecher, King George III, John Paul Jones, Robert R. Livingston, William Penn, John Ross, Benjamin Rush, and Noah Webster. Items relate to early colonial and American conflicts, the Louisiana Purchase, slavery, and Native American affairs, particularly those involving the Cherokee Nation. Also included is a letter from General Toussaint Louverture, accompanied by a portrait image.</p>  </scopecontent>
+  <userestrict id="aspace_d7e1d3b80863f452c128d1790b29b5f9">
+    <head>Conditions Governing Use</head>
+<p>All materials are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <phystech id="aspace_bddafa7b563a17c87e22f7daa3695f5e">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <controlaccess>
+    <subject source="lcsh">Indians of North America</subject>
+    <subject source="lcsh">Slavery</subject>
+    <genreform source="aat">Legal documents</genreform>
+    <subject source="aat">Deeds</subject>
+    <genreform source="aat">Correspondence</genreform>
+    <geogname source="lcsh">United States |x History |y Colonial period, ca. 1600-1775</geogname>
+    <genreform source="aat">Wills</genreform>
+    <geogname source="lcsh">Tennessee</geogname>
+    <geogname source="lcsh">London (England)</geogname>
+    <geogname source="lcsh">Paris (France)</geogname>
+    <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
+    <geogname source="lcsh">New Jersey</geogname>
+    <geogname source="lcsh">Pennsylvania</geogname>
+    <geogname source="lcsh">District of Columbia</geogname>
+    <geogname source="lcsh">South Carolina</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Connecticut</geogname>
+    <geogname source="lcsh">Massachusetts</geogname>
+    <geogname source="lcsh">Virginia</geogname>
+    <geogname source="lcsh">United States |x History |y 1783-1865</geogname>
+    <geogname source="lcsh">New York (State)</geogname>
+    <subject source="lcsh">Louisiana Purchase</subject>
+    <geogname source="lcsh">United States |x Politics and government</geogname>
+    <subject source="lcsh">Genealogy</subject>
+    <subject source="lcsh">Debt</subject>
+    <geogname source="lcsh">Mattituck (N.Y.) -- New York (State)</geogname>
+    <subject source="lcsh">Elections |z New York (State)</subject>
+    <subject source="lcsh">Census</subject>
+    <genreform source="aat">Bills of exchange</genreform>
+    <genreform source="aat">Articles of apprenticeship</genreform>
+    <genreform source="aat">Shipping records</genreform>
+    <geogname source="lcsh">Jamaica (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Dutchess County (N.Y.)</geogname>
+    <geogname source="lcsh">Oyster Bay (N.Y.)</geogname>
+    <genreform source="aat">Sermons</genreform>
+    <geogname source="lcsh">Suffolk County (N.Y.)</geogname>
+    <subject source="lcsh">Lake Champlain, Battle of, N.Y., 1814</subject>
+    <famname rules="dacs">Gerritsen family</famname>
+    <persname rules="dacs" source="naf">Jackson, Andrew</persname>
+    <persname rules="aacr">Uncass, Sachem of the Munheags</persname>
+    <persname source="naf">Philip, Sachem of the Wampanoags, -1676</persname>
+    <persname source="naf">Custis, John Parke, 1754-1781</persname>
+    <persname rules="dacs">Williams, Ann</persname>
+    <persname rules="dacs" source="naf">Jefferson, Thomas</persname>
+    <persname rules="aacr" source="naf">Franklin, Benjamin</persname>
+    <persname rules="dacs">Wright, Anthony</persname>
+    <persname rules="dacs">Crabb, Alice</persname>
+    <corpname source="naf">Presbyterian Church in the U.S.A.. Presbytery of Long Island</corpname>
+    <persname source="naf">Madison, James, 1751-1836</persname>
+    <corpname rules="dacs">Cherokee</corpname>
+    <corpname rules="dacs">Corchaug</corpname>
+    <corpname rules="dacs">Munheag</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_0c0f488220d7415bf6a1c501dcdc486a" level="item"><did><unittitle>Letter from Dr. Benjamin Rush to Dr. John Cowan</unittitle><unitdate datechar="creation" normal="1795/1795">1795</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7e331b324b84177dea3450efce604690" label="Mixed Materials" type="Box">A0100</container><container id="aspace_1e37a157502ed14308aa49993e03884c" parent="aspace_7e331b324b84177dea3450efce604690" type="Folder">1</container></did></c><c id="aspace_d2e3e0ac7dada2e55cedc5ab304bc105" level="file"><did><unittitle>Revolutionary War correspondence, poetry, and military documents</unittitle><unitdate datechar="creation" normal="1779/1782" type="bulk">1779-1782</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_d13807907c24118ba4fa06e4f1e2e097" label="Mixed Materials" type="Box">A0100</container><container id="aspace_e6fbd7cce89291d9ddd1f07e8ddce8f0" parent="aspace_d13807907c24118ba4fa06e4f1e2e097" type="Folder">2</container></did></c><c id="aspace_40531b9f91a49d755ac3e65a5652e444" level="item"><did><unittitle>Correspondence of General Charles Cotesworth Pinckney</unittitle><unitdate datechar="creation" normal="1818/1818">1818</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_aa5fce26423c2a8f653daf5ba0f3a600" label="Mixed Materials" type="Box">A0100</container><container id="aspace_d3179e6ff388affc7399d63a830467e6" parent="aspace_aa5fce26423c2a8f653daf5ba0f3a600" type="Folder">3</container></did></c><c id="aspace_f5b6a954eb8341d1421ef0220a215366" level="file"><did><unittitle>Long Island legal documents, correspondence, genealogy, and bills</unittitle><unitdate datechar="creation" normal="1636/1761" type="bulk">1636-1761</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_b3c95d4ad0e4e5ff487e407708a97acb" label="Mixed Materials" type="Box">A0100</container><container id="aspace_46aa7569834569b8118044289ccf8907" parent="aspace_b3c95d4ad0e4e5ff487e407708a97acb" type="Folder">4</container></did></c><c id="aspace_2eccf1c2897391c838867ddf72e18f2e" level="item"><did><unittitle>Bond of debt owed by Christopher Rodgers</unittitle><unitdate datechar="creation" normal="1765/1765">1765</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_9e36fd099d370b739620df3059a2733e" label="Mixed Materials" type="Box">A0100</container><container id="aspace_58a9d1ce3792f9c294d8115ddae484b6" parent="aspace_9e36fd099d370b739620df3059a2733e" type="Folder">5</container></did></c><c id="aspace_7fa9426a540d284d05d08cfcf8f07729" level="file"><did><unittitle>Memorandum of S. Hambleton and correspondence of Henry G. Morton</unittitle><unitdate datechar="creation" normal="1820/1854" type="inclusive">1820-1854</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_8ae9fb83245a60fce48d9cadd75e7b29" label="Mixed Materials" type="Box">A0100</container><container id="aspace_32122de5f6bc6fd67d2f8cd1c1c81e58" parent="aspace_8ae9fb83245a60fce48d9cadd75e7b29" type="Folder">6</container></did></c><c id="aspace_cc17b4a0ab960f3d5d781c2a3730fe8d" level="file"><did><unittitle>Correspondence concerning relations between the U.S. government and the Cherokee Nation</unittitle><unitdate datechar="creation" normal="1817/1835" type="inclusive">1817-1835</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7434fb405fb609ca4f6d0e3e1215c0d5" label="Mixed Materials" type="Box">A0100</container><container id="aspace_768813a7969076f3fb0e9435946a0f46" parent="aspace_7434fb405fb609ca4f6d0e3e1215c0d5" type="Folder">7</container></did></c><c id="aspace_c3bba4587850e5330e99ba58812a0f79" level="file"><did><unittitle>Connecticut legal documents, Native American relations, and correspondence</unittitle><unitdate datechar="creation" normal="1648/1859" type="inclusive">1648-1859</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_70a0a00eecb6acd206075aac1b0686eb" label="Mixed Materials" type="Box">A0100</container><container id="aspace_2d81d918d6eeeb11f54f1e6c23fe4046" parent="aspace_70a0a00eecb6acd206075aac1b0686eb" type="Folder">8</container></did></c><c id="aspace_845f9f6d270fbed99a8988914a01bc14" level="file"><did><unittitle>Suffolk County, LI, election records, resolution of the Continental Congress, and order for a census</unittitle><unitdate datechar="creation" normal="1776/1776" type="bulk">1776</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_9d916955239e1b09b013b17f80efe2fc" label="Mixed Materials" type="Box">A0100</container><container id="aspace_b92e5886309f5bdd7c4862021ecc948b" parent="aspace_9d916955239e1b09b013b17f80efe2fc" type="Folder">9</container></did></c><c id="aspace_e747333516cbc092a527f2d9a098ff4b" level="file"><did><unittitle>Land, military, and estate documents of miscellaneous colonial figures, including records of slave ownership</unittitle><unitdate datechar="creation" normal="1681/1797" type="inclusive">1681-1797</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_1e3f8c3f017e5bcde43c7ae27e98d571" label="Mixed Materials" type="Box">A0100</container><container id="aspace_6ea45ebd2e0fb55fb8eacbd3ea35f8b6" parent="aspace_1e3f8c3f017e5bcde43c7ae27e98d571" type="Folder">10</container></did></c><c id="aspace_22feb72c2256ed241a556f13e9dd964c" level="file"><did><unittitle>Massachusetts correspondence and donation receipts</unittitle><unitdate datechar="creation" normal="1669/1867" type="inclusive">1669-1867</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_47ffcd3f62d9cad63b1fa1f2663a0c92" label="Mixed Materials" type="Box">A0100</container><container id="aspace_cb0ad0d42676b5082bb3f9a8458af007" parent="aspace_47ffcd3f62d9cad63b1fa1f2663a0c92" type="Folder">11</container></did></c><c id="aspace_ce5c6a39f01789c54840bf9b3b8f4c5a" level="file"><did><unittitle>Ann Williams correspondence regarding debts</unittitle><unitdate datechar="creation" normal="1859/1861" type="inclusive">1859-1861</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_3b6a729eb7cbe4823acbc3b3cde71667" label="Mixed Materials" type="Box">A0100</container><container id="aspace_d20a35eeb28342db54b8053800463d4d" parent="aspace_3b6a729eb7cbe4823acbc3b3cde71667" type="Folder">12</container></did></c><c id="aspace_13a85db14f6d8ef8b9a24125a0cab285" level="file"><did><unittitle>Miscellaneous Colonial and early national correspondence</unittitle><unitdate datechar="creation" normal="1722/1885" type="bulk">1722-1885</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6fb817814e50a4327946dd74311929bc" label="Mixed Materials" type="Box">A0100</container><container id="aspace_d5218cd281a1cfd570afe6dedd951b30" parent="aspace_6fb817814e50a4327946dd74311929bc" type="Folder">13</container></did></c><c id="aspace_3379dcf1197ebca14c024d44e34223d1" level="file"><did><unittitle>New Jersey official correspondence and letters of indenture</unittitle><unitdate datechar="creation" normal="1769/1830" type="inclusive">1769-1830</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_191461fbffff90b82d83d1c43af555eb" label="Mixed Materials" type="Box">A0100</container><container id="aspace_8161d2dffddb333ed57e8af86c9a7da2" parent="aspace_191461fbffff90b82d83d1c43af555eb" type="Folder">14</container></did></c><c id="aspace_3c1e2d57f359a9b831f8e9aa87f8077e" level="file"><did><unittitle>New York census acts and correspondence</unittitle><unitdate datechar="creation" normal="1713/1715" type="inclusive">1713-1715</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_33745b5edf36bdee55a0552b120c68c2" label="Mixed Materials" type="Box">A0100</container><container id="aspace_8b157a2c9ae1bd71cdd4cb955db9eb08" parent="aspace_33745b5edf36bdee55a0552b120c68c2" type="Folder">15</container></did></c><c id="aspace_de95b7d83fd64a55fb4c47e29b47e704" level="file"><did><unittitle>Dutchess County colonial bills of sale and deeds, including records of slave ownership</unittitle><unitdate datechar="creation" normal="1751/1766" type="inclusive">1751-1766</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c62c4cbbc254718973f0b9533e64eb09" label="Mixed Materials" type="Box">A0100</container><container id="aspace_d629514fc76379d13c67846a6124e399" parent="aspace_c62c4cbbc254718973f0b9533e64eb09" type="Folder">16</container></did></c><c id="aspace_cd154ec94dca7729446ca9cb9e63547f" level="file"><did><unittitle>Long Island wills, Lyman Beecher correspondence, and Church documents</unittitle><unitdate datechar="creation" normal="1673/1861" type="bulk">1673-1861</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_0e79529a50660f3ef49be6c31edd8066" label="Mixed Materials" type="Box">A0100</container><container id="aspace_38a73a78620d2a5dc02a00720252b322" parent="aspace_0e79529a50660f3ef49be6c31edd8066" type="Folder">17</container></did></c><c id="aspace_c023735308b904ae1579759f4c4b00eb" level="file"><did><unittitle>Correspondence of Adolph Philipse and Philip Hicks, and records of the Port of New York</unittitle><unitdate datechar="creation" normal="1728/1788" type="inclusive">1728-1788</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_fab0a727073de6e483b880711112a6a3" label="Mixed Materials" type="Box">A0100</container><container id="aspace_61464dee2d516a64c60f815d90cd6165" parent="aspace_fab0a727073de6e483b880711112a6a3" type="Folder">18</container></did></c><c id="aspace_63fa7a775893b26b7f257b95266b358d" level="file"><did><unittitle>Jamaica, LI, land deeds</unittitle><unitdate datechar="creation" normal="1713/1786" type="inclusive">1713-1786</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_bc8770179b19754b56fb23fab0e2b6c2" label="Mixed Materials" type="Box">A0100</container><container id="aspace_4fa0aeb5ce663030f44894a2751eb46d" parent="aspace_bc8770179b19754b56fb23fab0e2b6c2" type="Folder">19</container></did></c><c id="aspace_a2f49f00ddd22c04774733ab35d6a801" level="item"><did><unittitle>Account of the Battle of Lake Champlain</unittitle><unitdate datechar="creation" normal="1814/1814">1814</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_44b74db62e5f0b531d551c6e7c9d1ce8" label="Mixed Materials" type="Box">A0100</container><container id="aspace_566694007e95bd858c4395246231ad89" parent="aspace_44b74db62e5f0b531d551c6e7c9d1ce8" type="Folder">20</container></did></c><c id="aspace_439c19d587bc5c739d7e955ed512883d" level="item"><did><unittitle>Letter from Jacobus Bleecker to his parents</unittitle><unitdate datechar="creation" normal="1745/1745">1745</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_bc47843b3522148a850999eb95dc8803" label="Mixed Materials" type="Box">A0100</container><container id="aspace_0993c5d086664c72b103b9736255cc2d" parent="aspace_bc47843b3522148a850999eb95dc8803" type="Folder">21</container></did></c></dsc>
+</archdesc>
+</ead>
