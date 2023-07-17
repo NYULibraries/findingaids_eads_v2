@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_183">mc_183</eadid><filedesc><titlestmt><titleproper>Guide to the Albert W. Ferris Papers <num>MC.183</num></titleproper><author>Celeste Brewer</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>2013</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 17:55:24 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2018</date><item>Updated by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Albert W. Ferris Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Ferris, Albert Warren</persname>
+    </origination>
+    <unitid>MC.183</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1865/1889" type="inclusive">1865-1889</unitdate>
+    <abstract id="aspace_75a525c0297ec72a02cd2c100687b029" label="Abstract">Albert W. Ferris was the grandson of New York University(NYU) Chancellor Isaac Ferris and an 1878 NYU alumnus.  The younger Ferris became a respected physician and psychiatrist in New York, as well as president of the NYU Alumni Association.  His notebooks provide a glimpse into the academic and social life of students at the University of the City of New York, as NYU was called during his time as a student.</abstract>
+    <langmaterial id="aspace_630c12d972854ba57a975b7c0241e386">Materials are in English.</langmaterial>
+  </did>
+  <bioghist id="aspace_dd61d5deb86b2f09978c17c00b24fa73">
+    <head>Biographical Note</head>
+<p>Albert Warren Ferris was born in Brooklyn in 1856, when Ferris' grandfather, Isaac Ferris, was Chancellor of the University of the City of New York (now New York University).  The younger Ferris entered NYU in 1874.  Elected to Phi Beta Kappa as a junior, Ferris also served as senior class president, editor of the <emph render="italic">University Quarterly</emph>, and senior regent in the Intercollegiate Literary Association.  He graduated as Greek salutatorian of the class of 1878.  Ferris was also a member of the Delta Upsilon fraternity as an undergraduate.
+Ferris earned a medical degree from Columbia University College of Physicians and Surgeons in 1882 and an M.A. from NYU in 1885. He was elected president of the NYU Alumni Association in 1905.  
+Ferris became a prominent physician in the developing field of psychiatry and served as president of the New York State Lunacy Commission from 1907 to 1911. He died in 1937.</p><p>
+Sources:</p><p>1. Ferris family file; Biographical files; New York University Archives, New York University Libraries.
+2. "Dr. A.W. Ferris, 80, Insanity Expert." New York Times 5 Oct. 1937: 25. ProQuest Historical Newspapers. Web. 14 Oct. 2013.
+3. Ferris, Albert W., M.D. "The State of New York Develops an American Spa." The Modern Hospital Dec. 1915: 397-99. Scholars Portal. Ontario Council of University Libraries. Web. 5 Oct. 2013.
+4."$1,000 for Scholarship." New York Times 4 June 1905: n. pag. The New York Times. Web. 5 Oct. 2013.</p>  </bioghist>
+  <scopecontent id="aspace_50746cde87a8ce1bcfab7f9e06127a0c">
+    <head>Scope and Content</head>
+<p>The Albert W. Ferris Papers consist of notebooks related to NYU fraternities during the late nineteenth century.  The collection chronicles Ferris' time as a student at NYU, in particular his involvement in Phi Beta Kappa, Delta Upsilon, and Psi Upsilon. Notebooks list fraternity member honors, senior class presidents, and faculty reports.</p>  </scopecontent>
+  <arrangement id="aspace_07b90903416a0566052d66f000409297">
+    <head>Arrangement</head>
+<p>The collection is arranged alphabetically by title.</p>  </arrangement>
+  <userestrict id="aspace_d1ca548ed7f6a06e63ea9015eef11905">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>  </userestrict>
+  <accessrestrict id="aspace_881a64cc6730c7b4a539cb9f9af7c102">
+    <head>Access Restrictions</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <prefercite id="aspace_4853cd446cbab7311006455faaa92692">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Albert W. Ferris Papers; MC 183; box number; folder number; New York University Archives</p>  </prefercite>
+  <relatedmaterial id="aspace_6b23e948ca992da29f66861823450ee5">
+    <head>Related Material at the New York University Archives</head>
+<p>See the Records of Phi Beta Kappa, Beta Chapter (New York University) RG 39.27.</p>  </relatedmaterial>
+  <acqinfo id="aspace_323427da1d45c2916111239d84a3dee6">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown.</p>  </acqinfo>
+  <processinfo id="aspace_68a08892a336194649b409976d0cee33">
+    <head>Processing Information</head>
+<p>Materials were placed in acid-free folders and boxes.</p>  </processinfo>
+  <controlaccess>
+    <corpname authfilenumber="(lccn)n82258372" source="naf">Delta Upsilon Fraternity</corpname>
+    <corpname rules="dacs" source="local">New York University. Alumni Association</corpname>
+    <corpname authfilenumber="(lccn)n86125329" rules="dacs" source="naf">University of the City of New York</corpname>
+    <corpname rules="aacr" source="local">Phi Beta Kappa. Beta of New York (New York University)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref10" level="file"><did><unittitle>Commencement and Junior Exhibition Appointments in the University of N.Y. since 1865</unittitle><unitdate datechar="creation" normal="1865/1889" type="inclusive">1865-1889</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_82bb8045c315ca397f4340471985e6c3" label="Mixed Materials [31142062741676]" type="Box">1</container><container id="aspace_444ac8534aca63422e5155092093f220" parent="aspace_82bb8045c315ca397f4340471985e6c3" type="Folder">1</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Physical Diagnosis</unittitle><unitdate datechar="creation" normal="1865/1880" type="inclusive">1865-1880</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_b977d4afe15857914d77b0487dc335a5" label="Mixed Materials [31142062741676]" type="Box">1</container><container id="aspace_8f860bdc981aadb7ad3f0108eb18bae6" parent="aspace_b977d4afe15857914d77b0487dc335a5" type="Folder">2</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Psi Upsilon brochure</unittitle><unitdate datechar="creation" normal="1882/1882">circa 1882</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_7a1403beac5f7fd12188e8a17adafab5" label="Mixed Materials [31142062741676]" type="Box">1</container><container id="aspace_4e0c7c0018ef73dc425c0904f9de83d5" parent="aspace_7a1403beac5f7fd12188e8a17adafab5" type="Folder">3</container></did></c></dsc>
+</archdesc>
+</ead>
