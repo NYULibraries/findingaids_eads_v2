@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="AE" mainagencycode="AE-NyNyUAD">ad_mc_0011</eadid><filedesc><titlestmt><titleproper type="filing">NA</titleproper><titleproper>Guide to "collection name"  <num>AD.MC.0011</num></titleproper><subtitle>NA</subtitle><author>Name(s) of all contributors </author><sponsor>NA</sponsor></titlestmt><editionstmt><p>NA</p></editionstmt><publicationstmt><publisher>Akkasah: Photography Archive (NYU Abu Dhabi)</publisher><address><addressline>New York University Abu Dhabi</addressline><addressline>Abu Dhabi P.O. Box 129188</addressline><addressline>akkasah@nyu.edu / www.akkasah.org</addressline><addressline>URL: <extptr xlink:href="https://akkasah.org/" xlink:show="new" xlink:title="https://akkasah.org/" xlink:type="simple"/></addressline></address></publicationstmt><seriesstmt><p>NA</p></seriesstmt><notestmt><note><p>NA</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 18:19:32 +0400</date>.</creation><langusage>All materials are described in both English and Arabic </langusage></profiledesc><revisiondesc><change><date>16/06/2022</date><item>new edits for the entries (name, date, summary of edits) </item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Akkasah: Photography Archive (NYU Abu Dhabi)</corpname>
+    </repository>
+    <unittitle>TEST_ created by Ibrahim Ali 15/05/2022&#13;
+title of the collection&#13;
+- This could be edited, in case more than 1 resource to be spawned under the same accession </unittitle>
+    <origination label="Creator">
+      <persname role="col" source="local">Surname1, First and middle name1</persname>
+    </origination>
+    <unitid>AD.MC.0011</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1000 Terabytes</extent>
+      <extent altrender="carrier">Describe the extend of the above mentioned type of extent &#13;
+Enter an enumeration of the number and type of containers that house the collection. Examples: in 10 record cartons, 3 manuscript boxes, and 1 oversize flat box; in 266 audio reels.&#13;
+</extent>
+      <physfacet>Do not use </physfacet>
+      <dimensions>Do not use </dimensions>
+    </physdesc>
+    <unitdate datechar="creation" normal="1950/1970" type="inclusive">only the dates, &#13;
+1950-1970&#13;
+or &#13;
+ca. 1950-1973</unitdate>
+    <langmaterial>
+      <language langcode="ara" scriptcode="Arab">Arabic</language>
+,       <language langcode="fre" scriptcode="Latn">French</language>
+.    </langmaterial>
+  </did>
+  <dsc><c id="aspace_be2b6848e342d388f7ef849d1f4cca02" level="series"><did><unittitle>Series_1</unittitle><unitid>Ref ID no. for the series to be developed in correlation to the digital images file naming </unitid><unitdate datechar="creation" normal="1950/1973" type="inclusive">1950-1973</unitdate></did><c id="aspace_ce399696072450d050f61abf58afad85" level="file"><did><unittitle>a portrait </unittitle><unitid>Ref00001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Photographic Prints</extent></physdesc><unitdate datechar="creation">1973</unitdate><physdesc><dimensions id="aspace_58b80847dc7483ea4dbaeaf241654da5">10x15cm</dimensions></physdesc><langmaterial><language langcode="ara" scriptcode="Arab">Arabic</language>.</langmaterial><container id="aspace_caeb43761c3d020ef281fefbe3d479d4" label="Graphic Materials" type="E-records">ADMC_0011</container></did></c><c id="aspace_9cee7c31f770dfc1e2afe7ebae4de9cc" level="file"><did><unittitle>a landscape</unittitle><unitid>Ref00002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Photographic Prints</extent></physdesc><unitdate datechar="creation">1975</unitdate><physdesc><dimensions id="aspace_b6c17c30e2e1db9a9b12828fb4d63c27">10x15cm</dimensions></physdesc><langmaterial><language langcode="ara" scriptcode="Arab">Arabic</language>.</langmaterial><container id="aspace_8779887ede81e2fd54aa37c2fd88d24e" label="Graphic Materials" type="E-records">ADMC_0011</container></did></c><c id="aspace_18edaaa7e33e6cc31c451bcab6147c43" level="file"><did><unitid>Ref00003</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Photographic Prints</extent></physdesc><unitdate datechar="creation">1975</unitdate><physdesc><dimensions id="aspace_878333757a784aeabc6e061aa94a53d9">10x15cm</dimensions></physdesc><langmaterial><language langcode="ara" scriptcode="Arab">Arabic</language>.</langmaterial><container id="aspace_d1d5dd399377f62441eedc0ca4810786" label="Graphic Materials" type="E-records">ADMC_0011</container></did></c></c></dsc>
+</archdesc>
+</ead>
