@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_61">mc_61</eadid><filedesc><titlestmt><titleproper>Guide to the Charles Adler, Jr. Papers <num>MC.61</num></titleproper><author>Claire Wolford.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:03:21 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2019</date><item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Charles Adler, Jr. Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Adler, Charles, Jr., 1899-1980</persname>
+    </origination>
+    <unitid>MC.61</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.05 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1936/1952" type="inclusive">1936-1952</unitdate>
+    <unitdate datechar="creation" normal="1946/1951" type="bulk">1946-1951</unitdate>
+    <abstract id="aspace_c9e78131ffb8cf5eb37289e91d6f4711">This collection contains the correspondence and patents pertaining to a number of Charles Adler, Jr.'s inventions, including aircraft lights, horns, and proximity lights.</abstract>
+    <langmaterial id="aspace_ceec68de40296a595c77b8b14702ade7">Materials primarily in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_3fd4b467a5db1f2e121cc57f9d813bfc">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_64eaa999d3908f530339c2f7c7433146">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown.</p>  </acqinfo>
+  <arrangement id="aspace_5ab26120631041068d872064e2056080">
+    <head>Arrangement</head>
+<p>Materials are arranged by subject.</p>  </arrangement>
+  <bioghist id="aspace_c3834555540e31aeacd3234502704e77">
+    <head>Biographical Note</head>
+<p>Charles Adler, Jr. was an inventor and engineer born in 1899 in Baltimore, Maryland. He attended John Hopkins University and briefly joined the army. Later he joined the Maryland and Pennsylvania Railroad and there developed safety devices. In 1928 he designed the first audible traffic horn. He was granted over 60 patents in his lifetime, 10 of which he donated to the government. He was a member of the Maryland State Aviation Commission and the Maryland Traffic Safety Commission.</p>  </bioghist>
+  <prefercite id="aspace_aebb618580c9f38220a76346063d4f34">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; The Charles Adler, Jr., Papers; MC 61; box number; folder number; New York University Archives; New York University.</p>  </prefercite>
+  <processinfo id="aspace_0c12cc7e129bb4720f96dedc2ac3acba">
+    <head>Processing Information</head>
+<p>Any processing decisions made prior to January 2019 were not recorded.</p>  </processinfo>
+  <scopecontent id="aspace_ee512e7bf59a37629c413106f08d324d">
+    <head>Scope and Contents</head>
+<p>This collection is made up of three folders containing the papers related to patents of Charles Adler, Jr., ranging from 1936 to 1952. There are letters and sketches, as well as patents for aircraft lights, proximity lights, and safety horns.</p>  </scopecontent>
+  <userestrict id="aspace_15eb7aa2e62a47e106dd2dc46989ecfa">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Charles Adler, Jr. are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact university-archives@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Patents</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <corpname authfilenumber="(lccn)n79071257" source="naf">United States. Department of the Army</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="file"><did><unittitle>Correspondence and Patents for Aircraft Lights</unittitle><unitdate datechar="creation" normal="1936/1952" type="inclusive">1936-1952</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_8d9e3c83f2ca001c93728184be48927d" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container id="aspace_4239177c70e5c2a1567078279d3c4b93" parent="aspace_8d9e3c83f2ca001c93728184be48927d" type="Folder">1</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Patent for Aircraft Horn</unittitle><unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_c0045569302fb7d6a694b991f27dd413" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container id="aspace_ab7dca341b0ae8cbf56a0f8b9f08c4cb" parent="aspace_c0045569302fb7d6a694b991f27dd413" type="Folder">2</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Patent for Aircraft Proximity Lights </unittitle><unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_ce604f8daee6e895e54d55818226204b" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container id="aspace_fbfbaf183e410ce233237b8d146151af" parent="aspace_ce604f8daee6e895e54d55818226204b" type="Folder">3</container></did></c></dsc>
+</archdesc>
+</ead>
