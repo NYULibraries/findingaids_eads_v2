@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_286_oliver_starr_st_john/">arms_1973_286_oliver_starr_st_john</eadid><filedesc><titlestmt><titleproper>Guide to the Oliver Starr St. John lecture notes on the Battle of Long Island <num>1973.286</num></titleproper><author>Nicholas Pavlik and Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:50:43 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Oliver Starr St. John lecture notes on the Battle of Long Island</unittitle>
+    <origination label="Creator">
+      <persname source="local">St. John, Oliver S.</persname>
+    </origination>
+    <unitid>1973.286</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1864/1864" type="inclusive">1864</unitdate>
+    <abstract id="aspace_30d161ad2164c79c35dc9ac471475d7c">One bound volume containing handwritten notes on a lecture given by Oliver Starr St. John on the Battle of Long Island at the Long Island Historical Society (now the Brooklyn Historical Society) in 1864.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_8cc518c8a6bafc4db2400193ab12bccf" label="Text" type="Box">A0014</container>
+  </did>
+  <bioghist id="aspace_eb308672397cd0713c5b4d4593c2575a">
+    <head>Historical Note</head>
+<p>The Battle of Long Island (also known as the Battle of Brooklyn) occurred on August 27, 1776 in what is now the borough of Brooklyn, N.Y. The battle was the largest of the American Revolutionary War. It resulted in a victory for the British army and the retreat of the Continental Army through Manhattan and New Jersey into Pennsylvania.</p>  </bioghist>
+  <bioghist id="aspace_ea364807d9dc92a592e1503a23ebffbf">
+    <head>Biographical Note</head>
+<p>Oliver Starr St. John (1814-1887) was a Presbyterian minister who resided in Brooklyn between 1865 and 1887, during which time he engaged in literary and missionary work.  After 1874, he was the Assistant Editor of the <emph render="italic">New York Witness</emph>.</p>  </bioghist>
+  <prefercite id="aspace_3c413207f4f04c03488e7cbd010e7be5">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Oliver Starr St. John lecture notes on the Battle of Long Island, 1973.286, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_c72a98bcc9763acef06680ce42d7a788">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of acquisition for this collection are unknown.  The collection was formally accessioned in 1973.</p>  </acqinfo>
+  <accessrestrict id="aspace_c7c0a05fd21ea80ee4cc46fb060a0377">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_82200b9d9655a9994a65eefb7e262b0a">
+    <head>Scope and Contents</head>
+<p>One bound volume containing handwritten notes on a lecture given by Oliver Starr St. John on the Battle of Long Island at the Long Island Historical Society (now the Brooklyn Historical Society) in 1864.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Lectures and lecturing |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+    <genreform source="aat">Lecture notes</genreform>
+    <subject source="lcsh">Long Island, Battle of, New York, N.Y., 1776</subject>
+    <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
