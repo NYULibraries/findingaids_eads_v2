@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_134_first_baptist_williamsburg.html /">arc_134_first_baptist_williamsburg</eadid><filedesc><titlestmt><titleproper>Guide to the First Baptist Church of Williamsburg records <num>ARC.134</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 2, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:25:35 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>First Baptist Church of Williamsburg records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">First Baptist Church of Williamsburg (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.134</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">in three and a half manuscript boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1839/1939" type="inclusive">1839-1939</unitdate>
+    <abstract id="aspace_b52ac3e7edc445e86c0d8543f538f3b1" label="Abstract">The First Baptist Church of Williamsburg records date from 1839 to 1939 and measure 1.5 linear feet. The majority of the collection consists of handwritten and typescript minutes of church meetings, covering the years of the church's existence. Membership rolls provide a list of church members with admission and dismissal dates, and prior and subsequent church memberships. Membership rolls are indexed and also have an accompanying volume listing marriages in the church, linking female members' maiden and married names. Also included are a catalog of the Sunday School library, a 50th anniversary booklet, and three photographs which show the interior and exterior of the church.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_d1f6e68971ca3a9f38da2c9fb9f6efcb" label="Text" type="Box">ARC.134 Box 4 of 4</container>
+    <container id="aspace_3fb1a905fea765229685e2907ff394d1" label="Text" type="Box">ARC.134 Box 3 of 4</container>
+    <container id="aspace_5787403bc51cc5dc033c1b3b5a0d6b3e" label="Text" type="Box">ARC.134 Box 2 of 4</container>
+    <container id="aspace_5b49a9afaeecd9d06bb7144d10c9d2d1" label="Text" type="Box">ARC.134 Box 1 of 4</container>
+  </did>
+  <processinfo id="aspace_c719f0a712018c27eb485ccaf47f5356">
+    <head>Processing Information</head>
+<p>This collection combines two accessions: 1985.062 and V1990.034.</p><p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_90b10fb3aa1bc57b2bfddf56df1ba177">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); First Baptist Church of Williamsburg records, ARC.134, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_6553d9f7d756c9f4cd3763d03039113e">
+    <head>Immediate Source of Acquisition</head>
+<p>Accession V1990.034 was a gift of Betty Nelson Cotton, 1990. Source and date of acquisition for accession 1985.062 are unknown.</p>  </acqinfo>
+  <userestrict id="aspace_98211409210d587635277cbccecb92be">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for photographs have not been evaluated. Please see library staff for more information.</p>  </userestrict>
+  <accessrestrict id="aspace_3ad0d911d6c354e5f35481de6dd49e9a">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_edbb340dbe7cacc08dbe11bda3d30eb9">
+    <head>Historical note</head>
+<p>The First Baptist Church of Williamsburg was founded in 1839 as Bethel Baptist Church, a small congregation that met at a schoolhouse in the then-village of Williamsburgh, N.Y. The church was renamed First Baptist Church of Williamsburg in 1846, and moved to larger locations along Driggs Avenue. A new chapel was erected in 1885, located at Lee Avenue and Keap Street in the Williamsburg neighborhood of Brooklyn. In 1910, the church absorbed members of the Central Baptist Church of Williamsburg who had originally split off from First Baptist 50 years earlier. Members of the First Free Baptist Church of Brooklyn also migrated to the church in 1915. The First Baptist Church of Williamsburg closed in 1939, at which time most active members joined Emmanuel Baptist Church in the Clinton Hill neighborhood of Brooklyn.</p>  </bioghist>
+  <otherfindaid id="aspace_9f859cd66bf89ae3e769a5ddb49c268e">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <scopecontent id="aspace_b7af298e246ff715f3ff947c246cd43c">
+    <head>Scope and Contents</head>
+<p>The First Baptist Church of Williamsburg records date from 1839 to 1939 and measure 1.5 linear feet. The majority of the collection consists of handwritten and typescript minutes of church meetings, covering the years of the church's existence. Membership rolls provide a list of church members with admission and dismissal dates, and prior and subsequent church memberships. Membership rolls are indexed and also have an accompanying volume listing marriages in the church, linking female members' maiden and married names. Also included are a catalog of the Sunday School library, a 50th anniversary booklet, and three photographs which show the interior and exterior of the church.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
+    <subject source="lcsh">Church membership |z New York (State) |z New York</subject>
+    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Minutes</genreform>
+    <genreform source="aat">Membership lists</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Genealogy</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <subject source="lcsh">Baptists |z New York (State) |z New York</subject>
+    <corpname rules="dacs" source="local">Bethel Independent Baptist Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname source="local">First Free Baptist Church (Williamsburg, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">First Baptist Church of Williamsburg (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
