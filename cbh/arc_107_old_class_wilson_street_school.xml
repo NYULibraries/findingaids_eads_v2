@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_107_old_class_wilson_street_school/">arc_107_old_class_wilson_street_school</eadid><filedesc><titlestmt><titleproper>Guide to the Old First Class of Wilson Street School records <num>ARC.107</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 17, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:24 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Old First Class of Wilson Street School records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Old First Class of Wilson Street School (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.107</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">in six manuscript boxes and one short-top box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1873/1942" type="inclusive">1873-1942</unitdate>
+    <abstract id="aspace_dfe62da50b4f387b96857071a770b606" label="Abstract">This collection, dated 1873 to 1942 and housed in six manuscript boxes and one short-top box, contains the business records of the Old First Class. Materials in the collection document the organization's membership, officers, annual meetings, and activities. The bulk of the collection consists of correspondence, including letters, postcards, telegrams, and memos, from 1896 to 1923; treasurers' files dated 1873 to 1916; and minute books from 1873 to 1931.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_aab1814c28dde4e1e928531f045f7430" label="Text" type="Box">ARC.107 Box 5</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c1d8bd37db9803382afae956c3e2e759" label="Text" type="Box">ARC.107 Box 4</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d5e1598edcac2df2185d98732301d9aa" label="Text" type="Box">ARC.107 Box 3</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_fee71d9e1fca29c0650fe65e71005d36" label="Text" type="Box">ARC.107 Box 2</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_a218bae67f170f9f133caddc066a3732" label="Text" type="Box">ARC.107 Box 1</container>
+    <container altrender="Shoe Box 8" id="aspace_4541117735a6368efd43a4176c035e18" label="Graphic Materials" type="Box">Printing plates</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_5a548f2c0c3d1d86805ccb89ed45fe23" label="Text" type="Box">ARC.107 Box 6</container>
+  </did>
+  <prefercite id="aspace_b862bd2dcafc22808a08fa8d4aa8ae4e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Old First Class of Wilson Street School records, ARC.107, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_133b09982518b67e53dbd8448b9630e6">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of John Anderson, Jr. and R.N. Field, 1936.</p>  </acqinfo>
+  <accessrestrict id="aspace_34f1e1023022295a7eeba5f6161c4b77">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_33c07e8eaa793e342a9779b2a26dc7ba">
+    <head>Historical note</head>
+<p>The Old First Class was an the alumni association for graduates of the Wilson Street School, also known as P.S. 16 and the Leonard Dunkly School, located at 157 Wilson Street in the Williamsburg neighborhood of Brooklyn, N.Y. The organization was founded in 1873 upon the retirement of a popular teacher, Miss Emma J. Dunkly. Founding members of the Old First Class were primarily from the 1868 graduating class, but membership was open to all graduates of P.S. 16 prior to 1870. One notable member of the Old First Class, among many Brooklyn businessmen and civil servants, was Frederick W. Wurster, the last Mayor of the City of Brooklyn from 1896 to 1898. The Old First Class held yearly banquents, serving as class reunions, and advocated for the continued maintenance and growth of P.S. 16. Membership  dwindled as members aged; by the time of the 50th anniversary in 1923, only 22 of its 63 members were still living.</p><p>The Old First Class was an alumni association for graduates of the Wilson Street School, also known as P.S. 16 and the Leonard Dunkly School, located at 157 Wilson Street in the Williamsburg neighborhood of Brooklyn, N.Y. The organization was founded in 1873 upon the retirement of a popular teacher, Miss Emma J. Dunkly. Founding members of the Old First Class were primarily from the 1868 graduating class, but membership was open to all pre-1870 graduates of P.S. 16. One notable member of the Old First Class, among many Brooklyn businessmen and civil servants, was Frederick W. Wurster, the last Mayor of the City of Brooklyn from 1896 to 1898. The Old First Class held yearly banquets, serving as class reunions, and advocated for the continued maintenance and growth of P.S. 16. Membership dwindled as members aged; by the time of the 50th anniversary in 1923, only 22 of its 63 members were still living.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources</head>
+      <item>Anderson, John E. <emph render="italic">The Record of a Half-Century, 1873-1923: The Old First Class of Wilson Street School, P.S. No. 16, Brooklyn, N.Y.</emph> New York: Privately printed, 1924.</item>
+    </list>
+  </bioghist>
+  <processinfo id="aspace_a8fcbc846da3cd973894b84f2fd3cf2e">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p><p>This collection combines three accessions: 1977.085, 1977.087, and 1977.088.</p>  </processinfo>
+  <scopecontent id="aspace_ed7889d4c170cc65446d1326e42be5bb">
+    <head>Scope and Contents</head>
+<p>This collection, dated 1873 to 1942 and housed in six manuscript boxes and one short-top box, contains the business records of the Old First Class. Materials in the collection document the organization's membership, officers, annual meetings, and activities. The bulk of the collection consists of correspondence, including letters, postcards, telegrams, and memos, from 1896 to 1923; treasurers' files dated 1873 to 1916; and minute books from 1873 to 1931. The balance of the manuscript material includes news clippings, committee reports, member lists, and the organization's various rules and regulations. Visual material includes cabinet cards, group portraits, printing plates, and photographs depicting members of the Old First Class, Principal Leonard Dunkly, and the Wilson Street School. These visual items were likely used as illustrations in Old First Class publications. Items relating specifically to the Old First Class annual banquets include printed programs, receipts, speeches, class poems and songs, printing plates, and printed notices and announcements.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Clubs |z New York (State) |z New York</subject>
+    <genreform source="aat">Printing plates</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+    <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Alumnae and alumni</subject>
+    <subject source="lcsh">Public schools |z New York (State) |z New York</subject>
+    <genreform source="aat">Cabinet photographs</genreform>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <corpname rules="dacs" source="local">Old First Class of Wilson Street School (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Wilson Street School (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
