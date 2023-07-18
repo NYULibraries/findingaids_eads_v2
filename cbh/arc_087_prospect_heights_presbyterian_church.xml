@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_087_prospect_heights_presbyterian_church/">arc_087_prospect_heights_presbyterian_church</eadid><filedesc><titlestmt><titleproper>Guide to the Prospect Heights Presbyterian Church records <num>ARC.087</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 25, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:46:15 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Prospect Heights Presbyterian Church records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Prospect Heights Presbyterian Church (New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.087</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      <extent altrender="carrier">in nine manuscript boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1890/1978" type="inclusive">1890-1978</unitdate>
+    <abstract id="aspace_5e0e82c108c5ef873765aaabe0c102a8" label="Abstract">This collection contains records of Prospect Heights Presbyterian Church and its various boards and organizations from 1890 to 1978. The records chronicle the church's membership, regular sermons, and activities of the church's groups. Document types include membership rolls, Sunday school rolls, financial ledgers, reports, programs, and minutes of subdivisions of Prospect Heights Presbyterian Church.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Half Manuscript Box Legal" id="aspace_7d086f8a4194bb8ae142391d4c0dbcdd" label="Text" type="Box">9</container>
+    <container altrender="Shoe Box 3" id="aspace_d741220b7febfee267098478a8e20adc" label="Graphic Materials" type="Box">Cabinet Cards 1</container>
+    <container id="aspace_04473cfa51953ae57a889700a4ce6532" parent="aspace_d741220b7febfee267098478a8e20adc" type="item">V1987.50.11</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6296a8412122aade46ba9eb4a7bb64d9" label="Text" type="Box">1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_73ff760a0049e20ce4ba8c808d0b1c3d" label="Text" type="Box">7</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_013c4d0cd9e31dbbc85013cb709d8406" label="Text" type="Box">6</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_9815efb197b6c5579b02569c09e0f1c7" label="Text" type="Box">8</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c8fe31fa67820cadd714d025d75b0958" label="Text" type="Box">3</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_77004399388da65c4dcd0e1a4fc8ebed" label="Text" type="Box">2</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_cc257fb0c0e1be58a82a2751bfa473d6" label="Text" type="Box">5</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_b6283b77729584cd51c034a10f51901c" label="Text" type="Box">4</container>
+  </did>
+  <scopecontent id="aspace_0ce06696b93cc591f9ddcc7980c07942">
+    <head>Scope and Contents</head>
+<p>This collection contains records of Prospect Heights Presbyterian Church and its various boards and organizations from 1890 to 1978. The records chronicle the church's membership, regular sermons, and activities of the church's groups. Document types include membership rolls, Sunday school rolls, financial ledgers, reports, programs, and minutes of subdivisions of Prospect Heights Presbyterian Church.</p><p>The collection is organized into nine series: <emph render="bold">Financial Records</emph>, <emph render="bold">Membership Records</emph>, <emph render="bold">Sunday School Records</emph>, <emph render="bold">Minutes</emph>, <emph render="bold">Reports</emph>, <emph render="bold">Correspondence</emph>, <emph render="bold">Baptism and Marriage Documents</emph>, <emph render="bold">Secretarial Records</emph>, and <emph render="bold">Photographs</emph>.</p>  </scopecontent>
+  <bioghist id="aspace_845336ffad2f53363e6e0088ff6b2f1c">
+    <head>Historical note</head>
+<p>Prospect Heights Presbyterian Church was founded in 1888 as a merger of the Memorial and First Presbyterian Church on Seventh Avenue and the Twelfth Street Reformed Church, both of Brooklyn, N.Y. The chapel was constructed at Eighth Avenue and Tenth Street, located in the Park Slope neighborhood of Brooklyn, and dedicated on April 7, 1889. The church was home to an active congregation, with social groups such as the Ladies' Aid Society and Young People's Society of Christian Endeavor, and formed a part of the Presbytery of New York City.</p><p>With the rise of the Catholic population in Park Slope, the congregation of Prospect Heights Presbyterian Church began to shrink, resulting in financial difficulties for the church during the mid-20th century. The congregation disbanded in 1980s, and the the Church of the Gethsemane  took possession of the chapel in 1989.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources</head>
+      <item>"Beggars and Preachers." <emph render="italic">Brooklyn Daily Eagle</emph>, April 7, 1889, 13.</item>
+      <item>"City Pastors and People." <emph render="italic">Brooklyn Daily Eagle</emph>, June 17, 1888, 11.</item>
+      <item>"Local Church Consolidation." <emph render="italic">Brooklyn Daily Eagle</emph>, May 4, 1888, 4.</item>
+      <item>"Our History," The Church of Gethsemane, accessed September 2, 2010, http://www.thechurchofgethsemane.org.</item>
+    </list>
+  </bioghist>
+  <accessrestrict id="aspace_4109b0f0ca0bb809120c2a31575924a7">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_c7e8c37bfd12bf1fda5f3423b50fb4b4">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Bob Levine, 1986.</p>  </acqinfo>
+  <userestrict id="aspace_04b6541ec4fad10a8e71c5a6228733b8">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for photographs have not been evaluated. Please consult library staff for more information.</p>  </userestrict>
+  <otherfindaid id="aspace_e7b60456b098a26245f092b269475c8c">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <prefercite id="aspace_57cca33142e8aae30d1526e411e92463">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Prospect Heights Presbyterian Church records, ARC.087, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_13050981ce0c29a3832f120958aebbf6">
+    <head>Processing Information</head>
+<p>Fully processed to the folder level; described to the series level.</p><p>This collection combines two accessions: 1986.045 and V1997.056.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Church records and registers |z New York (State) |z New York</subject>
+    <subject source="lcsh">City churches |z New York (State) |z New York</subject>
+    <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
+    <subject source="lcsh">Church finance |z New York (State) |z New York</subject>
+    <genreform source="aat">Cabinet photographs</genreform>
+    <genreform source="aat">Cartes-de-visite (card photographs)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Publications</genreform>
+    <genreform source="aat">Minutes</genreform>
+    <genreform source="aat">Reports</genreform>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <corpname rules="aacr" source="naf">Presbyterian Church (U.S.A.). Presbytery of New York City</corpname>
+    <corpname rules="aacr" source="naf">Prospect Heights Presbyterian Church (New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2_arr" level="series"><did><unittitle>Series 1: Financial Records</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent><extent altrender="carrier">in three manuscript boxes.</extent></physdesc><unitdate datechar="creation" normal="1921/1969" type="inclusive">1921-1969</unitdate></did><scopecontent id="aspace_21297eadae50c9c5a7330d1673b1bfb8"><head>Scope and Contents</head><p><emph render="bold">Financial Documents</emph> contains ledgers and account books of receipts and disbursements of the benevolent fund, the deacon's fund, the Ladies' Aid Society, and the mortgage fund of the church. The treasurer's journal and pledge payments from congregants are also kept in this series.</p></scopecontent></c><c id="aspace_ref3_oi8" level="series"><did><unittitle>Series 2: Membership Records</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.6 Linear Feet</extent><extent altrender="carrier">in two manuscript boxes</extent></physdesc><unitdate datechar="creation" normal="1890/1972" type="inclusive">1890-1972</unitdate></did><scopecontent id="aspace_c8c9a31ada161556678101def5560cd4"><head>Scope and Contents</head><p><emph render="bold">Membership Records</emph> includes church directories, pastors' address books, and certificates of reception and dismission. Documents in this series identify members, their addresses, dates of membership of the church, and their church memberships preceding and following Prospect Heights Presbyterian Church.</p></scopecontent></c><c id="aspace_ref4_lav" level="series"><did><unittitle>Series 3: Sunday School Records</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.4 Linear Feet</extent><extent altrender="carrier">in one manuscript box.</extent></physdesc><unitdate datechar="creation" normal="1905/1965" type="inclusive">1905-1965</unitdate></did><scopecontent id="aspace_154db3d80d0084d83644452da6983619"><head>Scope and Contents</head><p><emph render="bold">Sunday School Records</emph> includes detailed roll books, listing student names and attendance dates, for Sunday School classes, and exam questions for confirmation classes.</p></scopecontent></c><c id="aspace_ref5_pzw" level="series"><did><unittitle>Series 4: Minutes</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.6 Linear Feet</extent><extent altrender="carrier">in two manuscript boxes.</extent></physdesc><unitdate datechar="creation" normal="1891/1971" type="inclusive">1891-1971</unitdate></did><scopecontent id="aspace_dc275ae3944c7c3d19fbb6b499120aca"><head>Scope and Contents</head><p><emph render="bold">Minutes</emph> contains minutes of the Sunday School, Board of Deacons, Young People's Society of Christian Endeavor, Pulpit Committee, Young Women's Club, and Men's Club. Material in this series shows regular decisions about activities in the church and the array of organizations that were performing outreach into the church community.</p></scopecontent></c><c id="aspace_ref6_auc" level="series"><did><unittitle>Series 5: Reports</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">in one manuscript box.</extent></physdesc><unitdate datechar="creation" normal="1907/1968" type="inclusive">1907, 1932-1968</unitdate></did><scopecontent id="aspace_4348ddf7d5350a8182a6a0f00f9cf0d2"><head>Scope and Contents</head><p><emph render="bold">Reports</emph> contains annual reports of Prospect Heights Presbyterian Church, as well as the annual reports of its treasurer. These reports summarize membership information, financial data, and outreach activities for the year.</p></scopecontent></c><c id="aspace_ref7_z75" level="series"><did><unittitle>Series 6: Correspondence</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">in one manuscript box.</extent></physdesc><unitdate datechar="creation" normal="1908/1969" type="inclusive">1908-1969</unitdate></did><scopecontent id="aspace_2b3c1b31e7fef068eb4fc6b95e6111d8"><head>Scope and Contents</head><p><emph render="bold">Correspondence</emph> includes letters regarding the transfer of congregants to and from Prospect Heights Presbyterian Church, and letters to and from members of the Board of Deacons regarding church matters.</p></scopecontent></c><c id="aspace_ref8_ayo" level="series"><did><unittitle>Series 7: Baptism and Marriage Documents</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.4 Linear Feet</extent><extent altrender="carrier">in two manuscript boxes.</extent></physdesc><unitdate datechar="creation" normal="1908/1965" type="inclusive">1908-1965</unitdate></did><scopecontent id="aspace_37fb9ee860005d192d32ebb18afc3c4b"><head>Scope and Contents</head><p><emph render="bold">Baptism and Marriage Documents</emph> contains stubs from certificates presented to individuals baptized or married at the church. These stubs contain names, addresses, dates of baptism or marriage, birthdates, and parents' names.</p></scopecontent></c><c id="aspace_ref9_uod" level="series"><did><unittitle>Series 8: Secretarial Records</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">in one manuscript box.</extent></physdesc><unitdate datechar="creation" normal="1906/1978" type="inclusive">1906-1978</unitdate></did><scopecontent id="aspace_dbf6d43e9543a28d49d25c0f7e4db5a2"><head>Scope and Contents</head><p><emph render="bold">Secretarial Records</emph> includes church publications, programs, news clippings, and manuscript notes on the church and its history. Records of the Young People's Society of Christian Endeavor, the Lookout Committee, and the Clerk of Sessions are contained in this series. Also in this series is a volume of Rev. MacCall's quotations, presumably used for sermons. </p><p>Publications include <emph render="italic">Prospect Heights Bulletin</emph> and <emph render="italic">Prospect News</emph>. Programs in the series document weekly church services and social gatherings.</p></scopecontent></c><c id="aspace_ref10_eyp" level="series"><did><unittitle>Series 9: Photographs</unittitle><unitid>V1987.050</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">12 items</extent><extent altrender="carrier">in one folder and one cabinet card sleeve.</extent></physdesc><unitdate datechar="creation" normal="1875/1969" type="inclusive">circa late 19th century-1960s</unitdate></did><scopecontent id="aspace_377c0e6777f34431267cfed13bbe8315"><head>Scope and Contents</head><p><emph render="bold">Photographs</emph> consists of black-and-white prints, negatives, cabinet cards, and cartes-de-visite. Prints and negatives depict the church exterior, church members, and activities from the 1960s, as well as one unidentified rector. Cartes-de-visite and cabinet cards in the series show members of well-known Brooklyn families, such as Carrie Cortelyou and Henry Cortelyou.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
