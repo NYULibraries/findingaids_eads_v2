@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_303_fine_art/">arc_303_fine_art</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Historical Society collection of fine art reproductions <num>ARC.303</num></titleproper><author>Anna Schwartz</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:39:00 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn Historical Society collection of fine art reproductions</unittitle>
+    <origination label="Creator">
+      <persname role="art" source="local">Tom, Keough</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="art" rules="dacs" source="naf">Guy, Francis</persname>
+    </origination>
+    <unitid>ARC.303</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">11 items</extent>
+      <extent altrender="carrier">in one oversize folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1800/2016" type="inclusive">1800-2016</unitdate>
+    <abstract id="aspace_7bbb27930d1859397d7ffbac60f703bb">Required</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_078aa0a39c2d8cdcd5ea6430f5501130" label="Graphic Materials" type="Folder">Flat File</container>
+    <container id="aspace_449054c456524bfd76dd57276b929f83" parent="aspace_078aa0a39c2d8cdcd5ea6430f5501130" type="Drawer">5</container>
+  </did>
+  <bioghist id="aspace_4c09b258a254a9b525c3132cf93f102f">
+    <head>Historical note</head>
+<p>Not Required</p>  </bioghist>
+  <accessrestrict id="aspace_d5d8bb0ad11ce0388ce00350e27d01cb">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <relatedmaterial id="aspace_aa282784c407ddaff96dfd5de35232ea">
+    <head>Related Materials</head>
+<p>Not required</p>  </relatedmaterial>
+  <scopecontent id="aspace_8733ed51754ab02dc9a844bddde9e2e7">
+    <head>Scope and Contents</head>
+<p>Not required</p><p>Dates reflect the dates of the original paintings not the date of reproduction. </p>  </scopecontent>
+  <prefercite id="aspace_521a0afc529497025623c6720aaf57f4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn Historical Society collection of fine art reproductions, ARC.303, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_513dc1b60ac802e7ca6f6f243b61c489">
+    <head>Processing Information</head>
+<p>Processed to the item-level.</p>  </processinfo>
+  <acqinfo id="aspace_e2ec99ab3b7554c5640715fdcfdb3add">
+    <head>Immediate Source of Acquisition</head>
+<p>Required</p>  </acqinfo>
+  <userestrict id="aspace_1f3db3c4d1c8ea70dc96f7fc601dc27a">
+    <head>Conditions Governing Use</head>
+<p>The bulk of the collection remains protected under copyright. Please consult library staff for more information.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Art, American |y 19th century</subject>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.) |v Pictorial works</geogname>
+    <subject source="lcsh">Landscapes |z New York (State) |z Kings County</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref15_ewi" level="series"><did><unittitle>Oliver Smith prints</unittitle><origination label="Creator"><persname role="art" rules="dacs" source="naf">Smith, Oliver Lemuel</persname></origination><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.2 items</extent><extent altrender="carrier">in one oversize folder</extent></physdesc><unitdate datechar="creation">2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9ed650a02da490bee1c738ac4b15b0b0" label="Graphic Materials" type="Folder">Flat File</container><container id="aspace_182bd301758c45089a28e55f70e5472f" parent="aspace_9ed650a02da490bee1c738ac4b15b0b0" type="Drawer">5</container></did><scopecontent id="aspace_a2a8b81b7c650445c38d9835bdf82fce"><head>Scope and Contents</head><p>Consists of eight approximately 11" x 17" archival giclee prints on watercolor paper that are reproductions of watercolors by Oliver Smith printed by Broadway Art Enterprises, LLC in 2002.  A few of these prints concern Brooklyn locations and two are derived from set designs for specific stage shows.</p><p>1. "Brooklyn Bridge #2" (from New York Cityscapes: Fine Art Watercolor)
+2. "NY Harbor #1" (from New York Cityscapes: Fine Art Watercolor)
+3. "NY Harbor #2" (from New York Cityscapes: Fine Art Watercolor)
+4. "NY Harbor #3" (from New York Cityscapes: Fine Art Watercolor)
+5. "Brooklyn Bridge #1" (from New York Cityscapes: Fine Art Watercolor)
+6. "Brooklyn Heights" (from New York Cityscapes: Fine Art Watercolor)
+7. "The Bowery #1 (Backdrop)" (from "Kelly (1965)") 
+8. "Coney Island (Backdrop)" (from On the Town (1944))</p></scopecontent><bioghist id="aspace_4b40dd336084746a0747fb0290fa1ffc"><head>Biographical Note</head><list numeration="arabic" type="ordered"><head>Sources</head><item>Anderson, Jack, "Oliver Smith, Set Designer, Dead at 75." 
+<emph render="italic">New York Times</emph>, January 25, 1994.</item></list><p>Oliver Smith was born in Waupun, Wisconsin, on February 13, 1918.  He was a well-known set designer and served as a co-director of the American Ballet Theater.  </p><p>He studied architecture at Pennsylvania State University, where he received a bachelor's degree in 1939.  Shortly after his graduation from college, Mr. Smith moved to New York City.  He shared a house in Brooklyn Heights with other talented young artists, including the composer Benjamin Britten and the writers W. H. Auden, Carson McCullers and Richard Wright.</p><p>He later bought and restored a four-story Federal-style house in Brooklyn Heights and used its attic as his studio.  Over the years, several of its rooms served as the residence of illustrious house guests, including the theatrical director Sir Tyrone Guthrie and Truman Capote, who wrote the novel <emph render="italic">In Cold Blood</emph> there.</p><p>He designed such Broadway hits as "Brigadoon," "West Side Story," "My Fair Lady," "Camelot" and "Hello, Dolly!" and major ballets by such choreographers as Jerome Robbins, Agnes de Mille and Eliot Feld.  By his own estimation in an interview, he had designed more than 250 productions by 1966.  In addition to designing productions, Mr. Smith was occasionally a co-producer of plays and musicals.  His first venture in this field was "On the Town," a successful musical.</p><p>Mr. Smith also taught scenic design at the Tisch School of the Arts at New York University for 22 years.  His paintings have been shown in exhibitions at the Museum of Modern Art, the Brooklyn Museum, the Chicago Art Institute and other institutions.  </p></bioghist><controlaccess><genreform source="aat">Scenography (discipline)</genreform><geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname><geogname source="lcsh">Brooklyn Bridge (New York, N.Y.) |v Pictorial works</geogname><geogname source="lcsh">New York Harbor (N.Y. and N.J.)</geogname><geogname source="lcsh">Coney Island (New York, N.Y.)</geogname></controlaccess></c><c id="aspace_ref19_v9g" level="item"><did><unittitle>Ivan Koota print</unittitle><origination label="Creator"><persname rules="dacs" source="local">Koota, Ivan R.</persname></origination><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 item</extent><extent altrender="carrier">in one oversize folder</extent></physdesc><unitdate datechar="creation">circa 1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_d78c2a34008aa40ef4c3ee7aac5e7f1d"><head>Scope and Contents</head><p>Consists of reproduction of painting by Ivan Koota</p><p>1. "Watchtower at Night"</p></scopecontent><controlaccess><subject source="lcsh">Landscapes |z New York (State) |z Kings County</subject><subject source="lcsh">Bridges |z New York (State) |z Kings County</subject></controlaccess></c><c id="aspace_ref21_xna" level="item"><did><unittitle>Francis Guy print</unittitle><origination label="Creator"><persname role="cre" rules="dacs" source="naf">Guy, Francis</persname></origination><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 item</extent><extent altrender="carrier">in one oversize folder</extent></physdesc><unitdate datechar="creation">circa 2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_e4b3afc358624ce98b4786ea0963f3c0"><head>Scope and Contents</head><p>Consists of limited edition print of painting by Francis Guy</p><p>1. "Winter Scene in Brooklyn," original painting circa 1819-1920 </p></scopecontent><controlaccess><geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname><subject source="lcsh">Landscapes |z New York (State) |z Kings County</subject></controlaccess></c><c id="aspace_ref23_idb" level="item"><did><unittitle>Christian Mayr print</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 item</extent><extent altrender="carrier">in one oversize folder</extent></physdesc><unitdate datechar="creation" normal="1960/2000" type="inclusive">1960-2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_8f77fde8ab2d5b2613a81bbb556a7e3f"><head>Scope and Contents</head><p>Consists of repoduction of a painting by Christian Mayr </p><p> 1. "Fire Engine No. 1," originally painted in 1837</p></scopecontent><controlaccess><subject source="lcsh">Fire departments |z New York (State) |z Kings County</subject><geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname><geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname><subject source="lcsh">Fire fighters |z New York (State) |z Kings County</subject></controlaccess></c></dsc>
+</archdesc>
+</ead>
