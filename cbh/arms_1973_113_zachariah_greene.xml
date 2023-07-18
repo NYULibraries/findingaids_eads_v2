@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_113_zachariah_greene/">arms_1973_113_zachariah_greene</eadid><filedesc><titlestmt><titleproper>Guide to the Zachariah Greene ledger and service program <num>1973.113</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 7, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:49:41 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Zachariah Greene ledger and service program</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Greene, Zachariah</persname>
+    </origination>
+    <unitid>1973.113</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1797/1934" type="inclusive">1797-1934</unitdate>
+    <abstract id="aspace_379ca931b9f129eb22540ad0e478bbcd">This collection consists of one ledger kept by Zachariah Greene during the period 1787 to 1848, in which he recorded the marriages he performed as a minister at Presbyterian churches in the Long Island towns of Cutchogue and Setauket.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_b6ade6ee377625691ef2654dd7b97260" label="Text" type="Box">A0003</container>
+  </did>
+  <bioghist id="aspace_036b2e23c7acc52510f527e405f10de0">
+    <head>Biographical Note</head>
+<p>Zachariah Greene (1760-1858) was a Presbyterian minister who served congregations in North Stamford, CT, as well as the towns of Cutchogue and Setauket in Long Island.  After serving on the American side during the Revolutionary War, from which he was discharged after being wounded, Greene attended Dartmouth College in New Hampshire.  He was ordained by the Presbyterian Church after completing his studies.</p>  </bioghist>
+  <accessrestrict id="aspace_dde5a90eca6682f790112513727bc343">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_73f48743b888f7bc16bc18ae4fb629e1">
+    <head>Scope and Contents</head>
+<p>This collection consists of one ledger kept by Zachariah Greene during the period 1787 to 1848, in which he recorded the marriages he performed as a minister at Presbyterian churches in the Long Island towns of Cutchogue and Setauket.  For each marriage he performed, Greene recorded the marriage date, names of the individuals married, and their towns of residence.  The ledger also records the deaths of parishioners at Greene's congregations in Cutchogue and Setauket, as well as his earlier congregation at North Stamford, CT.  For each deceased parishioner, Greene noted the date of death, known family relations, and approximate age at the time of death.  The ledger is accompanied by an index created in 1934 by Edna Huntington, Librarian at the Long Island Historical Society (now the Brooklyn Historical Society).  The collection also includes a 1921 program for the service commemorating the reopening of the Setauket Presbyterian Church.</p>  </scopecontent>
+  <acqinfo id="aspace_0e3386db49066c9b4a3f0f4adb1c65fa">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of acquisition for this collection are unknown.  The collection was formally accessioned in 1973.</p>  </acqinfo>
+  <prefercite id="aspace_13cbc19fac6643bcae340044a058106c">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Zachariah Greene ledger and service program, 1973.113, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_2105ce0d3d71b087de8d479ba48ce19d">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Presbyterians |z New York (State) |z Long Island</subject>
+    <genreform source="aat">Death records</genreform>
+    <genreform source="aat">Marriage records</genreform>
+    <subject source="lcsh">Genealogy</subject>
+    <subject source="lcsh">Presbyterians |z Connecticut</subject>
+    <genreform source="aat">Church records</genreform>
+    <geogname source="lcsh">North Stamford (Stamford, Conn.)</geogname>
+    <geogname source="lcsh">Setauket (N.Y.)</geogname>
+    <geogname source="lcsh">Cutchogue (N.Y.)</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
