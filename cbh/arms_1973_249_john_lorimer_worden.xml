@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_249_john_lorimer_worden/">arms_1973_249_john_lorimer_worden</eadid><filedesc><titlestmt><titleproper>Guide to the John Lorimer Worden collection <num>1973.249</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:50:25 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John Lorimer Worden collection</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Worden, John Lorimer</persname>
+    </origination>
+    <unitid>1973.249</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1862/1899" type="inclusive">1862-1899</unitdate>
+    <abstract id="aspace_6f5db54b1f90a064f17985cc9373619f">This collection spans the period 1862 to 1899 and contains a small assortment of materials relating to John Lorimer Worden and his commanding of the <emph render="italic">U.S.S. Monitor</emph> during the Civil War.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_0d206e50573ea2e71bc398526ba77f6d" label="Text" type="Box">A0011</container>
+  </did>
+  <scopecontent id="aspace_1ace3c039bc102a8e223d2d2462fc19a">
+    <head>Scope and Contents</head>
+<p>This collection spans the period 1862 to 1899 and contains a small assortment of materials relating to John Lorimer Worden and his commanding of the <emph render="italic">U.S.S. Monitor</emph> during the Civil War.  Materials also relate to the <emph render="italic">Monitor</emph>'s designers, Cornelius S. Bushnell and John Ericsson, and the Continental Iron Works of Greenpoint in Brooklyn, where the <emph render="italic">Monitor</emph> was built.  Items include correspondence, obituaries, and several published pamphlets containing histories, memorial tributes, reports, and sermons.</p>  </scopecontent>
+  <processinfo id="aspace_cc046db1f26c5a27eb93e2a9c2266951">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_3fd388943fa5cd25e25c6c8a8ec24a8a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John Lorimer Worden collection, 1973.249, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_c4bdaa1cd8ab39c84ca6cabc5983a5b5">
+    <head>Immediate Source of Acquisition</head>
+<p>Presumed to be a gift of the Alexander M. White family, date unknown.  The collection was formally accessioned in 1973.</p>  </acqinfo>
+  <accessrestrict id="aspace_a9cb1cb599a14c14de2e85b829e97c9d">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_3aee7884d27ccfcd4308e12857e0ad6d">
+    <head>Biographical Note</head>
+<p>John Lorimer Worden (1818-1897), a resident of Westchester County, N.Y., was a U.S. Naval officer who commanded the <emph render="italic">U.S.S. Monitor</emph> during the Civil War.  His commanding of the <emph render="italic">Monitor</emph> in its battle against the Confederate States ship <emph render="italic">Virginia</emph> (formerly the <emph render="italic">C.S.S. Merrimack</emph>) during the Battle of Hampton Roads in 1862 was integral in maintaining the Union Army's blockade of Norfolk Harbor.  After the War, Worden continued to serve the Navy and was promoted to the rank of Rear Admiral.</p>    <list numeration="arabic" type="ordered">
+      <head>Source:</head>
+      <item>Hudson River Valley Institute. "John Lorimer Worden." Accessed April 20, 2011. http://www.hudsonrivervalley.org/library/pdfs/worden.pdf</item>
+    </list>
+  </bioghist>
+  <relatedmaterial id="aspace_ef74609a560893e773753b357369b2f9">
+    <head>Related Materials</head>
+<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>1973.219, Victor M. Drake papers on the U.S.S. Monitor, circa 1861-1954</item>
+    </list>
+  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Sermons</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Obituaries</genreform>
+    <genreform source="aat">Pamphlets</genreform>
+    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+    <subject source="lcsh">Hampton Roads, Battle of, Va., 1862</subject>
+    <subject source="lcsh">Soldiers</subject>
+    <subject source="lcsh">Ships</subject>
+    <genreform source="aat">Reports</genreform>
+    <genreform source="aat">Histories</genreform>
+    <persname rules="aacr" source="naf">Bushnell, Cornelius S. (Cornelius Scranton)</persname>
+    <persname rules="aacr" source="naf">Ericsson, John</persname>
+    <corpname rules="aacr" source="naf">United States. Navy</corpname>
+    <corpname source="local">Continental Iron Works</corpname>
+    <corpname rules="aacr" source="naf">Virginia (Ironclad)</corpname>
+    <corpname rules="aacr" source="naf">Merrimack (Frigate)</corpname>
+    <persname rules="aacr" source="naf">Worden, John Lorimer</persname>
+    <corpname rules="aacr" source="naf">Monitor (Ironclad)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
