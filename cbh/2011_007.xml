@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2011_007/">2011_007</eadid><filedesc><titlestmt><titleproper>Guide to the Schaefer Brewing Company's <emph render="italic">The Last Night at Ebbets Field</emph> scrapbook <num>2011.007</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:26:37 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>F. &amp; M. Schaefer Brewing Company's <emph render="italic">The Last Night at Ebbets Field</emph> scrapbook</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">F. &amp; M. Schaefer Brewing Co</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">O'Malley, Peter</persname>
+    </origination>
+    <unitid>2011.007</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">in one flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+    <abstract id="aspace_e90942d0bce24ed5615fbc6e524588e4">One photographic scrapbook documenting the last night of Brooklyn Dodgers baseball at Ebbets Field in Brooklyn, New York, on September 24, 1957. The scrapbook was produced by the F. &amp; M. Schaefer Brewing Company for Dodgers owner and president Walter O'Malley. It includes photographs of baseball players, staff, sportscasters, sportswriters, fans, and Schaefer employees. Notable individuals featured in the photographs include Roy Campanella, Carl Erskine, Gil Hodges, Emmett Kelly, Sandy Koufax, Johnny Podres, and Vin Scully.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_e628bff3df1a91a80fcd61349b9b43da" label="Graphic Materials" type="Box">1 of 1 (2011.007)</container>
+  </did>
+  <scopecontent id="aspace_e42e786fddad4eb2a534dba149e08512">
+    <head>Scope and Contents</head>
+<p>One photographic scrapbook documenting the last night of Brooklyn Dodgers baseball at Ebbets Field in Brooklyn, New York, on September 24, 1957. The scrapbook was produced by the F. &amp; M. Schaefer Brewing Company for Dodgers owner and president Walter O'Malley. It includes photographs of baseball players, staff, sportscasters, sportswriters, fans, and Schaefer employees.</p><p>People featured in the photographs include the following: Walt Alston, Roy Campanella, Jerry Doggett, Carl Erskine, John Griffin, Al Helfer, Gil Hodges, Emmett Kelly, Sandy Koufax, Johnny Podres, R.J. Schaefer, Vin Scully, and Dr. Harold Wendler.</p>  </scopecontent>
+  <custodhist id="aspace_511a1d8e4370c712829481b05056cdf2">
+    <head>Custodial History</head>
+<p>The scrapbook was assembled by F. &amp; M. Schaefer Brewing Company employees and presented to Brooklyn Dodgers owner Walter O'Malley in January 1958.</p>  </custodhist>
+  <acqinfo id="aspace_8cde267d3317b9817634cb90dcd3c0a3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Peter O'Malley, 2011.</p>  </acqinfo>
+  <relatedmaterial id="aspace_9a01525aa8ddd6b80e02c3bcb589db09">
+    <head>Related Materials</head>
+<p>Brooklyn Historical Society holds numerous photographs, books, archival collections, and memorabilia relating to the Brooklyn Dodgers.</p><p>BHS also holds photographs of the F. &amp; M. Schaefer Brewing Company factory (V1990.027).</p>  </relatedmaterial>
+  <prefercite id="aspace_1ddd5b635db9cae6489b9586e397a79a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); F. &amp; M. Schaefer Brewing Company's <emph render="italic">The Last Night at Ebbets Field</emph> scrapbook, 2011.007, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_64320d9fd470ad41dec48fb318cfad6b">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <userestrict id="aspace_9bb062c181e7f2e2eee158d1569b82d0">
+    <head>Conditions Governing Use</head>
+<p>The copyright status of this collection has not been assessed. Please consult library staff for more details.</p>  </userestrict>
+  <accessrestrict id="aspace_5f5f0a8511bea13d08ec29196a51fb77">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_bf4c18b1ab417d745b0f2a751e6e396e">
+    <head>Historical note</head>
+<p>F. &amp; M. Schaefer Brewing Company was founded by the Schaefer brothers in 1842. It operated in New York City, opening a brewery in the Williamsburg neighborhood of Brooklyn in 1916. The Williamsburg brewery closed in 1976. The company was a prominent sponsor of the Brooklyn Dodgers.</p><p>The Brooklyn Dodgers were established in 1883 as the Brooklyn Atlantics. Starting in 1913 they played at Ebbets Field, in what was then known as the Flatbush neighborhood of Brooklyn (today known as Crown Heights), where they remained until 1957. The following year the team relocated to Los Angeles, California.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Baseball teams |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <subject source="lcsh">Baseball fields |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Baseball |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Photograph albums</genreform>
+    <genreform source="aat">Scrapbooks</genreform>
+    <subject source="lcsh">Baseball fans |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
+    <subject source="lcsh">Breweries |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Baseball players |z New York (State) |z Kings County</subject>
+    <corpname rules="dacs" source="local">F. &amp; M. Schaefer Brewing Co</corpname>
+    <persname rules="aacr" source="local">O'Malley, Walter, 1903-1979</persname>
+    <corpname rules="aacr" source="naf">Brooklyn Dodgers (Baseball team)</corpname>
+    <corpname rules="dacs" source="naf">Ebbets Field (New York, N.Y.)</corpname>
+    <persname role="dnr" rules="dacs" source="local">O'Malley, Peter</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
