@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_193_smith_farrington_cromwell/">arc_193_smith_farrington_cromwell</eadid><filedesc><titlestmt><titleproper>Guide to the Smith, Farrington, and Cromwell families papers <num>ARC.193</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 30, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:28:04 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Smith, Farrington, and Cromwell families papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Smith, Catharine Farrington</persname>
+    </origination>
+    <origination label="Creator">
+      <famname source="naf">Farrington family</famname>
+    </origination>
+    <origination label="Creator">
+      <famname source="naf">Smith family</famname>
+    </origination>
+    <origination label="Creator">
+      <famname source="naf">Cromwell family</famname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Farrington, George</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Farrington, Maria</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Farrington, Caroline</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Farrington, Charles</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Farrington, Edmund</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Willets, Jane Farrington</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Cromwell, David</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Cromwell, Anna</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Cromwell, Maria</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Cromwell, Rebecca</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Cromwell, James</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Smith, Thomas T.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Smith, Jane</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Smith, Elihu</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Smith, Sarah B. Cromwell</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Smith, Percival Cromwell</persname>
+    </origination>
+    <unitid>ARC.193</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+      <extent altrender="carrier">in two manuscript boxes and one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1770/1945" type="inclusive">circa 1780 to 1935</unitdate>
+    <abstract id="aspace_aab9494c9ac2038d0b93740edc0ff2ab">The Smith, Farrington, and Cromwell families papers span the period circa 1780 to 1935 and are comprised of personal, legal, and business papers, including agreements, bonds, mortgages, deeds, wills and estate settlements, military and academic certificates, marriage certificates, correspondence, journals, account books, receipts, photographs, and promissory notes.  The Smith, Farrington, and Cromwell families were allied families residing in the northeastern United States, with certain family members residing in New York City, Brooklyn, and Queens.  Individuals featured prominently in the collection include Elihu Smith (1771-1824?) and his wife, Catharine (Farrington) Smith (1784-1856), who resided in New York City; Elihu and Catharine's son, Thomas T. Smith (1820-1883?), who owned a hardware store in New York City and lived in Brooklyn with his wife, Sarah B. (Cromwell) Smith; and Thomas and Sarah's son, Percival Cromwell Smith, a New York City lawyer who resided in Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Medium Flat Box 3" id="aspace_78fc120a26b56358a955ad837467e898" label="Text" type="Box">OS-8</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_4c4c743a526ef061de346442e93f3be0" label="Text" type="Box">ARC.193 1 of 3</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_418366a7a7b3346a04092bce9de45f53" label="Text" type="Box">ARC.193 2 of 3</container>
+  </did>
+  <prefercite id="aspace_fc8a271231503487836abf125c1aca16">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Smith, Farrington, and Cromwell families papers, ARC.193, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_164997dda38368f1b34d4c989b943656">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_1f6c09df8c5d16940d5c107b48de2803">
+    <head>Biographical Note</head>
+<p>The Smith, Farrington, and Cromwell families were allied families residing in the northeastern United States, with certain family members residing in New York City, Brooklyn, and Queens.  The common ancestor of the Smith and Farrington families was Thomas Bowne, who was born in England in 1595.  His descendant, Mary Bowne (1723-1805), married John Farrington (d. 1783) in 1749.  Their son, George Farrington (1750-1825), lived in the town of Flushing in Queens, and had several children, among them Catharine (1784-1856), Maria (1786-1857), Caroline, Edmund, and Jane (Farrington) Willets.  Catharine Farrington married Elihu Smith (1771-1824?) of New Bedford in Bristol County, MA, in 1814.  They later resided in New York City and had three children, including Jane (1816-1858), Maria (b. 1818), and Thomas T. (1820-1883?).  Thomas T. Smith owned a hardware store at 89 Duane Street in New York City and lived at 123 Pierrepont Street in Brooklyn.  In 1848, he married Sarah B. Cromwell, the daughter of David and Rebecca Cromwell of Orange Couny, N.Y.  Sarah's brother, James Cromwell, served in the Civil War as a Captain and Major in the 124th New York Infantry Regiment, as well as a Captain in the 2nd New York Cavalry Regiment, but was killed before the War's end.  Sarah had several other siblings, among them Maria Cromwell and Anna (Cromwell) Field.  Sarah and Thomas T. Smith's son, Percival Cromwell Smith, was a New York City lawyer who resided in Brooklyn with his wife, Florence Kimball Cheney, the daughter of Francis W. and Florence Kimball Cheney of Boston.</p>  </bioghist>
+  <scopecontent id="aspace_d98a16b7135ddf9d10436765c6e87eeb">
+    <head>Scope and Contents</head>
+<p>The Smith, Farrington, and Cromwell families papers span the period circa 1780 to 1935 and are comprised of personal, legal, and business papers, including agreements, bonds, mortgages, deeds, wills and estate settlements, military and academic certificates, marriage certificates, correspondence, journals, account books, receipts, photographs, and promissory notes.</p><p>Papers relating to the Smith family date from 1801 to circa 1935 and primarily represent Elihu Smith and his wife, Catherine (Farrington) Smith; their son, Thomas T. Smith, and his wife, Sarah B. (Cromwell) Smith; and Thomas and Sarah's son, Percival Cromwell Smith.  The Farrington family is represented by papers spanning the period 1798 to 1860.  These papers primarily relate to George Farrington and several of his children, including Maria, Caroline, Edmund, and Jane (Farrington) Willets.  Charles Farrington, a cousin of Thomas T. Smith whose exact relation to the other Farrington family members is not clear, is also briefly represented.  The Cromwell family, specifically David and Rebecca Cromwell and several of their children, including James, Maria, and Anna (Cromwell) Field, are represented by papers spanning the period 1826 to 1887.  Items pertaining to James Cromwell's service in the Civil War, including military certificates, letters to his mother from the field, and a letter from his sister Anna to an unnamed individual relaying the details of James's death in the War, are included. The Cromwell family are also represented by a collection of photographs, including one tin type. The photographs depict portraits of the men (in full uniform), women, and children of the family.</p><p>An additional item of interest is a bound volume, housed in an oversize box, containing a genealogy of the Smith and Farrington families, with a focus on the lineage of Thomas T. Smith.  The record documents Thomas T. Smith's ancestors on the side of his mother, Catharine (Farrington) Smith, as far back as 1595, and also documents the first generation of his descendants.  Finally, the collection also includes a small amount of material dating from 1780 to 1833 and relating to Samuel Hosier, Deborah Lawrence, and John Eagles of the town of Flushing in Queens, who are presumed to be related to the Smith, Farrington, and Cromwell families.</p>  </scopecontent>
+  <processinfo id="aspace_365b3a11ad70f9da9b9bbbe8e7faf027">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level by Nicholas Pavlik in 2011.</p><p>The collection combines the accessions 1977.333, 1977.341, and 1978.186.</p><p>Photographs relating to the Cromwell family were added to the collection in October 2015 by Melissa Aaronberg.</p>  </processinfo>
+  <acqinfo id="aspace_e8d1accdf2177f5ecfa80f209f1bc917">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Orange County (N.Y.)</geogname>
+    <subject source="lcsh">Families |z New York (State) |z New York</subject>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Family papers</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Queens County</subject>
+    <subject source="lcsh">Family life</subject>
+    <genreform source="aat">Bonds (legal records)</genreform>
+    <subject source="aat">Deeds</subject>
+    <genreform source="aat">Mortgages</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <genreform source="aat">Promissory notes</genreform>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Orange County</subject>
+    <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
+    <subject source="local">Land titles</subject>
+    <genreform source="aat">Business records</genreform>
+    <genreform source="aat">Financial records</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Decedents' estates |z New York (State) |z New York</subject>
+    <genreform source="aat">Marriage certificates</genreform>
+    <subject source="lcsh">Decedents' estates |z New York (State) |z Orange County</subject>
+    <subject source="lcsh">Decedents' estates |z New York (State) |z Queens County</subject>
+    <genreform source="aat">Wills</genreform>
+    <subject source="lcsh">Decedents' estates |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Journals (accounts)</genreform>
+    <genreform source="aat">Agreements</genreform>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <genreform source="aat">Account books</genreform>
+    <subject source="lcsh">Soldiers |x Family relationships |z New York (State)</subject>
+    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+    <subject source="lcsh">Commerce</subject>
+    <persname source="local">Smith, Catharine Farrington</persname>
+    <famname source="naf">Farrington family</famname>
+    <famname source="naf">Smith family</famname>
+    <famname source="naf">Cromwell family</famname>
+    <persname source="local">Farrington, George</persname>
+    <persname source="local">Farrington, Maria</persname>
+    <persname source="local">Farrington, Caroline</persname>
+    <persname source="local">Farrington, Charles</persname>
+    <persname source="local">Farrington, Edmund</persname>
+    <persname source="local">Willets, Jane Farrington</persname>
+    <persname source="local">Cromwell, David</persname>
+    <persname source="local">Cromwell, Anna</persname>
+    <persname source="local">Cromwell, Maria</persname>
+    <persname source="local">Cromwell, Rebecca</persname>
+    <persname source="local">Cromwell, James</persname>
+    <persname source="local">Smith, Thomas T.</persname>
+    <persname source="local">Smith, Jane</persname>
+    <persname source="local">Smith, Elihu</persname>
+    <persname source="local">Smith, Sarah B. Cromwell</persname>
+    <corpname rules="aacr" source="naf">United States. Army. New York Cavalry Regiment, 2nd (1861-1865)</corpname>
+    <corpname rules="aacr" source="naf">United States. Army. New York Infantry Regiment, 124th (1862-1865)</corpname>
+    <persname source="local">Smith, Percival Cromwell</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
