@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_072_van_horne/">arms_1974_072_van_horne</eadid><filedesc><titlestmt><titleproper>Guide to the Garret Van Horne ledger <num>1974.072</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 9, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:12 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Garret Van Horne ledger</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Van Horne, Garret</persname>
+    </origination>
+    <unitid>1974.072</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1720/1734" type="inclusive">1720-1734</unitdate>
+    <abstract id="aspace_fa71fc95eb8f93c8cc2014cddd6c6ede">Ledger of Garret Van Horne, resident of Huntington, Long Island, New York. The ledger consists of a single hardbound volume dated 1720 to 1734 and documents transactions for goods and services between Van Horne and various individuals.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_f370486d00a49a5e3bb30b1c399f79a0" label="Text" type="Box">A0022</container>
+  </did>
+  <accessrestrict id="aspace_4516336c38937bbca3b9b5d93bd7f7fa">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_80a4956385499328ec98c4506a0bd47f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Garret Van Horne ledger, 1974.072, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_70a961fb9227811a083bc818dd68f7f9">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Huntington (N.Y.)</geogname>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <persname rules="dacs" source="local">Van Horne, Garret</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
