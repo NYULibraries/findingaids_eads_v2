@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_174_ramus/">arms_1978_174_ramus</eadid><filedesc><titlestmt><titleproper>Guide to the Ramus family papers and photographs <num>1978.174</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation. 
+
+Photographs from this collection were digitized as part of Project CHART (Cultural Heritage Access Research and Technology); a collaboration between the Brooklyn Historical Society, Brooklyn Museum and Brooklyn Public library with the Pratt Institute. Funded through an IMLS grant sponsored by the Laura Bush 21st Century Librarian program.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June, 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:28:04 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Ramus family papers and photographs</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Ramus, Louis</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Ramus, Esther</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Ramus, Angelo</persname>
+    </origination>
+    <origination label="Creator">
+      <famname rules="dacs" source="local">Ramus family</famname>
+    </origination>
+    <unitid>1978.174</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.66 Linear Feet</extent>
+      <extent altrender="carrier">In one document box and five odd-size photograph boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1836/1917" type="inclusive">1836-1917</unitdate>
+    <abstract id="aspace_2403129ed7f73c51a17ee598e0a9b66b">The Ramus family papers span between 1836 to 1917 and contain citizenship papers, estate documents, wills, land and property documents, correspondence and ephemera, and genealogical notes. 
+
+Photographs are of immediate and extended Ramus Family members and span between 1848 and 1910.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <prefercite id="aspace_4d78b3b3e88b9f405dd40607d9c0b8c4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Ramus family papers and photographs, 1978.174, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_df7f54f13833d92d53c496a4737bf0af">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Louis Ramus, date unknown. The papers were formally accessioned in 1978.
+The accession papers list a variant spelling of the last name, written as "Ramos."</p>  </acqinfo>
+  <bioghist id="aspace_06d6955df0aea090c3b58f4d8b4d6552">
+    <head>Biographical note</head>
+<p>Isaac Ramus (circa 1805-1876) was a retail dealer in hosiery and undergarments with a store located at 385 Canal Street in Manhattan. He married Esther Baruth (1810-1886) in 1830. They immigrated from London and lived at 214 Dean Street in Brooklyn. Their son Angelo (circa 1834-1860) moved to San Francisco in adulthood, and died there at the age of 26 from yellow fever. Their other son Louis Ramus married Hannah Levy, she died at 36 years of age.</p><p>The majority of documents, ephemera, and photographs pertain to other members of the Ramus family and in-laws: Louis Ramus and Hanna Levy's' children, Ira and Julian, Adele Schwartz and parents, Ira Silverberg and family, as well as some of Hanna's family.</p>  </bioghist>
+  <scopecontent id="aspace_4fcbdace7594c082bd69f50e406f9ebe">
+    <head>Scope and Contents</head>
+<p>The Ramus family papers and photographs measure 0.66 linear feet and span between 1836 to 1917. The papers contain citizenship papers, estate documents, wills, land and property documents, correspondence and ephemera, and genealogical notes pertaining to the Ramus family of Brooklyn. Photographs span the period 1848 to 1910 and contain immediate family photographs as well as extended family and in-laws.</p>  </scopecontent>
+  <accessrestrict id="aspace_bc265ea024041287d2233248ef0f90ae">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <originalsloc id="aspace_523c5e16e2265c2f62a0c1383ae499d7">
+    <head>Photograph Records</head>
+<p>Item-level description and digital version of images from the collection are available for viewing via the <extref xlink:actuate="onRequest" xlink:href="http://brooklynhistory.pastperfect-online.com/35872cgi/mweb.exe?request=clicksearch;dtype=d;subset=0;_t1101=ramus%20family%20papers%20and%20photographs" xlink:show="new">online image database</extref>.</p>  </originalsloc>
+  <userestrict id="aspace_d6bcb9ace7b36640f69147c71565bb19">
+    <head>Conditions Governing Use</head>
+<p>All commercially produced slides are in the public domain. Copyright for anonymously created items will remain in effect for 120 years following the date of creation. Based on the date range of this collection, all items will enter the public domain by 2033. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <controlaccess>
+    <subject source="aat">Deeds</subject>
+    <genreform source="aat">Citizenship papers</genreform>
+    <genreform source="aat">Wills</genreform>
+    <genreform source="aat">Estate records</genreform>
+    <genreform source="aat">Genealogies</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Genealogy</subject>
+    <subject source="lcsh">Hosiery industry</subject>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Daguerreotypes (photographs)</genreform>
+    <genreform source="aat">Tintypes (prints)</genreform>
+    <genreform source="aat">Cabinet photographs</genreform>
+    <genreform source="aat">Photograph albums</genreform>
+    <genreform source="aat">Cartes-de-visite (card photographs)</genreform>
+    <genreform source="aat">Studio portraits</genreform>
+    <genreform source="aat">Portraits</genreform>
+    <genreform source="aat">Ambrotypes (photographs)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
+    <persname rules="dacs" source="local">Ramus, Julian</persname>
+    <persname rules="dacs" source="local">Ramus, Mariah</persname>
+    <persname rules="dacs" source="local">Ramus, Isaac</persname>
+    <persname role="dnr" rules="dacs" source="local">Ramus, Louis</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref7_s84" level="series"><did><unittitle>Series 1: Papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.33 Linear Feet</extent><extent altrender="carrier">In seven folders in one document box</extent></physdesc><unitdate datechar="creation" normal="1836/1908" type="inclusive">1836-1908</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_aebcc1a61eb1260107b0f40d3a22658e" label="Text" type="Box">A0088</container></did><scopecontent id="aspace_74df36efb2fd927296caeec2a2130948"><head>Scope and Contents</head><p>The Ramus family papers measure 0.3 linear feet and span the period 1836 to 1908. The papers include citizenship papers, estate documents, wills, land and property documents, correspondence and ephemera pertaining to the Ramus family of Brooklyn. Genealogical notes are also available in the collection.</p></scopecontent></c><c id="aspace_ref9_4qf" level="series"><did><unittitle>Series 2: Photographs</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.33 Linear Feet</extent><extent altrender="carrier">In six manuscript boxes</extent></physdesc><unitdate datechar="creation" normal="1848/1917" type="inclusive">1848 and 1917</unitdate><unitdate datechar="creation" normal="1850/1910" type="bulk">1850-1910</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_2c864c4f7d4d2e5bed209dbb6b6bf803"><head>Scope and Contents</head><p>The collection is organized at the subseries level by photographic object type and includes: 
+29 cabinet card photographs, 8 tintypes of various sizes, 3 daguerrotypes, 3 ambrotypes, 2 photographic postcards. Located separately is one bound album with metal clasp comprised of cartes-de-visite, tintypes and 1 photographic print.</p></scopecontent><controlaccess><genreform source="aat">Photograph albums</genreform><genreform source="aat">Cartes-de-visite (card photographs)</genreform><genreform source="aat">Photographic postcards</genreform><subject source="lcsh">Families |z New York (State)</subject><genreform source="aat">Tintypes (prints)</genreform><genreform source="aat">Ambrotypes (photographs)</genreform><genreform source="aat">Cabinet photographs</genreform><genreform source="aat">Daguerreotypes (photographs)</genreform><famname rules="dacs" source="local">Ramus family</famname></controlaccess><c id="aspace_ref14_pe9" level="subseries"><did><unittitle>Subseries 1: Photographic Album</unittitle><unitdate datechar="creation" normal="1848/1917" type="inclusive">1848 and 1917</unitdate><unitdate datechar="creation" normal="1850/1910" type="bulk">1850-1910</unitdate><physdesc id="aspace_cfc6758bfacaffac7f10cd18f2a1e639" label="Container Summary">In one phase-box</physdesc><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dec76c61f5e75bbd0f6cd17b5c6a6122" label="Graphic Materials" type="item">SCRAP.2009.10</container></did></c><c id="aspace_ref24_tg7" level="subseries"><did><unittitle>Subseries 2: Daguerreotypes</unittitle><unitdate datechar="creation" normal="1840/1860" type="inclusive">1840 and 1860</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Shoe Box 13" id="aspace_a8b46e7055c879bd907eae70cca945b9" label="Graphic Materials" type="Box">Daguerreotypes 3</container><container id="aspace_2eee72d25fb5a27c639ff5df47c05e3d" parent="aspace_a8b46e7055c879bd907eae70cca945b9" type="item">V1978.174.32-34</container></did></c><c id="aspace_ref27_jv8" level="subseries"><did><unittitle>Subseries 3: Ambrotypes</unittitle><unitdate datechar="creation" normal="1850/1865" type="inclusive">1850 and 1865</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Shoe Box 13" id="aspace_a8dd6737a41910ac4376624ecf130a1d" label="Graphic Materials" type="Box">Ambrotypes 2</container><container id="aspace_236896b545feab122a1fb0d7a3566a01" parent="aspace_a8dd6737a41910ac4376624ecf130a1d" type="item">V1978.174.36-38</container></did></c><c id="aspace_ref26_jf7" level="subseries"><did><unittitle>Subseries 4: Tintypes</unittitle><unitdate datechar="creation" normal="1855/1920" type="inclusive">1855 and 1920</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Shoe Box 13" id="aspace_9abd91efbbb02969cd926c98ea91cb6e" label="Graphic Materials" type="Box">Tintypes 1</container></did></c><c id="aspace_ref28_a5w" level="subseries"><did><unittitle>Subseries 5: Cartes-de-visite</unittitle><unitdate datechar="creation" normal="1850/1870" type="inclusive">1850 and 1870</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box" id="aspace_481f2c78c10f2d35968d4ce19a1d8472" label="Graphic Materials" type="Box">Cartes de Visite 1</container></did></c><c id="aspace_ref31_f1s" level="subseries"><did><unittitle>Subseries 6: Photographic Postcards</unittitle><unitdate datechar="creation" normal="1905/1920" type="inclusive">1905 and 1920</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Full Manuscript Box Legal" id="aspace_fb42ea7700aeb13aa76b08bb273d1385" label="Graphic Materials" type="Box">A0088</container></did></c><c id="aspace_ref29_d13" level="subseries"><did><unittitle>Subseries 7: Cabinet Cards</unittitle><unitdate datechar="creation" normal="1870/1920" type="inclusive">1870 and 1920</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Shoe Box 3" id="aspace_075c6ed0be97bb685d9ce38c8a6b6644" label="Graphic Materials" type="Box">Cabinet Cards 1</container><container id="aspace_79fe2027128e9261ca6b74f034126329" parent="aspace_075c6ed0be97bb685d9ce38c8a6b6644" type="item">V1978.174.1-25, 85</container><container altrender="Full Manuscript Box Legal" id="aspace_6932760990ef89e6f8720d4e9ba4a6ff" label="Graphic Materials" type="Box">A0088</container><container id="aspace_46bd7f05db210aa68370fdbea379659f" parent="aspace_6932760990ef89e6f8720d4e9ba4a6ff" type="item">V1978.174.26-31</container></did></c></c></dsc>
+</archdesc>
+</ead>
