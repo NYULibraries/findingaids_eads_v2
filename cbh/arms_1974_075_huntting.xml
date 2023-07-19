@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_075_huntting/">arms_1974_075_huntting</eadid><filedesc><titlestmt><titleproper>Guide to the Nathaniel and Jonathan Huntting papers <num>1974.075</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 4, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:14 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Nathaniel and Jonathan Huntting papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Huntting, Jonathan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Huntting, Nathaniel</persname>
+    </origination>
+    <unitid>1974.075</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.82 Linear Feet</extent>
+      <extent altrender="carrier">in two manuscript boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1658/1849" type="inclusive">1658-1849</unitdate>
+    <unitdate datechar="creation" normal="1695/1744" type="bulk">1695-1744</unitdate>
+    <abstract id="aspace_3e02a2a46ab18091b7f351edbfb5106a">The collection contains sermons, journals, correspondence, account books,  notes, and essays. Items pertaining to Nathaniel Huntting include his sermons from the Presbyterian Church in East Hampton, Long Island, N.Y., a diary of church business, and notes and essays on philosophical, theological, and civic issues.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_e8c2df785efb1f2f04843212c8b98746" label="Text" type="Box">1974.075 Box 2 of 2</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_4e234e3813aa98bb9db85d67a706783e" label="Text" type="Box">1974.075 Box 1 of 2</container>
+  </did>
+  <bioghist id="aspace_8871ab86a90a4c64c8976cdedbe1f3cf">
+    <head>Historical note</head>
+<p>Nathaniel Huntting (1675-1753) was born in Dedham, MA and educated at Harvard College. Huntting was a pastor of the Presbyterian Church in East Hampton, Long Island, N.Y. from 1701 to 1751. Jonathan Huntting (1778-1850), a great-grandson of Nathaniel Huntting, was born in Southold, Long Island, N.Y. and attended Yale College. He received theology training on Long Island and served as pastor of the Presbyterian Church of Southold from 1807 to 1828.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources</head>
+      <item>Huntting, T. D. <emph render="italic">The Hunting, or Huntting Family in America</emph>. Sag Harbor, N.Y.: J. H. Hunt, Printer, 1888.</item>
+    </list>
+  </bioghist>
+  <acqinfo id="aspace_40d80970a051ee6fd97db1fc92a18001">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for the collection is unknown. The collection was formally accessioned in 1974.</p>  </acqinfo>
+  <relatedmaterial id="aspace_3a3a94c71f1c96b31387dd68aecf01c0">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society also holds the genealogical research of Teunis G. Huntting, a descendant of Nathaniel and Jonathan Huntting. See collection 1980.005.</p><p>Papers of Jonathan Huntting are also available at the Yale University Divinity School Library, Record Group No. 184.</p>  </relatedmaterial>
+  <scopecontent id="aspace_6e2a8cf068ba87a97be8cf5230ba9943">
+    <head>Scope and Contents</head>
+<p>The Nathaniel and Jonathan Huntting papers date from 1658 to 1849, with the bulk of the materials from 1695 to 1744, and measure 0.82 linear feet. The collection contains sermons, journals, correspondence, account books,  notes, and essays. Items pertaining to Nathaniel Huntting include his sermons from the Presbyterian Church in East Hampton, Long Island, N.Y., a diary of church business, and notes and essays on philosophical, theological, and civic issues. In addition, Huntting's account books and farm records show his agricultural pursuits and transactions with the people of East Hampton. Materials from Jonathan Huntting include correspondence from his tenure at the Presbyterian Church of Southold, Long Island, N.Y. This correspondence mainly discusses the affairs of the church and religious issues. The collection also contains a book of sermons from an unknown source, dating from the 1650s to 1670, and sermons of Samuel Deane of Portland, ME from the early 19th century.</p>  </scopecontent>
+  <accessrestrict id="aspace_e8686f3b0bf4532db8915aa3d7bc1f9e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_c9d13d80bb02bf3b38d3e65127e7e4f3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Nathaniel and Jonathan Huntting papers, 1974.075, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_ae7aa5bac0d490a4b5a74e22e516b4b9">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Account books</genreform>
+    <geogname source="lcsh">Southold (N.Y.)</geogname>
+    <genreform source="aat">Diaries</genreform>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <subject source="lcsh">Agriculture |z New York (State) |z Long Island</subject>
+    <subject source="lcsh">Clergy |z New York (State) |z Long Island</subject>
+    <subject source="lcsh">Presbyterian Church |z New York (State) |z Long Island</subject>
+    <geogname source="lcsh">East Hampton (N.Y.)</geogname>
+    <subject source="lcsh">Clergy |z Maine |z Portland</subject>
+    <subject source="lcsh">Church management |z New York (State) |z Long Island</subject>
+    <genreform source="aat">Sermons</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Notes</genreform>
+    <genreform source="aat">Essays</genreform>
+    <corpname rules="dacs" source="local">Southold Presbyterian Church (Southold, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Presbyterian Church (East Hampton, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
