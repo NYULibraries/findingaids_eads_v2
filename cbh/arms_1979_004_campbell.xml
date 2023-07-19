@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_004_campbell/">arms_1979_004_campbell</eadid><filedesc><titlestmt><titleproper>Guide to the John J. Campbell papers <num>1979.004</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:29:07 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John J. Campbell papers</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Campbell, June</persname>
+    </origination>
+    <unitid>1979.004</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1864/1888" type="inclusive">1864-1888</unitdate>
+    <abstract id="aspace_b9fb184e942c92b9d8af9f9e9a6d50aa">The John J. Campbell papers span the period 1864 to 1888 and contain letters pertaining to the application and appointment of Campbell as a Port Warden in Brooklyn. John Joseph Campbell was born in Flatbush on October 30, 1846 and died on March 4, 1898 at 98 Amity Street in Brooklyn. In addition to his appointment as Port Warden, Campbell also worked as a fireman.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_792549629720a177df1a67b352e06d46" label="Text" type="Box">A0089</container>
+  </did>
+  <prefercite id="aspace_10d436adc64f9dbd7c551ac1d0169077">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John J. Campbell papers, 1979.004, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_e1ba1edd6caffc678121d5a33fe53847">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of June Campbell, 1979.</p>  </acqinfo>
+  <accessrestrict id="aspace_24f0d70babe14d169ce959aab62cf151">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Correspondence</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Civil service |z New York (State)</subject>
+    <persname role="dnr" rules="dacs" source="local">Campbell, June</persname>
+    <persname rules="dacs" source="local">Campbell, John J.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
