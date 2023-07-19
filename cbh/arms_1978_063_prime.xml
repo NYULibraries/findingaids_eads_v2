@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_063_prime/">arms_1978_063_prime</eadid><filedesc><titlestmt><titleproper>Guide to the Nathaniel S. Prime papers <num>1978.063</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:26:08 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Nathaniel S. Prime papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Prime, Nathaniel S. (Nathaniel Scudder)</persname>
+    </origination>
+    <unitid>1978.063</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in five folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1700/1856" type="inclusive">1700-1856</unitdate>
+    <abstract id="aspace_c2f58a31cd14c0a6f6899fad6f7c9154">The Nathaniel S. Prime papers span the period 1700 to 1856 and contain five volumes of Prime's sermons and memoirs. While the bulk of these volumes chronicle Prime's life, they also contain references to ancestors, such as grandparents, dating from the 18th century.  Nathaniel Scudder Prime (April 21, 1785-March 27, 1856) was the son of Benjamin (1733-1791) and Mary Wheelright (1744-1856) Prime. Born in Huntington, Long Island, Prime spent the last years of his life in Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_12d2c418e9dc06726fbca53449bda526" label="Text" type="Box">A0079</container>
+  </did>
+  <prefercite id="aspace_5653145e84fd1bfecb0cdf68b8fa4b53">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Nathaniel S. Prime papers, 1978.063, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_9e83af2de70028f0fea65e0152f5b8ec">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of D. Gilman, 1973.</p>  </acqinfo>
+  <bioghist id="aspace_9b6ea1ff2802dd5811d1fe41ee218565">
+    <head>Biographical notes</head>
+<p>Nathaniel Scudder Prime (April 21, 1785-March 27, 1856) was the son of Benjamin (1733-1791) and Mary Wheelright (1744-1856) Prime. Born in Huntington, Long Island, Prime spent the last years of his life in Brooklyn. He married Julia Jermain (August 31, 1789-August 24, 1874) on July 5, 1808. Prime entered the College of New Jersey (now Princeton University) in 1801, graduated in 1804, and was licensed to preach in the Presbytery of Long Island on October 10, 1805. In addition to preaching in churches throughout the Northeast, Prime was a published writer, a trustee of Middlebury and Williams Colleges, and an early leader of the temperance movement on Long Island. He is buried with his wife at the Evergreens Cemetery in Brooklyn.</p>  </bioghist>
+  <scopecontent id="aspace_b515eebaf4056231d3fdb9eaa79daa03">
+    <head>Scope and Contents</head>
+<p>The Nathaniel S. Prime papers span the period 1700 to 1856 and contain five volumes of Prime's sermons and memoirs. While the bulk of these volumes chronicle Prime's life, they also contain references to ancestors, such as grandparents, dating from the 18th century.</p>  </scopecontent>
+  <accessrestrict id="aspace_ae18c73453d53dd34db7df8e1dcf4482">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Presbyterians |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Presbyterians |z New York (State) |z Long Island</subject>
+    <subject source="lcsh">Temperance |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Memoirs</genreform>
+    <genreform source="aat">Sermons</genreform>
+    <persname rules="dacs" source="naf">Prime, Nathaniel S. (Nathaniel Scudder)</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
