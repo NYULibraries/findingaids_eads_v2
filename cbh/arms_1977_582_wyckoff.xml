@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_582_wyckoff/">arms_1977_582_wyckoff</eadid><filedesc><titlestmt><titleproper>Guide to the Peter Wyckoff historical notes <num>1977.582</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:30:54 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Peter Wyckoff historical notes</unittitle>
+    <origination label="Creator">
+      <persname source="local">Wyckoff, Peter</persname>
+    </origination>
+    <unitid>1977.582</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1690/1860" type="inclusive">circa 1700 to 1850</unitdate>
+    <abstract id="aspace_0d573e2df23861cef46c9ee85751dec7">Handwritten notes of Peter Wyckoff based on his research on various subjects in Brooklyn's history spanning the period circa 1700 to 1850.  Topics covered include the construction of public roads in the town of Bushwick; the Dutch district subdivisions of Red Hook, Breukelen, Bedford-Stuyvesant, Gowanus, and Wallabout; church matters; and farmers' meetings.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_9db3cc91a6832b508e09644b16ea6db9" label="Text" type="Box">A0072</container>
+  </did>
+  <bioghist id="aspace_1d6e7aaad1de798b371982f6b1bb6391">
+    <head>Biographical Note</head>
+<p>Peter Wyckoff (1828-1910) was born and continually resided at the farm at 1325 Flushing Avenue in Brooklyn, which was built in 1791.  He was of the fourth generation of the historic Dutch Wyckoff family of Brooklyn to own and work on the Flushing Avenue farm, which extended from Flushing to Myrtle Avenues on both sides of Cypress Avenue.  Wyckoff was Presdient of the Grand Street Horsecar Line and Director of the First National Bank and Williamsburg Bank.  Beneficiaries of his philanthropic donations included the Eastern District YMCA, the Eastern District Hospital and Dispensary, the Eastern District Homeopathic Dispensary, the Graham Home for Old Ladies, and the General Hospital of Brooklyn.  Wyckoff was also known as an authority on the history of Brooklyn and Long Island.</p>  </bioghist>
+  <scopecontent id="aspace_c587cb8d13492952b5ca8e3367268cdd">
+    <head>Scope and Contents</head>
+<p>Handwritten notes of Peter Wyckoff based on his research on various subjects in Brooklyn's history spanning the period circa 1700 to 1850.  Topics covered include the construction of public roads in the town of Bushwick; the Dutch district subdivisions of Red Hook, Breukelen, Bedford-Stuyvesant, Gowanus, and Wallabout; church matters; and farmers' meetings.  Also included are the draft of an article on Brooklyn history Wyckoff wrote for the newspaper <emph render="italic">The Brooklyn Daily Star</emph>; notes from a presentation given by General Jeremiah Johnson on the events of the Revolutionary War in Long Island; and a letter written to Johnson from S.W. Stuart regarding an execution Johnson had witnessed during the War.  Some of the notes have been translated from Dutch manuscripts.</p>  </scopecontent>
+  <accessrestrict id="aspace_2540f13322b2647559af8829fb7d35b1">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <processinfo id="aspace_3df70728ca78f985da18061f4bdee7c2">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_578c693b16dda7755c6f9c5330e9ba51">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Peter Wyckoff historical notes, 1977.582, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_4d5f728d48a015991910807089ae7723">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. James D. Lester, 1958.</p>  </acqinfo>
+  <relatedmaterial id="aspace_30db51f0f5943da4aab3e3582e1dde08">
+    <head>Related Materials</head>
+<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>1973.258, Harriet Stryker-Rodda typescript of Peter Wyckoff recollections, 1828-1958</item>
+    </list>
+  </relatedmaterial>
+  <controlaccess>
+    <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
+    <geogname source="local">Gowanus (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+    <subject source="lcsh">Farmers |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Long Island (N.Y.) |x History |y Revolution, 1775-1783</geogname>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Church history</geogname>
+    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y Revolution, 1775-1783</geogname>
+    <subject source="lcsh">Agriculture |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Roads |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <persname rules="aacr" source="naf">Johnson, Jeremiah</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
