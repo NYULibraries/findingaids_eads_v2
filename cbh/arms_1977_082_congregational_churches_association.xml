@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_082_congregational_churches_association/">arms_1977_082_congregational_churches_association</eadid><filedesc><titlestmt><titleproper>Guide to the New York City Congregational Church Association ecclesiastical council minutes <num>1977.082</num></titleproper><author>Matthew Gorham and Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 24, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:26:58 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>New York and Brooklyn Association of Congregational Churches records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">New York and Brooklyn Association of Congregational Churches</corpname>
+    </origination>
+    <origination label="source">
+      <corpname rules="dacs" source="local">New York and Brooklyn Association of Congregational Churches</corpname>
+    </origination>
+    <unitid>1977.082</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.12 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1847/1896" type="inclusive">1847-1896</unitdate>
+    <abstract id="aspace_d3b046fc7d378c2605d42b1505307861">The volume (1847 to 1896)contains minutes for the Association's annual and special meetings, as well as its constitution.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6be2d58193f7090c393ee205be7ba400" label="Text" type="Box">A0032</container>
+  </did>
+  <bioghist id="aspace_2bd6fe554b27eea9e55101e12736151d">
+    <head>Historical note</head>
+<p>Formed in 1846, the New York and Brooklyn Association of Congregational Churches sought to connect Congregational ministers of the two cities and coordinate ecclesiastical councils. Ecclesiastical councils, composed of ministers from member churches, were formal meetings held to create new churches as well as ordane, appoint, and remove ministers. Manhattan-based ministers separated from the organization in the 1870s following the Henry Ward Beecher scandal, forming the Manhattan Congregational Association. In 1896, under the guidance of Rev. Lyman Abbott, Beecher's successor at Plymouth Church, members of the Manhattan Congregational Association returned to the New-York and Brooklyn Association. Later known as the New York City Congregational Church Association, the Association's work was taken over by the Metropolitan Association of the New York Conference of the United Church of Christ in the late 20th century.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>"Old Differences Settled: Brooklyn and New-York Congregationalists Have Reunited." <emph render="italic">New York Times</emph>, April 22, 1896, 7.</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_742d8911e74ae029c1e696897ca620c6">
+    <head>Scope and Contents</head>
+<p>The New York and Brooklyn Congregational Association records span the period 1847 to 1896 and are housed in a single hardbound volume. The volume contains minutes for the Association's annual and special meetings, as well as its constitution.</p>  </scopecontent>
+  <accessrestrict id="aspace_d454b09b7e891dc08c533a68ac0e9bf0">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <relatedmaterial id="aspace_8622050a4d15a7932ff8e7741b3c7990">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society also holds the New York City Congregational Church Association ecclesiastical council minutes. Please see collection 1977.084.</p>  </relatedmaterial>
+  <controlaccess>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Congregational churches |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Religious institutions |z New York (State) |z New York</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Congregational churches |z New York (State) |z New York</subject>
+    <genreform source="aat">Constitutions</genreform>
+    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Minutes</genreform>
+    <corpname role="fmo" rules="dacs" source="local">New York and Brooklyn Association of Congregational Churches</corpname>
+    <corpname rules="dacs" source="local">New York and Brooklyn Association of Congregational Churches</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
