@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_051_wiggins/">arms_1974_051_wiggins</eadid><filedesc><titlestmt><titleproper>Guide to the Wiggins family land deeds <num>1974.051</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 9, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:51:20 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Wiggins family land deeds</unittitle>
+    <origination label="Creator">
+      <famname source="naf">Wiggins family</famname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Wiggins, William</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Wiggins, Josias</persname>
+    </origination>
+    <unitid>1974.051</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1700/1801" type="inclusive">1700-1801</unitdate>
+    <abstract id="aspace_e241a5910a3badfadccb0685a82c81fc">This collection contains deeds relating to land held by various members of the Wiggins family, particularly brothers Josias and William Wiggins, in the town of Jamaica in Queens County, N.Y.  Deeds span the period 1700 to 1801.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_5b7b6764c0f4962c7472cefa79aee3e8" label="Text" type="Box">A0020</container>
+  </did>
+  <accessrestrict id="aspace_7293ff0184796ed884d7503245e78e7f">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_4426760a1eba4aec835d8f8e76b76c53">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  The collection was formally accessioned in 1974.</p>  </acqinfo>
+  <prefercite id="aspace_8ece39f59e2cff46c8a856ae149e2fdf">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Wiggins family land deeds, 1974.051, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_19f1638451c116c3d8daabd2b1e56fe1">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <geogname source="lcsh">Jamaica (New York, N.Y.)</geogname>
+    <subject source="lcsh">Land titles |z New York (State) |z Queens County</subject>
+    <subject source="aat">Deeds</subject>
+    <persname source="local">Wiggins, William</persname>
+    <persname source="local">Wiggins, Josias</persname>
+    <famname source="naf">Wiggins family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
