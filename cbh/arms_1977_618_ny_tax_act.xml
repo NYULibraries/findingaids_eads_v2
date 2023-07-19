@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_618_ny_tax_act/">arms_1977_618_ny_tax_act</eadid><filedesc><titlestmt><titleproper>Guide to the New York State Tax Act of 1781 <num>1977.618</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 13, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:21 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>New York State Tax Act of 1781</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="naf">New York (State). Legislature</corpname>
+    </origination>
+    <unitid>1977.618</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1781/1781" type="inclusive">1781</unitdate>
+    <abstract id="aspace_b0bb8a0de5a1a8be19deda507d5f4c2a">An act, dated November 20, 1781, for levying tax within the state by the New York State Legislature. The act was signed by Harmanus Smith.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_1a67761340a2297914cb6459c6b3ac89" label="Text" type="Box">A0073</container>
+  </did>
+  <accessrestrict id="aspace_cdf70b451394ab83acd6e6f03a9077cf">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_a882745f4d959a5e83aabbc27d3398bc">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Anna Lang Whiteford, 1965.</p>  </acqinfo>
+  <prefercite id="aspace_ae989a1c66bf88f0fcbb0c72c26e02fd">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); New York State Tax Act of 1781, 1977.618, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">New York (State)</geogname>
+    <genreform source="aat">Legislative acts</genreform>
+    <subject source="lcsh">Taxation |z New York (State)</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
