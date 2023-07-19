@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_193_meyer/">arms_1977_193_meyer</eadid><filedesc><titlestmt><titleproper>Guide to the Henry A. Meyer scrapbooks <num>1977.193</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:30:27 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Henry A. Meyer scrapbooks</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Meyer, Henry A.</persname>
+    </origination>
+    <unitid>1977.193</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize manuscript box and two oversize flat boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1888/1934" type="inclusive">1888-1934</unitdate>
+    <abstract id="aspace_75594d6e7c47345c1ff6fad89e6749cf">The Henry A. Meyer scrapbooks date from 1888 to 1934 and consists of five scrapbooks which document the professional life of Henry Meyer, a Brooklyn businessman, real estate developer, and government official. The scrapbooks contain news clippings, correspondence, programs, photographs, and memorabilia. In addition to the scrapbooks, the collection includes a copy of <emph render="italic">Vanderveer Park</emph>, by Meyers, inscribed to his mother, 1901.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Medium Flat Box 3" id="aspace_137b5619fd1b64f271f1343a76c69d59" label="Text" type="Oversize">1977.193 Box 3 of 3</container>
+    <container altrender="Wide Manuscript Box Legal" id="aspace_a5c1238453955251579c4aef98310f91" label="Text" type="Box">1977.193 Box 1 of 3</container>
+    <container altrender="Medium Flat Box 3" id="aspace_0ab6cb1a0504655f7a503b034dd07f73" label="Text" type="Oversize">1977.193 Box 2 of 3</container>
+  </did>
+  <acqinfo id="aspace_f0b24e633447101123b9780e87b88b35">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. Alfred Steers, Jr., 1957.</p>  </acqinfo>
+  <bioghist id="aspace_eef69076175041df88fa12dea65d4883">
+    <head>Biographical note</head>
+<p>Henry Adolf Meyer (1860-1940) was born in the Williamsburg neighborhood of Brooklyn. Meyer began his career as a grocer, serving as president of the Retail Grocer's Association of Brooklyn and the Retail Merchants Association of Brooklyn. In 1891, Meyer ran unsuccessfully for Mayor of Brooklyn as a Republican. He formed the Germania Real Estate and Investment Company, which in 1892 began the development of the Flatbush neighborhood of Brooklyn, especially Vanderveer Park. Meyer was also committed to the development of Jamaica Bay as an industrial area and a harbor, working as the head of the Jamaica Bay Improvement Commission and as deputy New York City Dock Commissioner from 1918 to 1933. He authored two books: <emph render="italic">Vanderveer Park </emph>, published in 1901, and <emph render="italic">Looking Through Life's Window</emph>, an autobiography published in 1930.</p>  </bioghist>
+  <accessrestrict id="aspace_f461c421803b3489e1c9108557f64255">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_4c9f8ef8efc5e58605197e2f371206f4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Henry A. Meyer scrapbooks, 1977.193, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_74407bd172af5dca878282779429e931">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <scopecontent id="aspace_73131e9d56a8670b898e5f06e9b895dc">
+    <head>Scope and Contents</head>
+<p>The Henry A. Meyer scrapbooks date from 1888 to 1934 and measure 2.25 linear feet. The collection consists of five scrapbooks which document the professional life of Henry Meyer, a Brooklyn businessman, real estate developer, and government official. The scrapbooks contain news clippings, correspondence, programs, photographs, and memorabilia. The scrapbooks document the following topics: Meyer's campaign for mayor of Brooklyn and work with the United Retail Grocers' Association; publication of Meyer's autobiography, <emph render="italic">Looking Through Life's Window</emph>; the Meyer family, politics, real estate, and development of Jamaica Bay and Vanderveer Park; launch of the municipal ferry boat <emph render="italic">Henry A. Meyer</emph>; and Meyer's work with the New York City Docks Department, including Jamaica Bay and the Staten Island Ferry, as well as his campaign to be appointed postmaster of Brooklyn. </p><p>In addition to the scrapbooks, the collection includes a copy of <emph render="italic">Vanderveer Park</emph>, by Meyers, inscribed to his mother, 1901.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Memorabilia</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Republican Party (N.Y.) |x History |y 19th century</subject>
+    <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Economic development |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Gateway National Recreation Area (N.J. and N.Y.)</geogname>
+    <subject source="lcsh">Local elections |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <geogname source="local">Vanderveer Park (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Jamaica Bay (N.Y.)</geogname>
+    <subject source="lcsh">Public officers |z New York (State) |z Kings County</subject>
+    <corpname rules="dacs" source="local">Germania Real Estate and Improvement Company</corpname>
+    <persname rules="aacr" source="naf">Meyer, Henry A.</persname>
+    <corpname rules="dacs" source="local">Jamaica Bay Improvement Commission</corpname>
+    <corpname rules="dacs" source="local">Brooklyn Retail Merchants' Association (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Staten Island Ferry</corpname>
+    <corpname rules="dacs" source="local">United Retail Grocers Association of Brooklyn</corpname>
+    <corpname rules="aacr" source="naf">New York (N.Y.). Dept. of Docks (1920-)</corpname>
+    <corpname rules="dacs" source="local">Henry A. Meyer (Ferry)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
