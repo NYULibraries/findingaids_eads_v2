@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_029_blind_players_club/">arms_1978_029_blind_players_club</eadid><filedesc><titlestmt><titleproper>Guide to the Blind Players Club, Inc. records <num>1978.029</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 21, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:25:36 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Blind Players Club, Inc. records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Blind Players Club</corpname>
+    </origination>
+    <unitid>1978.029</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1921/1943" type="inclusive">1921-1943</unitdate>
+    <abstract id="aspace_f8d5df9ecd33f6e5f9d2254a75ed14bc">The Blind Players Club, Inc. records span the period 1921 to 1943 and include letters, financial documents, and meeting minutes. The Blind Players Club was incorporated in July, 1921 in the town of Suffern, Rockland County, New York. The organization's purpose was to provide a home for musical instruction, social services, and handicraft opportunities for visually impaired women.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d4878301df17e99b3e170c9d29ac5081" label="Text" type="Box">A0076</container>
+  </did>
+  <prefercite id="aspace_649e20118a37a8ebe1f43c788e006050">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Blind Players Club, Inc. records, 1978.029, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_2ffbabd429f3db44615b86cd4abcc511">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The records were formally accessioned in 1978.</p>  </acqinfo>
+  <accessrestrict id="aspace_bfbf1ec0cfb7386b58a083eb50ccc615">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Financial records</genreform>
+    <subject source="lcsh">Blind |x Services for |z New York (State) |z Rockland County</subject>
+    <genreform source="aat">Minutes</genreform>
+    <geogname source="lcsh">Rockland County (N.Y.)</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
