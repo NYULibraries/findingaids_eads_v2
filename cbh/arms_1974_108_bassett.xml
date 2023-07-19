@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_108_bassett/">arms_1974_108_bassett</eadid><filedesc><titlestmt><titleproper>Guide to the Susannah Bassett <emph render="italic">Book of Common Prayer</emph> <num>1974.108</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 8, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:18 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract note.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Susannah Bassett Book of Common Prayer</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Bassett, Susannah</persname>
+    </origination>
+    <unitid>1974.108</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1790/1810" type="inclusive">circa 1800</unitdate>
+    <abstract id="aspace_921bef1f986f57999fed7ff20cda9717">A copy of the Anglican <emph render="italic">Book of Common Prayer</emph> with the name Susannah Bassett inscribed on the title page, circa 1800. On the inside back cover of the volume are the names and birth dates of enslaved African Americans, dated from 1799 to 1808.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_e7006f713271f079c41fa793e61dd613" label="Text" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_1b32f1dc0fa054c0324d2008316eec20">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_63c6900d2996bc32f970bbba72d6e08f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Susannah Bassett <emph render="italic">Book of Common Prayer</emph>, 1974.108, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_50493582549f123517445386e39fdd84">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of James A. Kelly, 1964.</p>  </acqinfo>
+  <processinfo id="aspace_268425e96ff77ca2c0fdca6014239279">
+    <head>Processing Information</head>
+<p>Oppressive descriptive language was remediated from the abstract note in this finding aid as part of an anti-racist descriptive language audit performed in December 2020.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">African Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Slavery |z New York (State) |z Kings County</subject>
+    <title source="local">The Book of Common Prayer</title>
+    <genreform source="aat">Prayerbooks</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
