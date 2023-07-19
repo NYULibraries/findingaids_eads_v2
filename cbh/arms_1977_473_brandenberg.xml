@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_473_brandenberg/">arms_1977_473_brandenberg</eadid><filedesc><titlestmt><titleproper>Guide to the William Brandenberg receipts <num>1977.473</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 10, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:26:50 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>WiIliam Brandenberg receipts</unittitle>
+    <origination label="Creator">
+      <persname source="local">Brandenberg, William</persname>
+    </origination>
+    <unitid>1977.473</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1875/1887" type="inclusive">1875-1887</unitdate>
+    <abstract id="aspace_ad2f464ff6aab24f879fdf3f2d568977">This collection contains William Brandenberg's receipts for water bills and other city taxes. William Brandenberg, a carriage maker, resided at 384 Hamilton Avenue in Brooklyn.  His shop was located at 385 Hamilton Avenue.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_85c73c2535ac7429fd986416873ab3d3" label="Text" type="Box">A0071</container>
+  </did>
+  <processinfo id="aspace_f19e6a5cd02f64eb7cb81a0596419cd4">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_9a2c114cb90987aed7e4a75529bb6fda">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); William Brandenberg receipts, 1977.473, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_7e2285667f1dac31da462e63942d3fdc">
+    <head>Biographical Note</head>
+<p>William Brandenberg, a carriage maker, resided at 384 Hamilton Avenue in Brooklyn.  His shop was located at 385 Hamilton Avenue.</p>  </bioghist>
+  <scopecontent id="aspace_533e4bbf7fcc40d8ec77d806345148cf">
+    <head>Scope and Contents</head>
+<p>This collection contains William Brandenberg's receipts for water bills and other city taxes.</p>  </scopecontent>
+  <accessrestrict id="aspace_573bb576dd7d683703d0b08d3534c2d0">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_99f54f4e81fb0c7f5557e5f1cb45d440">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Lillian Bayer, 1974.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <subject source="lcsh">Taxation |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Carriage industry |z New York (State) |z Kings County</subject>
+    <persname source="local">Brandenberg, William</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
