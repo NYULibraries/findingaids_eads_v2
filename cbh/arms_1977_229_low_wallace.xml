@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_229_low_wallace/">arms_1977_229_low_wallace</eadid><filedesc><titlestmt><titleproper>Guide to the Low and Wallace bills of lading <num>1977.229</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 13, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:31:43 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Low and Wallace bills of lading</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Snellen &amp; Book (Amsterdam, Netherlands)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Low &amp; Wallace (New York, N.Y.)</corpname>
+    </origination>
+    <unitid>1977.229</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1805/1805" type="inclusive">1805</unitdate>
+    <abstract id="aspace_7370e341504372c4f714dcd0eb5ea037" label="Abstract">This collection consists of two bills of lading for goods shipped to and from the New York City mercantile firm of Low and Wallace.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_8f472114c93615e83f5d981db956650a" label="Text" type="Box">A0052</container>
+  </did>
+  <processinfo id="aspace_057d5b41b9a28b927a8ba60b522001a8">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_6c261a921042084f7e0af2da9bc8e4d1">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Low and Wallace bills of lading, 1977.229, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_ba09431ce623fb8b3257660f009d8cf9">
+    <head>Scope and Contents</head>
+<p>This collection consists of two bills of lading for goods shipped to and from the New York City mercantile firm of Low and Wallace.  The first bill of lading, dated March 9, 1805, is for goods shipped by Low and Wallace on board the brig <emph render="italic">Minerva</emph>, and is signed by Henry L. De Koven.  The second bill of lading, dated June 30, 1805, is for goods shipped to Low and Wallace from Amsterdam by the firm Snellen and Book.  It is signed by L.S. Danberry.</p>  </scopecontent>
+  <accessrestrict id="aspace_f3504a6fd3cda545a2dee581539fc354">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_0b05467eb1055e00cc0a32c7fbdb687f">
+    <head>Historical Note</head>
+<p>Low and Wallace was a New York City mercantile firm run by merchants Nicholas Low (1739-1826) and William A. Wallace.</p>  </bioghist>
+  <acqinfo id="aspace_2a86fbed2c33aa92d327faa8e5a9ded2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mr. and Mrs. Morrison Pretz, 1964.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Merchants |z New York (State) |z New York</subject>
+    <genreform source="aat">Bills of lading</genreform>
+    <subject source="lcsh">Shipping |z New York (State) |z New York</subject>
+    <subject source="lcsh">Imports |z New York (State) |z New York</subject>
+    <subject source="lcsh">Exports |z New York (State) |z New York</subject>
+    <geogname source="lcsh">New York (N.Y.) |x Commerce</geogname>
+    <persname rules="aacr" source="naf">Low, Nicholas</persname>
+    <corpname source="local">Minerva (Brig)</corpname>
+    <corpname rules="aacr" source="naf">Low &amp; Wallace (New York, N.Y.)</corpname>
+    <persname source="local">Wallace, William A.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
