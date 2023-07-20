@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1982_004_cavalry_club_squadron_c/">v1982_004_cavalry_club_squadron_c</eadid><filedesc><titlestmt><titleproper>Guide to the Cavalry Club of Brooklyn, Squadron C photograph collection <num>V1982.004</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:38 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Cavalry Club of Brooklyn, Squadron C photograph collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">United States. Army. Cavalry Regiment, 101st</corpname>
+    </origination>
+    <unitid>V1982.004</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">in one folder, one oversize box, and one oversize drawer.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1890/1965" type="inclusive">circa 1890 to 1955</unitdate>
+    <abstract id="aspace_6608468ca06b7a759a8431a93e31e858" label="Abstract">Photographs relate to the Cavalry Club of Brooklyn, Squadron C (formally known as the 101st Cavalry Regiment) including group portraits, company photographs, and annual dinners.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_fd9a0a99e4813faa479b7ba83fee3801" label="Graphic Materials" type="Folder">Flat File</container>
+    <container id="aspace_cceada212f6f72060f296336bb4c277e" label="Graphic Materials" type="Box">Oversize Photos 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ad56771526f55ae240aac62250a261b1" label="Graphic Materials" type="Box">Prints by Accession 44</container>
+    <container altrender="Large Flat Box 11" id="aspace_c2d61c291fa2725f79eb8a5d09e69553" label="Mixed Materials [34444506250844]" type="Box">OS-42</container>
+    <container id="aspace_06e26cf44314bb8ea49352a470b7bd1f" label="Graphic Materials" type="Folder">Flat File</container>
+  </did>
+  <acqinfo id="aspace_eba221eff2871531b835c3b6f214371b">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown.</p>  </acqinfo>
+  <scopecontent id="aspace_2846133654cf53821c21b8f8e474aa2f">
+    <head>Scope and Contents</head>
+<p>This collection contains 21 photographs dating from circa 1900 to 1955. Photographs relate to the Cavalry Club of Brooklyn, Squadron C (formally known as the 101st Cavalry Regiment) including group portraits, company photographs, and annual dinners. Images of the Squadron's camp and horses, as well as other regional squadrons, are also included.</p>  </scopecontent>
+  <accessrestrict id="aspace_6ad0e4d2becdfa1ad32c8a08abcd1991">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_45ef3410a38e5c240fcfaace8cb6790d">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <userestrict id="aspace_c0dfac3038174ff6091043360f48c67d">
+    <head>Conditions Governing Use</head>
+<p>Copyright will remain in effect for 120 years following the date of creation. All items in this collection will enter the public domain by 2075. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <prefercite id="aspace_9bb159792339e2ee6ba28d7fd9ca0b61">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Cavalry Club of Brooklyn, Squadron C photograph collection, V1982.004, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <relatedmaterial id="aspace_c99e81d0c34a1650e173c7e4b6601e0a">
+    <head>Related Materials</head>
+<p>Documents and records from the Cavalry Club of Brooklyn, Squadron C are also available at the Brooklyn Historical Society. Consult with library staff for more details.</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Photographs</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
