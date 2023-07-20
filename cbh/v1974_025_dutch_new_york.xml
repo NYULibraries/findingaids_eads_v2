@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_025_dutch_new_york/">v1974_025_dutch_new_york</eadid><filedesc><titlestmt><titleproper>Guide to the Dutch in New York lantern slide collection <num>V1974.025</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:40:54 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Dutch in New York lantern slide collection</unittitle>
+    <unitid>V1974.025</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in one lantern slide box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1870/1900" type="inclusive">circa 1880 to 1890</unitdate>
+    <abstract id="aspace_24b4a51271735ff6df4236865b5ab117" label="Abstract">Images in the collection depict homes, churches, and artifacts relevant to Dutch settlement in Brooklyn and New York City during the 17th and 18th centuries. The collection contains images of Dutch furniture, interiors, clothing, and cooking utensils.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Glass Negatives" id="aspace_302906f2db301a4e78f8b2a59c4bb0e4" label="Graphic Materials" type="Box">1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_7a91a4504a03321f20c0023197fe2f3c" label="Graphic Materials" type="Box">Prints by accession 40</container>
+  </did>
+  <otherfindaid id="aspace_f351f748f597d29453aeb500e00ed4bc">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <accessrestrict id="aspace_bc8f926edaba04d937012d7c0e164961">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_d3e828781d2cfc1a0d338d2d5d373e7e">
+    <head>Conditions Governing Use</head>
+<p>Items in this collection entered the public domain in 2010. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_abbb0aad758fb12dc9ee45bed41bf61d">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for the collection are unknown. This collection was accessioned in 1974.</p>  </acqinfo>
+  <prefercite id="aspace_5cac51ba1225ad9f9e3831ec05f05d5b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Dutch in New York lantern slide collection, V1974.025, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_9a046a9101b08ae696bbe3691b838ec7">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <scopecontent id="aspace_1bac4b7c33d5ba197dc3d901c7101e3a">
+    <head>Scope and Contents</head>
+<p>The Dutch in New York lantern slide collection contains 24 lantern slides measuring 0.5 linear feet. Images in the collection depict homes, churches, and artifacts relevant to Dutch settlement in Brooklyn and New York City during the 17th and 18th centuries. The collection contains images of Dutch furniture, interiors, clothing, and cooking utensils. Significant sites in the collection include early Dutch churches, namely the Dutch Reformed Churches in the Flatbush and Flatlands neighborhoods of Brooklyn, Gerritsen's Tide Mill in Flatlands, and the Breukelen Ferry house at the East River. Brooklyn Dutch homes of note include the Boerum Mansion in Bushwick, the Jacobus Lefferts House in Flatbush, the Nacasius De Sille House in New Utrecht, the Stoothoff House in Flatlands, and the Pieter Claesen Wyckoff House in Flatbush. One slide shows a circa 17th century Dutch map of the region surrounding the <emph render="italic">Noort Riuier</emph>, known today as the Hudson River. Many slides in the collection are photographs of illustrations.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y Colonial period, ca. 1600-1775</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <subject source="lcsh">Dwellings |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Dutch Americans |z New York (State) |z New York</subject>
+    <genreform source="aat">Lantern slides</genreform>
+    <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
+    <subject source="lcsh">Architecture, Dutch |z New York (State) |z Kings County</subject>
+    <corpname rules="aacr" source="naf">Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
