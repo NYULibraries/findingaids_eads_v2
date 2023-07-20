@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2013_009_marshall_books/">arms_2013_009_marshall_books</eadid><filedesc><titlestmt><titleproper>Guide to the Marshall collection of McLoughlin Brothers / Robert A. Graef illustrated children's books <num>2013.009</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:27:18 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Marshall collection of McLoughlin Brothers / Robert A. Graef illustrated children's books</unittitle>
+    <origination label="Creator">
+      <corpname role="pbl" rules="aacr" source="naf">McLoughlin Bros., inc</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Marshall, Ken</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="ill" rules="dacs" source="naf">Graef, Robert A.</persname>
+    </origination>
+    <unitid>2013.009</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1940/1943" type="inclusive">1940-1943</unitdate>
+    <abstract id="aspace_a116b1de838f7d837654139256bbb20b">Five children's books, illustrated by Robert A. Graef and published by McLoughlin Bros., Inc, 1940-1943. The books belonged to Ken Marshall, and each book has been inscribed and/or autographed by illustrator Robert A. Graef. Titles include <emph render="italic">The Six Happy Goats</emph>, <emph render="italic">Rip Van Winkle</emph>, and <emph render="italic">A Christmas Carol</emph> (three copies).</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6a673edcb6ead9a1727c01b7fff0f61b" label="Books" type="Box">A0135</container>
+  </did>
+  <bioghist id="aspace_be93c7934230ef95e76d53021881fedf">
+    <head>Biographical note</head>
+<p>Robert Arthur Graef (1879-1951) was an American illustrator. He was born on September 26, 1879, on the Lower East Side of Manhattan, New York. In 1884, his family moved to Brooklyn, New York. He displayed artistic talent at a young age, and had his first illustration published in a local newspaper at the age of ten. He attended PS 78 in Brooklyn, and graduated from the Pratt Institute in 1896. That year the family moved to 399 Ocean Avenue, in the Flatbush neighborhood of Brooklyn. His father died in 1899, leaving the family a "significant fortune." Soon, Graef opened an art studio at 70 5th Avenue, in Manhattan, and his illustrations were sold to numerous magazines and other publications. He married Ethel Esther Leffingwell in 1908. Their first son, Frederick Leffingwell Graef, was born on September 13, 1909, followed by a second son, Robert Leffingwell Graef, on October 20, 1914. During World War I, "he contributed patriotic recruitment posters to the war effort." He became an early member of the Guild of Freelance Artists (later the Artists Guild) in 1921. In 1924, the family moved to 1910 Avenue I, in the Midwood neighborhood of Brooklyn. He continued to publish artwork in magazines, and in 1940 he illustrated a series of classic children's books for the McLoughlin Bros., Inc. He died at his home in Brooklyn on May 16, 1951.</p>    <list type="ordered">
+      <head>Sources</head>
+      <item>Biography provided by donor</item>
+    </list>
+  </bioghist>
+  <processinfo id="aspace_dc27631c8253a62751ef353297e2cb9c">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <acqinfo id="aspace_9da256bcad0ca63b3d2d8acc29f880e1">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Ken Marshall, 2013. His father, Stanley Marshall, had the books autographed by illustrator Robert A. Graef sometime in the 1940s.</p>  </acqinfo>
+  <prefercite id="aspace_f2358352012864cffb4a4a97de8bf497">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Marshall collection of McLoughlin Brothers / Robert A. Graef illustrated children's books, 2013.009, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_c7ea510a0ec9c85803c9ee192e674821">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_a5a290b2eeb3f5a4be63435da5902681">
+    <head>Conditions Governing Use</head>
+<p>Copyright status for the books has not been determined. Please consult library staff for more information.</p>  </userestrict>
+  <relatedmaterial id="aspace_537984ce69a73246c0b3d20fc72b4a1a">
+    <head>Related Materials</head>
+<p>The Liman collection of 19th century McLoughlin Brothers illustrated children books (2007.002)</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Children's books</genreform>
+    <subject source="lcsh">Children's literature</subject>
+    <persname rules="dacs" source="naf">Graef, Robert A.</persname>
+    <corpname rules="aacr" source="naf">McLoughlin Bros., inc</corpname>
+    <persname role="dnr" rules="dacs" source="local">Marshall, Ken</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
