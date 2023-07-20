@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1990_022_solly/">arms_1990_022_solly</eadid><filedesc><titlestmt><titleproper>Guide to the Solly Family genealogy collection <num>1990.022</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 8, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:27:33 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Solly family genealogy collection</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Solly, N. Neal (Nathaniel Neal)</persname>
+    </origination>
+    <unitid>1990.022</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.4 Linear Feet</extent>
+      <extent altrender="carrier">in one folder and one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1490/1871" type="inclusive">1490-1871</unitdate>
+    <abstract id="aspace_1fc52e34a6cac01cf64e6ebeeb1ed1ff">This collection includes one manuscript volume account by Nathaniel Neal Solly regarding various ancestors and family members.  The volume gives a detailed account of the Solley family history and includes charts, seals, and a rendering of the family's coat of arms. Also included is one oversize genealogical chart of the Solly family.  Although they primarily document the Solly family of Kent, England, the volume and chart were found in Brooklyn, N.Y. upon the building of St. Stephen's Lutheran Church School at Newkirk Avenue and 28th Street.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_973871ed77fd0cfa5a7fb9479552c1f6" label="Text" type="Box">A0112</container>
+    <container altrender="Rolled Storage Box 3" id="aspace_d3560523be9239c202774fa009ebaa07" label="Text" type="Box">OS-12</container>
+  </did>
+  <prefercite id="aspace_b4a51fe02303e2c2f5b9843d082962a4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Solly Family genealogy collection, 1990.022, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_2602a7ac4038613e89821e4c4b1affcd">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <accessrestrict id="aspace_60cf159f4e41287d1058a3c173caf566">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_1375710114179117c886dfc2973779db">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Norman B. Buckman, 1990.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Kent (England)</geogname>
+    <subject source="lcsh">Families |z England |z Kent</subject>
+    <genreform source="aat">Volumes (documents by form)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Genealogies</genreform>
+    <subject source="lcsh">Genealogy</subject>
+    <famname source="local">Solly family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
