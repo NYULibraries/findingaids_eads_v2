@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1988_034_dahlstrom/">v1988_034_dahlstrom</eadid><filedesc><titlestmt><titleproper>Guide to the Carl H. Dahlstrom collection of Blizzard of 1888 photographs <num>V1988.034</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 3, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:26:07 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Carl H. Dahlstrom collection of Blizzard of 1888 photographs</unittitle>
+    <origination label="Creator">
+      <persname role="com" rules="dacs" source="local">Dahlstrom, Carl H.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Levison, Dr.</persname>
+    </origination>
+    <unitid>V1988.034</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.04 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1888/1888" type="inclusive">1888</unitdate>
+    <abstract id="aspace_43f5b3d4e38cc62bc8c3b9ae241a1474" label="Abstract">Photographs in the collection are modern copy prints of black-and-white negatives taken by a Dr. Levison following the blizzard. Images are located in the Boerum Hill and Downtown neighborhoods of Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_e69300b3b116de9b75c75e61fca04dfc" label="Graphic Materials" type="Box">Prints by Accession 54</container>
+  </did>
+  <scopecontent id="aspace_d617b0b69f65304f90fff0e8576bbcf2">
+    <head>Scope and Contents</head>
+<p>The Carl H. Dahlstrom collection of Blizzard of 1888 photographs dates from 1888 and contains 16 items. Photographs in the collection are modern copy prints of black-and-white negatives taken by a Dr. Levison following the blizzard. Images are located in the Boerum Hill and Downtown neighborhoods of Brooklyn. The collection includes street scenes which show the impact of the blizzard on the buildings, streets, and elevated train tracks. Several images show horse-drawn sleds and carriages in the streets. The collection also includes two photographed maps which track the storm's path in the Northern Atlantic Ocean.</p>  </scopecontent>
+  <accessrestrict id="aspace_af45345b9a4cf424fa588dd4f27abeaf">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_454b0641fed0e77a83f13ad21d067f39">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <prefercite id="aspace_e930f770a50881d8c850dceefcc6b5c8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Carl H. Dahlstrom collection of Blizzard of 1888 photographs, V1988.034, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_fb27c392a958cc8c1e4ff91a7510d24b">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <userestrict id="aspace_5bddb3b767b925d6f888df21d6bf815d">
+    <head>Conditions Governing Use</head>
+<p>All items in this collection have entered the public domain. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_8639cf09bb2d9cbeb450bfea07e0dbc2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Carl H. Dahlstrom, 1988.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
+    <subject source="lcsh">Blizzards |z Atlantic States</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Cityscapes</genreform>
+    <subject source="lcsh">Railroads, Elevated |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Buildings |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Maps</genreform>
+    <subject source="lcsh">Horse-drawn vehicles</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
