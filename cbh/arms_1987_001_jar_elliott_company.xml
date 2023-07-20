@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1987_001_jar_elliott_company/">arms_1987_001_jar_elliott_company</eadid><filedesc><titlestmt><titleproper>Guide to the J.A.R. Elliott Company records <num>1987.001</num></titleproper><author>Gioia Stevens</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>February 2009</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:26:33 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>J.A.R. Elliott Company records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">J.A.R. Elliott Company (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Elliott, James Albert Riley</persname>
+    </origination>
+    <unitid>1987.001</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
+      <extent altrender="carrier">in six manuscript boxes and four record cartons.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1900/1952" type="inclusive">1900-1952</unitdate>
+    <abstract id="aspace_f6f712076bbd8b2b001422e2b0c43251" label="Abstract">The J.A.R. Elliott Company records span the period 1900 to 1952 and mostly concern the manufacture and sale of the Elliott Perfect Ear Protector from the years 1903 to 1930. Additional records include Ear Protector testimonials, publicity materials, layouts, clippings, advertisements, ledgers, ephemera, bills, and a scrapbook containing correspondence and documents for foreign patents. The collection also contains Elliott's correspondence from the years 1902 to 1913 concerning his shooting career.</abstract>
+    <langmaterial id="aspace_eb0810ce2fb794ea232776f440ce428a">Foreign patent correspondence in several European languages, all other materials in English.</langmaterial>
+    <container altrender="Record Carton" id="aspace_d58d1c5c6c350301801dffa13d45471d" label="Text" type="Box">1987.001 7 of 10</container>
+    <container altrender="Record Carton" id="aspace_3c33f8d9b54ee0f8c0e8bfe8460b5bb2" label="Text" type="Box">1987.001 8 of 10</container>
+    <container altrender="Record Carton" id="aspace_55fb198b6aa90c04f2b86d62d9f728f6" label="Text" type="Box">1987.001 9 of 10</container>
+    <container altrender="Record Carton" id="aspace_51ed8424a0ba06101f19d2836549dcb0" label="Text" type="Box">1987.001 10 of 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ef9e17f2624767204c86226b2063e0cd" label="Text" type="carton">1987.001 1 of 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_1830a9f7e148d7e078cba180138f3066" label="Text" type="carton">1987.001 2 of 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_fa4c43464cfe6f1f96add73f97da06a2" label="Text" type="carton">1987.001 3 of 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6169d515d60dddb78e14eb29e04e3f2a" label="Text" type="carton">1987.001 4 of 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_285f1d42d9dfc31bde2f4b5b93015608" label="Text" type="Box">1987.001 5 of 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_1f910bec2ab625669b4fbc4f8e33cebc" label="Text" type="Box">1987.001 6 of 10</container>
+  </did>
+  <prefercite id="aspace_9cf5cd78b1188547d471cfd4f9819b64">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); J.A.R. Elliott Company records, 1987.001, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_4cf64405b07c7921645a8da3e5ffb471">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <accessrestrict id="aspace_1328f4b99fdc47df116afbaf0794bd5c">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_62c7a4732754c1dadd9d7ed176be3212">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. Merle E. Ohlinger on behalf of herself and her sister, Mrs. Elinor Elliott Koechley, 1996.</p>  </acqinfo>
+  <bioghist id="aspace_2b7e236655d70ce299a083920d6d3cb4">
+    <head>Historical Note</head>
+<p>James Albert Riley (J.A.R.) Elliott (1854-1924) was one of the premier live-bird and trap shooters in America from the late 1880s until his retirement in 1915. In the late 19th century, live pigeon shooting was a popular competitive sport and Elliott was a celebrated national champion.  Elliott earned a living by competing for prize money and through his longstanding employment as a representative of the Winchester Repeating Arms Company.  By about 1910,  shooting live birds was increasingly considered cruel and the sport began to shift to shooting clay targets or skeet shooting. Elliott's shooting career became less active and in 1911 he launched a new business venture, Elliott's Perfect Ear Protector. The ear protector, which he patented in the U.S. and eight other countries, was designed to protect the inner ear from the damage caused by the shock of loud noises, such as gun fire. The business was a commercial success and Elliott's customers ranged from local gun clubs to the U.S. military. Elliott moved from Kansas City, MO to Brooklyn, N.Y. in about 1910 and purchased a large stone mansion at 122 76th Street in the neighborhood of Bay Ridge. He died in Brooklyn on August 7, 1924.</p>  </bioghist>
+  <scopecontent id="aspace_420bbb359dbbf3d36afca0bd8a28af88">
+    <head>Scope and Contents</head>
+<p>The J.A.R. Elliott Company records span the period 1900 to 1952 and mostly concern the manufacture and sale of the Elliott Perfect Ear Protector from the years 1903 to 1930.  Additional records include Ear Protector testimonials, publicity materials, layouts, clippings, advertisements, ledgers, ephemera, bills, and a scrapbook containing correspondence and documents for foreign patents. The collection also contains Elliott's correspondence from the years 1902 to 1913 concerning his shooting career.</p><p>The business records of  the J.A.R. Elliott Company for the years 1903 to 1930 are organized alphabetically by topic in Boxes 1 to 7.  Boxes 8 and 9 contain additional business records and Elliott's correspondence regarding his shooting career. Box 10 contains oversize items, including the foreign patents scrapbook.</p>  </scopecontent>
+  <otherfindaid id="aspace_0721177190e467de90458d86134023df">
+    <head>Other Finding Aids</head>
+<p>An earlier version of this finding aid, containing a complete container list, is available in paper form at the Brooklyn Historical Society.  Please consult library staff for more information.</p>  </otherfindaid>
+  <controlaccess>
+    <subject source="lcsh">Trapshooting</subject>
+    <subject source="lcsh">Shooting</subject>
+    <subject source="lcsh">Ear |x Wounds and injuries</subject>
+    <subject source="lcsh">Acoustic trauma</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Printed ephemera</genreform>
+    <genreform source="aat">Scrapbooks</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Businessmen |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce</geogname>
+    <genreform source="aat">Trade cards (advertising)</genreform>
+    <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
+    <corpname source="local">J.A.R. Elliott Company (Brooklyn, New York, N.Y.)</corpname>
+    <persname source="local">Elliott, James Albert Riley</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
