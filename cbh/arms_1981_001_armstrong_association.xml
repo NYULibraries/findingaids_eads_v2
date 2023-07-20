@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1981_001_armstrong_association/">arms_1981_001_armstrong_association</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Armstrong Association and Brooklyn Hampton Association Records <num>1981.001</num></titleproper><author>Larry Weimer</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>December 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:31:27 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn Armstrong Association and Brooklyn Hampton Association records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn Hampton Association (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn Armstrong Association</corpname>
+    </origination>
+    <unitid>1981.001</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.33 Linear Feet</extent>
+      <extent altrender="carrier">in five folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1906/1943" type="inclusive">1906-1943</unitdate>
+    <abstract id="aspace_7f0436c7ca0ec0bab030d73df8f11041">The Brooklyn Armstrong Association was formed in 1906, renamed the Brooklyn Hampton Association in 1920, and disbanded in 1943. The Association was formed principally as a vehicle for Brooklynites to support the Hampton Normal and Agricultural Institute and to engage with matters of African-American "uplift." The collection includes material from throughout the life of the organization, including: a scrapbook of clippings about events and meetings, solicitations, meeting invitations, announcements, reports, membership lists, Hampton Institute publications, and the like; some annual reports; minute books for the Executive Committee and Annual meetings; and correspondence, mostly from 1943 concerning the final days of the organization.</abstract>
+    <langmaterial id="aspace_40963a4ccd6255cdfa329b9e3cdb2401">Materials are in English.</langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_81a56d9d81cc0bacc026daa578dd97fb" label="Text" type="Box">A0096</container>
+    <container id="aspace_30423300e157dd92f0e02bacd05580e4" parent="aspace_81a56d9d81cc0bacc026daa578dd97fb" type="Folder">5 folders</container>
+  </did>
+  <arrangement id="aspace_d5543ec1ee165c5cb9fcb5a451477b46">
+    <head>Arrangement</head>
+<p>The material is in five folders, arranged by type of material.</p>  </arrangement>
+  <bioghist id="aspace_9107d144221530eacbf31605f58968b0">
+    <head>Biographical / Historical</head>
+<p>The Brooklyn Armstrong Association was formed in 1906, at least in part to accommodate Brooklyn residents who were members of the Armstrong Association of New York. The Association's aim was "to stimulate public interest in the work and influence of the Hampton Normal and Agricultural Institute and generally in the uplifting of the Negro and Indian races." The organization held public lectures and collected contributions for the Hampton Institute. In late 1920, the organization changed its name to the Hampton Association of Brooklyn (more commonly referred to as the Brooklyn Hampton Association). The organization disbanded in 1943.</p>  </bioghist>
+  <accessrestrict id="aspace_b97225a33736490e8be9834835bf3280">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_31b3b971a8268a4557b17526125641b5">
+    <head>Conditions Governing Use</head>
+<p>Most of the material is in the public domain.</p>  </userestrict>
+  <acqinfo id="aspace_c9047cbdd3f7d6ba93fe2ac400ab065c">
+    <head>Immediate Source of Acquisition</head>
+<p>References on the material indicate that at least some of the collection was owned by Alfred T. White and was likely donated by him to the Long Island Historical Society (now Brooklyn Historical Society).</p>  </acqinfo>
+  <prefercite id="aspace_36cdbba893133020eb8ffa10b07b38eb">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn Armstrong Association and Brooklyn Hampton Institute records, 1981.001, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_b295c0e660873a2ac63960779f2365a4">
+    <head>Processing Information</head>
+<p>The collection was processed in December 2011 by Larry Weimer.</p>  </processinfo>
+  <scopecontent id="aspace_3b3e15605da9e47e61e5cbd9c47de2ce">
+    <head>Scope and Contents</head>
+<p>The collection includes material from throughout the life of the Brooklyn Armstrong (1906-1920) and Hampton (1920-1943) Associations. A scrapbook (1906-1939) includes clippings about events and meetings (notably a visit to Brooklyn by Booker T. Washington and Secretary of War Taft), solicitations, meeting invitations, announcements, reports, membership lists, Hampton Institute publications, and the like. There are some annual reports in the collection. There are minute books (1906-1943) for the Executive Committee and Annual meetings. There is a small amount of correspondence, principally from 1943, concerning the final days of the organization.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Scrapbooks</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Minutes</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Race relations -- United States</subject>
+    <genreform source="aat">Annual reports</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">African Americans |x Education |x History</subject>
+    <subject source="lcsh">Charitable giving</subject>
+    <subject source="lcsh">Charity organization |z New York (State) |z Kings County</subject>
+    <corpname rules="aacr" source="naf">Hampton Institute</corpname>
+    <corpname rules="aacr" source="naf">Hampton Normal and Agricultural Institute (Va.)</corpname>
+    <corpname rules="dacs" source="local">Brooklyn Hampton Association (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Brooklyn Armstrong Association</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
