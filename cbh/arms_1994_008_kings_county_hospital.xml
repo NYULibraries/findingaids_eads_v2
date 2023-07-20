@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/1994_008_kings_county_hospital/">arms_1994_008_kings_county_hospital</eadid><filedesc><titlestmt><titleproper>Guide to the Mortimer D. Jones collection on the Kings County Hospital <num>1994.008</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 2014</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:32:25 +0000</date>.</creation><langusage>Finding Aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Mortimer D. Jones collection on the Kings County Hospital</unittitle>
+    <origination label="Creator">
+      <persname role="col" rules="dacs" source="local">Jones, Mortimer D.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">McNally, Elizabeth</persname>
+    </origination>
+    <unitid>1994.008</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.15 Linear Feet</extent>
+      <extent altrender="carrier">in three folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1931/1939" type="inclusive">1903 to 1930s</unitdate>
+    <abstract id="aspace_287535db255ec91c17a7eafc385d9447">The collection contains an assortment of items relating to Kings County Hospital, dating from 1903 to the 1930s. It includes photographs, clippings, ephemera, and a history of the hospital.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_cdfec9243cf7d4cc033eabe7248e3799" label="Graphic Materials" type="Box">A0020</container>
+  </did>
+  <accessrestrict id="aspace_696328f072117092a4fda82d9f51f652">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_676ac410224d2f8b9d3afa01ee86333a">
+    <head>Scope and Contents</head>
+<p>The collection contains an assortment of items relating to Kings County Hospital, dating from 1903 to the 1930s. It includes: one photograph album (assembled in the 1930s); one loose photograph of the exterior of the hospital (1930s); ephemera relating to the Eleventh Annual Dinner of the Kings County Hospital Alumni Association (1904); one clipping relating to bachelor doctors (1908); one clipping relating to club foot surgery at the hospital (1922); invitations to attend surgeries performed by Dr. A.T. Bristow (1904); a manual titled <emph render="italic">The Hospital Formulary of the Department of Public Charities and the Department of Bellevue and Allied Hospitals of the City of New York</emph> (sixth revised edition), by W.E. Dreyfus (1903); and a typescript titled <emph render="italic">History of Kings County Hospital from the Earliest Care of the Poor in the County until the Abolition of the Office of Superintendent of Poor, April 14th, 1871; Together with a Brief Summary of the Subsequent Events to 1922.</emph></p><p>Of particular note is the photograph album, which was assembled in the 1930s, but contains photographs dating back to the 1900s. It was likely assembled by Dr. Mortimer D. Jones, who was superintendent of the hospital from 1910 until 1929. The album documents the construction of the new hospital (completed in 1931) and other nearby medical buildings, doctors and patients, and other New York metropolitan area hospitals. It also features two photographs of an infant with congenital hydrocephalus, or enlarging of the head.</p>  </scopecontent>
+  <userestrict id="aspace_2a8be972644ce12103ed93903509dc40">
+    <head>Conditions Governing Use</head>
+<p>Photographs are presumed to be in the public domain by 2055.</p>  </userestrict>
+  <prefercite id="aspace_957b83c8143591d61c222aaf69ab70a5">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Mortimer D. Jones collection on the Kings County Hospital, 1994.008, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <relatedmaterial id="aspace_21360ab69bcd6ff39e03cc7af7ae9cac">
+    <head>Related Materials</head>
+<p>Brooklyn Eye and Ear Hospital records, 1868-1976 (1985.005)</p><p>Medical Society of the County of Kings collection, 1852-1956 (1985.116)</p><p>Lutheran Hospital of Brooklyn collection, 1881-1978 (2006.032)</p><p>Long Island College Hospital School of Nursing Alumnae Association records, 1858-2014 (2014.006)</p><p>Long Island College Hospital collection, 1861-1969 (ARC.139)</p><p>Brooklyn hospitals and health services organizations collection, 1829-1998 (ARC.141)</p><p>Methodist Episcopal Hospital annual reports and ephemera collection, 1888-1990 (ARC.155)</p><p>Brooklyn Hospital records, 1845-1991 (ARC.225)</p><p>Norwegian Lutheran Deaconesses' Home and Hospital annual reports and receipts, 1891-1927 (ARC.246)</p><p>Viscount and Viscountess Halifax photographs of Jewish Hospital in Brooklyn, 1943 (V1974.017)</p><p>Photographs of St. Mary's Maternity Hospital, 1991 (V1991.125)</p>  </relatedmaterial>
+  <custodhist id="aspace_efea78611fd630500aa23f02e3ccd971">
+    <head>Custodial History</head>
+<p>Elizabeth McNally recieved this collection in 1970 from Elizabeth Sigeti, who had received it from the widow of Dr. Mortimer D. Jones. Dr. Jones served as the Superintendent of Kings County Hospital from 1910 until 1929.</p>  </custodhist>
+  <acqinfo id="aspace_36d51ab4d6377dd91bbf20b22d86a501">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Elizabeth McNally, 1994.</p>  </acqinfo>
+  <processinfo id="aspace_c60cb47d91ca7c08781a06b6c165548d">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <bioghist id="aspace_50c0cf78b1994e60cbfd5c806dd07fda">
+    <head>Biographical note</head>
+<p>Mortimer D. Jones was born on May 3, 1877, in Brooklyn, New York. He was a graduate of the College of Physicians and Surgeons of Columbia University. Jones served as superintendent of the Cumberland Street Hospital until 1910, when he was appointed superintendent of Kings County Hospital. He was briefly relieved of his duties in 1928 following allegations of mismanagement and anti-Semitism. In 1929 he was named medical superintendent of City Hospital on Welfare Island (now known as Roosevelt Island), a position he held until he retired in 1934. He was married to the former Lillian Stephen and passed away in Ridgewood, New Jersey,  in 1953.</p><p>Sources:</p><p>"Twenty-One More Nurses." <emph render="italic">The Brooklyn Daily Eagle</emph> (Brooklyn, New York), May 27, 1910.</p><p>"Dr. Jones Is Sent To Welfare Island Post By Schroeder." <emph render="italic">The Brooklyn Daily Eagle</emph> (Brooklyn, New York), April 20, 1929.</p><p>"Dr. Mortimer D. Jones, Former Kings Hospital Medical Chief." <emph render="italic">The Brooklyn Daily Eagle</emph> (Brooklyn, New York), September 22, 1953.</p><p>The National Archives at St. Louis; St. Louis, Missouri; <emph render="italic">World War II Draft Cards (Fourth Registration) for the States of New Jersey</emph>.</p>  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <geogname source="lcsh">East Flatbush (New York, N.Y.)</geogname>
+    <genreform source="aat">Ephemera</genreform>
+    <subject source="lcsh">Hospitals |x Medical staff |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Hospitals |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Manuals (instructional materials)</genreform>
+    <subject source="lcsh">Medicine |x Practice |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Menus</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Photograph albums</genreform>
+    <subject source="lcsh">Physicians |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Programs (documents)</genreform>
+    <subject source="lcsh">Surgery |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Typescripts</genreform>
+    <persname rules="dacs" source="local">Jones, Mortimer D.</persname>
+    <corpname rules="aacr" source="naf">Kings County Hospital (Kings County, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Kings County Hospital (Kings County, N.Y.). Alumni Association</corpname>
+    <persname role="dnr" rules="dacs" source="local">McNally, Elizabeth</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
