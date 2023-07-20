@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2007_052_quigley/">arms_2007_052_quigley</eadid><filedesc><titlestmt><titleproper>Guide to the Quigley collection of Baseball memorabilia <num>2007.052</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:25:33 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Quigley collection of Baseball memorabilia</unittitle>
+    <origination label="Creator">
+      <persname role="col" rules="dacs" source="local">Quigley, Daniel N.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Quigley, Matthew</persname>
+    </origination>
+    <unitid>2007.052</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in one record carton</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1943/1973" type="inclusive">1943-1973</unitdate>
+    <abstract id="aspace_cd815a11501b8f3d803329d3f19fd930">This collection contains 12 signed team baseballs, 1943-1955; 11 world series programs, 1951-1956 (one signed by the Dodgers); a 1955 revised Dodgers Yearbook; 2 copies of Sports Illustrated (1955); and a 1973 Mets Diamond Club admission card for Daniel Quigley.  Except for this last item, all other items were collected by Daniel Quigley while he was employed at Ebbets Field in the 1940s and 1950s.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Record Carton" id="aspace_422a6c015d5bf5cb3be1d6b977112e3d" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <prefercite id="aspace_0fc04eeb4140af53812b5f6b032860b8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Quigley collection of Baseball memorabilia, 2007.052, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <userestrict id="aspace_694e3d34d207d5bcafee755e4947214b">
+    <head>Conditions Governing Use</head>
+<p>All items in the collection are presumed to be in the public domain.</p>  </userestrict>
+  <accessrestrict id="aspace_d3d9bfe9e3eca1c7a477242dd7a945bd">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_dc466238d6fa2c1b8b486f908627b80f">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Matthew Quigley, 2007.</p>  </acqinfo>
+  <relatedmaterial id="aspace_067ed88c9f5dc7283705b853e6015dc8">
+    <head>Related Materials</head>
+<p>Brooklyn Dodgers collection (ARC.297)</p><p>Brooklyn Dodgers photographs, 1949–1956 (V1987.001)</p><p>Brooklyn Dodgers team photographs, 1953 (V1987.019)</p><p>Collection of Brooklyn Dodgers photographic portraits, circa 1940-1957 (ARC.265)</p><p>Eckford Social Club scrapbook, 1871-1961(1991.049)</p><p>Larry Trapani Brooklyn Dodgers collection, 1941-1957 (2005.037)</p><p>Walter O'Malley Brooklyn Dodgers records, 1946-1957 (ARC.294)</p><p>William Watson Clark scrapbook, circa 1928-1938 (2011.006)</p>  </relatedmaterial>
+  <processinfo id="aspace_d463bb5c0659bf1133d5b1a74c7a3c0c">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Artifacts (object genre)</genreform>
+    <subject source="lcsh">Baseball |z New York (State) |z New York</subject>
+    <genreform source="aat">Memorabilia</genreform>
+    <genreform source="aat">Magazines (periodicals)</genreform>
+    <geogname source="lcsh">Queens (New York, N.Y.)</geogname>
+    <title source="lcsh">Sports illustrated</title>
+    <subject source="lcsh">Baseball |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Baseball teams |z New York (State) |z New York</subject>
+    <subject source="lcsh">Baseball teams |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Souvenir programs</genreform>
+    <corpname rules="aacr" source="naf">Brooklyn Dodgers (Baseball team)</corpname>
+    <persname role="dnr" rules="dacs" source="local">Quigley, Matthew</persname>
+    <persname rules="dacs" source="local">Quigley, Daniel N.</persname>
+    <corpname rules="dacs" source="naf">New York Mets (Baseball team)</corpname>
+    <corpname rules="dacs" source="naf">Major League Baseball (Organization)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
