@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2004_002_engine_141/">arms_2004_002_engine_141</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Engine 141 collection <num>2004.002</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>January 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:12 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn Engine 141 collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">New York (N.Y.). Fire Dept. Engine 141</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Mason, June Wardell</persname>
+    </origination>
+    <unitid>2004.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">in one flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1905/2004" type="inclusive">1905, 1996, 2004</unitdate>
+    <abstract id="aspace_f859d5cd4c6c89364871f7cc887858d5">The collection consists of one bound volume containing the roster and activity log for Brooklyn Engine 141 in the year 1905. It also includes a photocopy of a booklet entitled, "Engine 241 - A Century of Firefighting" (1996) and some genealogical material relating to the donor's family, the Wardells (some of whom were members of the company).</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box 2" id="aspace_92207e071c5e78c88393286f1f638585" label="Text" type="Box">2004.002 1 of 1</container>
+  </did>
+  <bioghist id="aspace_9265330cecd7af862d107fa4e18c664a">
+    <head>Historical note</head>
+<p>Engine 41 was established in 1896, when the volunteer fire department of the former Town of New Utrecht was replaced with a paid department by the City of Brooklyn. A new firehouse was built on Bay Ridge Avenue, near Ridge Boulevard for use by Engine 41 and Ladder 13. In 1898, when Brooklyn was annexed by the Greater City of New York, Ladder 13 was disbanded, and its ladder truck was assigned to Engine 41. In 1899, all of the Brooklyn companies were renumbered, and Engine 41 became Engine 141. It was renumbered once more in 1913, when it became Engine 241. Combination Engine 241 was disbanded in 1914, along with five other companies, and reorganized as a single engine company.</p>    <list type="ordered">
+      <head>Sources</head>
+      <item><emph render="italic">Engine 241 - A Century of Firefighting</emph>, 1996</item>
+    </list>
+  </bioghist>
+  <acqinfo id="aspace_f864690e828116fbdc1c23445e78d598">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of June Wardell Mason, 2004.</p>  </acqinfo>
+  <scopecontent id="aspace_fd9cc9f224cad76d3d0beca1a8db363d">
+    <head>Scope and Contents</head>
+<p>The collection consists of one bound volume containing the roster and activity log for Brooklyn Engine 141 in the year 1905. A small note was found in the volume which reads: "this was found where Midwood St. was opened in line of Bedford Ave." The collection also includes a photocopy of a booklet entitled, "Engine 241 - A Century of Firefighting" (1996) and some genealogical material relating to the donor's family, the Wardells (some of whom were members of the company).</p>  </scopecontent>
+  <userestrict id="aspace_5b2a2ff50ea5fa4ce2c5eb18c5f48a25">
+    <head>Conditions Governing Use</head>
+<p>Engine 141 log book is in the public domain. "Engine 241 - A Century of Firefighting" will enter the public domain on June 23, 2091.</p>  </userestrict>
+  <accessrestrict id="aspace_d93b4bf5900d5c3d561d8ec121623396">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <relatedmaterial id="aspace_f46720278fc9a8a5624e6e3be0715c18">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society holds a number of Brooklyn firefighting materials, including (but not limited to):</p><p>Brooklyn Firefighting collection, 1825-1949 (1989.006)</p><p>Brooklyn Fire Department journals, 1899-1904 (1985.024)</p><p>Brooklyn Fire Department ephemera, 1831-1873 (1985.087)</p><p>Brooklyn Fire Department pamphlets, 1869-1884 (1985.070)</p><p>Brooklyn Fire Department ledgers, 1898-1910 (1990.004)</p>  </relatedmaterial>
+  <prefercite id="aspace_38ad523f7b87ee241cd8b5b4c93cb573">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn Engine 141 collection, 2004.002, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Logs (records)</genreform>
+    <subject source="lcsh">Fire prevention |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Genealogies</genreform>
+    <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+    <subject source="lcsh">Genealogy -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Fire departments |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Fire fighters |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Booklets</genreform>
+    <corpname rules="dacs" source="local">Brooklyn (N.Y.). Fire Dept. Engine 41</corpname>
+    <corpname rules="dacs" source="local">New York (N.Y.). Fire Dept. Engine 241</corpname>
+    <corpname rules="dacs" source="local">New York (N.Y.). Fire Dept. Engine 141</corpname>
+    <persname role="dnr" rules="dacs" source="local">Mason, June Wardell</persname>
+    <famname rules="aacr" source="naf">Wardell family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
