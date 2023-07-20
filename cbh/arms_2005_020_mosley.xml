@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2005_020_mosley/">arms_2005_020_mosley</eadid><filedesc><titlestmt><titleproper>Guide to the John A. Mosley papers <num>2005.020</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:24:30 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John A. Mosley papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Mosley, John A.</persname>
+    </origination>
+    <unitid>2005.020</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in three folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1911/1919" type="inclusive">1911-1919</unitdate>
+    <unitdate datechar="creation" type="inclusive">June 2005</unitdate>
+    <abstract id="aspace_e20a7ef11bef1a0b7d57440488e8bf80" label="Abstract">This collection contains personal papers and letters, photographs, wedding certificates, and atlases pertaining to the life of John Archer Mosely, dating from 1911 to 1919. This collection also contains a Legislative Resolution issued by the NY State Senate on June 21, 2005.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box" id="aspace_4181100485cf255101efba802741a5e6" label="Text" type="Oversize">OS-9</container>
+  </did>
+  <prefercite id="aspace_5acc402c84d9f56c8dc0efcdb549d9ad">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John A. Mosley papers, 2005.020, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_aecca272e38f67841b58710c09da9ce5">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <scopecontent id="aspace_a5e733e26915ae621a8bb1c495ef5044">
+    <head>Scope and Contents</head>
+<p>This collection contains personal papers and letters, photographs, wedding certificates, and atlases pertaining to the life of John Archer Mosely, dating from 1911 to 1919. This collection also contains a Legislative Resolution issued by the NY State Senate on June 21, 2005.</p>  </scopecontent>
+  <accessrestrict id="aspace_d078c5c3fcae2478cc1dadbe1eb3b98b">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_c43ea5e2f67ed28cdaa56dc26286f58a">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Patricia A. Crank, 2002, 2003, and 2007.</p>  </acqinfo>
+  <bioghist id="aspace_569e0c2a7b5a3c8c86634c24ac927d36">
+    <head>Biographical Note</head>
+<p>John Archer Mosley was a Brooklyn resident who began work as a laborer at the Brooklyn Navy Yard in 1913.  He later transferred to the Brooklyn Naval Hospital in 1921, and was promoted to the title of Fireman in 1945.  After the closing of the Brooklyn Naval Hospital in 1948, Mosley transferred to the U.S. Naval Hospital in St. Albans, N.Y., from which he retired in 1956.  Mosley and his wife, Mollie, had four sons and two daughters.  All four sons served in the U.S. Military.  The Mosley family belonged to Bethel Baptist Church in Brooklyn, where John and Mollie were eventually elected Deacon and Deaconess.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">African Americans -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Correspondence</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Navy-yards and naval stations |z New York (State) |z Kings County |x Employees</subject>
+    <genreform source="aat">Maps</genreform>
+    <genreform source="aat">Marriage certificates</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <persname source="local">Mosley, John A.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
