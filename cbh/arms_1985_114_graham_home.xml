@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_114_graham_home/">arms_1985_114_graham_home</eadid><filedesc><titlestmt><titleproper>Guide to the Graham Home for Old Ladies annual reports and publications <num>1985.114</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 16, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:25:18 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Graham Home for Old Ladies annual reports and publications</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Brooklyn Society for the Relief of Respectable, Aged, Indigent Females</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Graham Home for Old Ladies</corpname>
+    </origination>
+    <unitid>1985.114</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.83 Linear Feet</extent>
+      <extent altrender="carrier">in two manuscript boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1852/1958" type="inclusive">1852-1958</unitdate>
+    <abstract id="aspace_700f6f609be71af59f58fe6822225276">The Graham Home for Old Ladies annual reports and publications span the period 1852 to 1958. Annual reports feature summaries of the Home's yearly activities, expenditures, and endowments, as well as listings of board members, managers, staff, and committees; the Home's certificate of incorporation, constitution, and bylaws; rules and regulations; application procedures; listings of monetary and material donors; and listings of annual subscribers and life members. The reports do not feature the names of residents being accommodated at the Home.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_8250d2af54368ec438dfe61d8f8ea826" label="Text" type="Box">1985.114 2 of 2</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_547fb7eaf4a370f8f4510552f2cd5db2" label="Text" type="Box">1985.114 1 of 2</container>
+  </did>
+  <bioghist id="aspace_282bdb87dc497266635fc89cbca78aef">
+    <head>Historical Note</head>
+<p>The Graham Home for Old Ladies was founded in 1851 by lawyer John Bell Graham (d. 1853), under the name of the Brooklyn Society for the Relief of Respectable, Aged, Indigent Females.  The Society served as a place of refuge for "elderly women, accustomed through life to comforts and refinement, who in their later years found themselves without relatives or adequate resources" (1).  The Society's building, the construction of which was funded by Graham and donations from several Brooklyn churches, opened for service in 1852 at Washington and Dekalb Avenues in the Brooklyn neighborhood of Clinton Hill.  All applicants admitted by the Society had to meet specific requirements concerning "the propriety of her conduct and the respectability of her character" (2).  The Society's name legally changed to the Graham Home for Old Ladies in 1899.  The Graham Home operated in accordance with its original mission for well over a century after its founding, but by the 1980s it had dissolved.  Its building was largely left abandoned and dilapidated until 2000, when it was purchased by the BRP Development Corporation, which restored the building and converted it into an upscale condominium complex.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Kings County Trust Company. <emph render="italic">Graham Home for Old Ladies</emph>. Brooklyn, N.Y.: Kings County Trust Company, c1958.</item>
+      <item>Kershaw, Sarah. "Brooklyn Condo in Historic 'Graham Home for Old Ladies' Is for Sale." <emph render="italic">New York Times</emph>, October 28, 2010. Accessed November 16, 2010. http://www.nytimes.com/2010/10/31/realestate/31Deal1.html</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_15cf4dfa4e905fd2dcb4356c02065d0a">
+    <head>Scope and Contents</head>
+<p>The Graham Home for Old Ladies annual reports and publications span the period 1852 to 1958.  Annual reports feature summaries of the Home's yearly activities, expenditures, and endowments, as well as listings of board members, managers, staff, and committees; the Home's certificate of incorporation, constitution, and bylaws; rules and regulations; application procedures; listings of monetary and material donors; and listings of annual subscribers and life members.  The reports do not feature the names of residents being accommodated at the Home.  Additional publications included in the collection include a commemorative booklet published to coincide with the Home's 100th anniversary, and three copies of an informational booklet on the Home published by the Kings County Trust Company, copyright 1958.</p>  </scopecontent>
+  <accessrestrict id="aspace_c65be004ba0756090f92fac69df4e5ef">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_e633e8dca7d519b8537f8b44905bfb6f">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1985.</p>  </acqinfo>
+  <prefercite id="aspace_c6c41e31cfd116fb22cb9a56b24ecc8e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Graham Home for Old Ladies annual reports and publications, 1985.114, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_f6591f9bb76949b7e15c1697a0a92ae9">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Old age homes |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Booklets</genreform>
+    <subject source="lcsh">Old age homes |z New York (State) |z Kings County |x Administration</subject>
+    <genreform source="aat">Subscription lists</genreform>
+    <subject source="lcsh">Old age homes |z New York (State) |z Kings County |x History</subject>
+    <genreform source="aat">Membership lists</genreform>
+    <genreform source="aat">Bylaws (administrative records)</genreform>
+    <genreform source="aat">Constitutions</genreform>
+    <genreform source="aat">Certificates of incorporation</genreform>
+    <geogname source="lcsh">Clinton Hill (New York, N.Y.)</geogname>
+    <genreform source="aat">Annual reports</genreform>
+    <corpname source="local">Brooklyn Society for the Relief of Respectable, Aged, Indigent Females</corpname>
+    <corpname source="local">Graham Home for Old Ladies</corpname>
+    <persname source="local">Graham, John Bell</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
