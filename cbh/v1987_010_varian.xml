@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1987_010_varian/">v1987_010_varian</eadid><filedesc><titlestmt><titleproper>Guide to the Percy Varian photographs <num>V1987.010</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 21, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:25:29 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Percy Varian photographs</unittitle>
+    <origination label="Creator">
+      <persname role="pht" rules="dacs" source="local">Varian, Percy</persname>
+    </origination>
+    <unitid>V1987.010</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.05 Linear Feet</extent>
+      <extent altrender="carrier">22 items contained in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+    <abstract id="aspace_b8fa7887fbc6ce8907231551b74d301f" label="Abstract">The photographs were taken by Percy Varian in June of 1941. The subject of the photographs is primarily the elevated railroad that ran along Fulton Street from 1888 to June 1940. Many of the photographs show the dismantling and removal of the Fulton Street Line elevated railroad (or el) which took place in June of 1941.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_cbc67138aab1e01fff5e5d1cc607aacd" label="Graphic Materials" type="Box">Prints by Accession 52</container>
+  </did>
+  <accessrestrict id="aspace_f0f1ca0869ad44f8c9b0d3e675382be8">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_f3374cd48ff1b45e3af508c8b0b987d1">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <processinfo id="aspace_c7401d71678cb11fd58574d4fa7bcf7b">
+    <head>Processing Information note</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <bioghist id="aspace_3b75c534383aa8882be9739992706f93">
+    <head>Historical note</head>
+<p>The Fulton Street Line, also called the Fulton Street Elevated or the Kings County Line, was an elevated train line that opened in April of 1888 with tracks running above Fulton Street in Brooklyn from Fulton Ferry to Nostrand Avenue and covering 3.15 miles. The line was extended several times during 1888, eventually reaching Fulton Street and Rockaway Avenue with just over five miles of tracks. Between 1889 and 1915 more extensions were added with the last extension reaching Lefferts Boulevard and Liberty Avenue in Queens. A large portion of the Fulton Street Line was closed in 1940, with further closers in 1956. As of 2011, some of the tracks built during the later extensions are currently in use by the Metropolitan Transportation Authority (MTA) subway lines--the A train and the L train.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Judge, Erica, Vincent Seyfried, and Andrew Sparberg. "Elevated railways." In <emph render="italic">The Encyclopedia of New York City</emph>, edited by Kenneth T. Jackson, 368-370. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 1995.</item>
+    </list>
+  </bioghist>
+  <bioghist id="aspace_cc0d7cd995dc1f22abce8b3c3d4714c5">
+    <head>Biographical note</head>
+<p>Percy Varian (1887-1984) was born and raised in Brooklyn. Beginning in 1930, he worked for many years at the New York City-based department store chain Abraham &amp; Straus where he worked his way from a typographer and production manager to head of advertising production. Varian was also an amateur photographer, taking photographs of his family and of Brooklyn. As of 1955, he lived on Shore Road in Brooklyn with his wife and his son Richard. He also had one daughter, Mrs. John J. Barrett, and a grandson named Douglas.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Fulton History. "A&amp;S Production Chief Presented With Gold Watch." From the Brooklyn Daily Eagle, January 28, 1955. Accessed July 27, 2011. http://fultonhistory.com/Newspaper%205/Brooklyn%20NY%20Daily%20Eagle/Brooklyn%20NY%20Daily%20Eagle%201955%20%20Grayscale/Brooklyn%20NY%20Daily%20Eagle%201955%20%20Grayscale%20-%200731.pdf</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_4ea96fc5e0231a397b91f128a54bcfd0">
+    <head>Scope and Contents</head>
+<p>The Percy Varian photographs consists of 22 black-and-white photographic prints depicting street scenes of the Downtown neighborhood of Brooklyn. The photographs were taken by Percy Varian in June of 1941. The subject of the photographs is primarily the elevated railroad that ran along Fulton Street from 1888 to June 1940. Many of the photographs show the dismantling and removal of the Fulton Street Line elevated railroad (or el) which took place in June of 1941. The photographs were all taken during the day from street level and show pedestrians, cars, streets, buildings, and businesses, as well as the elevated train tracks and stations. As Varian worked on Fulton Street at the department store Abraham &amp; Straus, many or the businesses along the Fulton Street shopping corridor are prominent sub-themes of many the photographs. There are also several photographs of the "el" removal celebration that was held outside of Borough Hall.</p>  </scopecontent>
+  <prefercite id="aspace_7c881270d122a3d04365a60d1247d590">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Percy Varian photographs, V1987.010, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <userestrict id="aspace_37ea6350e3f31635cdecefb3005d4975">
+    <head>Conditions Governing Use</head>
+<p>Copyright for unpublished works is protected until 70 years after the death of the creator. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_9e8e470273b6d689244c51ee2bdc037d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Richard Varian, date unknown.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Transportation -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Railroads, Elevated |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Streets |v Pictorial works</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="local">Fulton Street (Brooklyn, New York, N.Y.)</geogname>
+    <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
