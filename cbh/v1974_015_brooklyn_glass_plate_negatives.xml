@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_015_brooklyn_glass_plate_negatives/">v1974_015_brooklyn_glass_plate_negatives</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn glass plate negative collection <num>V1974.015</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:40:27 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn glass plate negative collection</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Korten, Henry O.</persname>
+    </origination>
+    <unitid>V1974.015</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.6 Linear Feet</extent>
+      <extent altrender="carrier">in one glass plate negative box, one oversize glass plate negative box, and one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1860/1909" type="inclusive">circa 1870 to 1899</unitdate>
+    <abstract id="aspace_c06613a8cdc2c854896b57f27dd215a4" label="Abstract">Images in the collection show rural Brooklyn life, street scenes, snowstorms, and the Brooklyn Navy Yard (formally known as the New York Naval Shipyard) in the late 19th century.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Half Manuscript Box Letter" id="aspace_8282668adad05562a7c1d3a8b0ff1b60" label="Graphic Materials" type="Box">Oversize Glass Negatives</container>
+    <container altrender="Shoe Box 13" id="aspace_6b10d7e1657e57c5263a3ff15854ee49" label="Graphic Materials" type="Box">Glass Negatives 1</container>
+    <container id="aspace_bb1f5929d5d5e376e0feeafdb82093d3" label="Graphic Materials" type="Box">Prints by Accession 38</container>
+  </did>
+  <acqinfo id="aspace_c3c595873ff7fde2b16f2f63712fd8ec">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Abbot Low Moffat, 1954; Mrs. E. C. Korten, 1976; and William I. Frothingham, date unknown.</p>  </acqinfo>
+  <userestrict id="aspace_33acea0f8535247816a56277da1d23b4">
+    <head>Conditions Governing Use</head>
+<p>All commercially produced slides are in the public domain. Copyright for all other works will remain in effect for 120 years following the date of creation. Based on the date range of this collection, all items will enter the public domain by 2019. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <accessrestrict id="aspace_4942fbd92604f38292e48fa022f70e8b">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_86a82ff90d6e1eee3115e5ce7adc1b25">
+    <head>Scope and Contents</head>
+<p>The Brooklyn glass plate negative collection contains 18 items dating from circa 1870 to 1899. The negatives are a mix of anonymous creations, reproductions, and original photography by Henry O. Korten. Images in the collection show rural Brooklyn life, street scenes, snowstorms, and the Brooklyn Navy Yard (formally known as the New York Naval Shipyard) in the late 19th century. Locations featured include the neighborhoods of Flatlands, Fort Greene, Clinton Hill, Brooklyn Heights, as well as Prospect Park and the East River waterfront. Two portraits of Native Americans and snowstorm scenes located in the Flushing neighborhood of Queens are also included. Prints from a select number of glass plate negatives are also available.</p>  </scopecontent>
+  <otherfindaid id="aspace_806d2a6657e6ff2e725833727ce245d1">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <prefercite id="aspace_3ea920ee642c26c696b58d37a02bf1d1">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn glass plate negatives collection, V1974.015, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_7d1a19139818e0be3cde931013b36928">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Waterfronts |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <subject source="lcsh">Rural conditions |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Clinton Hill (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographic prints</genreform>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <corpname rules="aacr" source="naf">New York Naval Shipyard</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
