@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2015_010_blieffert/">arms_2015_010_blieffert</eadid><filedesc><titlestmt><titleproper>Guide to the Charles (Karl) Blieffert photograph album <num>2015.010</num></titleproper><author>Tess Colwell</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:38:59 +0000</date>.</creation><langusage>Finding aid written in English. </langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Charles (Karl) Blieffert photograph album</unittitle>
+    <origination label="Creator">
+      <persname role="com" rules="aacr" source="local">Blieffert, Charles (1891-1984)</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="aacr" source="local">Frappier, Mark</persname>
+    </origination>
+    <unitid>2015.010</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 photograph album measuring 6 3/4" x 11 1/4" and in one tintype box. </extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1895/1917" type="inclusive">circa 1900-1917</unitdate>
+    <abstract id="aspace_2c4912133a0a88c9d8aed58e0739aacd" label="Abstract">The collection comprises one photograph album dating from circa 1900 to 1917 that includes 249 black and white photographs of young friends of Charles Blieffert in the Coney Island, Sheepshead Bay, and Brighton Beach neighborhoods of Brooklyn. The collection also includes four tintypes of Charles with his family at various locations in the Coney Island neighborhood of Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Shoe Box 13" id="aspace_156315dfbba78b78bd23bc70dc0c5120" label="Graphic Materials" type="Box">Tintypes 1</container>
+    <container id="aspace_a17e9b143a7f71f9248386ac28096284" label="Graphic Materials" type="volume">Album 1 of 1 </container>
+  </did>
+  <processinfo id="aspace_7e438974bb9058fb9eaab4d670d081fa">
+    <head>Processing Information note</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <acqinfo id="aspace_4d995dd830eb42dc73109fdb16f8ba11">
+    <head>Immediate Source of Acquisition note</head>
+<p>Gift of Mr. Mark Frappier, 2006.</p>  </acqinfo>
+  <otherfindaid id="aspace_0cc0ff79f62147578af6267a68862a9e">
+    <head>Other Finding Aids note</head>
+<p>Item–level description of the tintypes are available for searching via the image database in the library.</p>  </otherfindaid>
+  <bioghist id="aspace_7581b709ff09f320a315ca7e953fc42c">
+    <head>Biographical note</head>
+<p>Charles (Karl) Blieffert was born on May 10, 1891 in the Flatbush neighborhood of Brooklyn. His mother and father immigrated to the United States from Nuremberg, Germany. The family lived at 18th Avenue near Gravesend Avenue where Charles spent his childhood. He was the only child. While working in a Milwaukee insurance company during the Great Depression, he met his future wife Helene. They married after the death of both of Charles' parents. Charles and his wife spent their summers at a fisherman's lake cottage in Wisconsin. He died in May of 1984, at age 92. He Americanized his birth name "Karl" to "Charlie" and pronounced his last name "Bly-furt" rather than "Blee-furt."</p>  </bioghist>
+  <scopecontent id="aspace_c7631c3a694f795219a18a8c44fa616b">
+    <head>Scope and Contents note</head>
+<p>The Charles (Karl) Blieffert family photographs collection, measuring .25 linear feet, includes one personal scrapbook album measuring 6 3/4" x 11 1/4" containing 8 double sided pages of photographs affixed vertically and overlapping down the page and 4 loose tintypes, dating from circa 1900 to 1917. The album includes 249 black and white photographs of young friends of Charles Blieffert in Coney Island, Sheepshead Bay, Brighton Beach, and other unidentified locations in Brooklyn. The photographs show bathing fashion, boat rides, dinner parties, and other social gatherings. Highlights include a shot of the Knickerbocker Field Club (1917), a dead shark being pulled from the water (1916), the Blieffert family home at 18th Avenue near Gravesend Avenue, and a clam bake at Felton's. Many of the photographs are dated and identified with handwritten information on the verso.The collection also includes four tintypes of Charles with his family at Coney Island.</p>  </scopecontent>
+  <prefercite id="aspace_7d7005912f84a122381a7f311cebcb4d">
+    <head>Preferred Citation</head>
+<p>identification of item, date (if known); Charles (Karl) Blieffert family photographs, 2015.010, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <relatedmaterial id="aspace_7843c2b0e3f9f4f5ffed2856e99e17f7">
+    <head>Related Archival Materials note</head>
+<p>Brooklyn Historical Society also holds other albums relating to Brooklyn, and more specifically, Coney Island. Please consult library staff for more information.</p>  </relatedmaterial>
+  <userestrict id="aspace_df8dccc6943b3ba69c92eeef44c97f14">
+    <head>Conditions Governing Use note</head>
+<p>Copyright held by the Brooklyn Historical Society. Permission to publish or reproduce must be secured from Brooklyn Historical Society.</p>  </userestrict>
+  <accessrestrict id="aspace_faea8d9c0ef23f89fb8b3185f196c0e2">
+    <head>Conditions Governing Access note</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <originalsloc id="aspace_3d97dff26cb655ce6e6bd6b83a1b4f01">
+    <head>Photograph records</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </originalsloc>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</geogname>
+    <subject source="lcsh">Bathing suits</subject>
+    <subject source="lcsh">Family life</subject>
+    <genreform source="aat">Photograph albums</genreform>
+    <genreform source="aat">Tintypes (prints)</genreform>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Sheepshead Bay (New York, N.Y.)</geogname>
+    <subject source="lcsh">Beaches |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brighton Beach (New York, N.Y.)</geogname>
+    <subject source="lcsh">Fishing boats</subject>
+    <subject source="lcsh">Fishing</subject>
+    <subject source="lcsh">Dogs</subject>
+    <subject source="lcsh">Dinners and dining</subject>
+    <persname role="dnr" rules="aacr" source="local">Frappier, Mark</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
