@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1990_015_holy_cross_school/">arms_1990_015_holy_cross_school</eadid><filedesc><titlestmt><titleproper>Guide to the Volume of school work by students at Holy Cross School <num>1990.015</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 29, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:27:24 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Volume of school work by students at Holy Cross School</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Holy Cross School</corpname>
+    </origination>
+    <unitid>1990.015</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in one bound volume</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate>
+    <abstract id="aspace_65b672f2747b871d7cde5f737f8df1c5">A bound volume of school work by several students at the Holy Cross School in the Flatbush neighborhood of Brooklyn.  The volume was created to commemorate the Columbian Exposition in Chicago in 1893.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_f0af6d959cb5a2216345a262d45dc6fe" label="Text" type="Box">A0113</container>
+  </did>
+  <prefercite id="aspace_a0b94ef3b34f0ffa5740e5d6b897803c">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Volume of school work by students at Holy Cross School, 1990.015, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_20fdc29a1bb5ae041950591a3ebf6ac9">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_fad43be4e7b0f6e7678acd5d923a3008">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Joan McArdle, 1990.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Catholics |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Education -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">School children--New York (State)--Kings County</subject>
+    <genreform source="aat">Volumes (documents by form)</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
