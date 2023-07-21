@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1992_003/">v1992_003</eadid><filedesc><titlestmt><titleproper>Guide to <emph render="italic">Walking Race: Heel and Toe Artists Hoof it to Coney Island</emph> and two other films <num>V1992.003</num></titleproper><author>John Zarrillo</author><sponsor>An award of $1,120 from the National Film Preservation Foundation (NFPF) in 2008 provided the opportunity to have the film preserved and duplicated onto Digital Betacam cassette and DVD.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:28:40 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle><emph render="italic">Walking Race: Heel and Toe Artists Hoof it to Coney Island</emph> and two other films</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">Stelter, Lawrence</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Evans, Tom, Major</persname>
+    </origination>
+    <unitid>V1992.003</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.8 Linear Feet</extent>
+      <extent altrender="carrier">in three film canisters and one flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1925/2009" type="inclusive">circa 1930, 2009</unitdate>
+    <abstract id="aspace_42f292ced34db2b993f7f419aa302008">This collection contains a 16 mm film containing three segments, circa 1930.  The first segment shows a foot race from New York City Hall to Coney Island, the second shows a wedding of three brothers of the Sultan of Morocco, and the third shows showgirls auditioning for the stage. The film is silent, black-and-white, and runs five minutes and thirty seconds. It was produced by Major Tom Evans and edited by A.F. Bernadac.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_2ac29d1320a9bc3a25699c04d36d5ca7" label="Moving Images" type="reel">Three film canisters</container>
+    <container altrender="Small Flat Box 10" id="aspace_8a73a84198b87a4c9596aed1d4cc05b0" label="Moving Images" type="Box">1 of 1</container>
+  </did>
+  <prefercite id="aspace_3571dedbffa40105ff73f3e81e99c366">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); <emph render="italic">Walking Race: Heel and Toe Artists Hoof it to Coney Island</emph> and two other films, V1992.003, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_9e178664b1cd7acf08aab4d3d17d3d2a">
+    <head>Scope and Contents</head>
+<p>This collection contains a 16 mm film containing three segments, circa 1930.  The first segment shows a foot race from New York City Hall to Coney Island, the second shows a wedding of three brothers of the Sultan of Morocco, and the third shows showgirls auditioning for the stage. The film is silent, black-and-white, and runs five minutes and thirty seconds. It was produced by Major Tom Evans and edited by A.F. Bernadac.</p>  </scopecontent>
+  <altformavail id="aspace_0d6699109486edb92738035090f74263">
+    <head>Existence and Location of Copies</head>
+<p>In 2009 the film was migrated to four other formats: one 16 mm "A" wind preservation duplicate negative, one 16 mm preservation silent answer print, one Digital Betacam cassette tape, and one DVD.</p><p>A portion of the film can be viewed online at: <extref xlink:href="https://vimeo.com/24127112">https://vimeo.com/24127112</extref></p>  </altformavail>
+  <acqinfo id="aspace_3f6af2e43c8549758715f9ae32fc9bae">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Lawrence Stelter, 1992.</p>  </acqinfo>
+  <userestrict id="aspace_9ad535d11ce00627a0efe1995b235699">
+    <head>Conditions Governing Use</head>
+<p>The copyright status of the film has not been evaluated. Please consult library staff for more information.</p>  </userestrict>
+  <accessrestrict id="aspace_6f2eac749ed9c5cd5f5cf275c3bef3bd">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction. The DVD copy of the film can be viewed in the library's reading room.</p>  </accessrestrict>
+  <custodhist id="aspace_c831c0ecf70e6ef0c92c43e44136110e">
+    <head>Custodial History</head>
+<p>The donor's father purchased the film at a garage sale in the late 1980s or early 1990s.</p>  </custodhist>
+  <controlaccess>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <subject source="lcsh">Walking (Sports) |z New York (state) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.)</geogname>
+    <subject source="lcsh">Running races |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Sports -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Musicals |z New York (State) |z New York</subject>
+    <subject source="lcsh">Running |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Manhattan (New York, N.Y.)</geogname>
+    <genreform source="aat">Digital Betacam (TM)</genreform>
+    <genreform source="aat">DVDs</genreform>
+    <genreform source="aat">Acetate film</genreform>
+    <persname role="dnr" rules="dacs" source="naf">Stelter, Lawrence</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
