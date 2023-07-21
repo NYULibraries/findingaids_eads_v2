@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_006">mss_006</eadid><filedesc><titlestmt><titleproper>Guide to the Black Sun Archive 1965-1969 <num>MSS.006</num></titleproper><author>Tania Friedel, April 1999.</author></titlestmt><editionstmt><p>This version was derived from black sun archive.doc</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:04:34 -0400</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Black Sun Archive</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Black Sun (Brooklyn, N.Y.)</corpname>
+    </origination>
+    <unitid>MSS.006</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965-1969</unitdate>
+    <abstract id="aspace_98ecd6a37a4ab6867b3d27336b70856c" label="Abstract">The <emph render="italic">Black Sun</emph> Archive is a collection of correspondence and manuscripts sent to the poetry magazine, <emph render="italic">Black Sun</emph> which was edited by poet, Harvey Tucker.</abstract>
+    <langmaterial id="aspace_d47f5e767345e6cbc832faaf7d76c8aa">Material in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_0da5a9f24bf3a7ea6662eeb5e47bbaf9">
+    <head>Access Restrictions</head>
+<p>Materials are open for research. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <bioghist id="aspace_1ede881bd943734aa64aed3d81756380">
+    <head>Historical Note:</head>
+<p><emph render="italic">Black Sun</emph> was a small, avant-garde literary magazine published in Brooklyn, New York from 1965-1969. It was edited by Harvey Tucker who at the time was also active writing and publishing poetry. Since 1969, Tucker and his wife, Linda, have run Black Sun Books (157 East 57th, NY), dealing in rare books and manuscripts. Contributors to <emph render="italic">Black Sun</emph> included Diane Wakoski, Ben Hiatt, Richard Morris, Barbara Holland, David Antin, Elizabeth Ritchie, Alice Ransom, Hugh Fox, and Duane Locke, among many others.</p>  </bioghist>
+  <scopecontent id="aspace_49163db228e99f7f47965956394287c0">
+    <head>Scope and Content Note</head>
+<p>The <emph render="italic">Black Sun</emph> Archive is a part of the Avant Garde Collection at Fales Library, New York University. The Avant Garde Collection comprises printed materials, archives, and other materials related to the avant-garde writing from the 1960s and early 1970s. The collection was built during that period by curators, including Mel Edelstein and Ted Grieder.</p><p>The collection consists of correspondence, typescripts and leaflets. The majority of the correspondence, which is in the form of letters, postcards and invitations, is from many notable poets to the editor of <emph render="italic">Black Sun</emph>, Harvey Tucker. Amongst the noteworthy correspondents are Hugh Fox, Ben Hiatt, Duane Locke, Richard Morris, Barbara Holland, David Antin, Elizabeth Ritchie, and Alice Ransom. The typescripts include those for publication in Volume 1, No. 1 through Volume 2, No. 3. In addition, there are typescripts of the writings of Harvey Tucker, editor of the magazine.</p><p><emph render="bold">SERIES DESCRIPTION</emph> </p><p><emph render="bold">Series I: Correspondence</emph> contains correspondence to the editor Harvey Tucker. Noted correspondents include Barbara Holland, David Antin, Elizabeth Ritchie, Ben Hiatt, and Alice Ransom.</p><p><emph render="bold">Series II: Manuscripts </emph>contains manuscripts submitted to <emph render="italic">Black Sun</emph> Magazine by Harvey Tucker, Barbara Holland, James Hull and others.</p>  </scopecontent>
+  <arrangement id="aspace_0ebf8467b7b16c6ba3e5b52cae2fff76">
+    <head>Arrangement</head>
+
+
+<p>Folders are arranged alphabetically by subject/author heading then chronologically within each subject/author heading.</p><p>The files are grouped into two series.</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Correspondence</item>
+      <item>Series II: Manuscripts</item>
+    </list>
+  </arrangement>
+  <separatedmaterial id="aspace_7e8e38374ddc01bb860558dafb2641ba">
+    <head>Separated Material</head>
+<p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>  </separatedmaterial>
+  <userestrict id="aspace_1b250beecad297b1fd88dfdefe76763a">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <prefercite id="aspace_994e31744af7e74912ecd3e29fd18a88">
+    <head>Preferred Citation</head>
+<p>Published citations should take the
+following form:<lb/><lb/>
+Identification of item,  date (if known); Black Sun Archive; MSS 006; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Poets, American -- Correspondence.</subject>
+    <geogname source="lcsh">New York (N.Y.).</geogname>
+    <subject source="lcsh">Poetry, Modern -- 20th century.</subject>
+    <genreform source="aat">Manuscripts for publication.</genreform>
+    <genreform source="aat">Postcards.</genreform>
+    <genreform source="aat">Invitations.</genreform>
+    <genreform source="aat">Little magazines.</genreform>
+    <subject source="lcsh">Poetics |x Authorship.</subject>
+    <genreform source="aat">Poetry.</genreform>
+    <subject source="lcsh">Poets, American -- 20th century.</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <persname source="naf">Morris, Richard, 1939-2003</persname>
+    <persname source="naf">Tucker, Harvey</persname>
+    <persname source="naf">Fox, Hugh, 1932-</persname>
+    <persname source="naf">Locke, Duane</persname>
+    <persname source="naf">Hiatt, Ben L.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Correspondence</unittitle></did><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence A</emph>: 
+
+<lb/>Aldan, Daisy 
+
+<lb/>Antin, David</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e4ad11f794ab827954edd2adbe6bbd41" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_bbc6512beb68a7b440991528021c7851" parent="aspace_e4ad11f794ab827954edd2adbe6bbd41" type="Folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence B</emph>: 
+<lb/>Bainter, Karen 
+
+<lb/>Berkley, Constance E. 
+
+<lb/>Bertolino, James 
+
+<lb/>Blazek, Douglas 
+
+<lb/>Bloom, Eugene 
+  
+<lb/>Boothe, Anna 
+
+<lb/>Boyd, Sue Abbott</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a22e171565f1b7c4846449672ad64f99" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_634c5ad14d857a81134b2c2ee333183f" parent="aspace_a22e171565f1b7c4846449672ad64f99" type="Folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence C</emph>: 
+
+<lb/>Callahan, James D. 
+
+<lb/>Casciani, Eda 
+
+<lb/>Chaffin, Lillie D. 
+
+<lb/>Claudel, Alice Moser 
+
+<lb/>Cohen, Robert David 
+
+<lb/>Congden, Kirby 
+
+<lb/>Coordinating Council of Literary Magazines 
+
+<lb/>Connellan, Lev 
+
+<lb/>Cooper, James E. 
+
+<lb/>Cornish, Samuel 
+
+<lb/>Curry, Andrew</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5d31d98efafe864e64b3c2ab9abddb1f" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_71f7e35b7aa1f6118146caf06e33c7e7" parent="aspace_5d31d98efafe864e64b3c2ab9abddb1f" type="Folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence D</emph>: 
+
+<lb/>Dacey, Philip 
+
+<lb/>Davis, Rick 
+
+<lb/>Davis, William 
+
+<lb/>Dawson, David 
+
+<lb/>Delpino, Lew 
+
+<lb/>Depew, Wallace 
+
+<lb/>Deutsch, Len 
+
+<lb/>Dobel, Kenneth</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_24893995350015c6d32acb1e79492623" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_569a2b6902ec02fbd1ac7b00476a438c" parent="aspace_24893995350015c6d32acb1e79492623" type="Folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence F-G</emph>: 
+
+<lb/>Foster, Donald 
+
+<lb/>Fox, Hugh 
+
+<lb/>Fowler, Hilary 
+
+<lb/>Fowler, John 
+
+<lb/>Fulton, Leonard 
+
+<lb/>Glen, Emilie 
+
+<lb/>Goldenberg, Pat 
+
+<lb/>Gross, Ronald 
+
+<lb/>Grossinger, Richard</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_82972abc12458ffb484460a5ee409b3d" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_d8aef5b83979ae14a539824c7beceef2" parent="aspace_82972abc12458ffb484460a5ee409b3d" type="Folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence H-K</emph>: 
+
+<lb/>Harsch, Gene 
+
+<lb/>Hiatt, Ben (and manuscript: 'Panther Tracks') 
+
+<lb/>Hirschhorn, Paul 
+
+<lb/>Holland, Barbara 
+
+<lb/>Houston, Robert 
+
+<lb/>Ingianni, Ignace M. 
+
+<lb/>Jackson, Glenn 
+
+<lb/>Jawoski, Richard 
+
+<lb/>Kantrowitz, Arnold 
+
+<lb/>Kler, Frank</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3a95daa5d1ed3fad1e3f1c4fd25be61a" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_7201cd8f8b6ddc12d048f0f9043f3851" parent="aspace_3a95daa5d1ed3fad1e3f1c4fd25be61a" type="Folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence L</emph>: 
+
+<lb/>Locke, Duane</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca792ee0c63e015583840e8a98174d54" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_0bd2c26a4d3c72b07013b83fe9b334cd" parent="aspace_ca792ee0c63e015583840e8a98174d54" type="Folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence M</emph>: 
+
+<lb/>McGirt, William 
+
+<lb/>Major, Clarence 
+
+<lb/>Mariah, Paul 
+
+<lb/>Masca (pseud) 
+
+<lb/>Menebroker, Ann 
+
+<lb/>Miller, Brown 
+
+<lb/>Miller, Ethan 
+
+<lb/>Montgomery, George 
+
+<lb/>Morris, Richard 
+
+<lb/>Murphy, Mike</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_adbc900d40aabc22557ede23722d97a3" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_2ba7e245f7104d659888684b0f34aaac" parent="aspace_adbc900d40aabc22557ede23722d97a3" type="Folder">8</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence N-P</emph>: 
+
+<lb/>Nelson, Stanley 
+
+<lb/>Newland, Charles 
+
+<lb/>Oatman, Eric 
+
+<lb/>Odam, Joyce 
+
+<lb/>Powel, Clarence Alva</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_858620543b8172d69e2e390e040fdeb8" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_8aeb6c4febcfc1393f818e03f632059b" parent="aspace_858620543b8172d69e2e390e040fdeb8" type="Folder">9</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence P</emph>: 
+
+<lb/>Poetry Readings and Conferences</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8218fb16b8e58d95cce8d7fbe997583e" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_0202edec5ddf99931bd87a30627aef8b" parent="aspace_8218fb16b8e58d95cce8d7fbe997583e" type="Folder">10</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence R-S</emph>: 
+
+<lb/>Randall, Margaret 
+
+<lb/>Ransom, Alice 
+
+<lb/>Reyes, Carlos 
+
+<lb/>Ritchie, Elizabeth 
+
+<lb/>Rosenblatt, Herta 
+
+<lb/>Sauls, Roger 
+
+<lb/>Sigmund, R.J.S. 
+
+<lb/>Sobral, Geraldo 
+
+<lb/>Stalzer, David 
+
+<lb/>Steffanyssen, Mark</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c3f880c79ba4c84157fa62b1f720069d" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_82e6c0f4790626c4eb26b7c2b0b8e6fa" parent="aspace_c3f880c79ba4c84157fa62b1f720069d" type="Folder">11</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence S</emph>: 
+
+<lb/>Small Magazines and Presses</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1eccf4639808d5c5c2d1ef8955d578fb" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_7f22221eb19696da8e6eb5b3a3d0076f" parent="aspace_1eccf4639808d5c5c2d1ef8955d578fb" type="Folder">12</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence T-Z</emph>: 
+
+<lb/>Thiel, Paul 
+
+<lb/>Tipton, James 
+
+<lb/>Tressler, James 
+
+<lb/>Trudell, Dennis 
+
+<lb/>Tucker, Martin 
+
+<lb/>Wade, David (pseud Brother Demetrio) 
+
+<lb/>Wade, John Stevens 
+
+<lb/>Wagner, D.R. 
+
+<lb/>Wakoski, Diane 
+
+<lb/>Weil, James 
+
+<lb/>Weinstein, Norman 
+
+<lb/>Wieners, John 
+
+<lb/>Williams, Loring 
+
+<lb/>Woessner, Warren 
+
+<lb/>Wolvin, Fred</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9b9d567b1469fafb4edeee1af69b049" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_aade0296c13d78f7231b110d047d2047" parent="aspace_c9b9d567b1469fafb4edeee1af69b049" type="Folder">13</container></did></c></c><c id="aspace_ref26" level="series"><did><unittitle>Series II: Manuscripts</unittitle></did><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript: Vol. 1, No. 1-4:</emph>(includes index of complete contents at the end of the folder.) 
+
+<lb/>Tucker, Harvey 
+
+<lb/>Fordine, A.R. 
+
+<lb/>Holland, Barbara 
+
+<lb/>Schramm, Irene 
+
+<lb/>Barton, Geoffrey 
+
+<lb/>Hull, James 
+
+<lb/>etc.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_288e063f31925c2bd3d6bc83158fabc6" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_517c96429ee5d8148d02ab4761e3fc51" parent="aspace_288e063f31925c2bd3d6bc83158fabc6" type="Folder">14</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Manuscript: Vol. 2, No. 1-3</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f0b1f7c9b6a5f478f2e9725e3b829667" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_153fa04345f1c563a8b26923f5397513" parent="aspace_f0b1f7c9b6a5f478f2e9725e3b829667" type="Folder">15</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">And Where Does the Circle End Beginning</emph>: 
+
+Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d3fa9c07d0d924625e1766a5275322dc" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_e106ac4bc810d1873cebd1814b2c301d" parent="aspace_d3fa9c07d0d924625e1766a5275322dc" type="Folder">16</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">The Destruction of Trinities</emph>: 
+
+Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e10d1b35fc318d4d597a3d5b1500c242" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_94f7b51ef561b4366c591e5c7fc8cef8" parent="aspace_e10d1b35fc318d4d597a3d5b1500c242" type="Folder">17</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">Maelstrom</emph>[Book 1], <emph render="italic">The Solitary Dreamer</emph>[Book II]: 
+
+Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5f4866a32bf457f70aafa9c553390318" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_ad12246d21d819b58422ad79ef055b58" parent="aspace_5f4866a32bf457f70aafa9c553390318" type="Folder">18</container></did></c></c></dsc>
+</archdesc>
+</ead>
