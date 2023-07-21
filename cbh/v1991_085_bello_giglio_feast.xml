@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1991_085_bello_giglio_feast/">v1991_085_bello_giglio_feast</eadid><filedesc><titlestmt><titleproper>Guide to the Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg <num>V1991.085</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 30, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 19:27:56 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg</unittitle>
+    <origination label="Creator">
+      <persname role="col" rules="dacs" source="local">Bello, Thomas</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="pht" rules="dacs" source="local">Kalett, Jim</persname>
+    </origination>
+    <unitid>V1991.085</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">nine items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1945/1985" type="inclusive">circa 1955 to 1975</unitdate>
+    <abstract id="aspace_44941e8e0c6fdb7be55a209451e5f331" label="Abstract">The photographs show crowds watching and participating in the street procession and festival, images of the Giglio tower, and musicians performing on the tower and in the street circa 1955 to 1975.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_33399450629c9c33831746a08501c471" label="Graphic Materials" type="Box">Prints by Accession 58</container>
+  </did>
+  <processinfo id="aspace_82cbc93912ef6717ef737f7616454bea">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <otherfindaid id="aspace_bef7ac0c82143cb2125f94a2406c7d1c">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <acqinfo id="aspace_fc7f157814e776030bd1071859c023d7">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1991.</p>  </acqinfo>
+  <userestrict id="aspace_d7256d044c11858dd6d5ad33368df4c2">
+    <head>Conditions Governing Use</head>
+<p>Copyright for unpublished works is protected until 70 years after the death of the creator. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <accessrestrict id="aspace_d575cde6a4f44992b6b828179f01edcc">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_27dd980d08638bc87635cccc2764b4a0">
+    <head>Historical note</head>
+<p>The Feast of the Giglio (sometimes referred to as the Feast of St. Paulinus or San Paolino) is an annual Catholic celebration held by Italian Americans in the New York City boroughs of Brooklyn, Manhattan, and the Bronx. In 1903, the first annual Feast of the Giglio was celebrated in the streets of the Williamsburg neighborhood of Brooklyn. On feast day, or Giglio Sunday (held in July), celebrants proceed through the streets following a 65 foot high Giglio tower. The immigrants who celebrated the first annual Feast of the Giglio predominantly came from the city of Nola, located in the Campania region of southern Italy, where the feast originates. As of 2011, the feast is still held at the same location in Williamsburg, centered near Our Lady of Mount Carmel Church.</p>  </bioghist>
+  <prefercite id="aspace_6d1ea14d6d1fa051a706732f0f1d53b6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg, V1991.085, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_19cb1d2a45e1f5b31eadcfd88741edd5">
+    <head>Scope and Contents</head>
+<p>The Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg consist of three black-and-white 8 x 10 inch glossy photographic prints showing street views of the annual Giglio Feast procession held in the Williamsburg neighborhood of Brooklyn, circa 1955 to 1975. The photographs show crowds watching and participating in the street procession and festival, images of the Giglio tower, and musicians performing on the tower and in the street. The collection includes three copy negatives and three duplicates of the 8 x 10 inch prints. Two of the photographs were taken by Jim Kalett, while the third photograph was donated by Thomas Bello, though the photographer is not identified.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <subject source="lcsh">Processions, Religious |x Catholic Church</subject>
+    <subject source="lcsh">Musicians</subject>
+    <subject source="lcsh">Catholics |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Bands (Music)</subject>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Italian Americans |x Social life and customs</subject>
+    <subject source="lcsh">Italian Americans |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
