@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms3178_abeloff_franklin</eadid><filedesc><titlestmt><titleproper>Guide to the Abram J. Abeloff Collection on Benjamin Franklin<lb/>1887-1939<lb/> <num>MS 3178</num></titleproper><author>Elise Winks</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>June 2020</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:01:00 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Abram J. Abeloff collection on Benjamin Franklin</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="naf">Abeloff, Abram J. (Abram Joseph), 1900-1997</persname>
+    </origination>
+    <unitid>MS 3178</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">13.5 Linear feet</extent>
+      <extent altrender="carrier">in 119 volumes, 3 boxes, 1 envelope</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1887-1939</unitdate>
+    <abstract id="aspace_319158878adce721f32359280bc6319f">Abeloff's personal collection of mostly printed material on or by Benjamin Franklin. Includes biographies, The Works of Benjamin Franklin series, and Poor Richard's Almanac. Also contains 4 used checkbooks (1920-1935).</abstract>
+    <langmaterial id="aspace_1eefc0039a1bbdf43d003efbd392eeab">The documents in the collection are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_ef73fa28889695ca1353f323d2bdaa4d">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p>  </accessrestrict>
+  <userestrict id="aspace_b8e6bcecbf65a83e619406f795122d9e">
+    <head>Use Restrictions</head>
+<p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_8966d9bfed98c2a5e009325a37bf650d">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Abram J. Abeloff collection on Benjamin Franklin, MS 3173, New-York Historical Society.</p>  </prefercite>
+  <arrangement id="aspace_f9cc4cef0d5671dac16dd5fbafdfc253">
+    <head>Arrangement</head>
+<p>TBD</p>  </arrangement>
+  <bioghist id="aspace_5c5e3605ca0950845237e68154bf3ad4">
+    <head>Biographical / Historical</head>
+<p>TBD</p>  </bioghist>
+  <acqinfo id="aspace_87c9a4d81c8fd576e57bebe08e158337">
+    <head>Immediate Source of Acquisition</head>
+<p>TBD</p>  </acqinfo>
+  <scopecontent id="aspace_51c9bd672d71511d53ab9413a61b211a">
+    <head>Scope and Contents</head>
+<p>TBD</p>  </scopecontent>
+  <relatedmaterial id="aspace_6b8e9887c665e9c419a37bdfb1772156">
+    <head>Related Materials</head>
+<p>TBD</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Biographies (documents)</genreform>
+    <genreform source="aat">Checks (bank checks)</genreform>
+    <persname rules="rda" source="naf">Franklin, Benjamin, 1706-1790</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
