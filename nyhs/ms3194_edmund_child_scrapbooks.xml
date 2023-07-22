@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms3194_edmund_child_scrapbooks</eadid><filedesc><titlestmt><titleproper>Guide to the Edmund B. Child scrapbooks <lb/>1864-1946<lb/> <num>MS 3194</num></titleproper><author>Elise Winks</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>June 2020</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:01:19 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Edmund B. Child scrapbooks</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Child, Edmund Bramhall, 1846-1946</persname>
+    </origination>
+    <unitid>MS 3194</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6 Linear feet</extent>
+      <extent altrender="carrier">in 15 volumes and 1 carton</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1864-1946</unitdate>
+    <abstract id="aspace_8c40ffa67e9506410999808b76b47891">14 scrapbooks of newspaper clippings, 1 published volume, and 1 carton containing a variety of published books. Includes clippings about politics, poetry, and other literary writings.</abstract>
+    <langmaterial id="aspace_7e7800578f094b94e229f861d1e2d5b4">The documents in the collection are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_7cdf00c6f7b07195c855713879031adc">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p>  </accessrestrict>
+  <userestrict id="aspace_83ec502d616e362da6e81de6788819e8">
+    <head>Use Restrictions</head>
+<p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_b2da0ab45efcf6951031914ec1087b33">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Edmund B. Child scrapbooks, MS 3194, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_12dacf7795bf93a6899be0de35965149">
+    <head>Processing Information</head>
+<p>The collection is not processed. As part of a project conducted in 2019-20, archivist Elise Winks performed a high level survey of the collection and described it broadly in this preliminary finding aid.</p>  </processinfo>
+  <arrangement id="aspace_506e50f858c25fa59ed9dd08a50cc54c">
+    <head>Arrangement</head>
+<p>TBD</p>  </arrangement>
+  <bioghist id="aspace_62e51209b957241a3366df8dba2519ac">
+    <head>Biographical / Historical</head>
+<p>TBD</p>  </bioghist>
+  <acqinfo id="aspace_5e5413fd593a3bc6039873b299931433">
+    <head>Immediate Source of Acquisition</head>
+<p>TBD</p>  </acqinfo>
+  <relatedmaterial id="aspace_9f33df36afeea5592f648eb906375c51">
+    <head>Related Materials</head>
+<p>TBD</p>  </relatedmaterial>
+  <scopecontent id="aspace_7575a5a500364f32854d3af83591733c">
+    <head>Scope and Contents</head>
+<p>TBD</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Poetry.</subject>
+    <genreform source="aat">Newspaper clippings.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
