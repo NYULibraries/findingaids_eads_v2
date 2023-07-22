@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms3213_ketterer_family</eadid><filedesc><titlestmt><titleproper>Guide to the Ketterer-Crown Family Papers<lb/>circa 1880s-circa 1950s<lb/> <num>MS 3213</num></titleproper><author>Michelle Novak</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>August 2022</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:02:44 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Ketterer-Crown Family Papers</unittitle>
+    <unitid>MS 3213</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+      <extent altrender="carrier">in two record boxes plus one medium-oversize folder. </extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">circa 1870s-circa 1950s</unitdate>
+    <abstract id="aspace_6692811799a2954f801167ae513f41b1">TBD</abstract>
+    <physloc id="aspace_ffad6afbd826e01c10bcdfdb7981c2e7">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_858b2b0cc07b5cf1622316f4a6a60910">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_f85922eeb49b2fa3d54269bed7be7c4c">
+    <head>Arrangement</head>
+<p>TBD</p>  </arrangement>
+  <bioghist id="aspace_ce308321cf5e298ad61be1e01782a904">
+    <head>Biographical / Historical</head>
+<p>TBD</p>  </bioghist>
+  <accessrestrict id="aspace_d9ca06b054b3c8c4772445ccfe3d802b">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_942924bae4f253a0314b14918b4e633a">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <acqinfo id="aspace_7dcf023373666df37f8b131c042cc5c3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Rhonda M. James, September 2020.</p>  </acqinfo>
+  <prefercite id="aspace_714d9e42eee20d717d6396ce4655ed2b">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: [Name], MS/PR #, [if applicable: Department of Prints, Photographs, and Architectural Collections], New-York Historical Society.</p><p>For PPAC, add credit line if one specified in deed of gift</p>  </prefercite>
+  <processinfo id="aspace_4f78341be554240eef3f6d6beb400b2c">
+    <head>Processing Information</head>
+<p>TBD</p>  </processinfo>
+  <scopecontent id="aspace_4be977c4f19f26cca1fd0749584e0ed7">
+    <head>Scope and Contents</head>
+<p>TBD</p>  </scopecontent>
+  <dsc><c id="aspace_2afdbe2c72c46cac3944a4a83b8c09de" level="series"><did><unittitle>Series I, Family Papers</unittitle><unitdate datechar="creation" type="inclusive">circa 1870s-circa 1950s</unitdate></did><c id="aspace_b9c717afc78a58e078ee9ae33a7c6d93" level="file"><did><unittitle>Family cabinet card album</unittitle><unitdate datechar="creation" type="inclusive">circa 1870s-1900s</unitdate><container id="aspace_3913e0aafeb0f6c626b22f246a3f7fb4" label="Mixed Materials [1804000037060]" type="Box">2</container><container id="aspace_bfc999e1f36ca9b9035b893d05995364" parent="aspace_3913e0aafeb0f6c626b22f246a3f7fb4" type="album">2</container></did><scopecontent id="aspace_a3cadc5992bd1b22df6aece9ece9ddad"><head>Scope and Contents</head><p>Note: Cabinet card album pages are not numbered. The numbers below reflect the order of the photos as they appear in the album.
+——
+Photo album page 1
+"Letitia Thompson King."
+Studio portrait. Marked "E. W. Bogardus [Photo Studio], 349 Sixth Avenue near 22nd Street, New York."
+——
+Photo album page 2
+"Letitia Haslett King. (one year)"
+Studio portrait. Marked "Bostwick [Photo Studio], No. 98 Sixth Ave., Bet. 8th and 9th Sts., New York."
+——
+Photo album page 3
+"Letitia Haslett King. (three years)"
+Studio portrait. Marked "Rockwood Photographer, 17 Union Square West, N.Y."
+——
+Photo album page 4
+"Letitia Thompson King"
+Studio portrait.
+——
+Photo album page 5
+"Letitia Haslett King 1898."
+Studio portrait.
+——
+Photo album page 6
+"Letitia Haslett King. (seven years)"
+Studio portrait. Marked "E. W. Bogardus [Photo Studio], 349 Sixth Avenue near 22nd Street, New York."
+——
+Photo album page 7
+"William (standing), John &amp; Lizzie Thompson, Uncle William's [Thompson, b1815] Children"
+Studio portrait. Marked "Terras. Lawheadview. Markinch. [Fife, Scotland]"
+——
+Photo album page 8
+[Empty photo page frame]
+——
+Photo album page 9
+"Percival Charles Ketterer and Alice Miller" Image shows young children dresses in costumes of French aristocracy.
+Studio portrait. Marked "Robinson &amp; Roe. 54 West 14th St., New York. 77 &amp; 79 Clark St. Chicago."
+——
+Photo album page 10
+"Lizzie Taylor Thompson" [Elizabeth Mary Taylor, b1860] 
+Studio portrait. Marked "Kuebler, 1204 Chestnut St., Philadelphia."
+——
+Photo album page 11
+"David Thompson" [b1855?]
+Studio portrait. Marked "Bostwick [Photo Studio], No. 98 Sixth Ave., Bet. 8th and 9th Sts., New York."
+——
+Photo album page 12
+"Catherine Marshall, Mrs. William Thompson" [b1851]
+Studio portrait. Marked "Terras. Lawheadview. Markinch. [Fife, Scotland]"
+——
+Photo album page 13
+"Uncle William Thompson" [Rev., b1851]
+Studio portrait. Marked: Terras. Lawheadview. Markinch. [Fife, Scotland]"
+——
+Photo album page 14
+"Uncle James King"
+Studio portrait. Marked "Bostwick [Photo Studio], No. 98 Sixth Ave., Bet. 8th and 9th Sts., New York."
+——
+Photo album page 15
+"Hannah Houseman (Mrs. James King)"
+Studio portrait. Marked "Bostwick [Photo Studio], No. 98 Sixth Ave., Bet. 8th and 9th Sts., New York."
+——
+Photo album page 16
+"Eliza Thompson Irwin."
+Studio portrait. Marked "Bostwick [Photo Studio], No. 98 Sixth Ave., Bet. 8th and 9th Sts., New York."
+——
+Photo album page 17
+"Aunt Bella" [Isabella Thompson, b1867]
+Studio portrait. Marked "J. Glass. Londonderry. [Northern Ireland.]"
+——
+Photo album page 18
+"Uncle James Thompson"
+Studio portrait. Marked "Tanquerey. Corner 14th St. and 6th Ave., New York."
+——
+Photo album page 19
+"S. Thompson, May 8th [18]94. Uncle Robert's daughter Sarah." [Sarah Elizabeth Thompson, b1875]
+Studio portrait. Marked "R. Hermann. Cuba St. Wellington N.Z."
+——
+Photo album page 20
+"Letitia Haslett King, 1889"
+Studio portrait. Marked "Robinson &amp; Roe. 54 West 14th St., New York. 77 &amp; 79 Clark St. Chicago."
+——
+Photo album page 21
+"Emily Charles"
+Studio portrait. Marked "Knowlton Photo Artist, No. 335 Fourth Avenue, New York."
+——
+Photo album page 22
+"Letitia Haslett King. (twelve years)"
+Studio portrait. Marked "Macnabb Portraits, 813 Broadway, New York."
+——
+Photo album page 23
+"Dr. Joseph R. Kerr. Fourth Pres. Church [1893]"
+Studio portrait. Marked "Fredricks' Knickerbocker Family Portrait Gallery, 770 Broadway, Cor. 9th Street, New York."
+——
+Photo album page 24
+[Charles Percival Ketterer, 1847-1915]
+Studio portrait. Marked "1897. Fredricks, B'Way &amp; 9th St., N.Y."
+——
+24a (loose photo)
+[Charles Percival Ketterer, 1847-1915]
+Studio portrait of C. P. Ketterer wearing his Royal Masonic uniform. Loose insert between pages with formal portrait of Ketterer and formal portrait of his wife, Prudence Salome Kobler. Marked "Hunter Jordan Gallery. 419 Broadway, N.Y."
+——
+Photo album page 25
+[Prudence Salome Kobler-Ketterer, 1848-1943]
+Studio portrait. Marked "1887. Fredricks' Knickerbocker Family Portrait Gallery, 770 Broadway, Cor. 9th Street, New York."
+——
+Photo album page 26
+"Kathleen &amp; Fannie"
+Studio portrait. Marked "Frank Coghlan, Practical Photographer. 31 Carlisle Road. Londonderry."
+——
+26a (loose photo)
+[Unidentified family and horse-drawn trap.]
+Almost certainly Rev. William Thompson and family, Kinglassie, Fife, Scotland. Woman (Catherine Marshall), boy (John M.), and girl (Frances E.) in horse-drawn trap/wagon with older boy (William, Jr.) standing in foreground. Woman servant (possibly a Nanny) stands at left, male servant (possibly a Groom) holds the reins. Man (Rev. Thompson) stands in the doorway. 
+Marked "Thomas Predy Photographer &amp;c. Limavady [County Londonderry, Northern Ireland]."
+——
+Photo album page 27
+"Fannie Cuthbert Guthrie (two &amp; a half years)"
+Studio portrait. Marked "Merriman. Eau Claire, Wis."
+——
+Photo album page 28
+[Unidentified young man.]
+Studio portrait. Marked "Bostwick [Photo Studio], No. 98 Sixth Ave., Bet. 8th and 9th Sts., New York."
+——
+Photo album page 29
+"Uncle John Thompson (seated) and friends"
+Group studio portrait, three young men. Marked "Estabrooke, Removed From 46 West 14th Street, Near Macy's, New York. To 339 and 341 6th Avenue."
+——
+Photo album page 30
+[No names]
+Group studio portrait, most likely a family, showing older man and woman, two young men and two teen boys. Marked "Edwards &amp; Co. 102 Leytonstone Rd., Stratford, E. 7 Upton Lane, Forest Gate."
+——
+Photo album page 31
+"William Thompson—with arms folded—Uncle William's oldest boy"
+Group studio portrait showing five adult men. Marked "J.(?) Rodger. St. Mary's Studio. St. Andrews N.B."
+——
+Photo album page 32
+"Great-Grandpa &amp; Grandma J. Thompson &amp; Uncle Harry"
+Two men and two women standing in front of cottage. Marked "Thomas Predy Photographer &amp;c. Limavady [County Londonderry, Northern Ireland]."
+——
+Photo album page 32-a (loose photo)
+"Letitia Thompson King"
+Studio portrait of woman. Loose small cabinet card inserted between last page and back cover of album.
+——
+Photo album page 32-b (loose photo)
+[Inscription] "Letitia— with love David 14/6/[18]88"
+Studio portrait of man. Marked "J. Glass Photographer. 31 &amp; 65 Carlisle Rd., Londonderry." Loose small cabinet card inserted between last page and back cover of album. Possibly David H. King, husband of Letitia Thompson.
+——
+Photo album page 32-c (loose photo)
+"[?] King"
+Studio portrait of man standing. Marked "Young &amp; Glass Photographers, Carlisle Road, Londonderry." Loose small cabinet card inserted between last page and back cover of album.
+——
+Photo album page 32-d (loose photo)
+"Great Grandpa Thompson"
+Studio portrait of man. Marked "City Portrait Rooms. Hugh Kerr, Photographic Artist. Carlisle Road, Londonderry." Loose small cabinet card inserted between last page and back cover of album.
+——
+Photo album page 32-e (loose photo)
+"Bella Thompson Guthrie"
+Studio portrait of woman leaning on cushioned podium. Marked "[I.?] Glass. Carlisle Road, Londonderry." Loose small cabinet card inserted between last page and back cover of album.
+——
+Photo album page 32-f (loose photo)
+[Unidentified seated woman.]
+Marked "Ovinius Davis 16 Prince Street, Edinburgh." One of two matching studio portraits (32-f and 32-g). Silver print on card. Studio portrait. Loose cabinet card inserted between last page and back cover of album. Most likely Catherine Marshall, 1851-1898, wife of Rev. William Thompson.
+——
+Photo album page 32-g (loose photo)
+[Unidentified seated man]
+Marked "Ovinius Davis 16 Prince Street, Edinburgh." One of two matching studio portraits. Silver print on card. Studio portrait. Loose cabinet card inserted between last page and back cover of album. Most likely Rev. William Thompson, 1851-1897.
+——
+Photo album page 32-h (loose photo)
+[Unidentified man in early automobile/horseless carriage on dirt road, circa 1900. Possibly a Thompson family member.]
+Marked "Gaze V.(?) Co. Hamilton." Photo by Gaze &amp; Co., Hamilton, New Zealand. No date or markings on back. Silver print mounted to black/gray card.</p></scopecontent></c><c id="aspace_0fc230b9125004de43cd189ac91e44bd" level="file"><did><unittitle>Family photos and ephemera, loose</unittitle><unitdate datechar="creation" type="inclusive">circa 1880s-circa 1920s</unitdate><container id="aspace_522b58a45deeb13465992461bc52068a" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_f72ac8955494711958418c1e7be9b172" parent="aspace_522b58a45deeb13465992461bc52068a" type="Folder">2</container></did><scopecontent id="aspace_54ea15a73b50a892966d2c3f86ba2af9"><head>Scope and Contents</head><p>Loose family ephemera collected by Letitia H. Ketterer-Crown (1904-2000, Donor). Among other items, contains various photographs of family members, newspaper article "Historic Scene Remembered by Heights Woman" [Mrs. Prudence Ketterer], locks of hair in envelopes (most marked), miscellaneous cards and notes, and an envelope maked "Childhood Photos" with various family photographs.</p></scopecontent></c><c id="aspace_6aee6ee06635dd6cef3fdb7b874cd63a" level="file"><did><unittitle>Family photos, loose</unittitle><unitdate datechar="creation" type="inclusive">circa 1880s-circa 1940s</unitdate><container id="aspace_58fd9790fd30aaa84b3f5d1e9ef5e0f0" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_627bdf871f7d2a458218e86070a8aca4" parent="aspace_58fd9790fd30aaa84b3f5d1e9ef5e0f0" type="Folder">1</container></did><scopecontent id="aspace_d27255b2b66e443ff5e1a1b46b1dc1d0"><head>Scope and Contents</head><p>Envelope A<lb/>
+(circa 1900s–circa 1940s)<lb/>
+Miscellaneous black and white photographs (originals and later prints) of Letitia H. Ketterer-Crown (1904-2000, Donor) as primary subject. Various dates and locations.
+<lb/><lb/>
+Envelope B<lb/>
+(circa 1880s-circa 1940s) <lb/>
+Miscellaneous black and white photographs of Letitia H. Ketterer-Crown (1904-2000, Donor) and her parents, Percival C. Ketterer (1876-1962) and Letitia H. King-Ketterer (1881-1924), as well as few photographs with extended family. Various dates and locations, including some family vacation pictures.
+<lb/><lb/>
+Envelope C<lb/>
+(circa 1900s–circa 1940s)<lb/>	
+Miscellaneous black and white photographs of Letitia H. Ketterer-Crown (1904-2000, Donor) and her parents, Percival C. Ketterer (1876-1962) and Letitia H. King-Ketterer (1881-1924). Photos appear to be taken at various family properties, interiors and exteriors, and on a summer 1910 trip to Northern Ireland (see also bound photo album of Northern Ireland trip).
+<lb/><lb/>
+Envelope D <lb/>
+(circa 1880s-circa 1940s)	
+Miscellaneous black and white photo portraits and cabinet cards. Some photos marked on back with names; bulk unmarked and not dated. [Card-mounted photos in seperate slings contained within folder.]
+<lb/><lb/>
+Cased tintype, circa 1870s, in foamcore enclosure. (Conserved 2022.)</p></scopecontent></c><c id="aspace_135e60526f62dcc9ecc7916b7f65b2a4" level="file"><did><unittitle>Family photo album</unittitle><unitdate datechar="creation" type="inclusive">circa 1905</unitdate><container id="aspace_d5cc16c632124e31b1377568f1cdb7e5" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_61fa9d8ad1f40017bcba54c7e0726372" parent="aspace_d5cc16c632124e31b1377568f1cdb7e5" type="album">1</container></did><scopecontent id="aspace_0457f8e14b169976fae1d50df2f55364"><head>Scope and Contents</head><p>Black commercially-produced photo album (8" x 5.5") with "Summer of 1905" inscribed in ink on the first interior page. Contains various black and white family photographs mounted to pages. Most identified at a later date by Letitia H. Ketterer (1904-2000, Donor) in red ink, some photos marked as unknown.</p></scopecontent></c><c id="aspace_5eb07592704390fb8f265cf6dbff3861" level="file"><did><unittitle>Family photo album, Northern Ireland, circa 1910</unittitle><unitdate datechar="creation" type="inclusive">1910</unitdate><container id="aspace_71c506d20924bba9d56cee8656c90f87" label="Mixed Materials [1804000037060]" type="Box">2</container><container id="aspace_58248d1be033dc399d93eed3a5b08138" parent="aspace_71c506d20924bba9d56cee8656c90f87" type="album">1</container></did><scopecontent id="aspace_7db39bdbad8392ac42f10639c71413c4"><head>Scope and Contents</head><p>Commercially-produced album, inscribed "Summer of 1910." Contains black and white photos of Letitia H. Ketterer (1904-2000, Donor), her parents Percival C. Ketterer (1876-1962) and Letitia H. King (1881-1924) and, possibly, other family members and/or friends. Photos taken on-board a passenger ship and at various locations across [Northern] Ireland.</p></scopecontent></c><c id="aspace_ee017d0eee48e8f1d62a502969481ab6" level="file"><did><unittitle>Family photo album</unittitle><unitdate datechar="creation" type="inclusive">circa 1920s-circa 1940s</unitdate><container id="aspace_70d1f61e80de8e1b77ab5c7b13dd039f" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_690c350643eaa5ac4057989657a2cc85" parent="aspace_70d1f61e80de8e1b77ab5c7b13dd039f" type="album">2</container></did><scopecontent id="aspace_5217ad349e90992f75f3454ca43facda"><head>Scope and Contents</head><p>Brown commercially-produced photo album (7" x 6") with miscellaneous mounted and loose Ketterer family photographs, ca. 1920-1945. Includes photographs of Letitia H. Ketterer (1904-2000, Donor) on a horse and a "Third Prize" award ribbon from the Barret County Fair, 1925.</p></scopecontent></c><c id="aspace_d6c620d9c801feedb00bff387044ebcd" level="file"><did><unittitle>Letitia H. Ketterer (1904-2000, Donor), school memory book</unittitle><unitdate datechar="creation" type="inclusive">circa 1921</unitdate><container id="aspace_f4d45b45bc3f02248b16a9a3db4ed841" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_5e33bf60978e42056442ac4b6835234b" parent="aspace_f4d45b45bc3f02248b16a9a3db4ed841" type="album">3</container></did><scopecontent id="aspace_7c0023c214355363afd567d21bb7b616"><head>Scope and Contents</head><p>Commercially-produced school memory/scrapbook/autograph book, "A Girl's Graduation Days" (circa 1920) given to Letitia H. Ketterer (1904-2000, Donor) by her mother (inscription), Letitia H. King (1881-1924). Loose notes, cards and ephemera relating to 1921 graduation is interleaved throughout the book.</p></scopecontent></c><c id="aspace_7d11a51a7e627ac2e38a83eb9a550ce2" level="file"><did><unittitle>Letitia H. Ketterer (1904-2000, Donor), loose photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s–circa 1940s</unitdate><container id="aspace_bd1db72f72283d20cddd8c6d86e5a67b" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_e5c154142b26fe4392f6a3fc077c9e8f" parent="aspace_bd1db72f72283d20cddd8c6d86e5a67b" type="Folder">3</container></did><scopecontent id="aspace_76c7091a1c2505a8d3d2a40b32d85a63"><head>Scope and Contents</head><p>Various loose photographic portraits and family photographs where Letitia H. Ketterer-Crown (1904-2000, Donor) is the primary subject and minor ephemera.</p></scopecontent></c><c id="aspace_f50fa89449b08060b78ceb975f5fcca7" level="file"><did><unittitle>Surrogate's Court Document (P 1395-1924)</unittitle><unitdate datechar="creation" type="inclusive">1930</unitdate><container id="aspace_56918a8595ed555d0e08901fc6caf578" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_870ca05af3e34b25cb58d0c40435758a" parent="aspace_56918a8595ed555d0e08901fc6caf578" type="Folder">3A</container></did><scopecontent id="aspace_2b3af631193ffb733c23067fb0c4945d"><head>Scope and Contents</head><p>Legal document. Surrogate's Court, New York County (P 1395-1924, 1930) "Application for the Revocation of Letters of Testamentary, Removal of Trustee, for a Compulsory Accounting, etc." Application by Letitia Haslett Ketterer-Crown (1904-2000, Donor) to remove Morris J. Werner, Esq., as a trustee of her late moother's estate.</p></scopecontent></c><c id="aspace_d5e8772ae84a49f7d8d1e49fd9012845" level="file"><did><unittitle>Letitia H. Ketterer (1904-2000, Donor), address book</unittitle><unitdate datechar="creation" type="inclusive">circa 1980</unitdate><container id="aspace_05d43ce7e15e7cb72381002977de8df9" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_386a16fad967ba3aa2896edcabb813b8" parent="aspace_05d43ce7e15e7cb72381002977de8df9" type="album">4</container></did><scopecontent id="aspace_29adf9c1c2a8017fdde619317be2c081"><head>Scope and Contents</head><p>Small late-20th century commercially produced address book most likely owned and used by Letitia H. King-Ketterer (1881-1924).</p></scopecontent></c><c id="aspace_1ca8e4a53d6d4283623373f56cf16f8b" level="file"><did><unittitle>Harry A. Crown (b. 1887), loose photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s; circa 1950s</unitdate><container id="aspace_19162791762047afa6465f781573603d" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_2cdb20491530c26b8f115dae0a097ed9" parent="aspace_19162791762047afa6465f781573603d" type="Folder">4</container></did><scopecontent id="aspace_d6f9f1a3d2a9c6219ae2b0a987419d49"><head>Scope and Contents</head><p>Photographic portraits of Harry A. Crown (b. 1887). See also Box 1, Folder 1 for photos that may be of H.A. Crown and/or family and Box 2, Album 3 for Crown's Cornell University scrapbook.</p></scopecontent></c><c id="aspace_ef1dfaf7a061f1cf78ced5c2a12a2182" level="file"><did><unittitle>Harry A. Crown (b. 1887), Cornell University "Cornelliana" scrapbook</unittitle><unitdate datechar="creation" type="inclusive">circa 1910</unitdate><container id="aspace_d54190a3be3b4c565fe05c0991d4719a" label="Mixed Materials [1804000037060]" type="Box">2</container><container id="aspace_5041d1cd4bb2fb4d3f87b2f669bc1a87" parent="aspace_d54190a3be3b4c565fe05c0991d4719a" type="album">3</container></did><scopecontent id="aspace_2cb676fa3021d50509f35598c0c75a7a"><head>Scope and Contents</head><p>Commercially-produced Cornell University scrapbook, ca 1910, with "Cornelliana" stamped on the cover. </p><p>Owned and assembled by Harry A. Crown (b. 1887), Class of 1910, over the course of his studies at Cornell. Contains photos, posters, notes, newspaper clippings, invitations, and other ephemera.</p></scopecontent></c><c id="aspace_33617294c5c94770e5d669dbaaa89c94" level="file"><did><unittitle>Letitia H. Ketterer (1904-2000, Donor) and Harry A. Crown (b. 1887), wedding photo and ephemera</unittitle><unitdate datechar="creation" type="inclusive">circa 1951</unitdate><container id="aspace_5452beb1923605e4e63b8e5f0f2d0206" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_13fa53cb29345d817d85e1a1c888076d" parent="aspace_5452beb1923605e4e63b8e5f0f2d0206" type="Folder">5</container></did><scopecontent id="aspace_3bbd80d776140b2b0ad496a1a99a41b7"><head>Scope and Contents</head><p>Wedding photo and boxed wedding scrapbook containing marriage certificate (in book), handwritten guest lists, and wedding invitations for Letitia H. Ketterer (1904-2000, Donor) and Harry A. Crown (b. 1887), married 29 April 1951 (M10243).</p></scopecontent></c><c id="aspace_9870bde7ab5f056e557564972b1c8f8c" level="file"><did><unittitle>Letitia H. King (1881-1924), loose photos and ephemera</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s-circa 1920s</unitdate><container id="aspace_6f76ec80824cf655c2770da7ea1b1cfb" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_9ed15db9ca4efa6ea1e85c6443117941" parent="aspace_6f76ec80824cf655c2770da7ea1b1cfb" type="Folder">6</container></did><scopecontent id="aspace_d797392f3fd47b569962d7581e8c54f2"><head>Scope and Contents</head><p>Loose photographic portraits and photographs of Letitia H. King (1881-1924), circa 1900s-circa 1920s. Among other items, includes multi-generational photos  of Letitia H. King-Ketterer (mother), Letitia H. Ketterer (baby), and Letitia Thompson-King (grandmother). 
+<lb/><lb/>
+Among other items, also includes "The Phrenology Journal and the Phrenology Magazine" pamphlet and reading for "Miss L. H. King" dated 1901 by J. A. Fowler.</p></scopecontent></c><c id="aspace_21936ea2dd4d692f418e375a5e77310a" level="file"><did><unittitle>Percival C. Ketterer (1876-1962), loose photos and ephemera</unittitle><unitdate datechar="creation" type="inclusive">circa 1880s-circa 1910s</unitdate><container id="aspace_9f44c0a2f65050d90f457fd4fb610774" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_32df6e385efa3911e293878afbce35f4" parent="aspace_9f44c0a2f65050d90f457fd4fb610774" type="Folder">7</container></did><scopecontent id="aspace_286ed4036e02c627ced950be9de2f49d"><head>Scope and Contents</head><p>Among other items, includes photographic portraits of Percival C. Ketterer (1876-1962), circa 1890s, circa 1920s; photostatic copy of NYC Return of Birth, 1879; and City of New York Air Warden Service Certificate, 1942.</p></scopecontent></c><c id="aspace_6cf6851868ec82c9307f7cc8ea25ae15" level="file"><did><unittitle>Percival C. Ketterer (1876-1962), Technical School, Certificate of Progress</unittitle><unitdate datechar="creation" type="inclusive">1894</unitdate><container id="aspace_c450a56905199af50cad46c476fb80fd" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_84d42afd426e47bcf96b32613e71d816"><head>Scope and Contents</head><p>Technical School for Carriage Draftsmen and Mechanics, Certificate of Progress (approximately 12" x 17"). Issued to Percival C. Ketterer (1876-1962), in 1894.</p></scopecontent></c><c id="aspace_8b4350806eb680c3471c3e7fd92864c3" level="file"><did><unittitle>Letitia H. King (1881-1924) and Percival C. Ketterer (1876-1962), wedding ephemera</unittitle><unitdate datechar="creation" type="inclusive">circa 1902s</unitdate><container id="aspace_fb2f7151414c3e96a2fd6cf4ab9fa775" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_f3d4d72b653f77cac84d8bd8d254d2aa" parent="aspace_fb2f7151414c3e96a2fd6cf4ab9fa775" type="Folder">8</container></did><scopecontent id="aspace_cfb420d78ad883f454f954b53ce7c495"><head>Scope and Contents</head><p>Family group photo (no date) of Letitia H. King-Ketterer (1881-1924) and Percival C. Ketterer (1876-1962) holding infant Letitia H. Ketterer-Crown (1904-2000, Donor). Among other items, includes wedding book/marriage certificate, dated 29 December 1902, and swatch of lace.</p></scopecontent></c><c id="aspace_9a79f42f82a2d376ff39e4ba8e508d4a" level="file"><did><unittitle>Letitia H. Thompson (1860-1913), loose photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1880s-circa 1910s</unitdate><container id="aspace_aadd643ccb1973f9a8df5b12c9325998" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_94c07a6d550d59a1c6562febcc40a1bc" parent="aspace_aadd643ccb1973f9a8df5b12c9325998" type="Folder">9</container></did><scopecontent id="aspace_e7718ec229c9ef4b5e8ae128000fbe59"><head>Scope and Contents</head><p>Loose photographic portraits of Letitia H. Thompson (1860-1913), circa 1880s-circa 1910s.</p></scopecontent></c><c id="aspace_728234f9398172cf0da94b0228ca48e3" level="file"><did><unittitle>Letitia Thompson (1860-1913), U.S. Naturalization Certificate</unittitle><unitdate datechar="creation" type="inclusive">1881</unitdate><container id="aspace_f964c1e98c68679cb154a0764d90e75e" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_0bed92aca8f5b8d660fd1807c0142977"><head>Scope and Contents</head><p>U.S. Naturalization Certificate, State of New York, for Letitia [Thompson] King (1860-1913), issued 1881 (approximately 16" x 21").</p></scopecontent></c><c id="aspace_317b0f7328f75706f33bab201ad42929" level="file"><did><unittitle>Letitia Thompson (1860-1913), U.S. Naturalization Certificate</unittitle><unitdate datechar="creation" type="inclusive">1881</unitdate><container id="aspace_826bb878163fd49a3793ab1350887a40" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_63d9ae541bfa77c0a097f723237ca350"><head>Scope and Contents</head><p>U.S. Naturalization Certificate, Superior Court of the City of New York (duplicate certificate), for Letitia [Thompson] King (b. 1860), issued 1881 (approximately 10" x 13").</p></scopecontent></c><c id="aspace_ecc67c35a30aa1c42f8dcb5bd57a57ea" level="file"><did><unittitle>David H. King (b. 1852?), Petition for U.S. Naturalization</unittitle><unitdate datechar="creation" type="inclusive">1852</unitdate><container id="aspace_1800ec72c28223374568c4195378653c" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_47e601c820708f8b7a7370c081725c2f"><head>Scope and Contents</head><p>Petition for U.S. Naturalization for David H. King (b. 1852?), dated 1852 (approximately 8" x 13").</p></scopecontent></c><c id="aspace_72da50f5b1da72915a3b6e3026b8560d" level="file"><did><unittitle>David H. King (b. 1852?), U.S. Naturalization Certificate</unittitle><unitdate datechar="creation" type="inclusive">1867</unitdate><container id="aspace_2534b15e8170c62a431fe00cce808c09" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_8bd6ad2ab28b050e416900b4c5e67aec"><head>Scope and Contents</head><p>U.S. Naturalization Certificate, State of New York, for David H. King (b. 1852?), 1867 (approximately 18" x 19").</p></scopecontent></c><c id="aspace_d6b7355d4a89063670990abc5fb662e9" level="file"><did><unittitle>Charles P. Ketterer (1847-1915), photos and ephemera</unittitle><unitdate datechar="creation" type="inclusive">circa 1880s-circa 1900s</unitdate><container id="aspace_a346f20f9e266fb2e0187ec65e7ba2a4" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_de60291c64b1e3ca2dc523a4556270e5" parent="aspace_a346f20f9e266fb2e0187ec65e7ba2a4" type="Folder">10</container></did><scopecontent id="aspace_caa64d6e1a635f38ae792e919dba0a26"><head>Scope and Contents</head><p>Cabinet card portrait of Charles P. Ketterer (1847-1915) wearing a Royal Arch Masons sash. Cabinet card photo of C. P. Ketterer with two male workers, two children, and a "Bill" the goat in front of "Philip Ketterer Express Wagon Manufacturer," located  at 90-92 Thompson Street, NY, dated 1882.</p></scopecontent></c><c id="aspace_89e5453a8c7bc95ebf52ed835b788825" level="file"><did><unittitle>Samuel P. Kobler (1859-1949), photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s-1910s</unitdate><container id="aspace_9f96881ac045ba7e211975cdbf38711c" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_77e304d89bcf36afec15bc250503af39" parent="aspace_9f96881ac045ba7e211975cdbf38711c" type="Folder">11</container></did><scopecontent id="aspace_bbc3f8a6f8f1ce3279d52f80991ad211"><head>Scope and Contents</head><p>Photograph portraits of Photos of Samuel P. Kobler (1859-1949, as S. Percival Kobler) and near family members.
+<lb/><lb/>
+See also Series II, C. P. Ketterer Business Papers.</p></scopecontent></c><c id="aspace_9a7f5e307e10cb09e00518acd3af3000" level="file"><did><unittitle>Map of Greenwood Cemetery, Brooklyn, NY</unittitle><unitdate datechar="creation" type="inclusive">circa 1920s</unitdate><container id="aspace_2cbc7514518dd4bf905843a778f6a056" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_e1d277a69484c96070d584fdc456c731"><head>Scope and Contents</head><p>Commercially-printed map of Greenwood Cemetery in Brooklyn, Kings County, New York with annotations in red ink mapping the route to two locations within the cemetery (significance of markings unknown).</p></scopecontent></c></c><c id="aspace_3bd03bfd04c5523d92c1942a26dabc79" level="series"><did><unittitle>Series II, Business Papers</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s-circa 1915</unitdate></did><c id="aspace_cbefa16e0847dbb4b5447849af69b3c3" level="file"><did><unittitle>Business Papers</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s-circa 1915</unitdate><container id="aspace_f83549f3025ce25c5fbc9081bd22dd08" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_5530a45fdc246f1a16f88b069ba148df" parent="aspace_f83549f3025ce25c5fbc9081bd22dd08" type="Folder">12</container></did><scopecontent id="aspace_d2d3bca65005b0de27ca2a48e31a76ed"><head>Scope and Contents</head><p>Miscellaneous business papers of C. P. Ketterer &amp; Co. Named include Charles P. Ketterer, Percival C. Ketterer, Samuel P. Kobler (as S. Percival Kobler), and Manilla Kobler, among others. </p><p>Among other items, includes State of New Jersey Articles of Incorporation (1913); West 19th Street Lot agreement (1905) between Samuel P. Kobler and Percival C. Ketterer; West 19th Street Lot Deed (1915) from Samuel P. and Manella Kobler (grantors) to Percival C. Ketterer (grantee) for the sum of $1; Two handwritten cancelled checks; Note on company letterhead from Phillip of the Ketterer Manufacturing Co, Hanover PA; Letters of resignation notes from Samuel P. Kobler (1915); etc.</p></scopecontent></c><c id="aspace_9fecf7056ace44245989e1275265ba28" level="file"><did><unittitle>Railroad stock certificates</unittitle><unitdate datechar="creation" type="inclusive">circa 1880s</unitdate><container id="aspace_4fbb5fa6efff7866093beea5a842ecfe" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_39672e90e0c1b3526ca2ffd5a0909f4a" parent="aspace_4fbb5fa6efff7866093beea5a842ecfe" type="Folder">13</container></did><scopecontent id="aspace_45d2d7d457dfacb70085a30c888ec7ba"><head>Scope and Contents</head><p>Stock certificates for The Staten Island Rapid Transit Co. (circa 1880s) and the Pittsburgh, Cincinnati, Chicago, and St. Louis Railroad Co. (circa 1915). Enclosing folder indicates that the stock was owned by C. P. Ketterer &amp; Co.</p></scopecontent></c><c id="aspace_569ec07da1c5585a28af4ea6ffd9ab53" level="file"><did><unittitle>Fire wagon and fire automobile, photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s-circa 1920s</unitdate><container id="aspace_8c3d6e0d323de286c276a4a6457f3a45" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_9fb9a4401c6822e30f00d6e149e1b80f" parent="aspace_8c3d6e0d323de286c276a4a6457f3a45" type="Folder">14</container></did><scopecontent id="aspace_691f09d06c8381b4f1e94e6c345e5adc"><head>Scope and Contents</head><p>Two black and white photo prints of a C. P. Ketterer Fire Wagon (circa 1900s) and one black and white photo print of a C. P. Ketterer &amp; Co. Fire Vehicle (circa 1915).</p><p>See also Oversize-Med folder for two mechanical drawings which may be of a fire wagon.</p><p>Note: The buildings shown behind the wagons in many of the photos is either the C. P. Ketterer &amp; Co. factory located at 214-216 West 17th Street, Manhattan, or 211-215 West 19th Street, Manhattan (both buildings extant as of 2022). The lot for the West 19th Street building was purchased in 1905.</p></scopecontent></c><c id="aspace_8cd21894583ab224ec27cf2be25f04de" level="file"><did><unittitle>Fire wagon (possibly) mechanical drawings, by Percival C. Ketterer (1876-1962)</unittitle><unitdate datechar="creation" type="inclusive">circa 1895</unitdate><container id="aspace_bd13971753ee2d2e84786372396ff352" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_149c21ab74b4f33ca9f25f3d03314c36"><head>Scope and Contents</head><p>Mechanical drawing for (possibly) a fire wagon design, circa 1900. Reverse inscribed (faint) "P.[C.?] Ketterer, West [6?]2nd Street." </p><p>Oversized, approximately 19" x 13".</p><p>——</p><p>Mechanical drawing showing frame design for a wagon, possibly for a fire wagon, circa 1900. No signature or date.</p><p>Oversized, approximately 17" x 10".</p></scopecontent></c><c id="aspace_38bd77131d3da277ae370bd73e38091d" level="file"><did><unittitle>Horse-drawn delivery wagons, photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s-circa 1910s</unitdate><container id="aspace_818834bfb083980f84268c2712e870bb" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_6da3ffaf467f2b3d40638554d2e7d48d" parent="aspace_818834bfb083980f84268c2712e870bb" type="Folder">15</container></did><scopecontent id="aspace_67c6971adcf6611115b839e55ab311e8"><head>Scope and Contents</head><p>Black and white photo prints of C. P. Ketterer Horse-Drawn Delivery Wagons. Photos show a number of styles and most bear names of commercial clients on the side (Dunlap Hats, Merchant's Express Company, Fleichman's Florist, Hecht Bros., etc.). Back of photos contain little information and nearly all are blank.</p><p>Note: The buildings shown in many of the photos is either the C. P. Ketterer &amp; Co. factory located at 214-216 West 17th Street, Manhattan, or 211-215 West 19th Street, Manhattan (both buildings extant as of 2022). The lot for the West 19th Street building was purchased in 1905.</p></scopecontent></c><c id="aspace_289d5d0b06898351c021dd1bc775a6c6" level="file"><did><unittitle>Horse-drawn delivery wagons, mechanical drawings, by Percival C. Ketterer (1876-1962)</unittitle><unitdate datechar="creation" type="inclusive">circa 1915</unitdate><container id="aspace_ddacd0da67b52be8f1bcc1e418d00f31" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_b7406f249bc08c62a14b7a16cf0f13b3"><head>Scope and Contents</head><p>Mechanical drawings on drafting paper for horse-drawn carriages, circa 1915. Signed "Percival C. Ketterer."</p><p>Oversized, approximately 12" x 11".</p></scopecontent></c><c id="aspace_35986a0486bafeaf0fd8afe82ca8dc78" level="file"><did><unittitle>Horse-drawn freight wagons, photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1900s-circa 1910s</unitdate><container id="aspace_198b3b3728401d6a464fb9855307d17b" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_753324d3b766ba753691fc980db19837" parent="aspace_198b3b3728401d6a464fb9855307d17b" type="Folder">16</container></did><scopecontent id="aspace_61b06a31e5a05eb5295735c473bb6677"><head>Scope and Contents</head><p>Photo prints of C. P. Ketterer Horse-Drawn Freight Wagons, showing a number of styles (bottler's wagon, dray, waffle wagon, etc.). Most bear names of clients (Siegel Cooper, COlumbia, etc.). Back of photos contain little information and nearly all are blank.</p><p>Note: The buildings shown in many of the photos is either the C. P. Ketterer &amp; Co. factory located at 214-216 West 17th Street, Manhattan, or 211-215 West 19th Street, Manhattan (both buildings extant as of 2022). The lot for the West 19th Street building was purchased in 1905.</p></scopecontent></c><c id="aspace_fe4defde47296dbe95a28a14e316f558" level="file"><did><unittitle>Passenger automobile bodies, photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1910s-circa 1920s</unitdate><container id="aspace_5ac21e5379d42c8490ee1b7147a7b8b6" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_5c4d20a0d97bd595eec432b1e84a0d13" parent="aspace_5ac21e5379d42c8490ee1b7147a7b8b6" type="Folder">17</container></did><scopecontent id="aspace_3b8f2cba0bc6a058ff5a8752358505e5"><head>Scope and Contents</head><p>Photo prints of C. P. Ketterer Co. Passenger Automobile Bodies or various styles (roadster, sedan, etc.). Most photoprints bear company stamp on the back and a few contain additional handwritten details.</p><p>Note: The building shown in many of the photos is the C. P. Ketterer &amp; Co. factory at 211-215 West 19th Street, Manhattan (building extant as of 2022). The lot for the West 19th Street building was purchased in 1905.</p></scopecontent></c><c id="aspace_197a840d7b1c42b051214fc287a090c3" level="file"><did><unittitle>Passenger automobiles, mechanical drawings, by Percival C. Ketterer (1876-1962)</unittitle><unitdate datechar="creation" type="inclusive">circa 1915</unitdate><container id="aspace_43736461622937faf6922be368b2e0b0" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_1837c76c6670b10e9ee2823ef3b4b845"><head>Scope and Contents</head><p>Mechanical drawings on drafting paper for passenger automobile bodies (10), circa 1915. Bulk signed "P. C. Ketterer, Design and Builder."</p><p>Oversized, approximately 18" x 9".</p></scopecontent></c><c id="aspace_0b41955489ae24d2a8d50c784b742184" level="file"><did><unittitle>Delivery and freight automobile bodies, photos</unittitle><unitdate datechar="creation" type="inclusive">circa 1910s-circa 1920s</unitdate><container id="aspace_0658bd0463645fa0ef992d3d7848cc22" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_d4db1b224280c4fb420f8ceb5ea3ad74" parent="aspace_0658bd0463645fa0ef992d3d7848cc22" type="Folder">18</container></did><scopecontent id="aspace_f51439a78744b4b76d5397f16573926e"><head>Scope and Contents</head><p>Photo prints of C. P. Ketterer Co. Delivery and Freight Automobile Bodies of various styles. Most photoprints bear company stamp on the back and a few contain additional handwritten details.</p><p>Note: The building shown in many of the photos is the C. P. Ketterer &amp; Co. factory at 211-215 West 19th Street, Manhattan (building extant as of 2022). The lot for the West 19th Street building was purchased in 1905.</p></scopecontent></c><c id="aspace_73d9396b8f8bb64bb5472bfae477f5b5" level="file"><did><unittitle>Delivery and freight automobile bodies, brochure</unittitle><unitdate datechar="creation" type="inclusive">circa 1910s-circa 1920s</unitdate><container id="aspace_da67f199c53ea5a3dbdef369339f16f5" label="Mixed Materials [1804000037059]" type="Box">1</container><container id="aspace_9910cb13ba10e84108d48b42e729e8f6" parent="aspace_da67f199c53ea5a3dbdef369339f16f5" type="Folder">19</container></did><scopecontent id="aspace_31a5d236bf15ee28bbf77d74f1654c0a"><head>Scope and Contents</head><p>Commercially-printed brochure titled "C. P. Ketterer Co. Manufacturers of Commercial Automobile Bodies." Loose sheets and covers and bound with cord. Contains photographic reproductions from some loose photos. </p><p>Reproductions include commercial vehicles for Bush Terminal Co., Stern Brothers, R. H. Macy &amp; Co.;  W. J. Sloane; Fulton Creamery Co. Ice Cream, and one vehicle with no customer identification. </p><p>Some photos appear to be taken on the roof of 211-215 West 19th Street, with some identifiable buildings visible beyond. For example, in the photo with the R. H. Macy vehicle, the camera appears to be facing east from the roof of the 19th Street building as the spires of St. Peter's Church and Chelsea Community Church are visible on the right side. In the photo of the unmarked vehicle, this same view is obscured by a recently-built building (date of building can narrow photo date).</p></scopecontent></c><c id="aspace_265e1eb61cc963950006c86469deea3c" level="file"><did><unittitle>Delivery and freight automobiles, mechanical drawings, Percival C. Ketterer (1876-1962)</unittitle><unitdate datechar="creation" type="inclusive">circa 1915</unitdate><container id="aspace_d0a236f6d5c323b5d9cc05c04880e5a0" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_e0e1b99ffe5759bbcf93c600b61dc838"><head>Scope and Contents</head><p>Mechanical drawings (4) for freight automobiles, circa 1915. Signed "P. C. Ketterer" for C. P. Ketterer Co.</p><p>Oversized, approximately 26" x 13" (3 drawings) and 18" x 9" (1 drawing).</p></scopecontent></c><c id="aspace_315db7960aa2e78aadc34408aa433ec9" level="file"><did><unittitle>Harry A. Crown (b. 1880), mechanical drawing</unittitle><unitdate datechar="creation" type="inclusive">1919</unitdate><container id="aspace_732e1cec66032dca83db9bd9de3e408b" label="Mixed Materials" type="Folder">OS-Med</container></did><scopecontent id="aspace_7e97b94b461ee255ee16a136c5fe9fb5"><head>Scope and Contents</head><p>Mechanical drawing blueprint for a "Converter," by "H. A. Crown, July 3, 1919."</p><p>Oversized, approximately 21"x18".</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>
