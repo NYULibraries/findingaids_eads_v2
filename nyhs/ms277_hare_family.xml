@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms277_hare_family</eadid><filedesc><titlestmt><titleproper>Guide to the Hare Family Papers<lb/><date calendar="gregorian" era="ce">1873-1962 </date>(Bulk<date calendar="gregorian" era="ce"> 1884-1930)</date><lb/> <num>MS 277</num></titleproper><author>Processed by Maurita Baldock</author></titlestmt><editionstmt><p>This version was derived fromhare01mb.xml</p></editionstmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:05:30 -0400</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Hare Family Papers</unittitle>
+    <origination label="Creator">
+      <famname source="naf">Hair family</famname>
+    </origination>
+    <unitid>MS 277</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      <extent altrender="carrier">(3 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1873-1962 (Bulk 1884-1930)</unitdate>
+    <abstract id="aspace_b5083c632103b057152bf804fc1a1f32" label="Abstract">The Hare Family Papers consist of the personal papers of New York City attorney Montgomery Hare (1870-1932), his wife Constance Parsons Hare (1873-?), and material by the Parsons family.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <custodhist id="aspace_a395fc9beb124cdf1ca3dff68d06fd67">
+    <head>Provenance</head>
+<p>Donation by Peter H. Hare, grandson of Montgomery and Constance Hare, 1999.</p>  </custodhist>
+  <accessrestrict id="aspace_3090d0f9803563beac6de62b6adc931c">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p><p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.) See guidelines in Reading Room for details.</p>  </accessrestrict>
+  <userestrict id="aspace_91af403fba0ceb86349244219f74331d">
+    <head>Use Restrictions</head>
+<p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to <lb/><lb/>Library Director <lb/><address><addressline>The New-York Historical Society<lb/> </addressline><addressline>170 Central Park West<lb/> </addressline><addressline>New York, NY 10024<lb/><lb/> </addressline></address> </p><p>The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before January 1, 1978 cannot be quoted in publication without permission of the copyright holder.</p>  </userestrict>
+  <prefercite id="aspace_65c27aec6cee1a0552f49c775401350d">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as the Hare Family Papers, the New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_9fc2ee8f620d02b888e6327519dc5dfc">
+    <head>Biographical Summary For Montgomery Hare and Constance Parsons Hare:</head>
+    <chronlist>
+      <head>Missing Title</head>
+      <chronitem>
+        <date>1870</date>
+        <eventgrp>
+          <event>Montgomery Hare born in Orange, New Jersey to J. Montgomery Hare and Mary Meredith Hare. His siblings include Meredith, William, Morin, and Mary.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1873</date>
+        <eventgrp>
+          <event>Constance Parsons born to John E. Parsons and Mary McIlvaine Parsons, the youngest of six children including Mary (Mamie), Edith, Helen, Herbert, and Gertrude.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1884-1889</date>
+        <eventgrp>
+          <event>Montgomery Hare attends Groton School in Massachusetts.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1893</date>
+        <eventgrp>
+          <event>He receives his B.A. from Yale University.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1897</date>
+        <eventgrp>
+          <event>Montgomery Hare graduates from Columbia University Law School and is admitted to the bar.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1902-1906</date>
+        <eventgrp>
+          <event>He holds the office of Assistant Corporation Counsel in New York City.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1905</date>
+        <eventgrp>
+          <event>Montgomery Hare runs unsuccessfully for Alderman of the 31st Aldermanic District.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1908</date>
+        <eventgrp>
+          <event>With Thomas E. Rush, Montgomery Hare forms law partnership Rush &amp; Hare.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1908</date>
+        <eventgrp>
+          <event>Montgomery Hare and Constance Parsons are married.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909</date>
+        <eventgrp>
+          <event>First son Michael Meredith Hare born.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1911</date>
+        <eventgrp>
+          <event>Second son Montgomery Hare born.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919</date>
+        <eventgrp>
+          <event>Montgomery Hare ends law partnership with Thomas E. Rush and establishes the firm, Shearn &amp; Hare with Clarence J. Shearn.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1932</date>
+        <eventgrp>
+          <event>Montgomery Hare dies on July 8, at the age of sixty-two.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1953</date>
+        <eventgrp>
+          <event>Constance Parsons Hare turns eighty years old. The date of her death is unclear.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <scopecontent id="aspace_bd7c0c37f4805b6248781518f6cae089">
+    <head>Scope and Content Note</head>
+<p>The Hare Family Papers largely document the personal relationships within the Hare family and within the Parsons family, which was the family of Montgomery Hare's wife Constance. The bulk of the material is correspondence among family members. Neither Montgomery Hare's nor John E. Parsons's business affairs are represented within this collection.</p><p>The collection represents family relationships in the late nineteenth and early twentieth century. Parent/child relationships are represented through the letters to Montgomery Hare from his parents while he was away at school and later Hare's letters to his own children while they were away. Family relationships are also documented in the letters to Constance Parsons Hare from her children and her sisters. </p><p>The Library of Congress Name Authority File spells the family name "Hare" as "Hair."</p>  </scopecontent>
+  <arrangement id="aspace_f1e66feedc535faf28419954050b90dd">
+    <head>Arrangement</head>
+<p>The collection is arranged according to family member or type of material. </p><p>The papers are organized into the following seven series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series 1: Montgomery Hare, 1884-1930, undated</item>
+      <item>Series 2: Constance Parsons Hare, 1873-1962, undated</item>
+      <item>Series 3: John Edward Parsons, 1910-1916, undated</item>
+      <item>Series 4: Other Members of the Hare and Parsons Family, 1917-1929, undated</item>
+      <item>Series 5: Clippings, 1908-1929, undated</item>
+      <item>Series 6: Memorabilia, 1896-1951, undated</item>
+      <item>Series 7: Photographs, 1915-1953, undated</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_a30912d3ac3a41174a1f8b5a2d1bf1f9">
+    <head>Related Material at The New-York Historical Society</head>
+<p>Further material relating to Constance Parsons Hare and the Parsons family can be found within the Parsons Family Papers at the New-York Historical Society.</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_a6b2b39f81073494cc0d52df5ebac08b">
+    <head>Separated Material</head>
+<p>Oversize diplomas and photographs are stored in the small oversize case, drawer one.</p>  </separatedmaterial>
+  <controlaccess>
+    <geogname source="lcsh">New York (N.Y.) -- Social life and customs.</geogname>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Diplomas</genreform>
+    <genreform source="aat">Announcements</genreform>
+    <genreform source="aat">Invitations.</genreform>
+    <genreform source="aat">Theater programs.</genreform>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <genreform source="aat">Poems</genreform>
+    <genreform source="aat">Report cards.</genreform>
+    <genreform source="aat">Examinations (documents)</genreform>
+    <subject source="lcsh">Families -- New York (State)  -- New York. </subject>
+    <genreform source="aat">Certificates.</genreform>
+    <subject source="lcsh">Family -- New Jersey -- Orange.</subject>
+    <subject source="lcsh">Decedents' estates</subject>
+    <genreform source="aat">Photographic prints.</genreform>
+    <geogname source="lcsh">New York (State)  -- Genealogy.</geogname>
+    <geogname source="lcsh">Orange (N.J.) -- Social life and customs.</geogname>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Wills.</genreform>
+    <genreform source="aat">Agreements</genreform>
+    <genreform source="aat">negatives (photographs)</genreform>
+    <genreform source="aat">Passports.</genreform>
+    <genreform source="aat">Insurance records</genreform>
+    <persname rules="rda" source="naf">Parsons, John E. (John Edward), 1829-1915</persname>
+    <persname rules="rda" source="local">Hare, Constance Parsons, 1873-</persname>
+    <persname rules="rda" source="local">Hare, J. Montgomery</persname>
+    <persname rules="rda" source="local">Hare, Mary Meredith</persname>
+    <persname rules="rda" source="local">Hare, Michael Meredith</persname>
+    <persname rules="rda" source="local">Hare, Montgomery, 1870-1932</persname>
+    <persname rules="rda" source="naf">Hare, Montgomery</persname>
+    <famname source="naf">Parsons family</famname>
+  </controlaccess>
+  <dsc><c id="aspace_ref14_w3a" level="series"><did><unittitle>Series 1: Montgomery Hare, 1884-1930, undated</unittitle></did><scopecontent id="aspace_bad7ac1b5709a4042b40a1ebd5fedbfb"><head>Scope and Contents note</head><p>This series contains the personal materials of Montgomery Hare. It mainly includes incoming personal correspondence from family members and his wife-to-be, Constance Parsons. His correspondence also contains a 1930 form letter signed by Governor Franklin D. Roosevelt. The one folder of outgoing correspondence includes letters to his sons away at school and camp. The letters are arranged alphabetically by sender or recipient and then chronologically. The series also includes Hare's saved material such as writings, school records, policies, and certificates.</p></scopecontent><c id="aspace_ref15_zg6" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from A-Hare, Marian</unittitle><unitdate datechar="creation" normal="1884/1930" type="inclusive">1884-1930</unitdate><container id="aspace_c19ba689dff0a597d3b52bc09d57d31c" label="Mixed Materials" type="Box">1</container><container id="aspace_6442f4a8e08cee854e6c7cba9a2a3f88" parent="aspace_c19ba689dff0a597d3b52bc09d57d31c" type="Folder">1</container></did></c><c id="aspace_ref16_1qw" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from Hare, Mary Meredith</unittitle><unitdate datechar="creation" normal="1884/1892" type="inclusive">1884-1892</unitdate><container id="aspace_da3de556c220c2e67584fb58ce0d1ab4" label="Mixed Materials" type="Box">1</container><container id="aspace_91daa53e0473c06922267057823ea110" parent="aspace_da3de556c220c2e67584fb58ce0d1ab4" type="Folder">2</container></did></c><c id="aspace_ref17_h33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from Hare, Mary Meredith</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_dd9542a0b6223a03801f1d27262a1d7e" label="Mixed Materials" type="Box">1</container><container id="aspace_d1cfb706185e9c2b65e4a5f2851ee9ce" parent="aspace_dd9542a0b6223a03801f1d27262a1d7e" type="Folder">3</container></did></c><c id="aspace_ref18_09d" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from Hare, Mary Meredith</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_52b58ac3a785353bf18d6e0ae42caefe" label="Mixed Materials" type="Box">1</container><container id="aspace_b4d2971ae99e41af231ea322a4b50e71" parent="aspace_52b58ac3a785353bf18d6e0ae42caefe" type="Folder">4</container></did></c><c id="aspace_ref19_g0a" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from Hare, Michael Meredith</unittitle><unitdate datechar="creation" normal="1903/1925" type="inclusive">1903-1925</unitdate><container id="aspace_88eb45319aa8ed59c391b42953bbefde" label="Mixed Materials" type="Box">1</container><container id="aspace_bf3f101cba199e41b2c14e11de938fee" parent="aspace_88eb45319aa8ed59c391b42953bbefde" type="Folder">5</container></did></c><c id="aspace_ref20_u1g" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from Parsons, Constance</unittitle><unitdate datechar="creation">1900 July- 1901 Mar.</unitdate><container id="aspace_15e241340d60cb48e8ed082ed369a4b9" label="Mixed Materials" type="Box">1</container><container id="aspace_618b70dd2d33ae10cd795b31a29d9c5c" parent="aspace_15e241340d60cb48e8ed082ed369a4b9" type="Folder">6</container></did></c><c id="aspace_ref21_1hd" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from Parsons, Constance</unittitle><unitdate datechar="creation">1901 Apr.-1901 Dec.</unitdate><container id="aspace_30c916ca6423ac8d9ca9d2f528a36a81" label="Mixed Materials" type="Box">1</container><container id="aspace_318177229127b350aadfc073763c28d4" parent="aspace_30c916ca6423ac8d9ca9d2f528a36a81" type="Folder">7</container></did></c><c id="aspace_ref22_rd3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from Parsons, Constance</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_505e4745da72515487ce34f2288568b3" label="Mixed Materials" type="Box">1</container><container id="aspace_a7090f357a36dee5df54c41ecff66a5c" parent="aspace_505e4745da72515487ce34f2288568b3" type="Folder">8</container></did></c><c id="aspace_ref23_9ul" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters received from R-S</unittitle><unitdate datechar="creation" normal="1883/1930" type="inclusive">1883-1930</unitdate><container id="aspace_10aa4246eed2620476d02a7cb10a2476" label="Mixed Materials" type="Box">1</container><container id="aspace_07a49e6bf2ff7a8bf96d952d3bb4b809" parent="aspace_10aa4246eed2620476d02a7cb10a2476" type="Folder">9</container></did></c><c id="aspace_ref24_c10" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare: Letters sent to Michael Meredith Hare and John E. Parsons</unittitle><unitdate datechar="creation" normal="1920/1929" type="inclusive">1920-1929</unitdate><container id="aspace_0cb4a6923e4cc7d1a9773d5def88ed8d" label="Mixed Materials" type="Box">1</container><container id="aspace_1856408eda0690d0db199e1ada357661" parent="aspace_0cb4a6923e4cc7d1a9773d5def88ed8d" type="Folder">10</container></did></c><c id="aspace_ref25_bm9" level="otherlevel" otherlevel="unspecified"><did><unittitle>Academic Records from the Dearborn-Morgan School and the Groton School</unittitle><unitdate datechar="creation" normal="1885/1889" type="inclusive">1885-1889</unitdate><container id="aspace_5f66f683bed017c0e4986633b6f80c7b" label="Mixed Materials" type="Box">2</container><container id="aspace_c085d0df29601519a8fe5e646cf78177" parent="aspace_5f66f683bed017c0e4986633b6f80c7b" type="Folder">1</container></did></c><c id="aspace_ref26_rpc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Academic Records from Yale University</unittitle><unitdate datechar="creation" normal="1890/1893" type="inclusive">1890-1893</unitdate><container id="aspace_685131193ad9a924204d5b25ba20a95d" label="Mixed Materials" type="Box">2</container><container id="aspace_63a7f26b93118e424af86dfecc217f42" parent="aspace_685131193ad9a924204d5b25ba20a95d" type="Folder">2</container></did></c><c id="aspace_ref27_x01" level="otherlevel" otherlevel="unspecified"><did><unittitle>Academic Records from Yale University</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_08878ac3b30d0276fdb74dc1d68d7214" label="Mixed Materials" type="Box">2</container><container id="aspace_5d0c4839b8a9766350356f749004d9ee" parent="aspace_08878ac3b30d0276fdb74dc1d68d7214" type="Folder">3</container></did></c><c id="aspace_ref28_dvh" level="otherlevel" otherlevel="unspecified"><did><unittitle>Montgomery Hare's Campaign for Alderman/Affiliation with Tammany Hall</unittitle><unitdate datechar="creation" normal="1904/1904" type="inclusive">undated, 1904</unitdate><container id="aspace_08b84f5e5365352e4dfc5dad9c853918" label="Mixed Materials" type="Box">2</container><container id="aspace_a014b711f463efebe360a8bf709cabf5" parent="aspace_08b84f5e5365352e4dfc5dad9c853918" type="Folder">4</container></did></c><c id="aspace_ref29_wcn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Writings by Montgomery Hare</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_8a1cc7a4396ae5905cf5dc3d3d0d090a" label="Mixed Materials" type="Box">2</container><container id="aspace_6723e53fbade032ba786b74fe9d37e1c" parent="aspace_8a1cc7a4396ae5905cf5dc3d3d0d090a" type="Folder">5</container></did></c><c id="aspace_ref30_ezn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Insurance Policy and Property Information for Montgomery Hare</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">undated, 1916</unitdate><container id="aspace_c243ddc1b3f93a294a22949ac285d091" label="Mixed Materials" type="Box">2</container><container id="aspace_184e1d4dad67891a00579ce285899207" parent="aspace_c243ddc1b3f93a294a22949ac285d091" type="Folder">6</container></did></c><c id="aspace_ref31_lu1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Certificates Admitting Montgomery Hare as an Attorney for the Eastern District of New York</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1906, 1930</unitdate><container id="aspace_28ebe78c0ac5f1dbb5b2b880742f5b63" label="Mixed Materials" type="Box">2</container><container id="aspace_17772d78622f1cd23baefaad9687a1f2" parent="aspace_28ebe78c0ac5f1dbb5b2b880742f5b63" type="Folder">7</container></did></c><c id="aspace_ref32_5gn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversize Diplomas from Yale and Columbia</unittitle><unitdate datechar="creation" normal="1893/1897" type="inclusive">1893, 1897</unitdate><container id="aspace_ec3ceabe9b2a3894bc78d23dbd139998" label="Mixed Materials" type="Box">OS</container><container id="aspace_8302a74ad6342bfbb21053927028993f" parent="aspace_ec3ceabe9b2a3894bc78d23dbd139998" type="Folder">1</container></did></c></c><c id="aspace_ref34_plb" level="series"><did><unittitle>Series 2: Constance Parsons Hare, 1873-1962, undated</unittitle></did><scopecontent id="aspace_51bff1750822fce35aa952453dcc29f4"><head>Scope and Contents note</head><p>This series contains materials relating to the life of Constance Parsons Hare. Most of the correspondence is from family members, particularly her sons and her sisters. Specific letters include a thank you letter from poet Edith Sitwell and two letters from Gertrude Parsons describing conditions in Germany and Paris after the end of World War I. Personal documents such as her will, a family tree, and a list of the monetary value of her property are also included.</p></scopecontent><c id="aspace_ref35_w0j" level="otherlevel" otherlevel="unspecified"><did><unittitle>Constance Parsons: Letters received from A-O</unittitle><unitdate datechar="creation" normal="1873/1952" type="inclusive">1873-1952</unitdate><container id="aspace_4d9e245e005d2b23ecd0331ed9d488ce" label="Mixed Materials" type="Box">2</container><container id="aspace_9dc1c54430848c6bee95b8f5c7d403d8" parent="aspace_4d9e245e005d2b23ecd0331ed9d488ce" type="Folder">8</container></did></c><c id="aspace_ref36_sk5" level="otherlevel" otherlevel="unspecified"><did><unittitle>Constance Parsons: Letters received from P-T</unittitle><unitdate datechar="creation" normal="1907/1949" type="inclusive">1907-1949</unitdate><container id="aspace_b50c908e305752d95912caf7c709ed86" label="Mixed Materials" type="Box">2</container><container id="aspace_2a03de9183fd31b8dc76f8dcb7f954ff" parent="aspace_b50c908e305752d95912caf7c709ed86" type="Folder">9</container></did></c><c id="aspace_ref37_pal" level="otherlevel" otherlevel="unspecified"><did><unittitle>Constance Parsons: Outgoing letters to various correspondents</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">undated, 1937</unitdate><container id="aspace_c28916293cdea77f356267e909378f8b" label="Mixed Materials" type="Box">2</container><container id="aspace_dabeaa9ba447300f0c38062a33c5ead6" parent="aspace_c28916293cdea77f356267e909378f8b" type="Folder">10</container></did></c><c id="aspace_ref38_trc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Will of Constance Parsons Hare</unittitle><unitdate datechar="creation" normal="1940/1962" type="inclusive">1940, 1962</unitdate><container id="aspace_a95b9be61c61f54ea7618b9ed90fbbba" label="Mixed Materials" type="Box">2</container><container id="aspace_35cf8d9c432e70133e2ce939c1550cd5" parent="aspace_a95b9be61c61f54ea7618b9ed90fbbba" type="Folder">11</container></did></c><c id="aspace_ref39_6ec" level="otherlevel" otherlevel="unspecified"><did><unittitle>List of auction and insurance values for property of Constance Parsons Hare</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_fb8860c9525a533f7bfd279374ef8e1c" label="Mixed Materials" type="Box">2</container><container id="aspace_0463bd075998d4fe31f26289d8844140" parent="aspace_fb8860c9525a533f7bfd279374ef8e1c" type="Folder">12</container></did></c><c id="aspace_ref40_1m0" level="otherlevel" otherlevel="unspecified"><did><unittitle>Family Trees and Genealogical Information for Constance Parsons Hare</unittitle><unitdate datechar="creation" normal="1945/1948" type="inclusive">undated, 1945, 1948</unitdate><container id="aspace_f4757f37fdd3bf4ea2eb6a99ccf97cdc" label="Mixed Materials" type="Box">2</container><container id="aspace_aebd390ff558d38751f7eb242c9d60d4" parent="aspace_f4757f37fdd3bf4ea2eb6a99ccf97cdc" type="Folder">13</container></did></c></c><c id="aspace_ref42_jfd" level="series"><did><unittitle>Series 3: John Edward Parsons, 1910-1916 undated</unittitle></did><scopecontent id="aspace_4fa0d063f95b5e3856742b03ac4f0443"><head>Scope and Contents note</head><p>This series includes the documents in the collection relating to John E. Parsons, the father of Constance Parsons Hare. Only one folder in this series contains correspondence, and it consists of letters written to John E. Parsons from his daughter, Gertrude Parsons. The other folders contain John E. Parsons's will and legal information regarding his estate.</p></scopecontent><c id="aspace_ref43_qjq" level="otherlevel" otherlevel="unspecified"><did><unittitle>John E. Parsons: Letters received from Gertrude Parsons</unittitle><unitdate datechar="creation" normal="1910/1910" type="inclusive">undated, 1910</unitdate><container id="aspace_0d54eb9f358967ea501df5620a402f07" label="Mixed Materials" type="Box">2</container><container id="aspace_14df14f46982ced9dcdd32c4628a04a1" parent="aspace_0d54eb9f358967ea501df5620a402f07" type="Folder">14</container></did></c><c id="aspace_ref44_ts3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Will of John E. Parsons</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate><container id="aspace_57372c80c4abce3aa95f2670b1a5197c" label="Mixed Materials" type="Box">2</container><container id="aspace_6f6d5ff678ddbcd1a8c02735e7456ff1" parent="aspace_57372c80c4abce3aa95f2670b1a5197c" type="Folder">15</container></did></c><c id="aspace_ref45_2j1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Documents relating to estate of John E. Parsons</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate><container id="aspace_535609974773c6a8213957906ed12594" label="Mixed Materials" type="Box">2</container><container id="aspace_9a8cdf470ac3dcd58a90430e4b6333bf" parent="aspace_535609974773c6a8213957906ed12594" type="Folder">16</container></did></c></c><c id="aspace_ref47_ixk" level="series"><did><unittitle>Series 4: Other Members of the Hare and Parsons Families, 1917-1929, undated</unittitle></did><scopecontent id="aspace_56ac6a7eef371d83d98c0b5c65750dcb"><head>Scope and Contents note</head><p>This series consists of materials relating to other members of the Hare or Parsons families. It contains one folder of correspondence from Michael Meredith Hare and Montgomery Hare Jr. (the sons of Montgomery and Constance Parsons Hare), one folder of incoming and outgoing correspondence of Mary Parsons (Constance Parsons Hare's sister), and two passports for Gertrude Parsons (another sister of Constance Parsons Hare).</p></scopecontent><c id="aspace_ref48_w3z" level="otherlevel" otherlevel="unspecified"><did><unittitle>Michael Meredith Hare and Montgomery Hare, Jr.: Letters sent to various correspondents</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_8c7cee7e137dccd4780b3896ab502752" label="Mixed Materials" type="Box">2</container><container id="aspace_d043b687c6df87452307c226be2915d8" parent="aspace_8c7cee7e137dccd4780b3896ab502752" type="Folder">17</container></did></c><c id="aspace_ref49_44a" level="otherlevel" otherlevel="unspecified"><did><unittitle>Mary Parsons: Letters sent and received</unittitle><unitdate datechar="creation" normal="1923/1929" type="inclusive">1923, 1929</unitdate><container id="aspace_5ab0927535175446f700b91003d6fd9e" label="Mixed Materials" type="Box">2</container><container id="aspace_b3cd7a34b79b36b0812e237e64dd4ce4" parent="aspace_5ab0927535175446f700b91003d6fd9e" type="Folder">18</container></did></c><c id="aspace_ref50_tqo" level="otherlevel" otherlevel="unspecified"><did><unittitle>Passports for Gertrude Parsons</unittitle><unitdate datechar="creation" normal="1917/1920" type="inclusive">1917, 1920</unitdate><container id="aspace_d1825dbeee31b8ed616ad1002ef4892e" label="Mixed Materials" type="Box">2</container><container id="aspace_3a59d9a1997560fb8f1294a5b7c3dad3" parent="aspace_d1825dbeee31b8ed616ad1002ef4892e" type="Folder">19</container></did></c></c><c id="aspace_ref52_8dl" level="series"><did><unittitle>Series 5: Clippings, 1908-1929, undated</unittitle></did><scopecontent id="aspace_09e5de9f17c003234a7312b174bc8850"><head>Scope and Contents note</head><p>This series consists of one folder of newspaper or magazine clippings that mention members of the Hare or Parsons family. Many of the clippings are wedding announcements for Montgomery and Constance Parsons Hare. The one folder of clippings unrelated to either family contains mostly articles on local and national politics.</p></scopecontent><c id="aspace_ref53_i48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clippings regarding Hare and/or Parsons Family Members</unittitle><unitdate datechar="creation" normal="1908/1927" type="inclusive">1908, 1926, 1927</unitdate><container id="aspace_ae732d9d68902fa3a5fbcc1e7de47cc2" label="Mixed Materials" type="Box">2</container><container id="aspace_5831c55a91fbed50e97d78f0d15b513e" parent="aspace_ae732d9d68902fa3a5fbcc1e7de47cc2" type="Folder">20</container></did></c><c id="aspace_ref54_msi" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clippings, unrelated to Hare and/or Parsons Family</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">undated, 1929</unitdate><container id="aspace_3224f19d1291819a2450936951a31f6f" label="Mixed Materials" type="Box">2</container><container id="aspace_0232ad26a051786712484b3cfe1d710a" parent="aspace_3224f19d1291819a2450936951a31f6f" type="Folder">21</container></did></c></c><c id="aspace_ref56_1yt" level="series"><did><unittitle>Series 6: Memorabilia, 1896-1951, undated</unittitle></did><scopecontent id="aspace_156d4f3e1890e998201c65be50fda331"><head>Scope and Contents note</head><p>The memorabilia series includes saved ephemera such as invitations, receipts, programs, a brochure, and a menu. Although some of the theater programs attribute plays to Montgomery Hare, it is unclear if the playwright was Montgomery Hare, the elder, or his son of the same name.</p></scopecontent><c id="aspace_ref57_tuh" level="otherlevel" otherlevel="unspecified"><did><unittitle>Invitations and Announcements</unittitle><unitdate datechar="creation" normal="1896/1910" type="inclusive">undated, 1896-1910</unitdate><container id="aspace_07e2787d072446be4c258f2c37fb1dd2" label="Mixed Materials" type="Box">3</container><container id="aspace_279b4742920b720816ec402d41a41024" parent="aspace_07e2787d072446be4c258f2c37fb1dd2" type="Folder">1</container></did></c><c id="aspace_ref58_y1u" level="otherlevel" otherlevel="unspecified"><did><unittitle>Receipts</unittitle><unitdate datechar="creation" normal="1917/1932" type="inclusive">1917, 1921, 1932</unitdate><container id="aspace_f474276af1017e109224af157d5803b9" label="Mixed Materials" type="Box">3</container><container id="aspace_4fb320678fecdd5a0a7dc3667b5da48e" parent="aspace_f474276af1017e109224af157d5803b9" type="Folder">2</container></did></c><c id="aspace_ref59_fdf" level="otherlevel" otherlevel="unspecified"><did><unittitle>Theater Programs</unittitle><unitdate datechar="creation" normal="1891/1951" type="inclusive">1891-1951</unitdate><container id="aspace_ee3215efbb2dc149c8eb9b7f4b4bf6a6" label="Mixed Materials" type="Box">3</container><container id="aspace_9d9943dd74708918d92c33ce10891fc2" parent="aspace_ee3215efbb2dc149c8eb9b7f4b4bf6a6" type="Folder">3</container></did></c><c id="aspace_ref60_m6k" level="otherlevel" otherlevel="unspecified"><did><unittitle>Travel Brochures and Menu</unittitle><unitdate datechar="creation" normal="1922/1923" type="inclusive">1922-1923</unitdate><container id="aspace_052d409c3fab0bf725c529dd64db06c1" label="Mixed Materials" type="Box">3</container><container id="aspace_d23e10be119d3ae0db6e9c27a0c27390" parent="aspace_052d409c3fab0bf725c529dd64db06c1" type="Folder">4</container></did></c></c><c id="aspace_ref62_2mo" level="series"><did><unittitle>Series 7: Photographs, 1915-1953, undated</unittitle></did><scopecontent id="aspace_37bb20b60eceed8051ef5d72b28f29d4"><head>Scope and Contents note</head><p>The series includes snapshots and posed portraits. They are divided into the following categories: photographs of members of the Hare family, photographs of members of the Parsons family, and unidentified subjects. Although many of the subjects are identified on the backs of the photos, most of the images are undated.</p></scopecontent><c id="aspace_ref63_fez" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs, Members of Hare Family</unittitle><unitdate datechar="creation" normal="1915/1953" type="inclusive">1915-1953</unitdate><container id="aspace_f7d17bd7b5e5a2ba6b327ae25c616370" label="Mixed Materials" type="Box">3</container><container id="aspace_f304b3787e989d4b07de95d9fce19577" parent="aspace_f7d17bd7b5e5a2ba6b327ae25c616370" type="Folder">5</container></did></c><c id="aspace_ref64_pf8" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs, Members of Parsons Family</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_2365fa907017c79c9136dd913859ec83" label="Mixed Materials" type="Box">3</container><container id="aspace_9806505636863e8f699b4958b4febc77" parent="aspace_2365fa907017c79c9136dd913859ec83" type="Folder">6</container></did></c><c id="aspace_ref65_umr" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs, Unidentified people</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_6ad86eecbc54fc82e674bc4b69881241" label="Mixed Materials" type="Box">3</container><container id="aspace_9df93b9f9bcb11f7d4363643933da4d7" parent="aspace_6ad86eecbc54fc82e674bc4b69881241" type="Folder">7</container></did></c><c id="aspace_ref66_y0a" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversize Portrait Photographs of Montgomery Hare, Constance Parsons Hare, and John E. Parsons</unittitle><unitdate datechar="creation" normal="1913/1913" type="inclusive">undated, 1913</unitdate><container id="aspace_bb0d254fe74f00b7ea04b7e6ee50789a" label="Mixed Materials" type="Box">OS</container><container id="aspace_59c11d8cc97f0f8c9b455683b1875e62" parent="aspace_bb0d254fe74f00b7ea04b7e6ee50789a" type="Folder">1</container></did></c></c></dsc>
+</archdesc>
+</ead>
