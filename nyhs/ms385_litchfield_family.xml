@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms385_litchfield_family</eadid><filedesc><titlestmt><titleproper>Guide to the Litchfield family Papers <lb/>1809-1966<lb/> <num>MS 385</num></titleproper><author>Elise Winks</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>June 2020</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:01:51 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Litchfield family papers</unittitle>
+    <unitid>MS 385</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">25 Linear feet</extent>
+      <extent altrender="carrier">in 30 boxes and 65 volumes</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1809-1966</unitdate>
+    <abstract id="aspace_1d1147504f5383462617cfb6833fe398">Correspondence, papers, account books, genealogical data, maps, printed material, newspaper clippings, and photographs of various members of the Litchfield family, particularly Elisha Litchfield, his sons, Edwin Clark Litchfield, Elisha Cleveland Litchfield, Electus Backus Litchfield, and Erasmus Darwin Litchfield, Edwin's wife and children, Grace Hubbard Litchfield, Edward Hubbard Litchfield, Henry Percy Litchfield, and Grace Denio Litchfield. The collection is concerned mainly with the family's interests in railroads, coal mining, and real estate during the 1850s-70s.
+
+<lb/>To request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: <extref xlink:actuate="onRequest" xlink:href="https://bobcat.library.nyu.edu/permalink/f/22u4kq/nyu_aleph001451692">Litchfield family papers</extref><lb/></abstract>
+    <langmaterial id="aspace_9f9d0f670dc72389707658cd847f4c2b">The documents in the collection are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_1a5a6095aaabab66ee8f158bf06404f3">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p>  </accessrestrict>
+  <userestrict id="aspace_c8010dbe87c8727ad9e393a8e743e831">
+    <head>Use Restrictions</head>
+<p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_89c4b667bbdb12cd5e3f68e013f08a4d">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Litchfield family papers, MS 385, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_9e9a5332da48fd906bddbf3e6fa63c44">
+    <head>Processing Information</head>
+<p>The collection is not processed. As part of a project conducted in 2019-20, archivist Elise Winks performed a high level survey of the collection and described it broadly in this preliminary finding aid.</p>  </processinfo>
+  <arrangement id="aspace_3faed5b78247dbbb55c043d2788a3f3f">
+    <head>Arrangement</head>
+<p>TBD</p>  </arrangement>
+  <bioghist id="aspace_c45c1d20a2d8635b33ec8b341cefe978">
+    <head>Biographical / Historical</head>
+<p>TBD</p>  </bioghist>
+  <acqinfo id="aspace_85b759b1362422ef9712d26e47419178">
+    <head>Immediate Source of Acquisition</head>
+<p>TBD</p>  </acqinfo>
+  <relatedmaterial id="aspace_b625ce5a76d891899ac1434d9061da46">
+    <head>Related Materials</head>
+<p>TBD</p>  </relatedmaterial>
+  <scopecontent id="aspace_6ead22a50dd4d33a13f291a664ba300f">
+    <head>Scope and Contents</head>
+<p>TBD</p>  </scopecontent>
+  <dsc/>
+</archdesc>
+</ead>
