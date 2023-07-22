@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms3114_hopper_striker_mott</eadid><filedesc><titlestmt><titleproper>Guide to the Hopper Striker Mott Papers <lb/>1866-1930<lb/> <num>MS 3114</num></titleproper><author>Elise Winks</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>June 2020</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:00:52 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Hopper Striker Mott papers</unittitle>
+    <unitid>MS 3114</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">27 Linear feet</extent>
+      <extent altrender="carrier">in 21 volumes, 17 document boxes, 10 flat boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1866-1930</unitdate>
+    <abstract id="aspace_05e305a4e8d1a5f9b22800c189d844bf">Records from author Hopper Striker Mott including correspondence, genealogical research, legal documents, newspaper clippings, and scrapbook pages on the Charlier Institute.</abstract>
+    <langmaterial id="aspace_c90b68473db7b514d83f0c6bc9293ee0">The documents in the collection are in English.</langmaterial>
+  </did>
+  <userestrict id="aspace_093ae83a24735c181c81f5636e662919">
+    <head>Use Restrictions</head>
+<p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <accessrestrict id="aspace_a640877112681d1b1825667e9ff93592">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p>  </accessrestrict>
+  <prefercite id="aspace_ed5dd7a3dd5e771e2977eebb0ff4cfa1">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Hopper Striker Mott Papers, MS 3114, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_6a80873fa474b74a2b2e70519ae01c8d">
+    <head>Processing Information</head>
+<p>The collection is not processed. As part of a project conducted in 2019-20, archivist Elise Winks performed a high level survey of the collection and described it broadly in this preliminary finding aid.</p>  </processinfo>
+  <arrangement id="aspace_18c4badef8aceeb333628a4e832d7c9f">
+    <head>Arrangement</head>
+<p>TBD</p>  </arrangement>
+  <bioghist id="aspace_719842affa5190aae88a1e82b2cfa1a0">
+    <head>Biographical / Historical</head>
+<p>TBD</p>  </bioghist>
+  <acqinfo id="aspace_a7b1e22114a43fc6e362a56bb6fd392c">
+    <head>Immediate Source of Acquisition</head>
+<p>TBD</p>  </acqinfo>
+  <relatedmaterial id="aspace_6813761a67553a60d8ffaadc1eb5af35">
+    <head>Related Materials</head>
+<p>TBD</p>  </relatedmaterial>
+  <scopecontent id="aspace_e191aa255de36d16cf96ea31fd22e2fa">
+    <head>Scope and Contents</head>
+<p>TBD</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Publishers and publishing -- New York (State)  -- New York. </subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Legal documents.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
