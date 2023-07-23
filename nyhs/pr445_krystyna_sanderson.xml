@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">pr445_krystyna_sanderson</eadid><filedesc><titlestmt><titleproper>Guide to the Krystyna Sanderson Photographs<lb/>1980-2004<lb/> <num>PR 445</num></titleproper><author>Larry Weimer and Margo Padilla</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>June 2022</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:02:27 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Krystyna Sanderson photographs</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Sanderson, Krystyna</persname>
+    </origination>
+    <unitid>PR 445</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">.01 Linear feet</extent>
+      <extent altrender="carrier">in ...</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">.01 Gigabytes</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1980-2004</unitdate>
+    <abstract id="aspace_6e979c47f1078b3919c37f30efdf163c">TBD</abstract>
+    <physloc id="aspace_cca170231e2eace55f09bc7662301a09">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_c1508ca01f86dfac4f852474b1429769">The documents in the collection are principally photographic; any text is in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_1fcdd37628c56dc122b31e444e58e52f">
+    <head>Arrangement</head>
+<p>TBD</p>  </arrangement>
+  <bioghist id="aspace_e077d1f12c188b4db4cdc4b0b3a062fc">
+    <head>Biographical / Historical</head>
+<p>TBD</p>  </bioghist>
+  <accessrestrict id="aspace_c53c98d1fe704ebd0fdb67c733d17bff">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_47c3964073acc4b739ba3c929f98922d">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.
+
+Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <acqinfo id="aspace_b55c9bb60abd2090ec7d3d3e741637b6">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift, Krystyna Sanderson, 2018-19</p>  </acqinfo>
+  <prefercite id="aspace_be1fc3b46996570d66146e278a03d15c">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: [Name], MS/PR #, [if applicable: Department of Prints, Photographs, and Architectural Collections], New-York Historical Society.
+
+For PPAC, add credit line if one specified in deed of gift</p>  </prefercite>
+  <processinfo id="aspace_a4571d1f62d9931bbf34b50212c88140">
+    <head>Processing Information</head>
+<p>TBD</p>  </processinfo>
+  <scopecontent id="aspace_c6fd1516aa77278e913e3c0f7fdb3e7d">
+    <head>Scope and Contents</head>
+<p>TBD</p>  </scopecontent>
+  <dsc><c id="aspace_3e197a5fbfc9167f4d6f903c81a3028a" level="series"><did><unittitle>Series I. Polish-American (box 1)</unittitle><unitdate datechar="creation" type="inclusive">1980-1984</unitdate></did><scopecontent id="aspace_939302a31d3a528f07fa99ed3207adfa"><head>Scope and Contents</head><p>A. An archival binder with: </p><p>An announcement of the exbition and the list of exhibited photographs, an article by Czeslaw Czaplinski, "Co to znaczy byc Polakiem w Amercye" ("What It Means to Be Polish in America"), Now Dziennik, December 5, 1985, flashdrive with selected digital photographs, etc.<lb></lb></p><p>10 archival sleeves containing 35mm color slides of:<lb></lb></p><p>1. Pulaski's Day Parade, 5th Avenue, Manhattan, October 1982.<lb></lb>
+2. Poznaski's Bakery, 668 Manhattan Avenue, Greenpoint, Brooklyn, 1982.<lb></lb>
+3. Kurowycky's Butcher, 124 First Avenue, East Village, November 1982. <lb></lb>
+4. East Village, Manhattan, 1982-1983.<lb></lb> 
+5. Greenpoint, Brooklyn, 1982-1985. <lb></lb>
+6. The Kosciuszko Foundation Annual Dinner Ball, Manhattan, Feburary 1983. <lb></lb>
+7. St. Stanislaus Bishop and Martyr's Church, 101 E 7th St, East Village, 1983. <lb></lb>
+8. Polish Heritage Festival, Holmdel, NJ, 1983.<lb></lb>
+9. St. Stanislaus Kostka Church, Greenpoint, Brooklyn, December 1983. <lb></lb>
+10. Polish Wedding at St. Stanislaus Kostka Church, Greenpoint, Brooklyn, June 1984.<lb></lb></p><p>29 archival sleeves with 35mm negatives and proofs of Polish-Americans in Greenpoint and the East Village, 1980-1984:<lb></lb></p><p>1. East Village, Manhattan, October 1980. <lb></lb>
+2. St. Stanislaus Bishop and Martyr's Church, East Village, Manhattan, October 1930. <lb></lb>
+3. Christmas Eve, Greenpoint, Brooklyn, December 1980. <lb></lb>
+4. Same as above. <lb></lb>
+5. Same as above. <lb></lb>
+6. New Year's Eve, St. Stanislaus Bishop and Martyr's Church School, East Village, Manhattan, 1980. <lb></lb>
+7. Christmas Pageant, St. Stanislaus Bishop and Martyr's Church School, East Village, Manhattan, 1981. <lb></lb>
+8. Same as above.<lb></lb>
+9. Same as above. <lb></lb>
+10. Good Friday, St. Stanislaus Bishop and Martyr's Church, East Village, Manhattan, April 1981. <lb></lb>
+11. Holy Saturday, Blessing of the Food, St. Stanislaus Bishop and Martyr's Church, East Village, Manhattan, April 1981. <lb></lb>
+12. St. Stanislaus Bishop and Martyrr's Church, East Village, Manhattan, June 1981.
+13. Same as above. <lb></lb>
+14. St. Stanislaus Kostka Church, Greenpoint, Brooklyn, June 1981.<lb></lb> 
+15. Funeral, St. Stanisulaus Kostka Church, Greenpoint, Brooklyn, June 1981.<lb></lb> 
+16. Same as above. <lb></lb>
+17 St. Stanislaus Bishop and Martyr's Church, East Village, Manhattan, August 1981. 
+18. Miss Polonia Beauty Pageant, St. Stanislaus Kostka Church, Greenpoint, Brooklyn, September 1981. <lb></lb>
+19. Same as above. <lb></lb>
+20. St. Stanislaus Bishop and Martyr's Church School, East Village, Manhattan, October 1981. <lb></lb>
+21. East Village, October 1981. <lb></lb>
+22. St. Stanislaus Bishop and Martyr's Church School, East Village, Manhattan, October 1981.<lb></lb>
+23. Pulaski's Day Parade, 5th Avenue, Manhattan, October 1981.<lb></lb>
+24. Same as above.<lb></lb> 
+25. St. Stanislaus Kostka Church School, Greenpoint, Manhattan, October 1981.<lb></lb> 
+26. Same as above. <lb></lb>
+27. E 7th St, East Village, Manhattan, June 1982.<lb></lb>
+28 Wedding, St. Stanislaus Kostka Church, Greenpoint, Brooklyn, June 1984. <lb></lb>
+29. Same as above. <lb></lb></p><p>B. An archival binder with 14 original 11"x14" photographs of Polish-Americans in Greenpoint and the East Village, 1980-1984:<lb></lb></p><p>1. Pani Maria, E 7th St, East Village, June 1982. <lb></lb>
+2. Two Dancers, The Polish Ameircan Folk Dance Company, Inc., St. Stanislaus Bishop and Marytyr's Church, East Village, March 1981. <lb></lb>
+3. Woman I, E 7th St, East Village, October 1980.<lb></lb>
+4. Woman II, East Village, October 1981.<lb></lb>
+5. Altar Boys, St. Stanislaus Kostka Church, Greenpoint, Brooklyn, June 1981.<lb></lb>
+6. Good Friday, St. Stanislaus Bishop and Martyr's Church, East Village, April 1981.<lb></lb>
+7. Krakowianka, St. Stanislaus Bishop and Martyr's Church, East Village, March 1981.<lb></lb>
+8. Solidarity, 93 1/2 E 7th St, East Village, June 1982.<lb></lb>
+9. Krakowianki i Górale, St. Stanislaus Kostka Church, Greenpoint, Brooklyn, June 1983. <lb></lb>
+10. Lowiczanka, Pulaski Day's Parade, Fifth Avenue, New York City, October 1982.<lb></lb> 
+11. Krakowianki, Polish Heritage Festival, Holmdel, NJ, 1983. <lb></lb>
+12. A Veteran, Polish Heritage Festival, Holmdel, NJ, 1983. 
+13. Monsignor Karpinski, St. Stanislaus Bishop and Martyr's Church, East Village, April 1981. <lb></lb>
+14. Monica, Greenpoint, Christmas Eve, 1983.<lb></lb></p></scopecontent></c><c id="aspace_e7489401a4368e29d394522c85a6469b" level="series"><did><unittitle>Series II. Places of Light (box 3)</unittitle><unitdate datechar="creation" type="inclusive">1990</unitdate></did><scopecontent id="aspace_5ff64fdf5f591d8da3d8ea16a607005d"><head>Scope and Contents</head><p>A. An archival binder with:<lb></lb></p><p>Assorted materials, CD with selected digital photographs and CD with the PowerPoint Places of Light with Music.<lb></lb> </p><p>Archival sleeves with 35mm black and white negatives, proofs, and selected 8"x10" photographs of Places of Light, 1990. All photographs were done in New York City:<lb></lb></p><p>1. The National Arts Club, 15 Gramercy Park South, October 3, 1990 and the Cloisters, Fort Tryon Park, October 5, 1990.<lb></lb>
+2. The Cloisters, Fort Tryon Park, October 5, 1990.<lb></lb>
+3. Same as above.<lb></lb>
+4. The Abigail Adams Smith Musuem, 421 E 61st St, October 6, 1990. College of St. Vincent, 6301 Riverdale Avenue, Bronx, NY, October 7, 1990.<lb></lb>
+5. Friends Meeting House, 15 Rutherford Place, Grace Church, 802 Broadway, October 8, 1990. <lb></lb>
+6. The Cloisters, Fort Tryon Park, July 4, 1990. <lb></lb>
+7. Grace Church, 802 Broadway, October 8, 1990.<lb></lb>
+8. Thanasi Aronis' apartment, 95 Christopher St, July 3, 1990.<lb></lb> </p><p>Additional 12 rolls of 35mm black and white negatives of New York City sites.</p></scopecontent></c><c id="aspace_69c8d85af9845690c3d1e14fc953a438" level="series"><did><unittitle>Series III. Solitude: Light and Stillness (box 3)</unittitle><unitdate datechar="creation" type="inclusive">1997-1999</unitdate></did><scopecontent id="aspace_5c40604ab4d7a235b439e427297c3b35"><head>Scope and Contents</head><p>A. An archival binder with: <lb></lb></p><p>Assorted materials, CD with selected digital photographs and CD and CD with PowerPoint presentation with music: Solitude: Light and Stillness.<lb></lb></p><p>Archival sleeves with 35mm and 120mm black and white negatives, proofs and selected 5"x7" and 8"x10" black and white photographs of Solitude: Light and Stillness were doine in New York City, except Mrs. S and Barbi, done in Marion, MA.<lb></lb></p><p>B. An archival portfolio with 20 original silver gelatin 5"x7" photographs Solitude: Light and Stillness, printed on Agfa Portriga Rapid chlorobromide paper printed by the artist in New York City in 1999:<lb></lb></p><p>1. Janet: Solitude #1-3, Grace Church Rectory, 802 Broadway, 1997. <lb></lb>
+2. Margaret: Solitude #4-5, Grace Church Rectory, 1997.<lb></lb>
+3. Libby: Solitude #6-8, The House of the Redeemer, 7 E 95th St, 1998. <lb></lb>
+4. Sarah: Solitude #9-11, Queens County Farm Museum, Floral Park, NY, 1998. <lb></lb>
+5. Mrs. S: Solitude, #12-13, Marion, MA, 1998. <lb></lb>
+6. Barbi: Solitude #14-15, Marion, MA, 1998. <lb></lb>
+7. Jen: Solitude #16 and #17, 350 Cabrini Blvd, New York City, 1999. <lb></lb>
+8. Julie: Solitude #18-20, New York City, 1999.<lb></lb></p><p>Additional 6 packets of 35mm black and white negatives of New York City sites.<lb></lb></p></scopecontent></c><c id="aspace_a4e5ba89b5e8f35c43b51bcaf27f2289" level="series"><did><unittitle>Series IV. Light at Ground Zero: St. Paul's Chapel after 9/11 (box 2 &amp; 3)</unittitle><unitdate datechar="creation" type="inclusive">2001-2002, 2004</unitdate></did></c></dsc>
+</archdesc>
+</ead>
