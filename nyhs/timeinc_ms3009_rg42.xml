@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/timeincrg42/">timeinc_ms3009_rg42</eadid><filedesc><titlestmt><titleproper>Guide to the Time Inc. Harry Harding Files on Corporate Identity<lb/> 1967-1971<lb/> <num>MS 3009-RG 42</num></titleproper><author>Holly Deakyne</author><sponsor>The processing of the Time Inc. Records was made possible by a generous grant from the Henry Luce Foundation.</sponsor></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>March 2018</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:03:18 -0400</date>.</creation><langusage>Description is in <language>English</language></langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Time Inc. Harry Harding Files on Corporate Identity</unittitle>
+    <origination label="Creator">
+      <corpname rules="rda" source="naf">Time, inc.</corpname>
+    </origination>
+    <unitid>MS 3009-RG 42</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.1 Linear feet</extent>
+      <extent altrender="carrier">in 1 record carton, 1 flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1967/1971" type="inclusive">1967-1971</unitdate>
+    <abstract id="aspace_5857b5af21fcb7325df4e7aba12c999f">Corporate executive Harry Harding's files document his work on Time Inc.'s corporate identity, specifically attempting to create a new corporate logo or trademark for use throughout the company.</abstract>
+    <physloc id="aspace_f9eea1fd5dc2ddccda93e62c9ced0895">Materials in this collection are stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_f37059c4c925569f6f0ca50e57be9e5c">The documents in the collection are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_fb18b5e07912565c978f235144fa3c58">
+    <head>Biographical Note</head>
+<p>Time Inc. hired advertising executive Harry Harding in 1963 in a new corporate executive position reporting to president James Linen. According to his obituary in the New York <title render="italic">Times</title>, Harding worked on the development of international editions of magazines.</p>  </bioghist>
+  <userestrict id="aspace_94be60b80d3167af7064ec705369c096">
+    <head>Use Restrictions</head>
+<p>This collection is owned by the New-York Historical Society. Although the N-YHS owns this collection as physical property, the donor specifically retains all copyright and all other proprietary rights which may exist. The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before January 1, 1978 cannot be quoted in publication without permission of the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_45369f37592a2e7f68591a1bc23e04ce">
+    <head>Access Restrictions</head>
+<p>Materials in this collection are stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <acqinfo id="aspace_d2623bd9f998e07723e770a50633ad96">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Time Inc. in 2015.</p>  </acqinfo>
+  <relatedmaterial id="aspace_b2aa54df3f14bfa888bb1d53d6cb8665">
+    <head>Related Archival Materials Note</head>
+<p>This finding aid relates to just one record group of the Time Inc. Records. For information about the other record groups and for overall information about the archives, please see the Guide to the Time Inc. Records (MS 3009). The Henry Luce Papers (MS 3014) were acquired with the Time Inc. Records. The collection of books acquired with the records are cataloged as the Time Inc. Reference Library.</p>  </relatedmaterial>
+  <scopecontent id="aspace_fae03b29f0a100f524b957e12dc5c3b7">
+    <head>Scope and Contents Note</head>
+<p>Harry Harding's files document his work on Time Inc.'s corporate identity, specifically attempting to create a new corporate logo or trademark for use throughout the company. A 1968 memoranda to James Linen titled "The Need for a World-Wide Identity Program" lists the variety of marks used by Time Inc. and its subsidiaries and describes his proposed project to create a cohesive corporate identity for the company. Files include samples of proposed logo designs on letterhead, envelopes, business cards and the corporate jet; correspondence and memoranda discussing the need for corporate design, design requirements, and trademarks of other companies; and a collection of other companies annual reports and other materials. Notes found with the loose material indicate these are Harding's materials and some materials were sent by Louis Slovinsky, possibly meaning that Harding worked with the corporate publicity office on this project.</p>  </scopecontent>
+  <arrangement id="aspace_65d1f03612ef1827136aa8bff175fa6e">
+    <head>Arrangement Note</head>
+<p>Organized alphabetically with arrangement imposed.</p>  </arrangement>
+  <prefercite id="aspace_48196d053989f4f0e4241c8241297a2f">
+    <head>Preferred Citation Note</head>
+<p>This collection should be cited as Time Inc. Harry Harding Files on Corporate Identity, MS 3009-RG 42, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_faedb870f91dbc8c1ae1264bdd6fce00">
+    <head>Processing Information Note</head>
+<p>The Harry Harding Files on Corporate Identity were processed by Holly Deakyne in March 2018. The
+original folders were retained although some loose documents were newly housed in archival containers. Arrangement was imposed. Deakyne created the inventory and other descriptive notes to produce this finding aid.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Corporate image</subject>
+    <genreform source="aat">Corporation records.</genreform>
+    <subject source="lcsh">Corporations -- History.</subject>
+    <genreform source="aat">Organization files.</genreform>
+    <persname rules="rda" source="local">Harding, Harry</persname>
+    <corpname rules="rda" source="naf">Time, inc. -- Archives.</corpname>
+    <corpname rules="rda" source="naf">Time, inc. -- History.</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13_ktg" level="file"><did><unittitle>General</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container id="aspace_d9366b55e71adf0cb1e45562cc56f874" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_a071cb449edc91ad0847a9c81c258221" parent="aspace_d9366b55e71adf0cb1e45562cc56f874" type="Folder">1</container></did></c><c id="aspace_ref14_52g" level="file"><did><unittitle>Corporate Mark</unittitle><unitdate datechar="creation" normal="1967/1969" type="inclusive">1967-1969</unitdate><container id="aspace_ecde79684fe79bedc8a15b67f2e25239" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_984ce7f7e8b28db6f1f328a65013370a" parent="aspace_ecde79684fe79bedc8a15b67f2e25239" type="Folder">2-3</container></did></c><c id="aspace_ref15_yvy" level="file"><did><unittitle>Designs</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">approximately 1968</unitdate><container id="aspace_d7d04402dcefe62d35e4f7d111c2f82a" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_2baf89ca370d8e26c33a319fe54870c4" parent="aspace_d7d04402dcefe62d35e4f7d111c2f82a" type="Folder">4</container></did></c><c id="aspace_ref16_35b" level="file"><did><unittitle>Eastex Style Manual</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_f2974ca72b4b0373a3eafd5349519565" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_2ce83c1c60a5ca98badd9f3c73caadc1" parent="aspace_f2974ca72b4b0373a3eafd5349519565" type="Folder">5</container></did></c><c id="aspace_ref17_d6q" level="file"><did><unittitle>Examples from Other Companies</unittitle><unitdate datechar="creation" normal="1967/1969" type="inclusive">1967-1969</unitdate><container id="aspace_a630d9f6ac730b6ab2fd2ac7f7da8f78" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_4bcdf80dcff5b6ba8699fd50730cb7e4" parent="aspace_a630d9f6ac730b6ab2fd2ac7f7da8f78" type="Folder">6-7</container></did></c><c id="aspace_ref18_4m7" level="file"><did><unittitle>Mock-ups</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">approximately 1968</unitdate><container id="aspace_25cbc40ff4c98223157bb6dc6df3f9df" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_8819aa3e9105e7ba923b8dd4bf5818f9" parent="aspace_25cbc40ff4c98223157bb6dc6df3f9df" type="Folder">8</container></did></c><c id="aspace_ref19_mxv" level="file"><did><unittitle>Notes Identifying Owner of Records</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_68d23258fb48aba2f2339c8f788f1c5a" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_22b6d2ce2575c1e92a639a2cea2f2665" parent="aspace_68d23258fb48aba2f2339c8f788f1c5a" type="Folder">9</container></did></c><c id="aspace_ref20_zdq" level="file"><did><unittitle>Project "S"</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container id="aspace_64f65789a199af08593eff9937e6d0f2" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_4ed40bda6de8b3ab5079795c0bc37660" parent="aspace_64f65789a199af08593eff9937e6d0f2" type="Folder">10</container></did></c><c id="aspace_ref21_8kp" level="file"><did><unittitle>Samples</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">approximately 1968</unitdate><container id="aspace_2bf5cc3c7d9233990e9259123b65e999" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_2c2d77cb29f8f6dbd0c2a66c4a95e27b" parent="aspace_2bf5cc3c7d9233990e9259123b65e999" type="Folder">11-13</container></did></c><c id="aspace_ref24_4ph" level="file"><did><unittitle>Samples</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">approximately 1968</unitdate><container id="aspace_4b58f3d792ddb81f0e100b37a9ab2e27" label="Mixed Materials" type="Offsite-Box">1788</container></did></c><c id="aspace_ref22_maq" level="file"><did><unittitle>Time-Life Logo</unittitle><unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate><container id="aspace_b3db5b5ce6392f6a2d274a72b42bf546" label="Mixed Materials [10170000010547]" type="Offsite-Box">1787</container><container id="aspace_a511e25ca3e51fe66739a68f911db7a5" parent="aspace_b3db5b5ce6392f6a2d274a72b42bf546" type="Folder">14</container></did></c></dsc>
+</archdesc>
+</ead>
