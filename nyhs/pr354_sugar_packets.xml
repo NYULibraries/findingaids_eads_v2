@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/pr354_sugar_packets/">pr354_sugar_packets</eadid><filedesc><titlestmt><titleproper>Guide to the Crago-Kramer Collection of Sugar Packets<lb/>circa 1939-1960s<lb/> <num>PR 354</num></titleproper><author>Larry Weimer</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>February 2018</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:02:43 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Crago-Kramer collection of sugar packets</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Crago, Priscilla Hayward</persname>
+    </origination>
+    <unitid>PR 354</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.42 Linear feet</extent>
+      <extent altrender="carrier">in one document box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">circa 1939-1960s</unitdate>
+    <abstract id="aspace_ef838aea55170f3822603a39846eb057">The Crago-Kramer collection includes a variety of sugar packets from New York City and New York State, dating from the 1930s-1960s. The packets are often distinctive in that they refer to particular business establishments, especially hotels and restaurants, institutions, and some events, notably the World's Fairs of 1939-40 and of 1964-65 and the 1980 Winter Olympics.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <processinfo id="aspace_a84d287cbe92a3d48577efc74aa94e79">
+    <head>Processing Information Note</head>
+<p>The collection was processed in February 2018 by archivist Larry Weimer and volunteer Carol Reisner.</p>  </processinfo>
+  <prefercite id="aspace_84b69975ba33a84ac71c96d1307c4001">
+    <head>Preferred Citation Note</head>
+<p>This collection should be cited as the Crago-Kramer collection of sugar packets, PR 354, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society. </p><p>Credit line: Donated by Clive Probert. Originally collected by Priscilla Hayward Crago of Albany, and Martin &amp; Esther Kramer of Brooklyn.</p>  </prefercite>
+  <bioghist id="aspace_b60018c624e82020266756ada58a4bcd">
+    <head>Biographical/Historical Note</head>
+<p>Clive Probert, the collection donor, began collecting sugar packets about 1970. In the course of his collecting he was sent two existing collections. One was the Martin Kramer collection, compiled in the 1940s and 1950s by Kramer and sent to Probert by a descendant, Lee Goldberg. The second was the Priscilla Hayward Crago collection, started in the 1930s. The Crago collection included packets from several states, with Probert donating the New York related packets to N-YHS.</p><p>(The above was based on information from Probert's <extref xlink:actuate="onRequest" xlink:href="https://sites.google.com/site/cliveprobert/home">website</extref> as of February 2018.)</p>  </bioghist>
+  <acqinfo id="aspace_ab705805846d7738fc5fae51a56910f5">
+    <head>Immediate Source of Acquisition Note</head>
+<p>Gift from Clive Probert, October 2015.</p>  </acqinfo>
+  <userestrict id="aspace_0809ca0ffb2f5803cd13e0a76fe948fd">
+    <head>Use Restrictions</head>
+<p>Permission to reproduce any Print Room holdings through publication must be obtained from: Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024. Phone: (212) 873-3400 ext. 270. Fax: (212) 579-8794.</p>  </userestrict>
+  <accessrestrict id="aspace_fc8c70a365e245ebe3f48fcd0665c04e">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers by appointment only.</p>  </accessrestrict>
+  <arrangement id="aspace_2b0267c82473a216b37527e7b0ddd355">
+    <head>Arrangement Note</head>
+<p>The collection remains in the order as presented by the donor. Folder 1 holds what appears to be the original Martin Kramer collection. Folders 2-7 hold the contents of 5 binders, which appear to be the Priscilla Hayward Crago portion.</p>  </arrangement>
+  <scopecontent id="aspace_584f6da05270633279bbb8eaa58dfb07">
+    <head>Scope and Contents</head>
+<p>The collection includes a variety of sugar packets from New York City and New York State.  There are also some artificial sweeteners.  Most of the packets indicate a brand of sugar (e.g., Domino's, River Valley, Jack Frost), but are also distinctive in that they can be linked to a particular venue, event, or other particular context.  The earliest appear to date from the 1930s and include packets referring to exhibition buildings at the 1939-40 World's Fair, including those of Borden's, F&amp;M Schaefer Brewing, and the YMCA. Other events represented in the collection are the 1964-65 World's Fair and the 1980 Winter Olympics at Lake Placid. </p><p>A variety of establishments are represented by one or more packets. These especially include hotels (e.g., Hotel Helmsley, Algonquin, Nevele Country Club, the Concord, Woodstock Inn  &amp; Resort) and  restaurants (e.g., Stage Deli , Fraunces Tavern, Nedick's Coffee Shop, Mamma Leone's, Sardi's).  Some packets appear to be designed and branded for general distribution by suppliers; these often include imagery such as drawings of ships and New York State landmarks. Packets for miscellaneous institutions also appear, such as the New York Athletic Club, St. Mary's Hospital (Troy, NY), Station WRGB-NBC, the United Nations, and the Corning Glass Center. </p><p>Images of many of these packets can be found at the web site of the collection's donor; <extref xlink:actuate="onRequest" xlink:href="https://sites.google.com/site/cliveprobert/sugarpacketcollection/priscilla-hayward-crago-collection">click here</extref>.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Sugar -- Packaging -- New York (State).</subject>
+    <genreform source="aat">Packets (containers)</genreform>
+    <genreform source="aat">Ephemera.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_ref13_ab0" level="file"><did><unittitle>Sugar Packets (7 folders)</unittitle><unitdate datechar="creation">circa 1939-1960s</unitdate><container id="aspace_f1ffc0fea55c117f57a1dfd293b06f9e" label="Mixed Materials" type="Box">1</container><container id="aspace_967efb280b001b4a6a296a9a165d8701" parent="aspace_f1ffc0fea55c117f57a1dfd293b06f9e" type="Folder">1-7</container></did></c></dsc>
+</archdesc>
+</ead>
