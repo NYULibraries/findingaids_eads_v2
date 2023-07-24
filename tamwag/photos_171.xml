@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_171">photos_171</eadid><filedesc><titlestmt><titleproper>Guide to the United Front of Cairo, Illinois Photographs <num>PHOTOS.171</num></titleproper><author>Nicole Greenhouse</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>April 1, 2013</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:14:11 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>United Front of Cairo, Illinois Photographs</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no97030616" rules="dacs" source="naf">United Front of Cairo</corpname>
+    </origination>
+    <unitid>PHOTOS.171</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/1980" type="inclusive">circa 1970-1980</unitdate>
+    <abstract id="aspace_7ddd44e98107f7926225f8702a66c55d">This collection contains photographs of the United Front of Cairo, Illinois protesting against white owned businesses in downtown Cairo in the early 1970s, which were in response against violent attacks on the African American community. The protests document the struggle between the black and white populations in Cairo.</abstract>
+    <langmaterial id="aspace_0fab102076397ed482c346ac1b3f86ca">Materials are in English.</langmaterial>
+  </did>
+  <separatedmaterial id="aspace_b386e77c9b597728d9b8bb28c72c4319">
+    <head>Separated Materials</head>
+<p>When the material was acquired, printed ephemera materials were removed to Tamiment's organization files, which later became the Printed Ephemera Collection on Organizations (PE 036). The related material is found in Box 101.</p>  </separatedmaterial>
+  <bioghist id="aspace_7da08d6b95272b5ff8eeeb1955e60fc9">
+    <head>Historical/Biographical Note</head>
+<p>The United Front of Cairo, Illinois was an organization founded in 1969-1970, in response to racist attacks against the black population in Cairo, Illinois. The United Front was founded and led by Reverend Charles Koen. On March 31, 1969, white vigilante groups ("White Hats"), in cooperation with the local police, shot into an all-black housing project for two and a half hours. Although it was not the first attack on the black population in Cairo, it led the impetus to begin an economic boycott against white owned businesses in downtown Cairo. The boycott lasted throughout the 1970s and contributed to the economic hardships that would face the city later, closing many businesses in Cairo. In addition, the organization sponsored rallies, building funds for a new shopping center, and provided support to the black community due to increased economic hardship because of the boycott and from lack of food.</p>  </bioghist>
+  <prefercite id="aspace_04f4cc14dc26656ee255bc293af7f87d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; United Front of Cairo, Illinois Photographs; PHOTOS 171; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_e1b10b02315d402796f6e9c9d63d1b8b">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession numbers associated with this collection are 1950.171 and NPA.1995.022.</p>  </acqinfo>
+  <relatedmaterial id="aspace_78635008d7ab6a6c5abd916b0ba0c6bc">
+    <head>Related Archival Materials</head>
+<p>Ephemeral material related to this collection can be found in Box 101 of the Printed Ephemera Collection on Organizations (PE 036). Other photographs by Carl Hampton are located in the Liberation News Service Photographs collection (PHOTOS 022).</p>  </relatedmaterial>
+  <userestrict id="aspace_11c23a6c9ec3f50e61ac31ebe3b26477">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1970-1980, are expected to enter the public domain in 2101.</p>  </userestrict>
+  <accessrestrict id="aspace_7afa149c115fe3cde80161507c9add42">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <arrangement id="aspace_feff2d7a91289d0c4a56f25290dca998">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist.</p>  </arrangement>
+  <scopecontent id="aspace_17ab51536506f7e92d1b021aff664799">
+    <head>Scope and Content Note</head>
+<p>This collection contains black-and-white photographs of the United Front of Cairo, Illinois from circa 1970. Most of the photographs were taken by Carl Hampton, who was a United Front public information officer. The photographs mostly relate to the struggle between segments of the African-American community and the predominantly white reactionary city government in Cairo, Illinois. Many images are of black protestors picketing or at rallies, including Ralph Abernathy, Nina Simone, and Charles Koen, who was the national organizer of the United Front and civil rights activist. The protestors are predominantly picketing stores in effect against white racist merchants in Downtown Cairo. There are also photographs of white supremacists, police and vigilante raids, and city government officials. Photographs are accompanied by detailed captions, which are stapled onto the images.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">African Americans -- Civil rights -- Pictorial works</subject>
+    <subject source="lcsh">African Americans -- Civil rights -- United States</subject>
+    <geogname source="lcsh">Cairo (Ill.) |x Race relations |v Pictorial works. </geogname>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <persname rules="dacs" source="naf">Koen, Charles</persname>
+    <persname rules="aacr" source="naf">Abernathy, Ralph, 1926-1990</persname>
+    <persname rules="dacs" source="naf">Simone, Nina, 1933-2003</persname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>
