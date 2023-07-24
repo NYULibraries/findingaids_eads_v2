@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_258">tam_258</eadid><filedesc><titlestmt><titleproper>Lower East Side - Bluefields Sister City Project Records <num>TAM.258</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/04/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:03:51 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Lower East Side - Bluefields Sister City Project Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Lower East Side - Bluefields Sister City Project</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Hughes, Ingrid</persname>
+    </origination>
+    <unitid>TAM.258</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/1994" type="inclusive">circa 1980s-1990s</unitdate>
+    <abstract id="aspace_408f77df270fd1d38467f9f93a14e4d6">The Lower East Side - Bluefields Sister City Project began in 1985 as a solidarity effort by residents of the Lower East Side, when they paired with Barrio Nueva York, a community of 1,000 in Bluefields, Nicaragua. The collection consists of administrative files, including grant applications, contacts, press clippings, and publicity information.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_c4adc7874b3bda639775d3aaa342e189" label="Mixed Materials [31142062730356]" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_6ce5f27154db4cfca2ec34622de179d9">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_de6507dd7facbe1d94690301b351e83f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Ingrid Hughes in 1994. The accession number associated with this gift is 1994.031.</p>  </acqinfo>
+  <arrangement id="aspace_153d7a6a72b4904dea1137c083897cfa">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_2aae19c1ef41c4820af6ca6f95ea348a">
+    <head>Historical/Biographical Note</head>
+<p>The Lower East Side - Bluefields Sister City Project began in 1985 as a solidarity effort by residents of the Lower East Side, when they paired with Barrio Nueva York, a community of 1,000 in Bluefields, Nicaragua. The formation of this organization was in part a response to the Reagan Administration's policy towards the Sandinista government of Nicaragua.</p>  </bioghist>
+  <prefercite id="aspace_f23740b363d6aa0708167d21cc1238ee">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Lower East Side - Bluefields Sister City Project Records; TAM 258; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_18c5fa13630e1c3edd1da9b29e9d03be">
+    <head>Scope and Contents</head>
+<p>The collection consists of administrative files, including grant applications, contacts, press clippings, and publicity information. Also included are fundraising plans, newsletters from other organizations, photographs, correspondence, videotape and three audio cassette tapes.</p>  </scopecontent>
+  <phystech id="aspace_03e12468d71e2ea706904cf84b7d5517">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Researchers interested in using audiovisual materials in this collection (films, cassette tapes, VHS tapes, et cetera) must use a digitized copy, which we refer to as an access copy. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that already have already been digitized are noted in the collection's finding aid and can be requested in our reading room; materials not yet digitized will need to have access copies made before they can be used. These requests are free of charge and can be made in anticipation of your visit. The process typically takes four to six weeks. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A librarian will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_3607d7d022643d5ff72f17076fcee375">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the Lower East Side - Bluefields Sister City Project was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Sister cities.</subject>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <geogname source="lcsh">Bluefields (Nicaragua)</geogname>
+    <geogname source="lcsh">Nicaragua -- Politics and government -- 1979-1990</geogname>
+    <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Nicaragua -- Foreign Relations -- United States</geogname>
+    <geogname source="lcsh">United States |x Foreign relations |z Nicaragua.</geogname>
+    <genreform source="aat">Audiocassettes.</genreform>
+    <genreform source="aat">Administrative records</genreform>
+    <genreform source="aat">Newsletters.</genreform>
+    <corpname source="local">Lower East Side - Bluefields Sister City Project</corpname>
+    <persname role="dnr" rules="dacs" source="local">Hughes, Ingrid</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
