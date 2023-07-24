@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_076">tam_076</eadid><filedesc><titlestmt><titleproper>Charles S. Zimmerman Papers <num>TAM.076</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/04/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:34:16 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Charles S. Zimmerman Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Zimmerman, Charles S., 1896-1983</persname>
+    </origination>
+    <unitid>TAM.076</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">in 3 boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/1939" type="inclusive">circa 1920s-1930s, undated</unitdate>
+    <abstract id="aspace_cb05ebf9cfe34d7a087f2623bddaa3f7">Charles S. Zimmerman (1896-1983) was a labor leader and political activist who worked in the New York garment industry and served as the secretary-manager of the International Ladies' Garment Workers Union (ILGWU) Local 22 as well as an organizer for the Joint Board of the Dress and Waistmaker Union.  Zimmerman was also a member of the Socialist Party and the Communist Party until 1931. This collection contains congress reports from the Communist-affiliated Red International of Labour Unions (RILU) as well as leaflets and clippings related to Communism and the labor movement.</abstract>
+    <langmaterial id="aspace_0b2d861324d67a296c353e2fa4d43b1c">Materials are in English</langmaterial>
+    <container altrender="Manuscript box - Legal" id="aspace_909f1b7661ef2491615ad4f5aba657e0" label="Mixed Materials [31142062728780]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal" id="aspace_55a17a759e645704b5f0565a0ddc287a" label="Mixed Materials [31142062728798]" type="Box">2</container>
+  </did>
+  <bioghist id="aspace_35c6a131460504f408ab1ea2992488eb">
+    <head>Historical/Biographical Note</head>
+<p>Charles S. Zimmerman (1896-1983) was a labor leader and political activist. Zimmerman was born in Russia in 1896 and emigrated to the U.S. in 1913. He worked in the New York garment industry and joined the International Ladies' Garment Workers Union (ILGWU) Local 22. Shortly thereafter, he became its secretary-manager. He was also an organizer for the Joint Board of the Dress and Waistmaker Union. Zimmerman joined the Socialist Party in 1917. Throughout the 1920s, Zimmerman was an active member of the Communist Party, which affiliation cost him his union leadership positions in 1925. By 1931 however, he had broken with the CP and was reinstated in the ILGWU, he was elected a vice-president in 1934.</p>  </bioghist>
+  <arrangement id="aspace_996a5e88c53a8bfef11ca36524404b10">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <accessrestrict id="aspace_12c69bad28de7b11c760e576e6437a23">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p><p>Boxes 2 and 3 are closed for preservation work.</p>  </accessrestrict>
+  <scopecontent id="aspace_ea04e65beac46a09d0ef1e03ac7b9d14">
+    <head>Scope and Contents</head>
+<p>This collection contains congress reports from the Communist-affiliated Red International of Labour Unions (RILU) from 1924-1929 as well as leaflets and clippings from the 1920s and 1930s related to Communism and the labor movement.</p>  </scopecontent>
+  <prefercite id="aspace_baea15d905f2b55e2b9768ac253202b6">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <userestrict id="aspace_62ab88aeaae0a9ab8515ebd9adcac2ec">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1920-1939, are expected to enter the public domain in 2060.</p>  </userestrict>
+  <acqinfo id="aspace_2809d990bfce0fdb03dcd06a141f35b0">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession number associated with this collection is 1950.100.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Socialists -- United States.</subject>
+    <subject source="lcsh">Communists -- United States.</subject>
+    <subject source="lcsh">Labor unions -- Officials and employees -- United States.</subject>
+    <subject source="lcsh">Labor unions and communism.</subject>
+    <subject source="lcsh">Jewish communists -- United States.</subject>
+    <genreform source="aat">Reports.</genreform>
+    <genreform source="aat">Official reports.</genreform>
+    <subject source="lcsh">Congresses and conventions |z New York (State) |z New York |v Pictorial works.</subject>
+    <subject source="lcsh">Labor unions and communism -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Jewish socialists -- United States.</subject>
+    <corpname authfilenumber="(lccn)n79036120" source="naf">Communist Party of the United States of America</corpname>
+    <corpname authfilenumber="(lccn)no95039941" source="naf">International Ladies' Garment Workers' Union. Educational Department</corpname>
+    <corpname authfilenumber="(lccn)n80146763" source="naf">Red International of Labor Unions</corpname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>
