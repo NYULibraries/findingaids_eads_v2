@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_286">photos_286</eadid><filedesc><titlestmt><titleproper>Guide to the Collection of Soviet Union Photograph Albums and Photographs <num>PHOTOS.286</num></titleproper><author>Bonnie Gordon</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>November 2013</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:25:46 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Collection of Soviet Union Photograph Albums and Photographs</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
+    </origination>
+    <unitid>PHOTOS.286</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box and 2 oversize flat boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1930/1949" type="inclusive">circa 1930-1949</unitdate>
+    <abstract id="aspace_5b3430c407ac61e3f1be0e146011e2f8">The Collection of Soviet Union Photograph Albums and Photographs contains two untitled photograph albums and photographs depicting activities in the Soviet Union and led by the Soviet state during the 1930s and 1940s.</abstract>
+    <langmaterial id="aspace_bd04eb18b56776e2e5dab31f0ab97335">Materials are in English and Russian.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_e0ca912677577689110a3c1d10903290">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_888aa6bc3e4da60a77f60987d1219b41">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <scopecontent id="aspace_066c88cec77ad1011cc12a1c535fc779">
+    <head>Scope and Content Note</head>
+<p>The Collection of Soviet Union Photograph Albums and Photographs contains two untitled photograph albums and photographs depicting activities in the Soviet Union and led by the Soviet state during the 1930s and 1940s. One photograph album includes photographs of large-scale construction and city planning projects in the Soviet Union, likely during the Joseph Stalin era in the 1930s or 1940s.  The other photograph album contains photographs from the U.S.S.R. Conference for Peace held in Moscow in August 1949.  All photographs include English-language captions.  The inside front cover of the album contains a sticker with the emblem of the Ernest C. Ropes Memorial Library at the American Russian Institute and signature of Harlow Shapley.  Additionally, there are photographs from the 1937 Soviet film "Lenin in October". Small photographs are mostly 5" x 7." Large photographs are mostly 9" x 11" and have "MADE IN THE USSR" inscribed in the lower righthand corner.  There are also photograph negatives.</p>  </scopecontent>
+  <prefercite id="aspace_d425735070005e11d49d69f503e8e999">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Collection of Soviet Union Photograph Albums and Photographs; PHOTOS 286; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_31a5b709b93fffe465b2b89b91e16cb4">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. There is no accession record associated with this collection.</p>  </acqinfo>
+  <arrangement id="aspace_a4676a40b35a9e51b433020e55ba1cee">
+    <head>Arrangement</head>
+<p>Folders arranged alphabetically.</p>  </arrangement>
+  <relatedmaterial id="aspace_09a4e6cbc7b45849cba7c50e118bec2e">
+    <head>Related Archival Materials</head>
+<p>Materials relating to the Soviet Union can also be found in the National Council of American Soviet Friendship Records (TAM 134).</p>  </relatedmaterial>
+  <phystech id="aspace_91b6e4efda1855bf68ed2356dff1c60b">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Due to the fragile cover, researchers must wear gloves when handling the Construction Projects Photograph Album in Box 1.</p>  </phystech>
+  <processinfo id="aspace_8ef3f2e21cb753771dfd4c4d9c0716f4">
+    <head>Processing Information</head>
+<p>In 2013, two boxes of photographs from the collection the National Council of American-Soviet Friendship Photographs (PHOTOS 054) were repatriated to the National Council of American-Soviet Friendship Records (TAM 134).  Due to the unknown provenance of the remainder of PHOTOS 054, the Collection of Soviet Union Photograph Albums and Photographs (PHOTOS 286) was established as a discrete collection.</p>  </processinfo>
+  <bioghist id="aspace_1116487d1cadffb08dfc1ead17c9b2eb">
+    <head>Historical/Biographical Note</head>
+<p>The Tamiment Library, a special collection documenting the history of United States labor, radicalism, and progressive social action, accumulated this artificial collection of photographs and photograph albums depicting activities of the Soviet Union.</p>  </bioghist>
+  <controlaccess>
+    <geogname source="lcsh">Soviet Union.</geogname>
+    <geogname source="lcsh">Soviet Union |v Pictorial works.</geogname>
+    <subject source="lcsh">Construction projects.</subject>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <geogname source="lcsh">Soviet Union -- History -- 1925-1953.</geogname>
+    <genreform source="aat">Photograph albums.</genreform>
+    <geogname source="lcsh">Moscow (Russia)</geogname>
+    <persname source="naf">Lenin, Vladimir Il'ich, 1870-1924</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref15" level="file"><did><unittitle>Untitled Photograph Album: Construction Projects</unittitle><unitdate datechar="creation" normal="1930/1949" type="inclusive">circa 1930-1949</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_0c9d8602325bd3a7599f4ae62fd8bf99" label="Mixed Materials [31142062759504]" type="Box">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Unitled Photograph Album: USSR Conference for Peace</unittitle><container altrender="Flat OS Box 17" id="aspace_e5236cbf0b7e4e8630122657fd6f86c5" label="Mixed Materials [31142062759512]" type="Box">2</container></did></c><c id="aspace_ref11" level="file"><did><unittitle><emph render="italic">Lenin in October</emph>: Large Photographs (I)</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">circa 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8e1f1c774a1c99618128cb1804e94f56" label="Mixed Materials [31142062763126]" type="Box">3</container><container id="aspace_51e82a9d9e3a5e97455320b8516ee4d4" parent="aspace_8e1f1c774a1c99618128cb1804e94f56" type="Folder">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle><emph render="italic">Lenin in October</emph>: Large Photographs (II)</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">circa 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a3bf1ea29f286484f8d0682aacecac4b" label="Mixed Materials [31142062763126]" type="Box">3</container><container id="aspace_5993a26b7fe8ae1f0f7458db02778e8a" parent="aspace_a3bf1ea29f286484f8d0682aacecac4b" type="Folder">2</container></did></c><c id="aspace_ref13" level="file"><did><unittitle><emph render="italic">Lenin in October</emph>: Large Photographs (III)</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">circa 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_000288770e1c2f5c740891d88a93219f" label="Mixed Materials [31142062763126]" type="Box">3</container><container id="aspace_c702fed535b535b9e38404d4d02139af" parent="aspace_000288770e1c2f5c740891d88a93219f" type="Folder">3</container></did></c><c id="aspace_ref10" level="file"><did><unittitle><emph render="italic">Lenin in October</emph>: Negatives</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">circa 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_47c11646ba05f5a800d67a238de36ed6" label="Mixed Materials [31142062763126]" type="Box">3</container><container id="aspace_dad1323792b973cc27201be6b103bb4b" parent="aspace_47c11646ba05f5a800d67a238de36ed6" type="Folder">4</container></did></c><c id="aspace_ref14" level="file"><did><unittitle><emph render="italic">Lenin in October</emph>: Small Photographs</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">circa 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1cec5bb6a88c993f12b92d6730c2faa2" label="Mixed Materials [31142062763126]" type="Box">3</container><container id="aspace_c3ef9482ed34e541eac9ae15ba557b78" parent="aspace_1cec5bb6a88c993f12b92d6730c2faa2" type="Folder">5</container></did></c></dsc>
+</archdesc>
+</ead>
