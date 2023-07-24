@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_002">photos_002</eadid><filedesc><titlestmt><titleproper>Guide to the Sergius Ingerman Photograph Collection <num>PHOTOS.002</num></titleproper><author>Mary Allison Farley</author></titlestmt><editionstmt><p>This version was derived from NP2 Guide Sergius Ingerman.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 17:56:56 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sergius Ingerman Photographs</unittitle>
+    <origination label="Creator">
+      <persname source="local">Ingerman, Sergius, 1868-1943</persname>
+    </origination>
+    <unitid>PHOTOS.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box. </extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1880/1940" type="inclusive">1880-1940</unitdate>
+    <abstract id="aspace_b540c3801c85f388ea9ff038bada5393" label="Abstract">The collection consists of photoprints, including a tin type, cabinet cards, cartes-de-visite, studio portraits and snapshots from the Sergius Ingerman Papers. Dr. Ingerman, born in Russia, emigrated to the United States in 1891, was active in the socialist movement, and was a founder and board member of the Rand School.</abstract>
+    <physdesc id="aspace_e445afed538399bdbc0c10b35a11c5f7" label="General Physical Description note">(3x5, 5x7, 8x10; b&amp;w)</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_ec77f4c1937936812078122bc354fa79">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_f0ef277b439c0c5af81b27b10f4f2f3f">
+    <head>Immediate Source of Acquisition</head>
+<p>Tamiment Library received a gift of Sergius Ingerman's photographs and papers in 1974. Photographs were separated from Ingerman's papers and established as a separate collection, Sergius Ingerman Photographs PHOTOS 002. The accession number associated with this collection is 1974.002.</p>  </acqinfo>
+  <arrangement id="aspace_39b662f4d47afecad1af82ddac76d003">
+    <head>Arrangement</head>
+<p>The files are grouped into 1 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Container list</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_6373740f87d876fa3c68956ca2f82263">
+    <head>Historical/Biographical Note</head>
+<p>After taking medical training in Switzerland and expulsion from Russia for radical activities, Sergius Ingerman (1868-1943) came with his wife Anna (also a physician) to New York City in 1891. Both worked for the Socialist movement throughout their lives. Sergius Ingerman affiliated with the Russian Social Democratic Party and the Social Democratic Federation. Dr. Ingerman was one of the founders of the Rand School of Social Science in 1906 and later served on its board of directors.</p>  </bioghist>
+  <custodhist id="aspace_e9c21a76a05f632e33f8d14904bb85c7">
+    <head>Custodial History</head>
+<p>Materials were separated from the Sergius Ingerman Papers (TAM 004).</p>  </custodhist>
+  <prefercite id="aspace_6f622df5c061268d5f0d78360e4060f6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Sergius Ingerman Photographs; Photos 002; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_65985a60b97856513b2d9b9a6fbc53c7">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Archives</head>
+<p>The Sergius Ingerman Papers (TAM 004)</p><p>Tamiment Library and Robert F. Wagner Labor Archives Labor and Radicalism Photograph Collection (PHOTOS 001)</p>  </relatedmaterial>
+  <scopecontent id="aspace_b60d2cf991ed929e0fa344d2279588d5">
+    <head>Scope and Content Note</head>
+<p>The collection of photographs includes a tinytype, cabinet cards, cartes-de-visite, studio portraits and snapshots. Six of the images are portraits of Dr. Ingerman. The bulk of the collection is made up of portraits of individuals from the Socialist movement with whom Ingerman was associated, and group portraits including a gathering of former members of the Russian Social Democratic Party. Notable individuals featured include: Paul Axelrod, Karl Kautsky, Algernon Lee and Bertha Mailly (both of the Rand School), and Bladumip Medem.</p>  </scopecontent>
+  <userestrict id="aspace_738428e7ac3250fec2d1280fb515ab63">
+    <head>Conditions Governing Use</head>
+<p>Materials in this collection, which were created in 1880-1940, are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Photographic prints.</genreform>
+    <subject source="lcsh">Socialists |z Russia |v Portraits.</subject>
+    <subject source="lcsh">Socialists |z United States |v Portraits.</subject>
+    <subject source="lcsh">Socialists -- United States.</subject>
+    <persname source="naf">Kautsky, Karl, 1854-1938 -- |v Portraits</persname>
+    <corpname authfilenumber="(lccn)n88657420" source="naf">Rand School of Social Science</corpname>
+    <persname source="naf">Akselʹrod, P. B. (Pavel Borisovich), 1850-1928</persname>
+    <persname rules="dacs" source="local">Ingerman, Anna</persname>
+    <corpname source="local">Social Democratic Society of New York</corpname>
+    <persname source="local">Mailly, Bertha Howell -- |v Portraits</persname>
+    <corpname source="local">Russian Immigrants Aid Committee</corpname>
+    <persname source="naf">Medem, Vladimir, 1879-1923</persname>
+    <corpname source="naf">Rossiiskaia sotsial-demokraticheskaia rabochaia partiia</corpname>
+    <persname source="naf">Lee, Algernon</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Inventory</unittitle></did><c id="aspace_ref14" level="file"><did><unittitle>Identified (37 items)</unittitle><unitdate datechar="creation" normal="1890/1930" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d0de204df03c60111ede7a14a3d4592b" label="Mixed Materials [31142062667780]" type="Box">1</container><container id="aspace_b4f8dddf6185a5bcbb67683b649959d4" parent="aspace_d0de204df03c60111ede7a14a3d4592b" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Group Portraits (8 items)</unittitle><unitdate datechar="creation" normal="1890/1930" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6034e730732d52809ed9056f67702c27" label="Mixed Materials [31142062667780]" type="Box">1</container><container id="aspace_313afff20755ce93f02af107cf9aa5d6" parent="aspace_6034e730732d52809ed9056f67702c27" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Unidentified (17 items) (includes images with Russian inscriptions that have not been translated)</unittitle><unitdate datechar="creation" normal="1890/1930" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_706b6bb4b68afd1253cf6a4e0a988256" label="Mixed Materials [31142062667780]" type="Box">1</container><container id="aspace_7327cb44ea93158f23396877e966577f" parent="aspace_706b6bb4b68afd1253cf6a4e0a988256" type="Folder">3</container></did></c></c></dsc>
+</archdesc>
+</ead>
