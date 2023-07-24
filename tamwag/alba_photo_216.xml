@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_photo_216">alba_photo_216</eadid><filedesc><titlestmt><titleproper>Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War: Photographs <num>ALBA.PHOTO.216</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:21:42 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle><emph render="italic">The Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War:</emph> Photographs</unittitle>
+    <origination label="source">
+      <persname source="naf">Sills, Sam</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Sills, Sam</persname>
+    </origination>
+    <unitid>ALBA.PHOTO.216</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1936/1983" type="inclusive">1936-1983</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_b8ec27eb58ca7ef0211d7abd7f1ef241">
+    <head>Scope and Contents</head>
+<p>"The Good Fight," the 1983 feature-length documentary, pays homage to American volunteers who served with the International Brigades during the Spanish Civil War. The film makes extensive use of archival footage from the war, stills, primary documents, radio broadcasts, newsreels, and interviews. This collection consists of still photographs acquired during research for and production of the film.</p>  </scopecontent>
+  <relatedmaterial id="aspace_2b456e513d952aff9340220ba449b93b">
+    <head>Related Archival Materials</head>
+<p>ALBA 216 <emph render="italic">The Good Fight: the Abraham Lincoln Brigade in the Spanish Civil War</emph>: Production Materials</p><p>ALBA AUDIO 216 <emph render="italic">The Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War</emph>: Audiotapes  </p><p>ALBA FILM 216 <emph render="italic">The Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War</emph>: Film Materials</p>  </relatedmaterial>
+  <accessrestrict id="aspace_c9f169cfb7158026f40406737697f609">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <userestrict id="aspace_7ba87834cbce7be4b4932c5fa2bb234a">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <controlaccess>
+    <persname role="fmo" source="naf">Sills, Sam</persname>
+  </controlaccess>
+  <dsc><c id="aspace_b256b8100c1fe7f0c26a327a317cbbb1" level="file"><did><unittitle>Unprocessed Materials</unittitle><container altrender="Manuscript box - Legal" id="aspace_fafc427d6d31d6374127196558bf98c4" label="Mixed Materials [31142062723302]" type="Box">1</container><container altrender="Manuscript box - Legal - Half" id="aspace_31802224be20964d2cdfc6f7c250baa0" label="Mixed Materials [31142062723310]" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>
