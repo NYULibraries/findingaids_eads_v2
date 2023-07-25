@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_454">tam_454</eadid><filedesc><titlestmt><titleproper>Guide to the Sidney and Clara Solomon Papers <num>TAM.454</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/16/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:21:51 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>June 2019</date><item>Edited by Megan O'Shea to reflect accretion to collection and for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sidney and Clara Solomon Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Solomon, Sidney</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Solomon, Clara</persname>
+    </origination>
+    <unitid>TAM.454</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.3 Linear Feet</extent>
+      <extent altrender="carrier">in 2 manuscript boxes and 1 flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/2004" type="inclusive">1920-2004</unitdate>
+    <abstract id="aspace_a52f51d00fca05bcfb9780e3d70770aa">Sidney and Clara Solomon were New York anarchists and were members of the Vanguard Group in the 1930s and the New Trends Group in the 1940s.  The Sidney and Clara Solomon Papers document their interest in and work towards anarchist activities, including the Vanguard Group, the New Trends Group, and the Atlantic Anarchist Circle.  Materials in the collection date from the 1920s through 2004.</abstract>
+    <langmaterial id="aspace_fc581cd8cd39809aaf7203b5ecfb6d86">Materials are in English.</langmaterial>
+    <container altrender="Manuscript box - Legal" id="aspace_af18ea225b0c4a8df50fec587b4d37a7" label="Mixed Materials [31142062765865]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal" id="aspace_5afd3d4b76edf9fcd7983de33344e65a" label="Mixed Materials [31142063038551]" type="Box">2</container>
+    <container altrender="OS Flat Box - 15x19x3" id="aspace_a6ef673cbf6bf7f573449f7123c29bc2" label="Mixed Materials [31142063038569]" type="Box">Shared Tamiment 065</container>
+    <container id="aspace_feb2ef7c748d96b1b6c51f53a24d61b9" parent="aspace_a6ef673cbf6bf7f573449f7123c29bc2" type="Folder">1</container>
+  </did>
+  <accessrestrict id="aspace_be1fe44ac1282e2edb7083d4f67e9106">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_b92795b2f90d80b13f051307539e9c92">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession numbers associated with this collection are 1996.004, 2006.061, and 2019.075.</p>  </acqinfo>
+  <arrangement id="aspace_0d8e554a09e4e6632d6272341cf64d4b">
+    <head>Arrangement</head>
+<p>Materials in this collection have not been arranged by an archivist.</p>  </arrangement>
+  <bioghist id="aspace_89b42a3f3c630675d7b168cc86b93488">
+    <head>Biographical Note</head>
+<p>Sidney and Clara Solomon were New York anarchists and members of the Vanguard Group in the 1930s, the New Trends Group in the 1940s, and the Atlantic Anarchist Circle in the late 1990s-early 2000s.</p>  </bioghist>
+  <prefercite id="aspace_adf36b3a752ab373d4329f8df2b8ff6f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Sidney and Clara Solomon Papers; TAM 454; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_1e3f9702d5c7deb5011c34f7e60fa6df">
+    <head>Processing Information</head>
+<p>Minutes from several 1939 Vanguard Group meetings were separated from this collection during initial processing and were established as a separate collection, the Vanguard Group Minutes (TAM 389). In 2015, this material was reincorporated into the Sidney and Clara Slomon Papers.</p>  </processinfo>
+  <scopecontent id="aspace_ea740c8aec7f15b61873179f6071eef7">
+    <head>Scope and Contents</head>
+<p>The Sidney and Clara Solomon Papers consist of materials created and collected by Sidney and Clara Solomon between the 1920s and 2004.  Materials include correspondence, fliers, and articles on anarchism from the 1920s through the 1980s; meeting minutes, documents of incorporation, and correspondence documenting the creation and activities of the Atlantic Anarchist Circle in the late 1990s and early 2000s; and meeting minutes from the Vanguard Group in the 1930s.  The correspondence includes letters from Emma Goldman and John Dewey, letters between the Solomons and others regarding the publication of articles about anarchism in Israel and Spain in the 1970s, and correspondence regarding the creation and activities of the Atlantic Anarchist Circle in the late 1990s.</p>  </scopecontent>
+  <userestrict id="aspace_319fde4ea0f23a57c820608e59b2e2ed">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <relatedmaterial id="aspace_f403f20c682727dfa53665e636990a24">
+    <head>Related Materials</head>
+<p>For more information about the Solomons, see their oral history interview in the New York University Department of History Oral History Class Collection (OH 033).</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Jewish anarchists -- New York (State) -- New York.</subject>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <subject source="lcsh">Anarchism -- United States.</subject>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+    <subject source="lcsh">Anarchism -- Spain.</subject>
+    <persname rules="dacs" source="local">Solomon, Clara</persname>
+    <persname rules="dacs" source="local">Solomon, Sidney</persname>
+    <corpname authfilenumber="(lccn)nb2007017091" source="naf">Vanguard Group</corpname>
+    <corpname source="local">New Trends Group (U.S.)</corpname>
+    <persname role="crp" source="naf">Goldman, Emma, 1869-1940 -- Correspondence</persname>
+    <persname role="crp" source="naf">Dewey, John, 1859-1952 -- Correspondence</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
