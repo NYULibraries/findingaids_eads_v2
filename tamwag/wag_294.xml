@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_294">wag_294</eadid><filedesc><titlestmt><titleproper>Guide to the Ralph Caporale, Jr. Scrapbook and Teachers Guild Files <num>WAG.294</num></titleproper><author>Jan Hilley</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>10/16/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:34:54 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Ralph Caporale, Jr. Scrapbook and Teachers Guild Files</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Caporale, Ralph, Jr., 1917-2007</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Caporale, Lynn</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Caporale, Lynn</persname>
+    </origination>
+    <unitid>WAG.294</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier"> (1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1959/2007" type="inclusive">1959-2007</unitdate>
+    <abstract id="aspace_aafee221813baca0c43290f7d3da8fa7">This collection consists of biographical material on Ralph Caporale, Jr., a New York City teacher and union activist, and a small scrapbook created by his daughter, Lynn, as a school project in 1959. The scrapbook is composed primarily of newspaper clippings that describe events surrounding a 1959 work stoppage planned by the New York City Teachers Guild.</abstract>
+    <langmaterial id="aspace_9003a2e8a6f7e106a342077a91cbabc7">Materials are in English</langmaterial>
+  </did>
+  <prefercite id="aspace_3977dd3f00ddd9c86f649b379271b10e">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_c8be1e2321d919d6707f8b5778381304">
+    <head>Scope and Content Note</head>
+<p>A small amount of biographical material is contained within the collection, including printed copies of several newspaper clippings, a letter, two obituaries, a resume and several other writings by Ralph Caporale, Jr.</p><p>The scrapbook pages are from a school project completed by Lynn Caporale, daughter of Ralph Caporale, Jr., when she was eleven years old. Beginning with a brief description of the plight of New York City teachers, the scrapbook includes a selection of newspaper clippings that concern work stoppage planned by the New York City Teachers Guild for April 16, 1959. </p><p>The scrapbook material is in poor condition; it has been digitized and may be found on the CD in Folder 4.  The CD also contains scans of the Ralph Caporale material.</p>  </scopecontent>
+  <acqinfo id="aspace_3b27b566931295f8766d8d7509db20f2">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Lynn Caporale, daughter of Ralph Caporale, Jr., in 2008. The accession number associated with this gift is 2008.002.</p>  </acqinfo>
+  <arrangement id="aspace_41a9c0aa00cc08f59142f1d079c59988">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically within one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I:  Teachers Guild Files (1959-2007).</item>
+    </list>
+  </arrangement>
+  <accessrestrict id="aspace_a7cd36220c5b0d49840fdd20f54f24d7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_49b3366966de0a12b2fc650c80280296">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Ralph Caporale, Jr., was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <bioghist id="aspace_588293b396ec37941aeee0756c992bca">
+    <head>Historical/Biographical Note</head>
+<p>Ralph Caporale, Jr. (1917-2007) was a New York City teacher and school principal and an early organizer of teachers. He was involved in the High School Teachers Association and was acquainted with Al Shanker and other United Federation of Teachers (UFT) pioneers.  </p><p>His daughter, Lynn, completed a small scrapbook in 1959 as a school project.  Clippings in the scrapbook document an episode that took place in New York City in April of 1959.  In January of that year, close to 1,000 evening high school teachers handed in their resignations as a protest against poor working conditions and even worse pay ($12.50 a night for four hours). This action was not authorized by any union although it did win the backing of the High School Teachers Association (HSTA) and the Teachers Guild. The evening schools were shut down for several weeks and finally the Board of Education gave in and increased wages to $24 a night.</p><p>By March, 1959, it became clear that the budget for the 1959-1960 year would not include promised salary increases for New York City school teachers.  Encouraged by the success of the evening teachers in February, the Teachers Guild president, Charles Cogen, planned a protest work stoppage for budget hearing day in April.  The Teachers Union was supportive of the idea but the HSTA preferred a plan of its own that would call for mass resignations of high school teachers.  In early April, after a week-long Easter vacation, the New York City school system was facing the threat of a major teacher work stoppage.</p><p>The Mayor's budget, made public the week before, indicated that there would be only a $200 across-the-board annual increase in teacher salaries.  This was unsatisfactory to the many organizations representing New York City teachers.  On April 10, 3,500 members of the Teachers Guild voted to stay away from their jobs on April 16 to reinforce their demands for higher salaries. The Teachers Union told its members not to cross picket lines, but the HSTA discouraged its membership from participating in the strike.  </p><p>On the evening of April 15, Charles Cogen was contacted while conducting a broadcast communicating details about the upcoming work stoppage.  He was told to report to the office of the superintendent.  A last minute compromise was worked out and the Teachers Guild agreed to hold the action in abeyance until April 28.  An after-school rally was held the next day at City Hall instead.</p><p>Because any increases for teachers would also be demanded by other city workers,  a good deal of negotiation was necessary to reach a satisfactory solution. In early May, the superintendent recommended salary increases of from $280 to $510 for the city's 40,000 teachers and up to $1,000 for school administrators.  Both the starting salary and maximum salary were increased and salary steps made more equal.  The Teachers Guild was generally pleased with the plan and the strike was averted.</p>  </bioghist>
+  <phystech id="aspace_c506c8c54813b4ea222164443fbd6471">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>The scrapbook material is in poor condition; it has been digitized and may be found on the CD in Folder 4. The CD also contains scans of the Ralph Caporale material. An access terminal to view the CD is available by appointment for reading room viewing and listening only.</p>  </phystech>
+  <controlaccess>
+    <subject source="lcsh">Teachers' unions -- New York (State) -- New York</subject>
+    <persname source="naf">Cogen, Charles, 1903-</persname>
+    <persname rules="dacs" source="local">Caporale, Ralph, Jr., 1917-2007</persname>
+    <corpname source="local">Teachers Guild</corpname>
+    <persname role="dnr" rules="dacs" source="local">Caporale, Lynn</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref7" level="series"><did><unittitle>Series I: Teachers Guild Files (1959-2007).</unittitle><unitdate datechar="creation" normal="1969/2007" type="inclusive">1969-2007</unitdate></did><c id="aspace_ref8" level="file"><did><unittitle>Biographical Material: Ralph Caporale, Jr.</unittitle><unitdate datechar="creation">1969-2007, undated</unitdate><container altrender="Box - 10 x 13" id="aspace_dd5de27736dbac1dfb1de6131e44d4e5" label="Mixed Materials [31142062759215]" type="Box">1</container><container id="aspace_51931c32e01d41b1822de226b34173b1" parent="aspace_dd5de27736dbac1dfb1de6131e44d4e5" type="Folder">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Pages from Scrapbook: Teachers Guild Strike Threat (I)</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Box - 10 x 13" id="aspace_0de285e2d4048238bf4ff3bc0af164f2" label="Mixed Materials [31142062759215]" type="Box">1</container><container id="aspace_edb2afa8b4d06864f8e5195c678a8047" parent="aspace_0de285e2d4048238bf4ff3bc0af164f2" type="Folder">2</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Pages from Scrapbook: Teachers Guild Strike Threat (II)</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Box - 10 x 13" id="aspace_fcef0ced49c362794a9b54ae4e1b27b6" label="Mixed Materials [31142062759215]" type="Box">1</container><container id="aspace_5aee71d7d73110bc655a53d0743e9faf" parent="aspace_fcef0ced49c362794a9b54ae4e1b27b6" type="Folder">3</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Scans (CD): Biographical Material and Scrapbook Pages</unittitle><unitdate datechar="creation" normal="1959/2007" type="inclusive">1959, 1969-2007, undated</unitdate><container altrender="Box - 10 x 13" id="aspace_8d72c82d804ba3000766c0956b2765d7" label="Computer Disks [31142062759215]" type="Box">1</container><container id="aspace_8d8faa7ed94226c1859de73aeb2633be" parent="aspace_8d72c82d804ba3000766c0956b2765d7" type="Folder">4</container></did></c></c></dsc>
+</archdesc>
+</ead>

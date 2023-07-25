@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_309">wag_309</eadid><filedesc><titlestmt><titleproper>Carlton W. Werkau Papers <num>WAG.309</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 17:41:31 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Carlton W. Werkau Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Werkau, Carlton W.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Quinn, John L.</persname>
+    </origination>
+    <unitid>WAG.309</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1950/1955" type="inclusive">1950-1955</unitdate>
+    <langmaterial id="aspace_6da80718d6abfbb3c31660baa982c42d">Materials are in English</langmaterial>
+    <container altrender="Manuscript box - Legal" id="aspace_9c0ffeaf0dff9863904c79528ef46804" label="Mixed Materials [31142062763761]" type="Box">1</container>
+  </did>
+  <bioghist id="aspace_f1a1ad928381a83ebb7d9da86210b79a">
+    <head>Historical/Biographical Note</head>
+<p>Carlton W. Werkau served as the Secretary-Treasurer for the Communications Workers of America (CWA) from 1943 until his death in 1955.</p>  </bioghist>
+  <scopecontent id="aspace_9d319d8bcfafc5eca52417bc28eebfde">
+    <head>Scope and Contents</head>
+<p>This collection consists of photographs, both personal and union related, correspondence, and CWA records. The CWA records consist of Convention proceedings from 1953-1955 as well as a strike manual and tax files. Articles and letters concerning Werkau's death in 1955 are also included.</p>  </scopecontent>
+  <userestrict id="aspace_d0ffb52e01411bedc1a1d6d3af6eafb5">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Carlton Werkau was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_e5b445eed22651019c092e1b47b77001">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <custodhist id="aspace_70f767a03f48f62bb1c0eba901ddf1fc">
+    <head>Custodial History</head>
+<p>A relative of Carlton W. Werkau sent these papers to the National Labor Relations Board (NLRB) Regional Office in Winston-Salem, NC. The collection was later transferred from the NLRB to The Communications Workers of America (CWA), where Werkau had served as Secretary-Treasurer from 1943-1955.</p>  </custodhist>
+  <acqinfo id="aspace_3343e81c8e60145975939ffe02c60d4e">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by John L. Quinn, Communications Workers of America District Counsel, in 2010. The accession number associated with this gift is 2010.011.</p>  </acqinfo>
+  <prefercite id="aspace_0e76c2467779bd18016b999347ea8cdc">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Carlton W. Werkau Papers; WAG 309; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Quinn, John L.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

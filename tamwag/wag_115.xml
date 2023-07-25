@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_115">wag_115</eadid><filedesc><titlestmt><titleproper>Guide to Jeffrey Ballinger Research Files on the Nike Anti-Sweatshop Campaign  <num>WAG.115</num></titleproper><author>Megan O'Shea</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>January 2016</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:15:12 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Jeffrey Ballinger Research Files on the Nike Anti-Sweatshop Campaign</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Ballinger, Jeffrey</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Ballinger, Jeffrey</persname>
+    </origination>
+    <unitid>WAG.115</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.63 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box, 1 half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1992/2001" type="inclusive">1992-2001, undated</unitdate>
+    <unitdate datechar="creation" normal="1995/1998" type="bulk">1995-1998</unitdate>
+    <physloc id="aspace_7f5c5836fcfef72b5d8b2125adc044a0">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <abstract id="aspace_c5bec3e5747c31b67313525a2829dd8f">Jeffrey Ballinger is a human rights and labor rights activist, writer, and educator.  He was the founder and director of Press for Change, a human rights organization focusing on the rights of workers in the developing world, and the founder of No Sweat, a wholesale distributor of American, union-made apparel.  
+
+The collection consists of correspondence between Ballinger and other writers and activists interested in human and labor rights, newspaper and magazine clippings, and VHS cassettes.  The main topics are Nike (the corporation, its labor practices, its co-founder and former CEO Philip Knight, and its endorsements of sports figures), human rights, labor rights, and labor issues in the developing world (especially Indonesia).  The materials date from 1992-2001, with the bulk being between 1995-1998.</abstract>
+    <langmaterial id="aspace_ce67805661565874bd824e542bc72fb4">Materials primarily in English, with some documents in Indonesian.</langmaterial>
+  </did>
+  <arrangement id="aspace_315acbd33fb788d857401520bf493747">
+    <head>Arrangement</head>
+<p>The collection is arranged at the file level with no series.  The files are arranged alphabetically by folder title:  General Correspondence, Meetings, Press for Change, and Research Materials.  Materials within the folders are arranged chronologically.  VHS cassettes are arranged alphabetically by title.</p>  </arrangement>
+  <phystech id="aspace_b0ec460f3ee96e3982ddcbf3ffebeac3">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_8d595df9e27d89d9988c1aa9b4c0ea87">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Jeffrey Ballinger were transferred to New York University in 2001 by Jeffrey Balliger. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact
+tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
+  <bioghist id="aspace_36359d6bf8827420287a6d4c508fc5d0">
+    <head>Biographical Note</head>
+<p>Jeffrey Ballinger is a human rights and labor rights activist, writer, and educator.  While working for the AFL-CIO's Asian-American Free Labor Institute in Indonesia directing trade union training programs, he came into contact with workers at Nike contractor factories and was appalled by the working conditions there.  He founded Press for Change in 1993 to focus on Nike's labor practices in Indonesia.</p>  </bioghist>
+  <appraisal id="aspace_67545f94a08d7da3d4e9bee1c38c5703">
+    <head>Appraisal</head>
+<p>The collection originally consisted of 4 record cartons of mainly secondary source material, mostly clippings from common newspapers and journals, with some full-text journals, books, and reports.  As all of the newspapers, journals, books, and reports are available through the general collection of the Libraries of New York University, these items were removed.</p>  </appraisal>
+  <scopecontent id="aspace_5a40f52f39812be717640fcedc3efca5">
+    <head>Scope and Contents</head>
+<p>Collection contains correspondence on proposed articles by Ballinger, with organizations with which he was associated (mainly those in assistance of Indonesian workers and student organizations against university endorsements of Nike), correspondence and a VHS cassette on a Nike sneaker give-back campaign by settlement houses across New York City, and letters to the editor by Ballinger; published and unpublished writings by Ballinger and others; Press for Change press releases, reports, correspondence, newsletter (Nike in Indonesia), and a VHS cassette with a report by Ballinger on sweatshops; Ballinger's research materials, mainly Nike documents regarding Indonesian factories and publicity, including press releases, internal correspondence and memoranda, a transcript of a shareholders meeting, and a VHS cassette with news reports on Nike protests; and correspondence, clippings, and summaries of meetings regarding conferences at which Ballinger participated or attended.  The collection reflects Ballinger's work as an individual and through Press for Change.  Dates of the collection are 1992-2001, with the bulk between 1995-1998.</p>  </scopecontent>
+  <processinfo id="aspace_e00939bfebe23931010c0f6e2d3bb4fa">
+    <head>Processing Information</head>
+<p>Secondary source materials were removed and the remaining materials were consolidated into logical groups according to record type or subject during weeding, with none of the materials in any order at the file level.  Material was arranged chronologically within each file.</p>  </processinfo>
+  <prefercite id="aspace_95eff806fb877d58d9b8a2dbb8fe471b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jeffrey Ballinger Research Files on the Nike Anti-Sweatshop Campaign; WAG 115; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_6313cf86c5728bf51e133e79399aa4cf">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Jeffrey Ballinger, 2001. The accession number associated with this gift is 2001.194.</p>  </acqinfo>
+  <accessrestrict id="aspace_7e0a17baf23e05a6240ca59ae43ff984">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Human rights |z Indonesia.</subject>
+    <subject source="lcsh">Sweatshops |z Indonesia</subject>
+    <subject source="lcsh">Anti-sweatshop movement</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Press releases.</genreform>
+    <subject source="lcsh">Labor |z Indonesia</subject>
+    <genreform source="aat">Memorandums.</genreform>
+    <genreform source="aat">Videocassettes.</genreform>
+    <genreform source="aat">Reports.</genreform>
+    <subject source="lcsh">Employee rights |z Developing countries</subject>
+    <genreform source="aat">Newsletters.</genreform>
+    <corpname authfilenumber="(lccn)n91058459" source="naf">Nike (Firm) -- Employees -- Economic conditions -- Indonesia</corpname>
+    <corpname rules="dacs" source="local">Press for Change</corpname>
+    <persname source="naf">Knight, Philip H., 1938-</persname>
+    <persname role="dnr" rules="dacs" source="local">Ballinger, Jeffrey</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref8" level="file"><did><unittitle>General correspondence</unittitle><unitid>cuid9002</unitid><unitdate datechar="creation" normal="1994/2001" type="inclusive">1994-2001, undated</unitdate><container id="aspace_3f2d1bd66995413e1dea08e453a5400f" label="Mixed Materials [31142051726860]" type="Box">1</container><container id="aspace_c318e6a64df8d5de281bf9b90cada34b" parent="aspace_3f2d1bd66995413e1dea08e453a5400f" type="Folder">1-3</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Meetings</unittitle><unitid>cuid9003</unitid><unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate><container id="aspace_ecb3efb3c962678bf197ca98b8bcf824" label="Mixed Materials [31142051726860]" type="Box">1</container><container id="aspace_39adfd7087e540a87fdee0a9f4668a50" parent="aspace_ecb3efb3c962678bf197ca98b8bcf824" type="Folder">4</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Press for Change</unittitle><unitid>cuid9004</unitid><unitdate datechar="creation" normal="1995/2001" type="inclusive">1995-2001, undated</unitdate><container id="aspace_41a76d7b533c7d07ef0882b258738b14" label="Mixed Materials [31142051726860]" type="Box">1</container><container id="aspace_18688118daa5813bd507aafac19dba39" parent="aspace_41a76d7b533c7d07ef0882b258738b14" type="Folder">5</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Research materials</unittitle><unitid>cuid9005</unitid><unitdate datechar="creation" normal="1992/1998" type="inclusive">1992-1998, undated</unitdate><container id="aspace_960085586cbb42e7863905504c19862e" label="Mixed Materials [31142051726860]" type="Box">1</container><container id="aspace_695d6c1fd3463b027d6c900cb5e508ed" parent="aspace_960085586cbb42e7863905504c19862e" type="Folder">6-7</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>News reports of Nike protests</unittitle><unitid>cuid9000</unitid><unitdate datechar="creation">undated</unitdate><unitdate datechar="digitized"> </unitdate><container id="aspace_7531e1e8b93e4411b3bc5d2611b86f8f" label="video [31142051726852]" type="Box">2</container><container id="aspace_fca73be25ea2f8343cf5382b47359822" parent="aspace_7531e1e8b93e4411b3bc5d2611b86f8f" type="Cassette">cuid9000</container><container id="aspace_decbf6c242f14f75849eb981a473289f" label="electronic records" type="E-records">tamwag_wag115</container><container id="aspace_d08248216b93cc3978b388efa77063df" parent="aspace_decbf6c242f14f75849eb981a473289f" type="E-records">cuid9000</container></did><phystech id="aspace_00d4ce7680f69082951b70f0487afd2a"><head>Physical Characteristics and Technical Requirements</head><p>Format: VHS, Duration: 29 min.</p></phystech></c><c id="aspace_ref13" level="file"><did><unittitle>Rights Now! Sweatshops w/ Jeffrey Ballinger</unittitle><unitid>cuid9006</unitid><unitdate datechar="creation">undated</unitdate><unitdate datechar="digitized" normal="2018/2018"> </unitdate><container id="aspace_4f8caaf410e6ee8b09584bde1c75001a" label="video [31142051726852]" type="Box">2</container><container id="aspace_a377266c3e58ccb2bd60b795cb0a3870" parent="aspace_4f8caaf410e6ee8b09584bde1c75001a" type="Cassette">cuid9006</container><container id="aspace_099162b702abf852e000b607987098cc" label="electronic records" type="E-records">tamwag_wag115</container><container id="aspace_5fd976b5b43ca7959b525bd2d0ea898d" parent="aspace_099162b702abf852e000b607987098cc" type="E-records">cuid9006</container></did><phystech id="aspace_d54a4c0f0de64a7882d485bd90ea9e1f"><head>Physical Characteristics and Technical Requirements</head><p>Format: VHS, Duration: 87 min.</p></phystech></c><c id="aspace_ref14" level="file"><did><unittitle>Settlement House Youth NIKE Give-Back Campaign</unittitle><unitid>cuid9001</unitid><unitdate datechar="creation">1998</unitdate><unitdate datechar="digitized" normal="2018/2018"> </unitdate><container id="aspace_94413c2a2fbae22db8e2a99385fa6963" label="video [31142051726852]" type="Box">2</container><container id="aspace_8f846edb435fb9259770a3f41251b50b" parent="aspace_94413c2a2fbae22db8e2a99385fa6963" type="Cassette">cuid9001</container><container id="aspace_97be0a6f602c016b8b4b6da590ba66fe" label="electronic records" type="E-records">tamwag_wag115</container><container id="aspace_42a90202a840c191a6ee00d4a331ee33" parent="aspace_97be0a6f602c016b8b4b6da590ba66fe" type="E-records">cuid9001</container></did><phystech id="aspace_a1fa10ed66175523320442af8fd6b90f"><head>Physical Characteristics and Technical Requirements</head><p>Format: VHS, Duration: 25 min.</p></phystech></c></dsc>
+</archdesc>
+</ead>

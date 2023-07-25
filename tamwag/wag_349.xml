@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_349">wag_349</eadid><filedesc><titlestmt><titleproper>Guide to the Carey McWilliams Papers <num>WAG.349</num></titleproper><author>Kate Fisher</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>June 2018</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 17:51:08 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Carey McWilliams Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">McWilliams, Carey, 1905-1980</persname>
+    </origination>
+    <unitid>WAG.349</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 linear feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1947/1955" type="inclusive">1947-1955</unitdate>
+    <abstract id="aspace_2452d7067b926d1caf483d66b91f0834">The Carey McWilliams Papers contain correspondence, press releases, and other documents relating to the civil rights of teachers in New York, New York.  A lawyer, author, and editor, McWilliams advocated for the civil rights of working class Americans. He was the editor of <emph render="italic">The Nation</emph> from 1955 to 1975.</abstract>
+    <physloc id="aspace_ccc4d6d260858de76e38c730748f1bcb">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_9adbd3372fab4e3d4558cab9c622343d">Materials in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_8fc0040e704495b228273ed18ef87b99">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_dc085738e319510dc299cbb8205b3f5f">
+    <head>Biographical Note</head>
+<p>Carey McWilliams (1905-1980) was a lawyer, author, and editor who advocated for the civil rights of working class Americans. Obtaining his law degree from the University of Southern California in 1927, McWilliams practiced law until 1938 when he was selected to head California's Department of Immigration and Housing. During his four year appointment he wrote a  book, <emph render="italic"> Factories in the Fields</emph>, about the lives of migrant farm workers in California. Moving to New York City in 1951, McWilliams continued writing about the working class. He was the editor of <emph render="italic">The Nation</emph> from 1955 to 1975.</p>  </bioghist>
+  <scopecontent id="aspace_7a38a97a65c1d0613de7d575f933a455">
+    <head>Scope and Contents</head>
+<p>The Carey McWilliams Papers contain correspondence, press releases, and other documents relating to Carey McWilliams' research on the civil rights of teachers in New York, New York from 1947 to 1955. Topics reflected in the documents include teacher salaries and school overcrowding.</p>  </scopecontent>
+  <accessrestrict id="aspace_e53855dd484c89245177889f0246eec7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_e8d481281cbfafdb30a530f5dae2ff1f">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1947 to 1955, are expected to enter the public domain in 2075.</p>  </userestrict>
+  <acqinfo id="aspace_4d6f8bcd4c1dc64a66b0c94d31e0d69d">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. The papers are possibly a deaccession from the archives of Teachers College Library, Columbia University. The accession number associated with this collection is 2018.080.</p>  </acqinfo>
+  <prefercite id="aspace_c565781f2ec33e0cf70a88252745fa92">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Carey McWilliams Papers; WAG 349; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_5856734ac593e22cda3fc11bd6199842">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were placed in new acid-free folders and boxes, and described on the collection-level with a folder inventory.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Teachers' unions.</subject>
+    <subject source="lcsh">School management and organization.</subject>
+    <subject source="lcsh">Teacher-school board relationships -- New York (State).</subject>
+  </controlaccess>
+  <dsc><c id="aspace_eb4332dfdbff2994444a52c63e6d0039" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1952/1955" type="inclusive">1952-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_281b095778f7d98ad067e6c2a67c2e56" label="Mixed Materials [31142063588381]" type="Box">1</container><container id="aspace_26d8f25ef7325c9410285011ff992e46" parent="aspace_281b095778f7d98ad067e6c2a67c2e56" type="Folder">1-2</container></did></c><c id="aspace_99dc7d6abb091b6ae4cef5317341fe5c" level="file"><did><unittitle>Press releases</unittitle><unitdate datechar="creation" normal="1951/1955" type="inclusive">1951-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_59ce5d3be297dad748acbd0c5f8d12d5" label="Mixed Materials [31142063588381]" type="Box">1</container><container id="aspace_0e4c89c3066746eb6901418125b70979" parent="aspace_59ce5d3be297dad748acbd0c5f8d12d5" type="Folder">3-4</container></did></c><c id="aspace_ae1ceb156656028977a316b1f083d082" level="file"><did><unittitle>Statements and legal documents</unittitle><unitdate datechar="creation" normal="1947/1954" type="inclusive">1947-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_71b8997746247c95dfb7c385f92bb974" label="Mixed Materials [31142063588381]" type="Box">1</container><container id="aspace_c0b97802de0c1cd37b79ab6f3fd47dbf" parent="aspace_71b8997746247c95dfb7c385f92bb974" type="Folder">5</container></did></c><c id="aspace_d12564fdfc3db41d8292b6dcbf5da1f2" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1947/1955" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c06f6408f15d135dfc9bae616c466f08" label="Mixed Materials [31142063588381]" type="Box">1</container><container id="aspace_03da16a1ff49a3ee7b569d92d197249e" parent="aspace_c06f6408f15d135dfc9bae616c466f08" type="Folder">6-11</container></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_307">wag_307</eadid><filedesc><titlestmt><titleproper>Guide to the Uniformed FDNY EMS Retirees Association Files of Richard McAllan <num>WAG.307</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 17:41:27 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Uniformed FDNY EMS Retirees Association Files of Richard McAllan</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">McAllan, Richard</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Pizzitola, Marianne</persname>
+    </origination>
+    <origination label="source">
+      <corpname role="dnr" rules="dacs" source="local">Uniformed FDNY EMS Retirees Association</corpname>
+    </origination>
+    <unitid>WAG.307</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/2007" type="inclusive">circa 1980s-2000s</unitdate>
+    <abstract id="aspace_83fa7c4c0dc9e1a9d92ddc2ab82e9df2">1 box (.2 linear foot).  Records primarily were gathered by Richard McAllan, former Local 2507 President, and senior NYC Paramedic.   Documents also concern the New York City Health and Hospitals Corporation, and the EMTs and Paramedics of Local 2507 of New York, New York.</abstract>
+    <langmaterial id="aspace_a55bfedcce1c1fe07a47a40a2ca30446">Materials are in English</langmaterial>
+  </did>
+  <scopecontent id="aspace_c675759d74d887e0bb085aa421645f29">
+    <head>Scope and Contents</head>
+<p>1 box (.2 linear foot).  Records primarily were gathered by Richard McAllan, former Local 2507 President, and senior NYC Paramedic.   Documents also concern the New York City Health and Hospitals Corporation, and the EMTs and Paramedics of Local 2507 of New York, New York.</p>  </scopecontent>
+  <prefercite id="aspace_1a3d864ccd164b02a6cfd8b2399fd933">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Uniformed FDNY EMS Retirees Association Files of Richard McAllan; WAG 307; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_c5370f89417dd341672a247ab5c4f6be">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_03bc30f6a7a9e2b5f04d4bf37d4c8ac1">
+    <head>Immediate Source of Acquisition</head>
+<p>Marianne Pizzitola, President of the Uniformed FDNY EMS Retirees Association, Inc. sent a gift of Richard McAllan's files from his time as president of the Uniformed FDNY EMS Retirees Association in 2007. The accession number associated with this gift is 2009.033.</p>  </acqinfo>
+  <userestrict id="aspace_af9f2a240cf013f01879405dae036f99">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Richard McAllan was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Pizzitola, Marianne</persname>
+    <corpname role="dnr" rules="dacs" source="local">Uniformed FDNY EMS Retirees Association</corpname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>
