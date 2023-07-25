@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_441">tam_441</eadid><filedesc><titlestmt><titleproper>American Workers  Party Records <num>TAM.441</num></titleproper><author>Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/16/2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:20:28 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>American Workers Party Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">American Workers Party (New York, N.Y.,1970s- )</corpname>
+    </origination>
+    <unitid>TAM.441</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1976/1984" type="inclusive">circa 1976-1984</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_8117f81c00c71b6800d4e33757a4b70f" label="Mixed Materials [31142062765873]" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_7f1386bc8017895367e568d2980770e8">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_105353aa8f170974a6988b5cfdf86d69">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.256.</p>  </acqinfo>
+  <bioghist id="aspace_2516806136257e66022781cb9a033c22">
+    <head>Historical/Biographical Note</head>
+<p>The American Workers Party (1970s-1980s) was a Marxist-Leninst group based in New York City.</p>  </bioghist>
+  <scopecontent id="aspace_b14da39c802af080b977d5da6e2c40c2">
+    <head>Scope and Content Note</head>
+<p>This collection of American Workers Party materials consists of four folders: Essays for Basic Study Group; Issue Mailings; Leaflets; Position Papers; and was accompanied by an item-level list of the contents of these folders. The contents include some items by other U.S. Marxist-Leninist organizations. In addition to contemporary issues, a significant portion of the material is concerned with the history and internal politics of the AWP.</p>  </scopecontent>
+  <separatedmaterial id="aspace_0137d445dd8402785b80c493ecbf6172">
+    <head>Separated Materials</head>
+<p>Several pamphlets have been separated for cataloging.</p>  </separatedmaterial>
+  <userestrict id="aspace_9e9142dd11e5e91f225d1c5c0b45ac5a">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in circa 1976-1984, are expected to enter the public domain in 2104.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Communism -- United States -- 20th century</subject>
+    <subject source="lcsh">Communist parties |z United States.</subject>
+    <corpname source="local">American Workers Party (New York, N.Y.,1970s- )</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
