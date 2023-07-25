@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_710">tam_710</eadid><filedesc><titlestmt><titleproper>Guide to the David Lee McMullen Papers <num>TAM.710</num></titleproper><author>Andrea Kutsenkow</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>October 2016</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 17:44:57 -0400</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>David McMullen Papers</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" source="naf">McMullen, David Lee</persname>
+    </origination>
+    <unitid>TAM.710</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record carton</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/2013" type="inclusive">1920-2013</unitdate>
+    <unitdate datechar="creation" normal="2003/2013" type="bulk">2003-2013</unitdate>
+    <abstract id="aspace_afb4dd10ff93a82cb8bd37476c989e7e">David Lee McMullen is a writer, historian, and professor at the University of South Florida in St. Petersburg. The David Lee McMullen Papers consist of McMullen's research files that pertain to three of his major writings: his doctoral thesis <emph render="italic">The Elusive Ellen: Reconstructing the Life of Ellen Dawson and the World Around Her</emph>, his first biography <emph render="italic">Strike! The Radical Insurrections of Ellen Dawson</emph>, and his unfinished biography of Albert Weisbord and Vera Buch Weisbord. McMullen's research files consist of correspondence, transcriptions of letters and interviews, photographs, maps, newspaper clippings, FBI reports, notes, timelines, and drafts. Also included in the collection is a bound final draft of McMullen's doctoral thesis.</abstract>
+    <langmaterial id="aspace_b8269f9b5a88c1e281ef9755eed51364">Materials are in English.</langmaterial>
+    <container altrender="Record carton" id="aspace_d231ddc757272d2050076bc4828b514f" label="Mixed Materials [31142062763225]" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_82b8025c30d10ab5d2ccca61d34a01a3">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_5802dd14bc3a73062a6ed3830949609f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by David Lee McMullen in 2016. The accession number associated with this gift is 2016.046.</p>  </acqinfo>
+  <arrangement id="aspace_368c2e4023df061091a89598390633cb">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_213003ecdc63c7afa8363fe251a4c654">
+    <head>Biographical / Historical</head>
+<p>David Lee McMullen is a writer, historian, and professor who previously worked as a newspaper journalist, a cabinet level speechwriter and media spokesperson for the state government, and a public relations executive for a variety of national and international organizations. McMullen returned to academia and earned a doctorate in history from the University of Aberdeen in 2006. His doctoral thesis <emph render="italic">The Elusive Ellen: Reconstructing the Life of Ellen Dawson and the World Around Her</emph> and his first biography <emph render="italic">Strike! The Radical Insurrections of Ellen Dawson</emph> both investigate the life of Ellen Dawson, a Scottish-American textile worker and union organizer who participated in three of the largest textile strikes in American history. As of 2016, McMullen teaches a number of courses in American and British history at the University of South Florida in St. Petersburg.</p>  </bioghist>
+  <prefercite id="aspace_5153504cad79320e55a9061ed9735f1a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; David Lee McMullen Papers; TAM 710; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_f4b7bc1c469feceab29829af4582b296">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were placed in an archival box in the order in which they were received from the donor; materials remain in their original folders.</p>  </processinfo>
+  <scopecontent id="aspace_113e36988b51ac8b8d7eee513813397e">
+    <head>Content Description</head>
+<p>The David Lee McMullen Papers consist of McMullen's research files that pertain to three of his major writings: his doctoral thesis <emph render="italic">The Elusive Ellen: Reconstructing the Life of Ellen Dawson and the World Around Her</emph>, which he completed at the University of Aberdeen in Aberdeen, Scotland in 2006; his first biography <emph render="italic">Strike! The Radical Insurrections of Ellen Dawson</emph> (2010); and his unfinished biography of Albert Weisbord and Vera Buch Weisbord. McMullen's research files are comprised of correspondence between himself and members of the Dawson family, interviews he conducted of the Dawson family, transcriptions of letters sent between the Dawsons, original photographs of the Dawson family, McMullen's doctoral thesis notes, timelines and thesis drafts, initial chapters written about the Weisbords, maps of the United Kingdom, and newspaper clippings. The collection also includes copies of other primary and secondary sources McMullen consulted during these three projects, including copies of Ellen Dawson's and Albert Weisbord's FBI reports.</p>  </scopecontent>
+  <phystech id="aspace_0786a1a5780c7e885d59994774a14295">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Advance notice is required for the use of computer records.  Original physical digital media is restricted.  Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <separatedmaterial id="aspace_94851ddddb842b0d8daf57fc4e46229a">
+    <head>Separated Materials</head>
+<p>Books were separated from the collection and discarded as they duplicate Tamiment Library's holdings. McMullen's doctoral thesis <emph render="italic">The Elusive Ellen: Reconstructing the Life of Ellen Dawson and the World Around Her</emph> remains in the collection.</p>  </separatedmaterial>
+  <userestrict id="aspace_2f2babd80e63d1952b1e63b5629eb0c7">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by David Lee McMullen, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Textile Workers' Strike, Passaic, N.J., 1926.</subject>
+    <subject source="lcsh">Textile Workers' Strike, Gastonia, N.C., 1929.</subject>
+    <subject source="lcsh">Textile Workers' Strike, New Bedford, Mass., 1928</subject>
+    <subject source="lcsh">Textile workers -- Labor unions -- 20th century</subject>
+    <subject source="lcsh">Communism -- United States -- History -- 20th century.</subject>
+    <persname source="naf">Dawson, Ellen, 1900-</persname>
+    <corpname authfilenumber="(lccn)nr93051862" source="naf">National Textile Workers Union (U.S.)</corpname>
+    <corpname authfilenumber="(lccn)n79091711" source="naf">American Federation of Labor</corpname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>
