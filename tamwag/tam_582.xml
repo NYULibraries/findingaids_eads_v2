@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_582">tam_582</eadid><filedesc><titlestmt><titleproper>Guide to the Sandi L. Wisenberg Research Files <num>TAM.582</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>July 2011</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 18:29:27 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sandi L. Wisenberg Research Files</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Wisenberg, S. L. (Sandi L.)</persname>
+    </origination>
+    <unitid>TAM.582</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/1989" type="inclusive">circa 1980s</unitdate>
+    <abstract id="aspace_0591e462947273e844c4be6582551885">Sandi L. Wisenberg, journalist and author, was a features writer for the <emph render="italic">Miami Herald</emph>, for which she wrote "Reds: A Generation of American Radicals Fads Away on Miami Beach" (July, 21, 1985). The collection contains Wisenberg's reseach files for "Reds: A Generation of Radicals Fades Away on Miami Beach," including files labeled with the first names of the individuals featured. The files include including notebooks, drafts, clippings and other printed ephemera, and a dozen audiocassettes, principally interviews with the subjects of her article.</abstract>
+    <langmaterial id="aspace_3b8c126a244a3808b29660a0be0cb2ab">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_c8503a209330960dd6a5dc102c010d41">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <arrangement id="aspace_f6c86ef7c1c459c88c934a8a20ff189c">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. Materials are in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_a4920fbec1697aab65d1993864b5a099">
+    <head>Historical/Biographical Note</head>
+<p>Sandi L. Wisenberg, journalist and author, was a features writer for the <emph render="italic">Miami Herald</emph>, for which she wrote "Reds: A Generation of American Radicals Fades Away on Miami Beach" (July, 21, 1985). Wisenberg also wrote <emph render="italic">Holocaust Girls: History, Memory and Other Obsessions</emph> (2002), and <emph render="italic">The Adventures of Cancer Bitch</emph> (2009). For more biographical information, see her website (http://slwisenberg.blogspot.com/).</p>  </bioghist>
+  <prefercite id="aspace_9be8130ae7093a4620f38c4530bece4d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Sandi L. Wisenberg Research Files; TAM 582; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_c541f083f875b3e1ee6d6c78018aeb00">
+    <head>Scope and Content Note</head>
+<p>The collection contains Wisenberg's reseach files for "Reds: A Generation of Radicals Fades Away on Miami Beach," including files labeled with the first names of the individuals featured. The files include notebooks, drafts, clippings and other printed ephemera. There are also a dozen audiocassettes, principally interviews with the subjects of her article.</p>  </scopecontent>
+  <phystech id="aspace_8841cfaee63e7abe3b48fa7868172356">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_c27e3988cd5e91288e39105f2165dca1">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Sandi L. Wisenberg, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Oral histories (literary works)</genreform>
+    <genreform source="aat">Notebooks</genreform>
+    <genreform source="aat">Research notes.</genreform>
+    <subject source="lcsh">Jewish communists -- United States.</subject>
+    <subject source="lcsh">Jewish communists |z United States |v Interviews.</subject>
+    <subject source="lcsh">Jewish socialists -- United States.</subject>
+    <genreform source="aat">Audiocassettes.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_ref4" level="otherlevel" otherlevel="box"><did><unittitle>Research Files</unittitle><unitdate datechar="creation">1980s, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_eae23d5b2cee0d3f056247db1f3cbd8d" label="Mixed Materials [31142062765402]" type="Box">1</container></did></c><c id="aspace_ref5" level="otherlevel" otherlevel="box"><did><unittitle>Interviews (audiocassettes)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_a53b2e642f83eaa507be47f71cce8690" label="Audio [31142062765410]" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>
