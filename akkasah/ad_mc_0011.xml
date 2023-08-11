@@ -9,6 +9,7 @@ title of the collection&#13;
 - This could be edited, in case more than 1 resource to be spawned under the same accession </unittitle>
     <origination label="Creator">
       <persname role="col" source="local">Surname1, First and middle name1</persname>
+      <corpname source="local">كلية الفنون الجميلة، جامعة دمشق</corpname>
     </origination>
     <unitid>AD.MC.0011</unitid>
     <physdesc altrender="whole">
