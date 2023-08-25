@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1995_008_female_authors_kings_county/">arms_1995_008_female_authors_kings_county</eadid><filedesc><titlestmt><titleproper>Guide to the Female authors of Kings County list <num>1995.008</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:06 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Female authors of Kings County list</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Bellamy, Frederick P., Mrs.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Packer, Harriet L., 1820-1892</persname>
+    </origination>
+    <unitid>1995.008</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in one bound volume</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1810/1910" type="inclusive">circa 1820 to 1900</unitdate>
+    <abstract id="aspace_2e351bd680273ba915c7f2b0c24d33a5">A bound volume, titled <emph render="italic">Model County Records. County of Kings</emph>, that features a typewritten list of female authors who resided in Kings County, N.Y. during the 19th century. The list is typewritten, alphabetical by surname, and lists the titles of books, magazine, and newspaper articles written by each author. In the back of the volume is an index organized alphabetically by surname.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d5fbff72f36e948a17f600c5b570b49b" label="Text" type="Box">A0122</container>
+  </did>
+  <prefercite id="aspace_f6a195888f2bb1a075246c2354f1de57">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Female authors of Kings County list, 1995.008, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_6208e628b52660355ff60bd55050b890">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1995.</p>  </acqinfo>
+  <accessrestrict id="aspace_913fb98801aaeee35f69401f46fa2731">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Women |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Indexes (reference sources)</genreform>
+    <genreform source="aat">Lists (document genres)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Authors, American |y 19th century</subject>
+    <subject source="lcsh">Authors, American |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Women authors, American</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

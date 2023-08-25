@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms439_21_caspar_goodrich</eadid><filedesc><titlestmt><titleproper>Guide to the Caspar F. Goodrich Collection<lb/><date> 1862-1933</date><date></date><lb/><num></num> <num>MS 439.21</num></titleproper><author>Processed by Celia Hartmann</author></titlestmt><editionstmt><p>This version was derivedfrom Goodrich.xml</p></editionstmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>2007</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 15:46:45 -0400</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Caspar F. Goodrich Collection</unittitle>
+    <unitid>MS 439.21</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.3 Linear feet</extent>
+      <extent altrender="carrier">(3 boxes, 1 volume)</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1862-1933</unitdate>
+    <abstract id="aspace_a66c4e385699671f2cee94be2b6d8f22" label="Abstract">The collection includes official correspondence, notes and texts of lectures Admiral Goodrich delivered while an instructor at the Naval War College, other writings including the edited manuscript of his memoirs, extracts from the diary of his grandfather Captain James Goodrich, and a scrapbook of newspaper clippings on the Spanish-American War.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <custodhist id="aspace_834bed2a1117bc7ad923db3e8dfdcb6b">
+    <head>Provenance</head>
+<p>Donated to the New-York Historical Society in 1936 by the Naval History Society.</p>  </custodhist>
+  <accessrestrict id="aspace_27297589b783f35d5a4d617bdb02ec1d">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p><p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)</p>  </accessrestrict>
+  <userestrict id="aspace_59dca3530998953924f9774c165ba60a">
+    <head>Use Restrictions</head>
+<p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to <lb/><lb/>Library Director <lb/><address><addressline>The New-York Historical Society<lb/></addressline><addressline>Two West 77th Street<lb/></addressline><addressline>New York, NY 10024<lb/><lb/></addressline></address></p><p>The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before January 1, 1978 cannot be quoted in publication without permission of the copyright holder.</p>  </userestrict>
+  <prefercite id="aspace_6086d31469852abf6f389dd13258dd5b">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as NHSC-Goodrich, The New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_3d311eadeafb7d533e4f7ebb7b873039">
+    <head>Biographical Note</head>
+    <chronlist>
+      <head>Missing Title</head>
+      <chronitem>
+        <date>1847</date>
+        <eventgrp>
+          <event>Caspar Frederick Goodrich born Philadelphia, January 7</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1861-1864</date>
+        <eventgrp>
+          <event>Attends US Naval Academy, graduating first in his class</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1864-1865</date>
+        <eventgrp>
+          <event>Assigned to New York Navy Yard</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1865-1868 </date>
+        <eventgrp>
+          <event>With European squadron aboard <title render="italic">Colorado</title> and <title render="italic">Frolic</title></event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1868</date>
+        <eventgrp>
+          <event>Promoted to Lieutenant Commander</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1868-1871</date>
+        <eventgrp>
+          <event>Aboard <title render="italic"> Portsmouth</title>, South Atlantic Squadron</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1871-1874</date>
+        <eventgrp>
+          <event>At US Naval Academy; teaches physics and chemistry in 1871. Helps to found U.S. Naval Institute</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1876</date>
+        <eventgrp>
+          <event>Daughter Eleanor born</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1881</date>
+        <eventgrp>
+          <event>Son Caspar born, Florence, Italy</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1881-1884</date>
+        <eventgrp>
+          <event>Aboard <title render="italic"> Lancaster</title>, flagship for European Squadron</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1882-1885</date>
+        <eventgrp>
+          <event>Inspector of ordnance, Washington Navy Yard</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1883</date>
+        <eventgrp>
+          <event>Publishes "Report of the British naval and military operations in Egypt, 1882"</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1886-1890</date>
+        <eventgrp>
+          <event>Officer in charge, Torpedo Station, Newport, RI</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1889</date>
+        <eventgrp>
+          <event>Serves as President, Naval War College, Portsmouth, RI</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1891</date>
+        <eventgrp>
+          <event>Torpedo Board formed to research uses of torpedoes in naval operations</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1891-1896</date>
+        <eventgrp>
+          <event>Commands sail training ships <title render="italic">Jamestown</title> and <title render="italic">Constellation</title>, and gunboat <title render="italic"> Concord</title></event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1897</date>
+        <eventgrp>
+          <event>Promoted to captain</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1897-1898</date>
+        <eventgrp>
+          <event>Serves as President, Naval War College, Portsmouth, RI</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1898</date>
+        <eventgrp>
+          <event>Originates Coastal Signal Service (designed to warn shoreline populace of an impending coastal attack by foreign ships) and serves as its Director</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1898</date>
+        <eventgrp>
+          <event>Commands <title render="italic"> St. Louis</title> and <title render="italic"> Newark</title> during the Spanish-American War, receiving the surrender of Manzanillo, Cuba, 12 August</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1899-1900</date>
+        <eventgrp>
+          <event>Commands <title render="italic"> Iowa</title> in Pacific Squadron</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1900</date>
+        <eventgrp>
+          <event>Publishes "The naval side of the revolutionary war"</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1900-1901</date>
+        <eventgrp>
+          <event>Lecturer, Naval War College, Portsmouth, RI</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1901-1904</date>
+        <eventgrp>
+          <event>Commandant, Philadelphia Navy Yard</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1904</date>
+        <eventgrp>
+          <event>Promoted to rear admiral</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1904-1906</date>
+        <eventgrp>
+          <event>Named commander in chief, Pacific Fleet</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1904-1909</date>
+        <eventgrp>
+          <event>Serves as President, U.S. Naval Institute</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1907</date>
+        <eventgrp>
+          <event>Lieutenant Caspar Goodrich killed aboard USS <title render="italic"> Georgia</title>, 15 July</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1907-1909</date>
+        <eventgrp>
+          <event>Commandant, New York Navy Yard</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909</date>
+        <eventgrp>
+          <event>Retires from active duty</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1914-1916</date>
+        <eventgrp>
+          <event>President, Naval History Society</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918</date>
+        <eventgrp>
+          <event>Recalled to active duty as Commander, Naval Training Unit, Princeton Graduate College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918-1919: </date>
+        <eventgrp>
+          <event>Officer in charge of Pay Officers Material School, Princeton Graduate College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1924</date>
+        <eventgrp>
+          <event>Writes memoir "Rope yarns from the old navy"</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925</date>
+        <eventgrp>
+          <event>Dies, Princeton, New Jersey</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1931</date>
+        <eventgrp>
+          <event>Naval History Society publishes "Rope yarns from the old navy," edited by James Barnes, as eleventh volume of its publications</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1933</date>
+        <eventgrp>
+          <event>Mrs. Goodrich donates the manuscript of "Rope yarns" to the Naval History Society</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1936</date>
+        <eventgrp>
+          <event>Eleanor Goodrich (Mrs. C.T Davis) donates Goodrich collection to the Naval History Society</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+
+
+  </bioghist>
+  <scopecontent id="aspace_fb9c122a28dbde08c4b8defe224a45c7">
+    <head>Scope and Content Note</head>
+<p>The collection includes official correspondence, notes and texts of lectures Admiral Goodrich delivered while a lecturer at the Naval War College, other writings including the edited manuscript of his memoirs, and extracts from the diary of his grandfather, Captain James Goodrich.</p><p>The Goodrich Collection forms Series 21 of the Naval History Society Collection, comprising 53 individual collections named for famous naval figures and ships, as well as the records of the Naval History Society itself, and donated to the New-York Historical Society by the Naval History Society in 1925. </p>  </scopecontent>
+  <arrangement id="aspace_585220ca485e60a494b716a6f1e00c26">
+    <head>Arrangement</head>
+<p>The collection is arranged in five series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I. Correspondence</item>
+      <item>Series II. Naval War College lectures and lecture notes</item>
+      <item>Series III. Writings</item>
+      <item>Series IV. James Goodrich journal transcripts</item>
+      <item>Series V. Bound volumes</item>
+    </list>
+  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Coast Defenses</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Manuscripts (documents)</genreform>
+    <genreform source="aat">Maps.</genreform>
+    <subject source="lcsh">Naval battles.</subject>
+    <subject source="lcsh">Naval education -- United States.</subject>
+    <subject source="lcsh">Naval tactics</subject>
+    <subject source="lcsh">Navy-yards and naval stations -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Navy-yards and naval stations -- Pennsylvania.</subject>
+    <genreform source="aat">Orders (military records).</genreform>
+    <genreform source="aat">Photographic prints.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <genreform source="aat">Transcripts.</genreform>
+    <persname rules="rda" source="local">Goodrich, Caspar Frederick, 1847-1925</persname>
+    <corpname rules="rda" source="naf">Naval War College (U.S.)</corpname>
+    <corpname rules="rda" source="naf">United States Naval Institute</corpname>
+    <corpname rules="rda" source="local">Colorado (Frigate)</corpname>
+    <corpname source="naf">Kearsarge (Sloop)</corpname>
+    <corpname rules="rda" source="naf">Princeton University -- History -- 20th century</corpname>
+    <corpname rules="rda" source="naf">United States. Navy -- Officers -- Education</corpname>
+    <corpname rules="rda" source="naf">United States. Navy -- History -- Spanish American War, 1898</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref16_gbh" level="series"><did><unittitle>Series I: Correspondence (1871-1918)</unittitle></did><scopecontent id="aspace_9113ba0cc4e23b8351670fa1aa7d9bbd"><head>Scope and Contents note</head><p>The series consists mainly of official correspondence received, including orders to report to ships, permissions for leave, administration of the Torpedo Board, service on various courts martial, and assignments to lecture at the Naval War College. The letters sent are mostly typescript carbons with some letterpress copies, and include official reports filed on operations and cruises, providing details of the responsibilities of a ship's commander in this period. John Meigs's January 1909 letters discuss the formation of a naval historical society and in that year John Sanford Barnes sends draft bylaws of the Naval Historical Society, comparing it to Britain's Naval Records Society. The last document was found in the original Correspondence box and is not in Goodrich's handwriting; it may have been written by New-York Historical Society librarian Dorothy Barck.</p></scopecontent><c id="aspace_ref17_zbz" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters sent</unittitle><unitdate datechar="creation">1871-1906</unitdate><container id="aspace_662f83746832a65aa6fd7cf3769c1a72" label="Mixed Materials" type="Box">1</container><container id="aspace_b9e498f3e43116886ef112c46d946d8e" parent="aspace_662f83746832a65aa6fd7cf3769c1a72" type="Folder">1</container></did></c><c id="aspace_ref18_6ye" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters sent: Draft to Ben Lamberton</unittitle><unitdate datechar="creation">1895 December 8</unitdate><container id="aspace_c696f20c0208724f6602540458051765" label="Mixed Materials" type="Box">1</container><container id="aspace_595b678e86b5a476655c989f5461ef63" parent="aspace_c696f20c0208724f6602540458051765" type="Folder">2</container></did></c><c id="aspace_ref19_wbo" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1863 -1878</unitdate><container id="aspace_c85a171320a9fcba63f53c418c4989cd" label="Mixed Materials" type="Box">1</container><container id="aspace_0a075b757042fd7f22daaaafe0281d66" parent="aspace_c85a171320a9fcba63f53c418c4989cd" type="Folder">3</container></did></c><c id="aspace_ref20_lg7" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1881 -1884</unitdate><container id="aspace_2d40d4de6b4d1a753abf903caff48d2b" label="Mixed Materials" type="Box">1</container><container id="aspace_290e61dacafc0462eff1f0d436535f34" parent="aspace_2d40d4de6b4d1a753abf903caff48d2b" type="Folder">4</container></did></c><c id="aspace_ref21_2ky" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1885 - 1887</unitdate><container id="aspace_86a0542147c64623beeb1e70ce6ad5b7" label="Mixed Materials" type="Box">1</container><container id="aspace_2e06b712bdfb373dde236bc761999c15" parent="aspace_86a0542147c64623beeb1e70ce6ad5b7" type="Folder">5</container></did></c><c id="aspace_ref22_l8m" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1888 - 1889</unitdate><container id="aspace_da7b1a434ac8ee0542fcbb410f724ddb" label="Mixed Materials" type="Box">1</container><container id="aspace_bcae228976bdb3769040263d56f918af" parent="aspace_da7b1a434ac8ee0542fcbb410f724ddb" type="Folder">6</container></did></c><c id="aspace_ref23_hjw" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1890 - 1893</unitdate><container id="aspace_c8dc0648b6c7669b3a54e31c64bf0e4a" label="Mixed Materials" type="Box">1</container><container id="aspace_44ccf6e1b87ec67d5d5b816127e31f6c" parent="aspace_c8dc0648b6c7669b3a54e31c64bf0e4a" type="Folder">7</container></did></c><c id="aspace_ref24_j87" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1894 - 1895</unitdate><container id="aspace_98c6da79578d9e9fb11b5edc5e60fc45" label="Mixed Materials" type="Box">1</container><container id="aspace_a941fb7a357f8a3002048bf4734793e0" parent="aspace_98c6da79578d9e9fb11b5edc5e60fc45" type="Folder">8</container></did></c><c id="aspace_ref25_1p5" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1896 - 1897</unitdate><container id="aspace_8ec3be2b2992df51d7631ed7f62a4012" label="Mixed Materials" type="Box">1</container><container id="aspace_b4f0f857ec9f1ad1f939ff6c331b2108" parent="aspace_8ec3be2b2992df51d7631ed7f62a4012" type="Folder">9</container></did></c><c id="aspace_ref26_1rx" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1903 - 1906</unitdate><container id="aspace_26349dda8c12f9ea79efa4b6a9e031a8" label="Mixed Materials" type="Box">1</container><container id="aspace_d85d7d46610a80f38948f2567c198b8b" parent="aspace_26349dda8c12f9ea79efa4b6a9e031a8" type="Folder">10</container></did></c><c id="aspace_ref27_lpq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters received</unittitle><unitdate datechar="creation">1909, 1918</unitdate><container id="aspace_6194d805c937f8f1902a7142e90f533b" label="Mixed Materials" type="Box">1</container><container id="aspace_5b8519fffcf5d104f27a1a14ce146692" parent="aspace_6194d805c937f8f1902a7142e90f533b" type="Folder">11</container></did></c><c id="aspace_ref28_kht" level="otherlevel" otherlevel="unspecified"><did><unittitle>Printed enclosure: H.R. 8476, Committee on Naval Affairs, U.S. House of Representatives</unittitle><unitdate datechar="creation">1895</unitdate><container id="aspace_b2a4e60f5023c93ebb094ffd47b552f8" label="Mixed Materials" type="Box">1</container><container id="aspace_4fafad4e30251760942b1b2e7880e766" parent="aspace_b2a4e60f5023c93ebb094ffd47b552f8" type="Folder">12</container></did></c><c id="aspace_ref29_4c3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Note on post-war planning</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_0bb1aa77f2a6dcdc9dfe7ccd440c49e6" label="Mixed Materials" type="Box">1</container><container id="aspace_eb387ff06ad88ec6b9f8c0226b891edc" parent="aspace_0bb1aa77f2a6dcdc9dfe7ccd440c49e6" type="Folder">13</container></did></c></c><c id="aspace_ref31_rrm" level="series"><did><unittitle>Series II. Naval War College lectures and lecture notes (1862-1904)</unittitle></did><scopecontent id="aspace_71b3a1f535d73316f7f1333cb9eef6fe"><head>Scope and Contents note</head><p>The subseries includes notes, handwritten drafts, and final versions (mostly carbon typescripts) of lectures Goodrich presented at the Naval War College, as well as notes on other topics. Also included are a newspaper clipping and a list of personal items, perhaps from the Goodrich residence, found with the lecture materials. "The Problem of 96" is one of the annual examinations by College cadets of a challenge in coastal defense: the 1896 one looked at a specific part of nearby Narragansett Bay. This is an early precursor of the theoretical "war games" the College famously initiated.</p><p>The numbered lectures were delivered in order as part of a series on famous international naval encounters, from the Battle of Sluys in 1340 to Drake's destruction of King Phillip's fleet in Cadiz Harbor in 1587, Napoleon's Nile Campaign of 1798, and the 1827 Battle of Navarino during the Greek War of Independence. These form the backdrop for Goodrich's final multipart lecture on Dewey's engagement in Manila during the Spanish-American War, which had occurred only three years before these lectures. It is unclear if the material on the Army's landing in Cuba formed part of this presentation.</p><p><emph render="bold">Arrangement</emph></p><p>The lecture notes are arranged chronologically and the numbered lectures in order as noted on them and their original packaging. Some lectures' accompanying graphic materials (maps and photoreproductions probably used in the preparation of lantern slides) were pinned to the lecture text; these have been separated, numbered by page on which they appeared, and housed by lecture. The notes' original envelopes are in separate folders; they may date any time from the lectures in 1901 to the collection's donation to the Naval History Society in 1933.</p></scopecontent><c id="aspace_ref32_a1o" level="otherlevel" otherlevel="unspecified"><did><unittitle>Extract from "Fortifications and Sea Coast Defenses," Congressional Committee on Military Affairs</unittitle><unitdate datechar="creation">1862</unitdate><container id="aspace_9c3f01ecdf39676d031965e4653489a3" label="Mixed Materials" type="Box">2</container><container id="aspace_e07b38c3a78237d19a61bbbfe2d9287b" parent="aspace_9c3f01ecdf39676d031965e4653489a3" type="Folder">1</container></did></c><c id="aspace_ref33_93m" level="otherlevel" otherlevel="unspecified"><did><unittitle>Lists of personal items</unittitle><unitdate datechar="creation">probably 1890s</unitdate><container id="aspace_2af665520381bb113b574faf034b9232" label="Mixed Materials" type="Box">2</container><container id="aspace_33a7e55202d2b2d474709eacd05bf7a3" parent="aspace_2af665520381bb113b574faf034b9232" type="Folder">2</container></did></c><c id="aspace_ref34_hwh" level="otherlevel" otherlevel="unspecified"><did><unittitle>Problem of 96: Eggemoggin Reach; copy of Admiral Mahan letter to Taylor on the subject</unittitle><unitdate datechar="creation">1895 July 19, undated</unitdate><container id="aspace_a55f3af672c51a2023f9921df480e250" label="Mixed Materials" type="Box">2</container><container id="aspace_630edf1e251380c92b886b0964dc10fe" parent="aspace_a55f3af672c51a2023f9921df480e250" type="Folder">3</container></did></c><c id="aspace_ref35_kia" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspaper clipping on privateering</unittitle><unitdate datechar="creation">1896 April 16</unitdate><container id="aspace_57f1d132a85215e05d88c867b94ccfe1" label="Mixed Materials" type="Box">2</container><container id="aspace_99895e5d735d160745fea6b6091d6ef0" parent="aspace_57f1d132a85215e05d88c867b94ccfe1" type="Folder">4</container></did></c><c id="aspace_ref36_q45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letter on armored cruisers from Admiral W.S. Schley</unittitle><unitdate datechar="creation">1896 July 23</unitdate><container id="aspace_949ba19a99002a3aa04585aeb8bba757" label="Mixed Materials" type="Box">2</container><container id="aspace_784ecfb26eee0a745593fb1ae80709cc" parent="aspace_949ba19a99002a3aa04585aeb8bba757" type="Folder">5</container></did></c><c id="aspace_ref37_v9q" level="otherlevel" otherlevel="unspecified"><did><unittitle>Naval War College documents: Elements of a "War Chart and Defense Plan"; definition of art of war; document on international law</unittitle><unitdate datechar="creation">1896, undated</unitdate><container id="aspace_78af74113d8c877050b43f868861a1ab" label="Mixed Materials" type="Box">2</container><container id="aspace_7dcf828e1c45055ecd4349b1d9e84495" parent="aspace_78af74113d8c877050b43f868861a1ab" type="Folder">6</container></did></c><c id="aspace_ref38_vcv" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letter defining Mediterranean compass variations 1798; notes on Egyptian campaign of 1798</unittitle><unitdate datechar="creation">1901 Jan 22, undated</unitdate><container id="aspace_ef982f1738c3037e6f6025de1c0c8c2e" label="Mixed Materials" type="Box">2</container><container id="aspace_00bbd3a58ba4a798c0b1acf2d0de14ab" parent="aspace_ef982f1738c3037e6f6025de1c0c8c2e" type="Folder">7</container></did></c><c id="aspace_ref39_z7w" level="otherlevel" otherlevel="unspecified"><did><unittitle>First lecture: Battle of Sluys. Text</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_e1230316fab0c15ade393e42ac71ee02" label="Mixed Materials" type="Box">2</container><container id="aspace_babeba1671c59c01393b9cf95f260445" parent="aspace_e1230316fab0c15ade393e42ac71ee02" type="Folder">8</container></did></c><c id="aspace_ref40_9e2" level="otherlevel" otherlevel="unspecified"><did><unittitle>First lecture: Battle of Sluys. Photoreproductions, maps</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_666adc1f8ff19040fe559b3b48092c8d" label="Mixed Materials" type="Box">2</container><container id="aspace_940ec614ee03026e2212fb8bde8ec71c" parent="aspace_666adc1f8ff19040fe559b3b48092c8d" type="Folder">9</container></did></c><c id="aspace_ref41_hj2" level="otherlevel" otherlevel="unspecified"><did><unittitle>Second lecture: Singeing the King of Spain's Beard: Cadiz, 1587. Draft</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_2d85ff7751a370036b1a10e6452d3dae" label="Mixed Materials" type="Box">2</container><container id="aspace_7b6ff55f04b816e5a747fa4528a49d45" parent="aspace_2d85ff7751a370036b1a10e6452d3dae" type="Folder">10</container></did></c><c id="aspace_ref42_9y1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Second lecture: Singeing the King of Spain's Beard: Cadiz, 1587. Text</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_91d8ccc1dfa9960efb0bdb39ae7b5c74" label="Mixed Materials" type="Box">2</container><container id="aspace_b8768144107652d26bf0174fa0fe4ebc" parent="aspace_91d8ccc1dfa9960efb0bdb39ae7b5c74" type="Folder">11</container></did></c><c id="aspace_ref43_m4f" level="otherlevel" otherlevel="unspecified"><did><unittitle>Third lecture: Blake at Porto Farina. Draft</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_7abf7725f6441c03eef4ef9763bb4fea" label="Mixed Materials" type="Box">2</container><container id="aspace_e52b2c191ff593ad1805f20c902afc77" parent="aspace_7abf7725f6441c03eef4ef9763bb4fea" type="Folder">12</container></did></c><c id="aspace_ref44_nu7" level="otherlevel" otherlevel="unspecified"><did><unittitle>Third lecture: Blake at Porto Farina. Text</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_d894d99f2217bbd8447bed1404b0999e" label="Mixed Materials" type="Box">2</container><container id="aspace_ce6db21cb0b78def6a6ee7880b13244c" parent="aspace_d894d99f2217bbd8447bed1404b0999e" type="Folder">13</container></did></c><c id="aspace_ref45_3eu" level="otherlevel" otherlevel="unspecified"><did><unittitle>Third lecture: Blake at Porto Farina. Maps and photoreproductions.</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_a886582edc1bd089c3846a38f31f2631" label="Mixed Materials" type="Box">2</container><container id="aspace_bea296ce8424e91ecbc27c66818f805d" parent="aspace_a886582edc1bd089c3846a38f31f2631" type="Folder">14</container></did></c><c id="aspace_ref46_f32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Fourth lecture: Blake's last fight - Santa Cruz de Teneriffe, April 20, 1627. Text</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_3736917e531bfa167ed56df822dfcc2b" label="Mixed Materials" type="Box">2</container><container id="aspace_446e0d2821b23053bbfdb575b007ad16" parent="aspace_3736917e531bfa167ed56df822dfcc2b" type="Folder">15</container></did></c><c id="aspace_ref47_1yz" level="otherlevel" otherlevel="unspecified"><did><unittitle>Fifth lecture: The Nile Campaign I. The Pursuit. Text</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_b0ad890291c8a2502655b57079dda15a" label="Mixed Materials" type="Box">2</container><container id="aspace_4ddc4c6c52495c723cd31f43c5766c0a" parent="aspace_b0ad890291c8a2502655b57079dda15a" type="Folder">16</container></did></c><c id="aspace_ref48_7oc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sixth lecture: The Battle of the Nile II. The Attack. Draft</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_6e806bb7b69672bad0a434774b6da364" label="Mixed Materials" type="Box">2</container><container id="aspace_85a4ba26fcf782a67e756eeb0805a41f" parent="aspace_6e806bb7b69672bad0a434774b6da364" type="Folder">17</container></did></c><c id="aspace_ref49_2ln" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sixth lecture: The Battle of the Nile II. The Attack. Text</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_f13dd0f9fa5418451d9a2d623dde5ae5" label="Mixed Materials" type="Box">2</container><container id="aspace_c30c5dac8e9a5375eb0a65e39cb78925" parent="aspace_f13dd0f9fa5418451d9a2d623dde5ae5" type="Folder">18</container></did></c><c id="aspace_ref50_j7w" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sixth lecture: The Battle of the Nile II. The Attack. Maps and reproductions</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_5ce81062fbc8546d91aeb7b5e482f751" label="Mixed Materials" type="Box">2</container><container id="aspace_ad6aa42aab6bee5ea922bb037a5eda3a" parent="aspace_5ce81062fbc8546d91aeb7b5e482f751" type="Folder">19</container></did></c><c id="aspace_ref51_xa2" level="otherlevel" otherlevel="unspecified"><did><unittitle>Seventh lecture: The Battle of Navarino. Draft.</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_2dcf0fc151b107ba839b95d274f3b27c" label="Mixed Materials" type="Box">2</container><container id="aspace_03286cfc437356960b6df1048aa3e8ed" parent="aspace_2dcf0fc151b107ba839b95d274f3b27c" type="Folder">20</container></did></c><c id="aspace_ref52_on6" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dewey at Manila: Notes</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_087ff78cdc999f199bd59a7da45095bd" label="Mixed Materials" type="Box">2</container><container id="aspace_74bad2848e8f6c42b05b096bfcca54cb" parent="aspace_087ff78cdc999f199bd59a7da45095bd" type="Folder">21</container></did></c><c id="aspace_ref53_6qq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dewey at Manila: I. Introduction. II. Strained Relations. III. Dewey's Objectives. IV. Authorities. V. American Preparations</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_53e952f5e3073bc3ef8c74d655473f5b" label="Mixed Materials" type="Box">2</container><container id="aspace_d371bacd0707e858b15055337f670541" parent="aspace_53e952f5e3073bc3ef8c74d655473f5b" type="Folder">22</container></did></c><c id="aspace_ref54_xxc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dewey at Manila: VI. The Opposing Forces. VII. Spanish Preparations. VIII. Spanish Accounts of the Battle</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_521b69c75b568f9f737beb1a9bfc2912" label="Mixed Materials" type="Box">2</container><container id="aspace_49ea8ecd57174f47beedc3ebeb2399c5" parent="aspace_521b69c75b568f9f737beb1a9bfc2912" type="Folder">23</container></did></c><c id="aspace_ref55_2t3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dewey at Manila: IX. American Accounts of the Battle. X. The Finish</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_2405c1a832016c9447187dc59d8b0012" label="Mixed Materials" type="Box">2</container><container id="aspace_e7b04eabfdcdcb675c3ac301a088e857" parent="aspace_2405c1a832016c9447187dc59d8b0012" type="Folder">24</container></did></c><c id="aspace_ref56_0sq" level="otherlevel" otherlevel="unspecified"><did><unittitle>The landing of the army in Cuba</unittitle><unitdate datechar="creation">circa 1901</unitdate><container id="aspace_cca3d8dcea59dea6485a8116c93c2b9c" label="Mixed Materials" type="Box">2</container><container id="aspace_ec72fac89ebba884b81e68e7fb0e90d2" parent="aspace_cca3d8dcea59dea6485a8116c93c2b9c" type="Folder">25</container></did></c><c id="aspace_ref57_dhw" level="otherlevel" otherlevel="unspecified"><did><unittitle>Assorted lecture notes. Envelope</unittitle><unitdate datechar="creation">1904</unitdate><container id="aspace_7411191ee713b652928684bb27afd87b" label="Mixed Materials" type="Box">OS 1</container><container id="aspace_8b095bcd910c6d1233287f872fae984f" parent="aspace_7411191ee713b652928684bb27afd87b" type="Folder">8</container></did></c><c id="aspace_ref58_cld" level="otherlevel" otherlevel="unspecified"><did><unittitle>Second lecture. Singeing of the King of Spain's Beard. Envelope</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_68850265d7f91dd1a3a7a3d436d9aba4" label="Mixed Materials" type="Box">OS 1</container><container id="aspace_e9728b2ada907c37faa0d02f3ffe2ac3" parent="aspace_68850265d7f91dd1a3a7a3d436d9aba4" type="Folder">9</container></did></c><c id="aspace_ref59_4wm" level="otherlevel" otherlevel="unspecified"><did><unittitle>Seventh lecture. The Battle of Navarino. Envelope</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_10e9fa8df80d154f97d1085a11277bbc" label="Mixed Materials" type="Box">OS 1</container><container id="aspace_2408d4988fe91df5b575582f47f42470" parent="aspace_10e9fa8df80d154f97d1085a11277bbc" type="Folder">10</container></did></c><c id="aspace_ref60_34c" level="otherlevel" otherlevel="unspecified"><did><unittitle>Seventh lecture. The Battle of Navarino. Map blueprints</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_7be661991e60d97b8672d375a9ee4c2b" label="Mixed Materials" type="Box">OS 1</container><container id="aspace_1e93401515ecfb6b8533a1bd86938001" parent="aspace_7be661991e60d97b8672d375a9ee4c2b" type="Folder">11</container></did></c><c id="aspace_ref61_116" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sixth lecture. Battle of the Nile. Envelopes</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_421b9e42292db3fd3cdd92477528bb05" label="Mixed Materials" type="Box">OS 3</container><container id="aspace_51f51ddb65d8dcc8904005989eea6719" parent="aspace_421b9e42292db3fd3cdd92477528bb05" type="Folder">1</container></did></c></c><c id="aspace_ref63_272" level="series"><did><unittitle>Series III. Writings (1901-1933)</unittitle></did><scopecontent id="aspace_235634dcc190ae172e05555fbb9765cb"><head>Scope and Contents note</head><p>The subseries includes notes and final versions of Goodrich's writings, apart from the lectures he delivered at the Naval War College, including various topics in naval warfare, an address on establishing a naval training facility in San Diego, and his 1924 memoirs. The latter includes a typescript with handwritten emendations probably by James Barnes, who edited the work for publication by the Naval History Society ("Rope yarns from the old navy," published by J.J. Little &amp; Ives Co., as the eleventh volume of the Society's publications), and a final clean version incorporating those changes. The memoirs are an affectionate look at his early service in the Navy, which he describes as "coincident with the great changes from sail to steam; from wooden frigates to steel dreadnoughts; from smooth bore muzzle loaders to breech loading rifled cannon; from man power to electricity."</p></scopecontent><c id="aspace_ref64_g2z" level="otherlevel" otherlevel="unspecified"><did><unittitle>Logistics</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_478af0c4679831277d96a046c116e29f" label="Mixed Materials" type="Box">3</container><container id="aspace_d25adcf82bbe5e749fb710cf33132617" parent="aspace_478af0c4679831277d96a046c116e29f" type="Folder">1</container></did></c><c id="aspace_ref65_r21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Coast defense</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_8845f4b45ed82320a230dff7043e1d10" label="Mixed Materials" type="Box">3</container><container id="aspace_f4c3ba4df5d4da615b9f41fb5663a5e8" parent="aspace_8845f4b45ed82320a230dff7043e1d10" type="Folder">2</container></did></c><c id="aspace_ref66_4zq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Label from wrapper for writings on coast defense and logistics</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_f7ed625dfe4019265fdc7dec2d9cf2be" label="Mixed Materials" type="Box">3</container><container id="aspace_bcde4bba99a599d1bb36b34b8ffb9fa0" parent="aspace_f7ed625dfe4019265fdc7dec2d9cf2be" type="Folder">3</container></did></c><c id="aspace_ref67_3ca" level="otherlevel" otherlevel="unspecified"><did><unittitle>Navigation</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_79604d74496b0846c33f3e926905cfc6" label="Mixed Materials" type="Box">3</container><container id="aspace_2a1db290612559170b2e97e9e16ad0d7" parent="aspace_79604d74496b0846c33f3e926905cfc6" type="Folder">4</container></did></c><c id="aspace_ref68_ag9" level="otherlevel" otherlevel="unspecified"><did><unittitle>Interior water communication</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_442601aa9e6902028faa5a8c2b234a0e" label="Mixed Materials" type="Box">3</container><container id="aspace_1eef53b6ac5d9ce5139170e10e0bc2f4" parent="aspace_442601aa9e6902028faa5a8c2b234a0e" type="Folder">5</container></did></c><c id="aspace_ref69_eff" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scouting for the U.S.S. Tacony</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_c58f4f5c645c19ea4060402898145b32" label="Mixed Materials" type="Box">3</container><container id="aspace_aed4c7d148ee8f0db5ee9fee4e799b04" parent="aspace_c58f4f5c645c19ea4060402898145b32" type="Folder">6</container></did></c><c id="aspace_ref70_xtd" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dutch - French - English Wars of the 17th Century</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_6933b63682f537fad35016f02a8f19ec" label="Mixed Materials" type="Box">3</container><container id="aspace_f1c68eaca6ba66a3cf8ddcc6dde95118" parent="aspace_6933b63682f537fad35016f02a8f19ec" type="Folder">7</container></did></c><c id="aspace_ref71_bl4" level="otherlevel" otherlevel="unspecified"><did><unittitle>Extracts from G.B. Mundy's 1830 Biography of Admiral Rodney</unittitle><unitdate datechar="creation">[1901]</unitdate><container id="aspace_9d3371d6dba7cb3cc7e4afb8b90e20e5" label="Mixed Materials" type="Box">3</container><container id="aspace_452866b0a2c82b345c70df21125d3785" parent="aspace_9d3371d6dba7cb3cc7e4afb8b90e20e5" type="Folder">8</container></did></c><c id="aspace_ref72_gsa" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Confidential report of Gunnery Information Obtained During a Visit to England - British Battle Practice"</unittitle><unitdate datechar="creation">1905 June</unitdate><container id="aspace_7f25a5365d1b643707019457d4c2133e" label="Mixed Materials" type="Box">3</container><container id="aspace_d6666cb04c287af30fe223652061fbd7" parent="aspace_7f25a5365d1b643707019457d4c2133e" type="Folder">9</container></did></c><c id="aspace_ref73_hy6" level="otherlevel" otherlevel="unspecified"><did><unittitle>Comments to San Diego Chamber of Commerce about establishing a naval training station</unittitle><unitdate datechar="creation">circa 1916</unitdate><container id="aspace_ddd27cc2a330f72d523d0aa1815f9fea" label="Mixed Materials" type="Box">3</container><container id="aspace_ca9ed7170887a95492118b23ff8463df" parent="aspace_ddd27cc2a330f72d523d0aa1815f9fea" type="Folder">10</container></did></c><c id="aspace_ref74_fl3" level="otherlevel" otherlevel="unspecified"><did><unittitle>In memoriam: Tribute to Stephen Bleecker Luce, published by the Naval History Society</unittitle><unitdate datechar="creation">1919</unitdate><container id="aspace_90250f029c72acf4528e4ed0d157a9bb" label="Mixed Materials" type="Box">3</container><container id="aspace_8f0f7c17accda35571ec1142eff68ed5" parent="aspace_90250f029c72acf4528e4ed0d157a9bb" type="Folder">11</container></did></c><c id="aspace_ref75_dz3" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": Cover page, foreword, comments</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_87a88d15633ba78e95f124d7754fae5b" label="Mixed Materials" type="Box">3</container><container id="aspace_a5773b5ea27a399e5d40fbd821cfe6ae" parent="aspace_87a88d15633ba78e95f124d7754fae5b" type="Folder">12</container></did></c><c id="aspace_ref76_dqc" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": I. How I Entered the Navy. II. At the Naval Academy During the Civil War. III. Some Experiences as a Midshipman</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_a98b6b9b2745b80cb19c4cd5c7dcfc4e" label="Mixed Materials" type="Box">3</container><container id="aspace_3b280627475b5c4e17d6a234d303c3ca" parent="aspace_a98b6b9b2745b80cb19c4cd5c7dcfc4e" type="Folder">13</container></did></c><c id="aspace_ref77_oq9" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": IV. Goldsborough. V. My First Foreign Port. VI. Mediterranean Cruise, Concluded. VII. With Farragut</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_02f2b8c28772ebb1ebb5215c2110e350" label="Mixed Materials" type="Box">3</container><container id="aspace_958ed25181aab6c0b876d8b14874a006" parent="aspace_02f2b8c28772ebb1ebb5215c2110e350" type="Folder">14</container></did></c><c id="aspace_ref78_m08" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": VIII. In the South Atlantic, 1869-1871. IX. A Remote Island Community. X. St. Paul de Loando - St. Helena - Ascension. XI. In Asiatic Waters, 1875-1878</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_4ed520bc45ff7d5e7a67caadbf382d04" label="Mixed Materials" type="Box">3</container><container id="aspace_4dd724c14363822909ce8e2a1144b885" parent="aspace_4ed520bc45ff7d5e7a67caadbf382d04" type="Folder">15</container></did></c><c id="aspace_ref79_02z" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": XII. Another European Cruise. XIII. Another European Cruise (Concluded). XIV. The Last of My Sailing Ships: 1. The Jamestown.</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_187fc916e463fd0be7cebb70ac3767eb" label="Mixed Materials" type="Box">3</container><container id="aspace_e4a5f4667c7f3dd4a3678699e5dbb9f2" parent="aspace_187fc916e463fd0be7cebb70ac3767eb" type="Folder">16</container></did></c><c id="aspace_ref80_0jz" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": XV. 2. The Constellation. XVI. Bluejackets of the Old Navy</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_3195e9b30908fd465217a25e0b02650c" label="Mixed Materials" type="Box">3</container><container id="aspace_cc613b6f1f4263cad0711c98261ed610" parent="aspace_3195e9b30908fd465217a25e0b02650c" type="Folder">17</container></did></c><c id="aspace_ref81_3bq" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": Complete revised typescript</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_08a963902f15bf7bf29c3585f2a8c21d" label="Mixed Materials" type="Box">3</container><container id="aspace_9c8ad5f8aa1a56324d2e41ee63e07a78" parent="aspace_08a963902f15bf7bf29c3585f2a8c21d" type="Folder">18</container></did></c><c id="aspace_ref82_ya1" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Rope Yarns from the Old Navy": Typescript box, presented to the Naval History Society March 29, 1933</unittitle><unitdate datechar="creation">1933</unitdate><container id="aspace_638af3f0f91592a0aaef50960a9cddad" label="Mixed Materials" type="Box">3</container><container id="aspace_83dbc12672ad26165670e7a3af5a3988" parent="aspace_638af3f0f91592a0aaef50960a9cddad" type="Folder">19</container></did></c></c><c id="aspace_ref84_muj" level="subseries"><did><unittitle>Series IV. James Goodrich journal transcripts (undated)</unittitle></did><scopecontent id="aspace_2d488b87fd82e31a7618c533f0a2e702"><head>Scope and Contents note</head><p>The subseries consists of undated notes in Goodrich's hand, and a typed transcript, from the logs of Captain James Goodrich (dated 1796-1853) aboard various vessels, including <title render="italic"> Confederacy</title>. These may be related to the publication in <title render="italic">Journal of American History</title> (IV, II, pp. 273-280, 1910) of "First Commerce Under American Flag," by William Goodrich (grandson of James and brother of Caspar F.), which documents James Goodrich's claims against the French government for restitution of goods seized on a voyage.</p></scopecontent><c id="aspace_ref85_8ze" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Notes from the log of the <title render="italic">Confederacy</title>from London to Madeira to China (in which James Goodrich sailed), 1796 Jan 10 - 1797 June 9</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_4a1af8bbbf752e32cc9b4ec9fb4e7068" label="Mixed Materials" type="Box">3</container><container id="aspace_e889b7b851ceb14970a413c5b67e9369" parent="aspace_4a1af8bbbf752e32cc9b4ec9fb4e7068" type="Folder">20</container></did></c><c id="aspace_ref86_ctg" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Miscellaneous abstracts from journal on board the ship <title render="italic">Fame</title> etc. of Capt. James Goodrich, London to New Orleans", 1800-1801</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_7bfc942610257550fd114f26463ddca4" label="Mixed Materials" type="Box">3</container><container id="aspace_597eec845040454dd3e330bf8491e78e" parent="aspace_7bfc942610257550fd114f26463ddca4" type="Folder">21</container></did></c><c id="aspace_ref87_kr3" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Random notes from the journals of Captain James W. Goodrich", 1823 - 1853</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_83d7c81c6a7db62d5739de9368721f02" label="Mixed Materials" type="Box">3</container><container id="aspace_ab2d1861bd1e79cd977451b9a1f3cfbb" parent="aspace_83d7c81c6a7db62d5739de9368721f02" type="Folder">22</container></did></c><c id="aspace_ref88_84g" level="otherlevel" otherlevel="unspecified"><did><unittitle>Typed transcript from James Goodrich logs: Conditions in Whampoa, China (probably aboard Galaxy), circa 1835</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_887271fe47e8c984a876aca9d874f388" label="Mixed Materials" type="Box">3</container><container id="aspace_8ab8f60783c64ff387a2284156d93be2" parent="aspace_887271fe47e8c984a876aca9d874f388" type="Folder">23</container></did></c></c><c id="aspace_ref90_x09" level="subseries"><did><unittitle>Subseries V. Bound volumes</unittitle></did><scopecontent id="aspace_646803fc56376a0aa3bbafda2b2e2b82"><head>Scope and Contents note</head><p>The subseries consists of a scrapbook of newspaper clippings on the Spanish-American War.</p></scopecontent><c id="aspace_ref91_frb" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook of clippings on the Spanish-American War</unittitle><unitdate datechar="creation">1898</unitdate><container id="aspace_0fce41e90daa004df69ee69583e209d5" label="Mixed Materials" type="Volume">1</container></did></c></c></dsc>
+</archdesc>
+</ead>

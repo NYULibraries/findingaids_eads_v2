@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_100_john_stansbury/">arms_1973_100_john_stansbury</eadid><filedesc><titlestmt><titleproper>Guide to the John Stansbury account book <num>1973.100</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 4, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:24 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John Stansbury account book</unittitle>
+    <origination label="Creator">
+      <famname source="local">Stansbury family</famname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Stansbury, John</persname>
+    </origination>
+    <unitid>1973.100</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1810/1824" type="inclusive">1810-1824</unitdate>
+    <abstract id="aspace_6385463565ce701eb6d1abe107bab834">One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury's various transactions throughout the period 1810 to 1821.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_0f66394d14385c6f43ad91a081aec72e" label="Text" type="Box">A0001</container>
+  </did>
+  <scopecontent id="aspace_063eafcbc62a1c999b988ae494c6f770">
+    <head>Scope and Contents</head>
+<p>One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury's various transactions throughout the period 1810 to 1821.  Roughly half the book is also filled with clippings that have been pasted over transaction entries and contain poems and stories from various news publications.  Additional members of the Stansbury family, including Cecilia and Isaac Stanbury, are also brielfy represented by entries in the account book: Cecilia used portions of the book to practice long division, while Isaac entered accounts of his own transactions.</p>  </scopecontent>
+  <bioghist id="aspace_89520bead55cd4d84e19f805fc20e46e">
+    <head>Biographical Note</head>
+<p>A resident of the town of Flushing in Queens County, N.Y. during the 19th century, John Stansbury owned a farmhouse near Horace Harding and Springfield Boulevards.</p>  </bioghist>
+  <accessrestrict id="aspace_84d508bf9bbb29e773754dd6434a7eb2">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_26b106ea274aafa5e6981d488f8bffb5">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of acquisition for this collection are unknown.  The collection was formally accessioned in 1973.</p>  </acqinfo>
+  <prefercite id="aspace_69a39cf2d656490e365643fb4e6c444b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John Stansbury account book, 1973.100, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Flushing (New York, N.Y.) |x Commerce</geogname>
+    <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
+    <genreform source="aat">Accounts</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Account books</genreform>
+    <genreform source="aat">Poems</genreform>
+    <persname source="local">Stansbury, John</persname>
+    <famname source="local">Stansbury family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

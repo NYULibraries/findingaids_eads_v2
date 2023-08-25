@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_017_sokolow/">v1990_017_sokolow</eadid><filedesc><titlestmt><titleproper>Guide to the Isobel Sokolow photographs <num>V1990.017</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 8, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:21:24 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Isobel Sokolow photographs</unittitle>
+    <unitid>V1990.017</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1950/1959" type="inclusive">circa 1950s</unitdate>
+    <abstract id="aspace_1003d609491b570d0020026a10aad054" label="Abstract">Three black-and-white photographs, circa 1950s, showing Isobel A. Folb (later Sokolow) at and near Erasmus Hall High School in the Flatbush neighborhood of Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6d0782126d7fbe43b191b4965bb52ff8" label="Graphic Materials" type="Box">Prints by Accession 56</container>
+  </did>
+  <scopecontent id="aspace_dc04d0bf77d2f6395244bea13535e3f7">
+    <head>Scope and Contents</head>
+<p>Three black-and-white photographs, circa 1950s, showing Isobel A. Folb (later Sokolow) at and near Erasmus Hall High School in the Flatbush neighborhood of Brooklyn.</p>  </scopecontent>
+  <accessrestrict id="aspace_971ad00c748a87f0e661c5d61833121f">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_9faff4c0454d301b0af47febabdf3880">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <userestrict id="aspace_52eed244cffad03a850b994ab4d6dfd1">
+    <head>Conditions Governing Use</head>
+<p>Based on the date range of this collections, all items will enter the public domain by 2079. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_ee97cb660690363771179a16ccf6a828">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Isobel Sokolow, 1990.</p>  </acqinfo>
+  <prefercite id="aspace_a0412f0a8e06038522b34cdf9593bb16">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Isobel Sokolow photographs, V1990.017, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_bdde79f33f603a7838d9fc671b732aa5">
+    <head>Biographical note</head>
+<p>Isobel A. Sokolow (nee Folb) was a professional artist who lived and worked in New York, Florida, and Italy. Working under the name Isobel Folb Sokolow, her work was exhibited in museums and galleries both nationally and internationally. She died in 2006.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>"Paid Notice: Deaths. Sokolow, Isobel A." <emph render="italic">New York Times</emph>, May 28, 2006. Accessed August 30, 2011. http://query.nytimes.com/gst/fullpage.html?res=9F0DE5DC103AF93BA15756C0A9609C8B63</item>
+    </list>
+  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <persname rules="dacs" source="local">Sokolow, Isobel Folb</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

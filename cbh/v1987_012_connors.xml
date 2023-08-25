@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1987_012_connors/">v1987_012_connors</eadid><filedesc><titlestmt><titleproper>Guide to the Chuck Connors photographs <num>V1987.012</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 22, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:24 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Chuck Connors photographs</unittitle>
+    <unitid>V1987.012</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">10 items contained in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1938/1987" type="inclusive">1938-1987</unitdate>
+    <abstract id="aspace_ebed6779d1fbd0c1f246310fa46ceb35" label="Abstract">All photographs are 8 x 10 portraits that document Connors career as a professional baseball player and basketball player on teams such as the Bay Ridge Celtics (Brooklyn), Brooklyn Dodgers, Chicago Cubs, Los Angeles Angels, Montreal Royals, and Boston Celtics, as well as his career as a character actor.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_7594260b0062bace5ef52781f96684b5" label="Graphic Materials" type="Box">Prints by Accession 52</container>
+  </did>
+  <accessrestrict id="aspace_ca00c9551d1ce00d6b663e6a85ef3aab">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_73b2f113d1e2ce4534a53da113915687">
+    <head>Scope and Contents</head>
+<p>The Chuck Connors photographs consist of 10 black-and-white photographic prints spanning the period circa 1938 to 1987. All photographs are 8 x 10 portraits that document Connors career as a professional baseball player and basketball player on teams such as the Bay Ridge Celtics (Brooklyn), Brooklyn Dodgers, Chicago Cubs, Los Angeles Angels, Montreal Royals, and Boston Celtics, as well as his career as a character actor. The most recent photograph, dating from 1987, is a portrait autographed by Connors to Brooklyn Historical Society.</p>  </scopecontent>
+  <bioghist id="aspace_3540c00302eb8f53cb4eb0362633dcf2">
+    <head>Biographical note</head>
+<p>Actor and professional athlete Chuck Connors was born Kevin Joseph Connors in Brooklyn, N.Y. on April 10, 1921. Gifted athletically, Connors won a scholarship to attend Adelphi Academy, a private college preparatory high school in Brooklyn, and graduated in 1939. Concurrently, Connors played for the Bay Ridge Celtics, a local Brooklyn baseball team. After attending Seton Hall University in New Jersey for a short time, Connors left to enlist in the U.S. Army during WWII. After serving in the Army, Connors pursued a professional athletic career, first joining the newly established Boston Celtics basketball team in 1946 before leaving basketball for baseball. Connors played for minor league teams and farms teams until he was brought up to the major league to play for the Brooklyn Dodgers in 1949. A first baseman, Connors only played one game for the Dodgers. In 1951, Connors went to the Chicago Cubs where he played 66 games as first baseman for the Cubs. In 1952, Connors returned to the minor league, playing for the Cubs farm team, the Los Angeles Angels. It was while playing for the Angels that Connors was "discovered" by a movie studio employee and was signed to do his first film. From 1952 to 1991, Connors spent nearly 40 years as a character actor in both film and television, including his first role in George Cukor's film <emph render="italic">Pat and Mike</emph> starring Katherine Hepburn and Spencer Tracy and his lead role in the television western, <emph render="italic">The Rifleman</emph>, from 1958 to 1963. Connors died in Los Angeles in 1991.</p>  </bioghist>
+  <userestrict id="aspace_94d4de646c9266efe3984e899af6617e">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_e5a866668224b860c099540c5b2c2142">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Chuck Connors, 1987.</p>  </acqinfo>
+  <otherfindaid id="aspace_2af079cadb41dc2ef1a78bf41702d94e">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <prefercite id="aspace_a66b85c8c79d7eda7d72fafa8c2c7a41">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Chuck Connors photographs, V1987.012, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_1d019f608f8a276c907eb5433440aa9a">
+    <head>Processing Information note</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Baseball players |z United States</subject>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <subject source="lcsh">Actors -- United States</subject>
+    <genreform source="aat">Portraits</genreform>
+    <subject source="lcsh">Baseball teams |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Baseball |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Basketball players |z United States</subject>
+    <corpname rules="aacr" source="naf">Montreal Royals (Baseball team)</corpname>
+    <corpname rules="aacr" source="naf">Brooklyn Dodgers (Baseball team)</corpname>
+    <corpname rules="aacr" source="naf">Boston Celtics (Basketball team)</corpname>
+    <corpname rules="dacs" source="local">Bay Ridge Celtics (Baseball team)</corpname>
+    <corpname rules="aacr" source="naf">Los Angeles Angels (Baseball team)</corpname>
+    <corpname rules="aacr" source="naf">Chicago Cubs (Baseball team)</corpname>
+    <persname rules="aacr" source="naf">Connors, Chuck</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

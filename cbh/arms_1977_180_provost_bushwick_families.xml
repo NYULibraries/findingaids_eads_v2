@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_180_provost_bushwick_families/">arms_1977_180_provost_bushwick_families</eadid><filedesc><titlestmt><titleproper>Guide to the Andrew J. Provost collection of Bushwick, N.Y., family papers <num>1977.180</num></titleproper><author>Larry Weimer</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>January 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:15:13 +0000</date>.</creation><langusage>Finding aid is written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Andrew J. Provost collection of Bushwick, N.Y., family papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Provost, Andrew J.</persname>
+    </origination>
+    <unitid>1977.180</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.6 Linear Feet</extent>
+      <extent altrender="carrier">in two folders and one oversize flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1709/1859" type="inclusive">1709-1859</unitdate>
+    <abstract id="aspace_cbfbc478c417878b2027d5761b65b7dc">The Andrew J. Provost collection of Bushwick, N.Y., family papers includes documents compiled by Provost and his son likely in connection, at least in part, with their genealogical research and writings. The documents include deeds, indentures, wills, and property maps ranging from 1653 to 1835, some with certifications and other official notations ranging to 1859. The earliest original document is 1709; documents dated from the 1600s are nineteenth century certified copies. The materials concern Bushwick (Kings County, N.Y.) families and property, including that in the Greenpoint section (now part of the New York City borough of Brooklyn). Surnames appearing in the collection include Arundius, Bennet, Calyer, Cappoens, Meserole/Miserol, Praa, Provost, and Volckertsen, among others.</abstract>
+    <langmaterial id="aspace_d45ca9ca35384b86ab6df42ccbf9eea5">Materials are in English.</langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_47cfd4d7029343404aaabd4b1229b61d" label="Text" type="Box">A0046</container>
+    <container altrender="Large Flat Box 10" id="aspace_afac5b95c2178880a047fe088bbc47bc" label="Text" type="Box">2 (Oversize)</container>
+  </did>
+  <arrangement id="aspace_cbf321dd855e1304ef4f4ea4cca43c51">
+    <head>Arrangement</head>
+<p>The collection is arranged in rough chronological order; for transcribed documents, the date used was that of the original document. Oversize documents are in a separate flat box.</p>  </arrangement>
+  <bioghist id="aspace_ccb00629c0bd746e4f779f591c59fc65">
+    <head>Biographical / Historical</head>
+<p>Andrew J. Provost (1834-1925) was born in New York City but lived all but his earliest years in Bushwick, Brooklyn and Queens County (N.Y.). His ancestors, which included the Provost and Praa families, had roots in Bushwick (including the Greenpoint area of Bushwick) dating to the 1600s. Provost was an attorney and held various public offices in Kings and Queens counties. The collection, though, centers on Provost's interest as a historian and genealogist. In that capacity, in 1895, Prevost published <emph render="italic">Biographical and Genealogical Notes of the Provost Family from 1545 to 1895</emph>. </p><p>Provost's son, Andrew J. Provost, Jr. (1867-circa 1960), was a civil engineer. He also had an interest in history and genealogy. He was the author of several family histories, including books on the Calyer, Titus and Hendrickson families. A unifying theme of his writings, other than their connection to the Provost family, was the connection to Bushwick, a town until it became part of the city of Brooklyn in the mid-nineteenth century (Brooklyn itself becoming consolidated into New York City in 1898). Provost, Jr.'s interest in Bushwick and its families culminated in his 3 volume<emph render="italic"> Early Settlers of Bushwick, Long Island, New York, and Their Descendants</emph>.</p><p>Principal sources for the above information, for genealogical information about the names appearing in the collection, and for references to some of the documents: Andrew J. Provost, <emph render="italic">Biographical and genealogical notes of the Provost family from 1545 to 1895</emph> (on the Brooklyn Historical Society library shelves at call number CS71.P748.1895) and Andrew J. Provost, Jr., <emph render="italic">Calyer family: a monograph of Jochem Caljer, a citizen of New Amsterdam from about 1640 to 1658 and his descendants</emph> (BHS call number CS71.C6555.1951).</p>  </bioghist>
+  <accessrestrict id="aspace_129f8610dbae8f624f47758aa54157ff">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_b79498c3e98656e9035190873ed5ceaf">
+    <head>Conditions Governing Use</head>
+<p>The material is in the public domain.</p>  </userestrict>
+  <acqinfo id="aspace_80df99a48544f71c48f049112902fccd">
+    <head>Immediate Source of Acquisition</head>
+<p>The collection is credited with having been compiled by Andrew J. Provost (1834-1925). It was donated to the Long Island Historical Society (now Brooklyn Historical Society) in April 1948 by his son, Andrew J. Provost, Jr.</p>  </acqinfo>
+  <otherfindaid id="aspace_82594569050d368020108d3e4cf13dd8">
+    <head>Other Finding Aids</head>
+<p>An item level inventory of the collection in PDF can be found on Brooklyn Historical Society's on-line catablog, Emma. A paper copy is also kept with the collection.</p>  </otherfindaid>
+  <prefercite id="aspace_cd46e38e092a47e150bf7d9b7bd77a9d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Andrew J. Provost collection of Bushwick, N.Y., family papers, 1977.180, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_6be7c0025a8b4e82daf2e763b00aa9c9">
+    <head>Processing Information</head>
+<p>The collection was processed in January 2012 by Larry Weimer.</p>  </processinfo>
+  <relatedmaterial id="aspace_8ffd2d9ebe7cfd824e909bc1289edf9d">
+    <head>Related Materials</head>
+<p>Brooklyn Historical Society holds at least two related collections:</p><p><emph render="italic">Andrew J. Provost letter</emph> (call number 1977.562) detailing the history of two oil paintings of Captain Pieter Praa and his daughter Christine.</p><p><emph render="italic">Peter Praa certificate</emph> (call number 1977.355), which is a photostat copy of a certificate, dated 1702, appointing Praa a Captain in the Bushwick Militia.</p>  </relatedmaterial>
+  <scopecontent id="aspace_459cd94721fed3ffdd8af27e7d2eff98">
+    <head>Scope and Contents</head>
+<p>The Andrew J. Provost collection of Bushwick, N.Y., family papers includes documents compiled by Provost likely in connection, at least in part, with his writing of <emph render="italic">Biographical and Genealogical Notes of the Provost Family from 1545 to 1895</emph>. These documents were likely also referred to by Provost's son, the donor of the collection, for his writings in family history. The documents include deeds, indentures, and wills ranging from 1653 to 1835, some with certifications and other official notations ranging to 1859. The earliest original document is 1709; documents dated from the 1600s are nineteenth century certified copies. The materials concern Bushwick (Kings County, N.Y.) families and property, including that in the Greenpoint section. There are a small number of manuscript property maps in the collection, including one showing the Bushwick land inherited by the four daughters of Peter and Maria (nee Hay) Praa. Surnames other than Praa and Provost appearing in the collection include Arundius, Bennet, Calyer, Cappoens, Meserole/Miserol, and Volckertsen, among others.</p>  </scopecontent>
+  <separatedmaterial id="aspace_8976c076839d84447c2b8bf099f1c41c">
+    <head>Separated Materials</head>
+<p>The item level inventory dating from the original accession of 1948 indicates that the collection held three maps. At some point these were separated from the collection. During processing in 2012 an attempt was made to find the three maps. Three maps found in Brooklyn Historical Society's Map Collection conformed to the description in the inventory and were returned to the Provost papers.</p>  </separatedmaterial>
+  <controlaccess>
+    <genreform source="local">Cadastral maps</genreform>
+    <genreform source="local">Manuscript maps</genreform>
+    <geogname source="lcsh">Greenpoint (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="aat">Deeds</subject>
+    <subject source="lcsh">Genealogy</subject>
+    <genreform source="aat">Indentures</genreform>
+    <genreform source="aat">Wills</genreform>
+    <genreform source="aat">Family papers</genreform>
+    <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Bushwick (New York, N.Y.) |v Manuscript maps</geogname>
+    <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+    <famname rules="dacs" source="local">Bennet family</famname>
+    <famname rules="dacs" source="local">Provost family</famname>
+    <famname rules="dacs" source="local">Praa family</famname>
+    <famname rules="dacs" source="local">Meserole family</famname>
+    <famname rules="dacs" source="local">Calyer family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

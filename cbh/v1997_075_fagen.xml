@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1997_075_fagen/">v1997_075_fagen</eadid><filedesc><titlestmt><titleproper>Guide to the Fagen, Nelson, and Monahan family photographs <num>V1997.075</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>December 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:34 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Fagen, Nelson, and Monahan family photographs</unittitle>
+    <unitid>V1997.075</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1880/1939" type="inclusive">circa 1880s-1930s</unitdate>
+    <abstract id="aspace_797f0b9840b614b43f111a521c0f2e30">Collection primarily consists of photographic portraits and snapshots of members of Fagen, Nelson, and Monahan families of Brooklyn, dating from circa 1880s to 1930s. The photographs include cabinet cards, tintypes, and various types of black-and-white prints. Of note are photographs featuring a carousel, a man in a baseball uniform, and a portrait of the singer Chauncey Olcott. It also includes one photograph and advertisements for The Aden Mountain House in Parksville, New York.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_a8a2e1e4fe78e7bbb8cc956cf6f18b30" label="Graphic Materials" type="Box">Prints by Accession 62</container>
+    <container altrender="Record Carton" id="aspace_d9d96689d31dec5fd118674d76d6e8ba" label="Mixed Materials" type="Box">Albums</container>
+  </did>
+  <acqinfo id="aspace_213b4c141b8bec3d2cb7497115179d61">
+    <head>Immediate Source of Acquisition</head>
+<p>Immediate source of acquisition is unknown. Formally accessioned in 1997.</p>  </acqinfo>
+  <processinfo id="aspace_99b3143228261161c65dfb431423b58f">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <userestrict id="aspace_018476c19d860577f138758261a0379c">
+    <head>Conditions Governing Use</head>
+<p>Copyright status for the photographs has not been evaluated.</p>  </userestrict>
+  <accessrestrict id="aspace_a54a535d9669949f0d6b5087d52ecad1">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_e348a485b67ae628e2bf5a8418a5ed50">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Fagen, Nelson, and Monahan family photographs, V1997.075, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_343173e0a1741a323f3fbd65b32af636">
+    <head>Scope and Contents</head>
+<p>Collection primarily consists of photographic portraits and snapshots of members of Fagen, Nelson, and Monahan families of Brooklyn, dating from circa 1880s to 1930s. The photographs include cabinet cards, tintypes, and various types of black-and-white prints. Of note are photographs featuring a carousel, a man in a baseball uniform, and a portrait of the singer Chauncey Olcott. It also includes one photograph and advertisements for The Aden Mountain House in Parksville, New York.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Tintypes (prints)</genreform>
+    <subject source="lcsh">Resorts |z New York (State) |z Sullivan County</subject>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Cabinet photographs</genreform>
+    <subject source="lcsh">Baseball players |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Catskill Mountains (N.Y.)</geogname>
+    <geogname source="lcsh">Liberty (N.Y.)</geogname>
+    <famname rules="dacs" source="naf">Fagan family</famname>
+    <famname rules="dacs" source="local">Fagen family</famname>
+    <famname rules="dacs" source="naf">Monahan family</famname>
+    <famname rules="dacs" source="naf">Nelson family</famname>
+    <persname rules="dacs" source="naf">Olcott, Chauncey</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

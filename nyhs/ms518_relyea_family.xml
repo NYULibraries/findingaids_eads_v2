@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms518_relyea_family</eadid><filedesc><titlestmt><titleproper>Guide to the Relyea Family Papers<lb/><date>1839-1924 </date>(bulk 1860-1900)<date></date><lb/><num></num> <num>MS 518</num></titleproper><author>Gregory Tavormina </author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 15:49:35 -0400</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Relyea family papers</unittitle>
+    <unitid>MS 518</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1839-1924</unitdate>
+    <physloc id="aspace_92b09a858d83bd13066ab453ea45d928">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <abstract id="aspace_2fc8a812beb544d4baff0b51347b57ec" label="Abstract">The papers cover over three generations of the Relyea family, but particularly concern Peter Relyea. The collection includes letters, legal documents, accounts, and also contains documents relevant to the Rosevelt family.</abstract>
+    <langmaterial id="aspace_c161bf187daf468f410ed641ffb79897">The documents in the collection are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_64827e1bc49fda19f3ff4bb22666f0b9">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_1b869700a3b9f480c5b7a97acc9dc9b2">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p><p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_3962aa13543b1501ac146573f7fcf1fc">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as Relyea Family Papers, MS 518, The New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_8a44c022c9dae3c22b94273feacd7eb1">
+    <head>Biographical Note</head>
+<p>The bulk of the papers revolve around Peter Relyea (1817-1896), a prosperous New York undertaker. He served in the New York State Militia during the 1830s and 1840s rising to the rank of lieutenant. Relyea also achieved prominence in his secondary field, having crafted the hearse that carried President Lincoln's body through New York City in 1865.</p><p>Relyea relocated to Williamsburg, Brooklyn in 1869, and was appointed an Official Undertaker of that city in 1881. Peter Relyea married Elizabeth Ryers in 1838. After her death in 1866, he married C.A. Decker. A long-time Freemason, Peter Relyea was buried in Greenwood Cemetery in Brooklyn with Masonic honors.</p>  </bioghist>
+  <scopecontent id="aspace_0cb8bdaef38bda4266d15fac59f5629f">
+    <head>Scope and Content Note</head>
+<p>This collection includes various letters from Peter Relyea to his daughter Millie, letters to Willie Relyea from his cousin Henry, invitations addressed to Relyea family members to attend surprise parties, and letters addressed to Peter Relyea from business associates.</p><p>The collection also includes the military records of Peter Relyea, mortgages, real estate deeds, bonds, deeds to cemetery plots, receipts (including undertaker services rendered by Peter Relyea), and other various papers, such as a license granted to Peter Relyea to act as an Official Undertaker of the city of Brooklyn.</p><p>The collection also contains genealogy papers of the Rosevelt family (to which the Relyea family was related) and business papers of Rosevelt and Sullivan, the contracting partnership of Warren Rosevelt and John M. Sullivan. These concern the construction of a pile dock on Governors Island.</p><p>The Relyea Papers do not include any information regarding Peter Relyea's construction of Abraham Lincoln's hearse.</p>  </scopecontent>
+  <arrangement id="aspace_e1958117077dd3eff75ff65102a4cf8b">
+    <head>Arrangement</head>
+<p>The collection has been arranged into folders by type of material. Items within the collection are arranged chronologically.</p>  </arrangement>
+  <controlaccess>
+    <genreform source="aat">T. Rosevelt &amp; Griffiths</genreform>
+    <genreform source="aat">Rosevelt &amp; Sullivan</genreform>
+    <genreform source="aat">Commissions (orders for works).</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Deeds.</genreform>
+    <genreform source="aat">Ephemera.</genreform>
+    <genreform source="aat">Invitations.</genreform>
+    <genreform source="aat">Invoices.</genreform>
+    <genreform source="aat">Legal documents.</genreform>
+    <genreform source="aat">Mortgages.</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Buildings, structures, etc.</geogname>
+    <subject source="lcsh">Governors Island (New York County, N.Y.)</subject>
+    <geogname source="lcsh">New York (State)  -- Militia.</geogname>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.) -- Buildings, structures, etc. -- Design and construction.</geogname>
+    <subject source="lcsh">Funeral rites and ceremonies -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Real property -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Undertakers and undertaking -- New York (State)  -- New York. </subject>
+    <persname rules="rda" source="local">Buddington, Lucy Avery</persname>
+    <corpname rules="rda" source="local">Freemasons. Americus Lodge (Brooklyn, N.Y.)</corpname>
+    <persname rules="rda" source="local">Relyea, Peter, -1896</persname>
+    <famname rules="rda" source="local">Relyea (Family)</famname>
+    <famname rules="rda" source="local">Rosevelt (Family)</famname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11_pso" level="file"><did><unittitle>Agreements, Grave Deeds, Wills</unittitle><unitdate datechar="creation">1845-1920</unitdate><container id="aspace_92d97159625ecc2c9fe5d39144506414" label="Mixed Materials" type="Box">1</container><container id="aspace_efb391b076effebda15189cbc8a7c723" parent="aspace_92d97159625ecc2c9fe5d39144506414" type="Folder">1</container></did></c><c id="aspace_ref12_8x7" level="file"><did><unittitle>Certificates (Confirmation and License)</unittitle><unitdate datechar="creation">1881-1900</unitdate><container id="aspace_b834e2da21b87ef910634e80ed7268a7" label="Mixed Materials" type="Box">1</container><container id="aspace_bb8ee3698a657b35efc1174231d24814" parent="aspace_b834e2da21b87ef910634e80ed7268a7" type="Folder">2</container></did></c><c id="aspace_ref13_39i" level="file"><did><unittitle>Letters (Personal, Business, Invitations)</unittitle><unitdate datechar="creation">1867-1924</unitdate><container id="aspace_b607322770a4a1d3298ecfff9cd59c2c" label="Mixed Materials" type="Box">1</container><container id="aspace_8865662892087e50214d14ee7d77af88" parent="aspace_b607322770a4a1d3298ecfff9cd59c2c" type="Folder">3</container></did></c><c id="aspace_ref14_195" level="file"><did><unittitle>Masonic Pamphlets Concerning Peter Relyea</unittitle><unitdate datechar="creation">1864-1896</unitdate><container id="aspace_b1c6d7d8a2809359f7b0a10361d8812d" label="Mixed Materials" type="Box">1</container><container id="aspace_a1565508c7bf8ea8f658e819b5d67c1e" parent="aspace_b1c6d7d8a2809359f7b0a10361d8812d" type="Folder">4</container></did></c><c id="aspace_ref15_ot7" level="file"><did><unittitle>Military Records of Peter Relyea</unittitle><unitdate datechar="creation">1839-1849</unitdate><container id="aspace_a68355c277a7461602550af74fe093ff" label="Mixed Materials" type="Box">1</container><container id="aspace_bda4fa875088fad49c181000d678d06a" parent="aspace_a68355c277a7461602550af74fe093ff" type="Folder">5</container></did></c><c id="aspace_ref16_rme" level="file"><did><unittitle>Mortgages, Deeds, Bonds</unittitle><unitdate datechar="creation">1868-1869</unitdate><container id="aspace_be166c4e3615970dfeeaac99fe44e93c" label="Mixed Materials" type="Box">1</container><container id="aspace_8ab903e214e58281160f0f56ac614e0a" parent="aspace_be166c4e3615970dfeeaac99fe44e93c" type="Folder">6</container></did></c><c id="aspace_ref17_34d" level="file"><did><unittitle>Receipts/Billings</unittitle><unitdate datechar="creation">1843-1894</unitdate><container id="aspace_50a0e3d12f8f3d5085f699b294f83dec" label="Mixed Materials" type="Box">1</container><container id="aspace_469ae84566ed1b14d3a83f5a736e7dd3" parent="aspace_50a0e3d12f8f3d5085f699b294f83dec" type="Folder">7</container></did></c><c id="aspace_ref18_kef" level="file"><did><unittitle>Relyea Family Genealogy</unittitle><unitdate datechar="creation">[1851-1938]</unitdate><container id="aspace_d979f2f3f647985ecd3e8dbf26b9783b" label="Mixed Materials" type="Box">1</container><container id="aspace_29aad7f689223492d02d838553ccad36" parent="aspace_d979f2f3f647985ecd3e8dbf26b9783b" type="Folder">8</container></did></c><c id="aspace_ref19_ib0" level="file"><did><unittitle>Rosevelt Family Genealogy</unittitle><unitdate datechar="creation">[1869-1898]</unitdate><container id="aspace_c8cd0bf47357e84181fc2abe0cc71e4d" label="Mixed Materials" type="Box">1</container><container id="aspace_888dea77273a6ee4105f3eae957c90e1" parent="aspace_c8cd0bf47357e84181fc2abe0cc71e4d" type="Folder">9</container></did></c><c id="aspace_ref20_7zw" level="file"><did><unittitle>Rosevelt Papers (Contract Between W. Rosevelt &amp; J. Westbrook)</unittitle><unitdate datechar="creation">1894</unitdate><container id="aspace_12881c3d86c1019d893e1a29e2c1f411" label="Mixed Materials" type="Box">1</container><container id="aspace_d0e98b211f2740e03b85e43925793b17" parent="aspace_12881c3d86c1019d893e1a29e2c1f411" type="Folder">10</container></did></c><c id="aspace_ref21_9e8" level="file"><did><unittitle>Rosevelt Papers (Envelopes, Construction Contracts, Letters)</unittitle><unitdate datechar="creation">1901-1902</unitdate><container id="aspace_98a3eda5e4c62806c49e27fe4008cfef" label="Mixed Materials" type="Box">1</container><container id="aspace_e2d77232af8d5c1c32dc2eedb21ac9b6" parent="aspace_98a3eda5e4c62806c49e27fe4008cfef" type="Folder">11</container></did></c></dsc>
+</archdesc>
+</ead>

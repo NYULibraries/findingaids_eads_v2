@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1981_004_67th_ny_infantry_regiment/">v1981_004_67th_ny_infantry_regiment</eadid><filedesc><titlestmt><titleproper>Guide to the 67th New York Infantry Regiment portrait album <num>V1981.004</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:33 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>67th New York Infantry Regiment portrait album</unittitle>
+    <unitid>V1981.004</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in one album</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1850/1890" type="inclusive">circa 1860 to 1880</unitdate>
+    <abstract id="aspace_97e34b71f243a88587c702a6ca8a0ccf" label="Abstract">The album consists of cartes-de-visite and tintypes showing officers of the 67th New York Infantry Regiment as well as other Union Army officers during the Civil War era. Individuals are identified in the album, and a name index is enclosed.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_6342ef5ba6dcfa30b522e8fe9740aff6" label="Graphic Materials" type="item">Album (V1981.004)</container>
+  </did>
+  <bioghist id="aspace_644ea7437aa33e25d2624e2e33d63dee">
+    <head>Historical note</head>
+<p>The 67th New York Infantry Regiment, also known as the First Long Island Regiment and Beecher's Regiment, was active during the Civil War. The regiment was largely composed of Brooklyn residents.</p>  </bioghist>
+  <scopecontent id="aspace_0e6e5b4806ca648dadddfec4fc40cee0">
+    <head>Scope and Contents</head>
+<p>The 67th New York Infantry Regiment portrait album dates from circa 1862 to 1865 and contains 80 items. The album consists of cartes-de-visite and tintypes showing officers of the 67th New York Infantry Regiment as well as other Union Army officers during the Civil War era. Individuals are identified in the album, and a name index is enclosed.</p>  </scopecontent>
+  <accessrestrict id="aspace_89b3f76889ab1e362b40ca444f3d0927">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_216be32608eff1dcd07a2ad31c8274c4">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <processinfo id="aspace_d51a983f436e5ba2eaf183fdba7d0f45">
+    <head>Processing Information</head>
+<p>Fully processed to the item level. Album rehoused by John Zarrillo in August 2016.</p>  </processinfo>
+  <prefercite id="aspace_24e6f5e05206085e2ebc165ae6032f48">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); 67th New York Infantry Regiment portrait album, V1981.004, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_8cf30617c7b17f49f1cdc9d49fccab80">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Frederic Bowen Lincoln, 1931.</p>  </acqinfo>
+  <userestrict id="aspace_321d689db46270f789d2cf09a3471220">
+    <head>Conditions Governing Use</head>
+<p>All items in this collection have entered the public domain. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <relatedmaterial id="aspace_347442a4fbc9f2055a4950243212102a">
+    <head>Related Materials</head>
+<p>Additional Civil War-related portraits are available in the Civil War veterans portrait albums, ARC.214.</p>  </relatedmaterial>
+  <relatedmaterial id="aspace_f403b816c43d4ac66f06acf19aa32645">
+    <head>Related Materials</head>
+<p>The Nelson Cross papers, 1977.234, contain documents from the 67th New York Infantry Regiment.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Veterans -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">New York (State) |x History |y Civil War, 1861-1865 |x Regimental histories</geogname>
+    <genreform source="aat">Photograph albums</genreform>
+    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+    <genreform source="aat">Portraits</genreform>
+    <genreform source="aat">Tintypes (prints)</genreform>
+    <genreform source="aat">Cartes-de-visite (card photographs)</genreform>
+    <corpname rules="dacs" source="local">United States. Army. New York Infantry Regiment, 67th (1861-1864)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

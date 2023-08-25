@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_167_john_r_couwenhoven/">arms_1973_167_john_r_couwenhoven</eadid><filedesc><titlestmt><titleproper>Guide to the John R. Couwenhoven papers <num>1973.167</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.  </sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 14, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:06 +0000</date>.</creation><langusage>Engilsh</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John R. Couwenhoven papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Couwenhoven, John R.</persname>
+    </origination>
+    <unitid>1973.167</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1783/1812" type="inclusive">1783-1812</unitdate>
+    <abstract id="aspace_76884d9df3bb95f69bb084a1047c1501">The John R. Couwenhoven papers span the period 1783 to 1812 and consist of a single bound account book and several loose handwritten documents.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_320602c43d22703295722bc97452a216" label="Text" type="Box">A0003</container>
+  </did>
+  <acqinfo id="aspace_3994805b7abbab9f624cfa60ab0826a3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of William R. Vanderveer, date unknown.</p>  </acqinfo>
+  <prefercite id="aspace_ee949676f1676c6d15c0dd0fab8fc48d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John R. Couwenhoven papers, 1973.167, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_9a768bd2bea89631817e4146ccb2d0de">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_b349a9caffa7ffa121afe005842c3c7f">
+    <head>Scope and Contents</head>
+<p>The John R. Couwenhoven papers span the period 1783 to 1812 and consist of a single bound account book and several loose handwritten documents. The account book lists monetary transactions for goods and services dated 1783 to 1789, and account for the sale of Couwenhoven's estate, including five enslaved African-Americans, during the period 1798 to 1812. The loose papers are dated 1797 to 1812 and record further transactions related to the sale of Couwenhoven's estate.</p>  </scopecontent>
+  <bioghist id="aspace_1650047295e8e0781cb86171b1ff360d">
+    <head>Biographical note</head>
+<p>John R. Couwenhoven was a resident of Brooklyn and a member of Brooklyn's prominent Couwenhoven family (alternate spellings include Cowenhoven and Kouwenhoven), whose common ancestor, Wolphert Gerritson Van Kouwenhoven, emigrated from the Netherlands to the town of New Utrecht in the Dutch colony of New Netherland (later New York) in the 17th century.</p>  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Estate records</genreform>
+    <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Account books</genreform>
+    <famname rules="dacs" source="local">Cowenhoven family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

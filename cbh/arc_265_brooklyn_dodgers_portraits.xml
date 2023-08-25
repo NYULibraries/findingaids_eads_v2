@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_265_brooklyn_dodgers_portraits/">arc_265_brooklyn_dodgers_portraits</eadid><filedesc><titlestmt><titleproper>Guide to the Collection of Brooklyn Dodgers photographic portraits <num>ARC.265</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 19, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:04 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Collection of Brooklyn Dodgers photographic portraits</unittitle>
+    <unitid>ARC.265</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">39 items housed in two folders.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1930/1967" type="inclusive">circa 1940 to 1957</unitdate>
+    <abstract id="aspace_e9489e31fef33a733dafb8415ec78416" label="Abstract">The Collection of Brooklyn Dodgers photographic portraits contains 39 halftone reproductions of Brooklyn Dodgers publicity photographs dating from circa 1940 to 1957.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_f303534cf0151f7b215a86056c44f2f4" label="Graphic Materials" type="Box">Prints by Accession 56</container>
+  </did>
+  <relatedmaterial id="aspace_a8c2926600cb356a87ba36bb8d7afb00">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society holds additional manuscript and photograph collections related to the Brooklyn Dodgers. Please consult with library staff for more information.</p>  </relatedmaterial>
+  <processinfo id="aspace_a557fdc80962943dc313eaac7c386692">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p><p>This collection combines the accessions V1990.060 and V1991.092.</p>  </processinfo>
+  <prefercite id="aspace_a668933f35d4ac66ba5e2943acd91552">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Collection of Brooklyn Dodgers photographic portraits, ARC.265, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <otherfindaid id="aspace_05902b83e5cdefe6e315b6d5196e55c7">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <scopecontent id="aspace_fa1d228b56c76cfc02ccd7521e0e564f">
+    <head>Scope and Contents</head>
+<p>The Collection of Brooklyn Dodgers photographic portraits contains 39 halftone reproductions of Brooklyn Dodgers publicity photographs dating from circa 1940 to 1957. The collection consists of portraits of team members of the Brooklyn Dodgers. Each portrait is autographed.</p>  </scopecontent>
+  <bioghist id="aspace_0f1a0c63eacdca5be49dc02ff4acf73a">
+    <head>Historical note</head>
+<p>The Brooklyn Dodgers were a baseball team based in Brooklyn and founded in 1883. Between 1883 and 1931, the team that would become the Brooklyn Dodgers went through numerous monikers including the Bridegrooms, the Superbas, the Robins, and the Trolley Dodgers--purportedly coined for Brooklynites' ability to dodge the dangerous streetcars in Brooklyn. In 1913, the team moved to a new home field, Ebbets Field, and the next year hired Manager Wilbert Robinson (hence the name the Brooklyn Robins) who would become the winningest manager in the teams' history. After 18 years at the helm, Robinson retired as manager in 1931. The following year, in 1932, the team officially became the Brooklyn Dodgers and remained so until the end of 1957 season, when the team was moved to Los Angeles.</p>  </bioghist>
+  <accessrestrict id="aspace_8758baaf3498f9c24dcd043955cad7f9">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_8b74f0a8ba1cbbe9122cf1cbb5a3dde1">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_43aa76efc40cdb92e560233ae14b15f1">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1990 and 1991.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <subject source="lcsh">Baseball players |z United States</subject>
+    <subject source="lcsh">Baseball teams |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Portraits</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <corpname rules="aacr" source="naf">Brooklyn Dodgers (Baseball team)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

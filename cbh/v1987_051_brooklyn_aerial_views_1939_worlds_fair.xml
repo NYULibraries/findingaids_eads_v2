@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1987_051_brooklyn_aerial_views_1939_worlds_fair/">v1987_051_brooklyn_aerial_views_1939_worlds_fair</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn aerial views and 1939 World's Fair photographs <num>V1987.051</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:39 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn aerial views and 1939 World's Fair photographs</unittitle>
+    <unitid>V1987.051</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.4 Linear Feet</extent>
+      <extent altrender="carrier">in one folder and one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1939/1990" type="inclusive">1939 to circa 1980</unitdate>
+    <abstract id="aspace_8c85e1cbbebc2a57dc2df6b3b3bdf5f5" label="Abstract">Images in the collection show the 1939 World's Fair, based in the Flushing neighborhood of Queens, with photographs of theatrical productions, corporate exhibition buildings, and the fair grounds.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_57f33ce1770434e1b32952bbdbe473d3" label="Graphic Materials" type="Box">Prints by Accession 54</container>
+    <container id="aspace_c2abebb72d3b9eb3f5e4f32e7e1177ec" label="Graphic Materials" type="Oversize">Oversize Photos 10</container>
+  </did>
+  <relatedmaterial id="aspace_1c961b0691f87755f1d6274dff6cab7f">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society also holds the following related collections:</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>New York World's Fair collection, ARC.077; and</item>
+      <item>Williamsburgh Savings Bank building, 1 Hanson Place collection, ARC.116.</item>
+    </list>
+<p>Consult with library staff for more information.</p>  </relatedmaterial>
+  <scopecontent id="aspace_282e4dc517fc4b37730fa2989fada34e">
+    <head>Scope and Contents</head>
+<p>The Brooklyn aerial views and 1939 World's Fair photographs date from 1939 to circa 1980 and contain 25 items. Photographic formats include black-and-white prints and contact sheets. Images in the collection show the 1939 World's Fair, based in the Flushing neighborhood of Queens, with photographs of theatrical productions, corporate exhibition buildings, and the fair grounds. The collection also includes aerial photographs of Downtown Brooklyn and the Fort Greene neighborhood of Brooklyn, taken from the Williamsburgh Savings Bank building in Fort Greene.</p>  </scopecontent>
+  <userestrict id="aspace_f38641cf3bf8aae62e35c229c1d7e712">
+    <head>Conditions Governing Use</head>
+<p>Based on the date range of this collection, all items in the collection will enter the public domain by 2100. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <accessrestrict id="aspace_35ddbb709ec8b7950963122e22ed7c49">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_b89b1ea8ff5028d9a13b3f6b6c8f2eab">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <prefercite id="aspace_ebb7167a93ae5309127a4dea22bed597">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn aerial views and 1939 World's Fair photographs, V1987.051, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_386d5eb7e7183a8bd1f0c79d511340b7">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown.</p>  </acqinfo>
+  <processinfo id="aspace_8133c6f1ade28cefabc50487c21c9131">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Aerial photographs</subject>
+    <subject source="lcsh">Theater |z New York (State) |z New York</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Fairs |z New York (State) |z New York |x Design and construction</subject>
+    <subject source="lcsh">New York (N.Y.) |x Social life and customs |y 20th century</subject>
+    <subject source="lcsh">Corporations, American |x Exhibitions</subject>
+    <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Queens (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Contact sheets</genreform>
+    <corpname rules="aacr" source="naf">New York World's Fair (1939-1940 : New York, N.Y.)</corpname>
+    <corpname source="naf">Williamsburgh Savings Bank Building (Brooklyn, New York, N.Y. : Hanson Place)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

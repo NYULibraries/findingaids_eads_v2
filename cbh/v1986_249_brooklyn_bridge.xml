@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1986_249_brooklyn_bridge/">v1986_249_brooklyn_bridge</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Bridge photographs <num>V1986.249</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 15, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:15 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn Bridge photographs</unittitle>
+    <unitid>V1986.249</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">seven items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1880/1940" type="inclusive">circa 1890 to 1930</unitdate>
+    <abstract id="aspace_3d6097e385713cbe539f0d594f14766e" label="Abstract">The Brooklyn Bridge photographs are comprised of seven items dating from circa 1890 to 1930 and include two stereographs, four photographic prints, and one cabinet card of various views of the Brooklyn Bridge.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_953d295011708a3477fbacd9753d51cc" label="Graphic Materials" type="Box">Prints by Accession 51</container>
+  </did>
+  <scopecontent id="aspace_f7961a4abf9044de1f4f7a57e0534cae">
+    <head>Scope and Contents</head>
+<p>The Brooklyn Bridge photographs are comprised of seven items dating from circa 1890 to 1930 and include two stereographs, four photographic prints, and one cabinet card of various views of the Brooklyn Bridge. All of the images are black-and-white and several of the prints are mounted. The photographers are unknown except for the cabinet card which was produced by Newsboy.</p>  </scopecontent>
+  <bioghist id="aspace_43d5de617f341cfe8901f532cc29e129">
+    <head>Historical note</head>
+<p>The Brooklyn Bridge is a steel suspension bridge that spans the East River connecting the boroughs of Manhattan and Brooklyn in New York City. Completed in 1883, the bridge was called both the East River Bridge and the New York and Brooklyn Bridge until 1915 when the name was officially changed to the Brooklyn Bridge. The bridge was designated a National Historic Landmark in 1964 and was further designated a National Historic Civil Engineering Landmark in 1972. The original designer of the bridge was John Augustus Roebling (1806-1869), a German engineer who immigrated to the United States in 1831. Roebling invented the wire cable which he would eventually incorporate into the design of the Brooklyn Bridge. Roebling's son, Washington Augustus Roebling (1837-1926), also an engineer, took over as chief engineer of construction following the sudden death of his father in 1869. In 1872, Washington Roebling fell ill with decompression sickness, acquired during the construction of the bridge, and never fully recovered. His wife, Emily Warren Roebling (1843-1903), was instrumental in seeing through the construction and completion of the bridge.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Fletcher, Ellen. "Washington Augustus Roebling." In <emph render="italic">The Encyclopedia of New York City</emph>, edited by Kenneth T. Jackson, 1017. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 1995.</item>
+      <item>Fletcher, Ellen. "John Augustus Roebling." In <emph render="italic">The Encyclopedia of New York City</emph>, edited by Kenneth T. Jackson, 1017. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 1995.</item>
+    </list>
+  </bioghist>
+  <accessrestrict id="aspace_fff30d2a334d26a64d3cf1088e874a39">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_d5cc4cc406f5f6a144c1e08614d3f2f7">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_867aa16450db1e51de14f4e3d6fa1bd7">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1986.</p>  </acqinfo>
+  <relatedmaterial id="aspace_f1118b2462823fcd8f77dbc6d05debe4">
+    <head>Related Materials</head>
+<p>Brooklyn Historical Society holds numerous collections relating to the Brooklyn Bridge. Please consult library staff for more information.</p>  </relatedmaterial>
+  <processinfo id="aspace_e3f1f9ce19b6e2af8cf2b30a8695cb70">
+    <head>Processing Information note</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <prefercite id="aspace_e2a99c16b762d160afe5f178eba5c756">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn Bridge photographs, V1986.249, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <otherfindaid id="aspace_b4534010e77263e447bc56c829e254f1">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <controlaccess>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Cabinet photographs</genreform>
+    <genreform source="aat">Stereographs</genreform>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.) |v Pictorial works</geogname>
+    <genreform source="aat">Photographs</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_035_lyon/">arms_1977_035_lyon</eadid><filedesc><titlestmt><titleproper>Guide to the William H. Lyons and Company records <num>1977.035</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:23 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>William H. Lyons and Company records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">William H. Lyons and Company (New York, N.Y.)</corpname>
+    </origination>
+    <unitid>1977.035</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1842/1873" type="inclusive">1842-1873</unitdate>
+    <abstract id="aspace_d0949690da10ada307d73b3add085895">This collection contains various records of William H. Lyons and Company spanning the period 1842 to 1873.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_901349d601e69c1a0e10c0b32bbf17fd" label="Text" type="Box">A0029</container>
+  </did>
+  <bioghist id="aspace_66b6beefbaa6aab0416672b3f0747865">
+    <head>Historical Note</head>
+<p>William H. Lyons and Company was a fine goods importing company in New York City, founded in 1845 by Brooklyn resident William H. Lyons.  Partners in the company at various times included William H. Lyons, Warren H. Lyons, Robert Shaw, Morris Soher, Abner S. Haight, James H. Mallory, and Joseph Soher.</p>  </bioghist>
+  <processinfo id="aspace_7173dfc9aeccdddb127c319ba779c6b8">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_c0da5e6fc859ded5efb4c10b3c0c558c">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); William H. Lyons and Company records, 1977.035, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_89722f77f31578839252c12368ad9a48">
+    <head>Scope and Contents</head>
+<p>This collection contains various records of William H. Lyons and Company spanning the period 1842 to 1873.  Items include articles of partnership, a letter between Robert Shaw and William H. Lyons, and a grocery account of Robert Shaw with Thomas P. Cook.</p>  </scopecontent>
+  <accessrestrict id="aspace_c1a6a9c1eda7adeeb0c8e444db71634a">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ee216e49b78253d01236e2d2748963b6">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Edgerton G. North, 1957.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Business records</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Merchants |z New York (State) |z New York</subject>
+    <genreform source="aat">Lists (document genres)</genreform>
+    <genreform source="aat">Articles</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

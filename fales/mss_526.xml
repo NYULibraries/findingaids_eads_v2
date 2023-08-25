@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_526/">mss_526</eadid><filedesc><titlestmt><titleproper>Guide to Michael Colby Collection on the Algonquin Hotel <num>MSS.526</num></titleproper><author>Stacey Flatt.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>June 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:01:52 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2019</date><item>Updated to include materials integrated from accession number 2019.001 by Stacey Flatt.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Michael Colby Collection on the Algonquin Hotel</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Colby, Michael</persname>
+    </origination>
+    <unitid>MSS.526</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.75 Linear Feet</extent>
+      <extent altrender="carrier">in 4 manuscript boxes, 1 half manuscript box, 1 flat box folder, 1 oversize box, 1 oversize folder</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 videodiscs (dvd)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">10 sound discs (cd)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 electronic discs (cd-rom)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1949/2016" type="inclusive">1949-2016</unitdate>
+    <abstract id="aspace_5bfcd6471af9ca2cf7e0c19d4c6258f7">Michael Colby's grandparents, Ben and Mary Bodne, owned the Algonquin Hotel from 1946 to 1987, and Colby's book <emph render="italic"> The Algonquin Kid: Adventures Growing Up at New York's Legendary Hotel</emph> chronicled his childhood and early adulthood while living in the hotel with his grandparents. This collection represents Colby's family connection to the Algonquin Hotel through clippings, photographs, publicity material, letters, autographed books, and objects. Recordings and letters related to Michael Colby's work as a librettist, lyricist, and writer in New York can also be found in this collection.</abstract>
+    <physloc id="aspace_a410b8e12a90e6fb51e8316b3b5a0766">Some materials in this collection are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_7430ea0573487b8f366988acf3e40ce3">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_2d45f5b5941fc81bedcfed4889e0064e">
+    <head>Scope and Contents</head>
+<p>This collection contains clippings, brochures, newsletters, photographs, autographed books, sound recordings, and objects collected by Michael Colby related to his family and their connection to the Algonquin Hotel in New York City, which was owned by his grandparents Ben and Mary Bodne from 1946 to 1987. </p><p>Of note are Algonquin Hotel newsletters, clippings, and brochures accumulated by Colby and from the family of Andrew Anspach, former hotel manager and husband to one of the Bodne's daughters. Photographs of Bodne and Colby family members with celebrity visitors to the hotel include Richard Nixon, Ella Fitzgerald, Rock Hudson, and Joe DiMaggio. Family artifacts related to the hotel include a hotel napkin with sketches and messages for Mary Bodne's 1978 birthday as well as autographed books from various well-known hotel guests including Eudora Welty, Senator Ernest F. Hollings, Mario Puzo, and Helen Thurber. The collection also includes a 1951 book on the history of the Algonquin Round Table in which the hotel is heavily featured. Letters to and from well-known hotel guests include E. B. White and Douglas Fairbanks, Jr. The collection also includes personal Bodne and Colby family photographs from vacations and events. Obituaries, condolence letters, a Congressional Record Tribute, and a sound recording of a 2000 memorial tribute to Ben and Mary Bodne in the Algonquin's Oak Room can also be found in this collection. </p><p>Also included are CDs and DVDs of Michael Colby's musical and writing endeavors, specifically an audio recording of his book on his childhood in the Algonquin Hotel, <emph render="italic"> The Algonquin Kid - Adventures Growing Up at New York's Legendary Hotel</emph>.</p>  </scopecontent>
+  <arrangement id="aspace_30c3710a087306bd54b9774d5afd6b17">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_f0b35b0a1de677c0ff7c139869fbef40">
+    <head>Biographical Note</head>
+<p>Librettist, lyricist, and writer Michael Colby (1951- ) has written musicals including <emph render="italic">Charlotte Sweet,</emph> <emph render="italic">Tales of Tinseltown,</emph> <emph render="italic">North Atlantic,</emph> <emph render="italic">Slay it with Music,</emph> and <emph render="italic">Ludlow Ladd</emph>. Colby's grandparents, Ben and Mary Bodne, purchased the Algonquin Hotel in 1946. Colby's book <emph render="italic"> The Algonquin Kid: Adventures Growing Up at New York's Legendary Hotel </emph> chronicles his childhood and early adulthood living in the hotel with his grandparents. They eventually sold the hotel in 1987.</p>  </bioghist>
+  <accessrestrict id="aspace_e1194ba334fcefe089c48e7b47f2daee">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_b86dac1a0b60b12a9968758c796d7a4c">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Michael Colby in June and October of 2018; the accession numbers associated with this gift are 2018.069 and 2019.001.</p>  </acqinfo>
+  <userestrict id="aspace_f2f42c936e6bf7946e9da9470a2fa700">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Repository is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <prefercite id="aspace_8b812a48e4f104d9aaa5d643385b9dd6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Michael Colby Collection on the Algonquin Hotel; MSS 526; box number; folder number; Fales Library &amp; Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_e1e4ea10da0af5eb07596b8e7be1a5f7">
+    <head>Processing Information</head>
+<p>Material was removed from plastic accordian-style file pockets and placed in new acid-free folders and boxes. Labels used on the accordian pockets were transcribed into file folder titles. Material was described to the collection level.</p><p>
+Materials from the 2019 accretion were placed in an acid-free folder and box. A file description for the folder was added at the end of the inventory listing and information was updated throughout the finding aid to reflect the accretion.</p>  </processinfo>
+  <phystech id="aspace_7d0bb3372e96b94a1a4950344485c706">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>The scrapbook in this collection is presently too brittle to handle and not available to researchers. Please contact fales.library@nyu.edu with any questions.</p>  </phystech>
+  <phystech id="aspace_cedc45ef0c465db32efbfc06de5a5db6">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.eduwith the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Brochures.</genreform>
+    <subject source="lcsh">Historic hotels.</subject>
+    <subject source="lcsh">Musical theater -- New York (State) -- New York</subject>
+    <corpname authfilenumber="(lccn)no2001066585" source="naf">Algonquin Hotel (New York, N.Y.)</corpname>
+    <persname rules="dacs" source="local">Bodne, Mary</persname>
+    <persname rules="dacs" source="local">Bodne, Ben</persname>
+  </controlaccess>
+  <dsc><c id="aspace_340608b2a4b2436c5090bd126fb03e93" level="file"><did><unittitle>Photographs, Clippings, Correspondence, Newsletters</unittitle><unitdate datechar="creation" normal="1949/2015" type="inclusive">1949-2015</unitdate><container altrender="Manuscript box - Legal" id="aspace_2102bd12259b8ce364cfddcea887292d" label="Mixed Materials [31142063592813]" type="Box">1</container><container id="aspace_d5585a9f3cb0a1e25af5f9af77749c91" parent="aspace_2102bd12259b8ce364cfddcea887292d" type="Folder">1-11</container><container altrender="Manuscript box - Legal" id="aspace_b3359301f4ce034adee7daf470adbc76" label="Mixed Materials [31142063592821]" type="Box">2</container><container id="aspace_460fa5ec64d6b93a64ccc8e269ad8197" parent="aspace_b3359301f4ce034adee7daf470adbc76" type="Folder">1-9</container></did></c><c id="aspace_f09eb9f1b24830ee598f8cd5cc975a3e" level="file"><did><unittitle>Clippings, Correspondence, Photographs, CDs, DVDs</unittitle><unitdate datechar="creation" normal="1977/2016" type="inclusive">1977-2016</unitdate><container altrender="Manuscript box - Legal" id="aspace_2049174387c221a91cd25f4e3e64a3f3" label="Mixed Materials [31142063592839]" type="Box">3</container><container id="aspace_a22f509135fe4c570aa07a08d0db8432" parent="aspace_2049174387c221a91cd25f4e3e64a3f3" type="Folder">1-5</container></did></c><c id="aspace_28c5924289dc9682b6fb66932b2f7f98" level="file"><did><unittitle>Books</unittitle><unitdate datechar="creation" normal="1951/1981" type="inclusive">1951, 1970-1981</unitdate><container altrender="Manuscript box - Letter" id="aspace_f09e0006af8a09e041d19adbe22668fb" label="Mixed Materials [31142063592847]" type="Box">4</container></did></c><c id="aspace_668bd319e631baae00379352f2128556" level="file"><did><unittitle>Scrapbook</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Flat OS Box 17" id="aspace_fae9d455b02d28a15cf5f7a52d7319ba" label="Mixed Materials [31142063594835]" type="Box">5</container></did><phystech id="aspace_c49d4cded7f1c32f7bb0276d9440c423"><head>Physical Characteristics and Technical Requirements</head><p>Researchers should handle this object with extreme care due to its brittle nature.</p></phystech></c><c id="aspace_2e73fa6ba05bf5c1eff71be7f522f39b" level="file"><did><unittitle>Photograph, Napkin, Clipping, Congressional Record Tribute</unittitle><unitdate datechar="creation" normal="1978/1992" type="inclusive">1978-1992</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_53480af73d6ffe458fa3addcd23e773f" label="Mixed Materials [31142054873529]" type="Box">Shared Fales 002 </container><container id="aspace_541f4d90dd4695c8f23a781ee29ed283" parent="aspace_53480af73d6ffe458fa3addcd23e773f" type="Folder">21</container></did></c><c id="aspace_d45824f5ffa1677f0254573d89484e30" level="file"><did><unittitle>Photograph of Bodne Company</unittitle><unitdate datechar="creation" normal="1900/1950" type="inclusive">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_35bd7b95f7c7bb73a0031c38af2ece7a" label="Mixed Materials [31142063412160]" type="Box">Shared Fales 004</container><container id="aspace_bbf81dd3bb7023e7d7bc96af7d87c45b" parent="aspace_35bd7b95f7c7bb73a0031c38af2ece7a" type="Folder">5</container></did></c><c id="aspace_7e9eafb95b8e245a2fbae43bc7d75802" level="file"><did><unittitle>Douglas Fairbanks, Jr. Conversation Notes and Hotel Christmas Cards</unittitle><unitdate datechar="creation" normal="1982/1985" type="inclusive">1982-1985, undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_08ba9c5c1eb9a67820489b29089c86df" label="Mixed Materials [31142063342730]" type="Box">6</container><container id="aspace_31a4d2dd4d6e384bc3712ba14f86ff75" parent="aspace_08ba9c5c1eb9a67820489b29089c86df" type="Folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

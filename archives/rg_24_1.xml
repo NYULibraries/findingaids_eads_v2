@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/rg_24_1/">rg_24_1</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the College of Engineering, Research Division <num>RG.24.1</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>August 2022</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:50:21 -0400</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of the College of Engineering, Research Division</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no93002872" rules="dacs" source="naf">New York University. College of Engineering</corpname>
+    </origination>
+    <unitid>RG.24.1</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 linear feet</extent>
+      <extent altrender="carrier">in 3 manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1936/1964" type="inclusive">1936-1964</unitdate>
+    <abstract id="aspace_85fa0d193c259f3408d6ca31bfa11a4e">The New York University School of Engineering was founded in 1854 as the School of Civil Engineering and Architecture. In 1973, the School merged with the Polytechnic Institute of Brooklyn. The Records of the College of Engineering, Research Division (dated 1936-1964) documents the College's research output, and includes project reports, as well as policy and procedure documents.</abstract>
+    <physloc id="aspace_bb7b25f5fcab462faea8fbf1c60102ae">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_ad5b4dd6ca19ba07ffe40ea3103d99f7">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_e9f585befdc8519711586e5eea2ed5f7">
+    <head>Scope and Contents</head>
+<p>The Records of the College of Engineering, Research Division (dated 1936-1964) documents the College's research output, and includes project reports, as well as policy and procedure documents.</p>  </scopecontent>
+  <bioghist id="aspace_202356f98bc2509d329d4097ffce36d8">
+    <head>Historical Note</head>
+<p>The New York University School of Engineering was founded in 1854 as the School of Civil Engineering and Architecture. In 1973, the School merged with the Polytechnic Institute of Brooklyn.</p>  </bioghist>
+  <arrangement id="aspace_03427baaeac37acfc74b7e5d011984ca">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. Original order is unknown.</p>  </arrangement>
+  <accessrestrict id="aspace_cbaeec1000c3f552318561deef350306">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_44803a1c8ac8b0a8c01d0cdb77405b7f">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact New York University Archives, special.collections@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <acqinfo id="aspace_98dc9fe70a2341099ad683b4eb72050e">
+    <head>Immediate Source of Acquisition</head>
+<p>These materials were removed from the New York University Archives Collection of Publications and Ephemera (MC 334) during processing; their original provenance is unknown.</p>  </acqinfo>
+  <prefercite id="aspace_b1a91b1e656d974e42ec0deea8c111e0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Records of the College of Engineering, Research Division; RG 24.1; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_ee934529dae07739ae4f8127773c894e">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival boxes and folders, and described on the collection-level with a folder-level inventory.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Engineering -- Study and teaching</subject>
+    <subject source="lcsh">Engineering</subject>
+    <subject source="lcsh">Engineering -- History</subject>
+  </controlaccess>
+  <dsc><c id="aspace_06de684680dd36f4a97f7fb7bba4760f" level="file"><did><unittitle>Promotional Brochures</unittitle><unitdate datechar="creation" normal="1956/1958" type="inclusive">1956-1958</unitdate><container altrender="Manuscript box - Letter" id="aspace_8a48e3d7bc68d3ed64c4490524673581" label="Mixed Materials [31142062844645]" type="Box">1</container><container id="aspace_e7f061e87f788e3acf69c9e6c5ee5b92" parent="aspace_8a48e3d7bc68d3ed64c4490524673581" type="Folder">1</container></did></c><c id="aspace_8f844d92bb9d5934a6d7b15234a1e582" level="file"><did><unittitle>"Notes on Elementary Fluid Machines" (John King Vennard)</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container altrender="Manuscript box - Letter" id="aspace_91352e78d0603e92147a7e2bcd458396" label="Mixed Materials [31142062844645]" type="Box">1</container><container id="aspace_8d12a92dffacd5d97447ec52b0b10463" parent="aspace_91352e78d0603e92147a7e2bcd458396" type="Folder">2</container></did></c><c id="aspace_73c9246be25ecf3f9e21ff0f715152a4" level="file"><did><unittitle>"Advanced Strength of Materials" (Ferdinand L. Singer)</unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container altrender="Manuscript box - Letter" id="aspace_01ff4b7599b71ba1d21a09c3fa1dc635" label="Mixed Materials [31142062844645]" type="Box">1</container><container id="aspace_4a881553eb6afd11ede8d41e00759357" parent="aspace_01ff4b7599b71ba1d21a09c3fa1dc635" type="Folder">3</container></did></c><c id="aspace_af9c18699d469c981ffec61019459abe" level="file"><did><unittitle>Wind Turbines Report</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container altrender="Manuscript box - Letter" id="aspace_af2a3a83718b5dbd3490c909bcf95e73" label="Mixed Materials [31142062844645]" type="Box">1</container><container id="aspace_9c0ccb0db4703103170af5fa404b36d7" parent="aspace_af2a3a83718b5dbd3490c909bcf95e73" type="Folder">4</container></did></c><c id="aspace_4ae66b6dd58af84404e41d47ab4e0f91" level="file"><did><unittitle>Multiple Reports</unittitle><unitdate datechar="creation" normal="1936/1964" type="inclusive">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_4a5eb44e9c5efcb9ed57b5b1f8bc8bdd" label="Mixed Materials [31142062844645]" type="Box">1</container><container id="aspace_3488e8c0ac68c9258106fa9b585db041" parent="aspace_4a5eb44e9c5efcb9ed57b5b1f8bc8bdd" type="Folder">5</container></did></c><c id="aspace_dcd447951e05fff2efe964666d09f2ba" level="file"><did><unittitle>Cosmic Ray Group Reports</unittitle><unitdate datechar="creation" normal="1955/1964" type="inclusive">1955-1964</unitdate><container altrender="Manuscript box - Letter" id="aspace_39f93dc3479ea9266658afb2e2c5cd5b" label="Mixed Materials [31142062844645]" type="Box">1</container><container id="aspace_e9af4656fe6e578538dd0c23fbb7edaf" parent="aspace_39f93dc3479ea9266658afb2e2c5cd5b" type="Folder">6</container><container altrender="Manuscript box - Letter" id="aspace_8dadc33d5101137be734518c55ee42c5" label="Mixed Materials [31142062844652]" type="Box">2</container><container id="aspace_ab94dff116f643c74e390f3040d1c630" parent="aspace_8dadc33d5101137be734518c55ee42c5" type="Folder">1-6</container><container altrender="Manuscript box - Letter" id="aspace_2697ae176b4116fc74c48d57634103b8" label="Mixed Materials [31142062844660]" type="Box">3</container><container id="aspace_c68b85160242f74cb73bd1411b717397" parent="aspace_2697ae176b4116fc74c48d57634103b8" type="Folder">1-3</container></did></c><c id="aspace_02eeb42b8adf7eadf6d772051048b5fc" level="file"><did><unittitle>Geiger Counter Project</unittitle><unitdate datechar="creation" normal="1953/1958" type="inclusive">1953-1958</unitdate><container altrender="Manuscript box - Letter" id="aspace_a81c85eea22576e81308e3ea0c07eb13" label="Mixed Materials [31142062844660]" type="Box">3</container><container id="aspace_9a42c1b1e1065f253768ca256b0fef7f" parent="aspace_a81c85eea22576e81308e3ea0c07eb13" type="Folder">4-9</container></did></c><c id="aspace_8f77354aea0f7c81a32912cfbe68fc3d" level="file"><did><unittitle>Policies and Procedures Handbook</unittitle><unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate><container altrender="Manuscript box - Letter" id="aspace_e02285d40156f067167100d9c63b08e8" label="Mixed Materials [31142062844660]" type="Box">3</container><container id="aspace_1f93b3203c986e188c4ab062f47aac9c" parent="aspace_e02285d40156f067167100d9c63b08e8" type="Folder">10</container></did></c><c id="aspace_c4a0dc6c9c3424a755ea9fdb70da9805" level="file"><did><unittitle>Research Policy Guide</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container altrender="Manuscript box - Letter" id="aspace_a67ce39918f7092e8fa4e4e98b5125c0" label="Mixed Materials [31142062844660]" type="Box">3</container><container id="aspace_552674fdd750ad177f0b9a37c541b554" parent="aspace_a67ce39918f7092e8fa4e4e98b5125c0" type="Folder">11</container></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_015_barone/">arms_2016_015_barone</eadid><filedesc><titlestmt><titleproper>Guide to the Barone family photographs and papers <num>2016.015</num></titleproper><author>Katherine Palm</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:32 +0000</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Barone family photographs and papers</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Barone, Dennis</persname>
+    </origination>
+    <unitid>2016.015</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.87 Linear Feet</extent>
+      <extent altrender="carrier">in 3 manuscript boxes, one oversize box, one flat file drawer, and one garment bag</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1891/2009" type="inclusive">1891-2009</unitdate>
+    <unitdate datechar="creation" normal="1920/1960" type="bulk">1920-1960</unitdate>
+    <abstract id="aspace_a62afe5c640a8deaff661940bb8b7961">The collection contains photographs, papers, and artifacts dating from 1891 to 2009 of the Barone family, who emigrated from Italy in 1899 and eventually settled in Brooklyn, New York.  It primarily documents the personal and professional lives of Alfredo Barone (1869-1950), Melchisedech Barone (1892-1961), Rebecca Barone (d. 1984), and Alfred Dernier Barone (1922-2006).  Materials in the collection include correspondence, vital records, educational records, military records, professional records, and numerous photographs of the family.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box 3" id="aspace_f69b9eeb43f1fc8613bc64a681367a97" label="Mixed Materials" type="Oversize">OS-30</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d7888c32dc5e9d87d6408070150da619" label="Mixed Materials" type="Box">1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_5697bb7d5ffa75652d27b556dd0d31df" label="Mixed Materials" type="Box">2</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_0f62101646c56034c227614d95b95626" label="Mixed Materials" type="Box">3</container>
+    <container id="aspace_3fc464e7fb551ebd0a058164783395b1" label="Graphic Materials" type="cabinet">Flat file A - Drawer 1</container>
+    <container id="aspace_183f97912290245b1634302abf24faff" label="Realia" type="object">Textile storage hanging rack</container>
+  </did>
+  <scopecontent id="aspace_5549c9d287d359d22d9a19233cd89878">
+    <head>Scope and Contents</head>
+<p>The collection contains photographs, papers, and artifacts of the Barone family dating from 1891 to 2009 and primarily documents the personal and professional lives of Alfredo Barone (1869-1950), Melchisedech Barone (1892-1961), Rebecca Barone (d. 1984), and Alfred Dernier Barone (1922-2006).  Materials in the collection include correspondence, vital records (such as birth, baptismal, and death certificates), educational records (such as transcripts, yearbooks, and diplomas), military records (such as orders, induction, training, and discharge materials), professional records, and numerous photographs of the family.  Also included is Alfred Dernier Barone's U.S. Army uniform dating from World War II.</p>  </scopecontent>
+  <accessrestrict id="aspace_a8e31d5b5558c98881efc6fb18afcf28">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ab447769837be87d25be47cf0d666dc2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Professor Dennis Barone, 2016.</p>  </acqinfo>
+  <relatedmaterial id="aspace_06547124e8d872f41b1ec17aefbf69f0">
+    <head>Related Materials</head>
+<p>Item-level description and an image of the uniform are available for searching via the Past 
+Perfect image database.</p>  </relatedmaterial>
+  <userestrict id="aspace_964f417d5d9bf1c20fc8878dd4ddf840">
+    <head>Conditions Governing Use</head>
+<p>The copyright status of this collection has not been evaluated.  Please consult library staff for more information.</p>  </userestrict>
+  <prefercite id="aspace_a7ded9f54c6fb0fadd70b804bc6e5421">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Barone family photographs and papers, 2016.015, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_e3aec48b4901d4b0dd0c4fcbbda586cd">
+    <head>Biographical note</head>
+<p>Protestant missionary Reverend Alfredo Barone (1869-1950) and his wife, Rosina (d. 1956), emigrated from Calitri, Italy in 1899 with three of their eventual eleven children and settled in New England.  Their remaining children were born in Connecticut and Massachusetts.   In 1920, the Barones lived in Stamford, Connecticut and Alfredo served as pastor of a Baptist church.  By 1930, the family had moved and was residing in the East Flatbush neighborhood of Brooklyn at 589 E. 51 Street.  All of the children who survived infancy lived some part of their lives in Brooklyn.</p><p>One of Alfredo and Rosina's children, Melchisedech Alfred Barone (1892-1961) was a physician who attended Columbia University from 1916-1918 and earned his B.S. and medical degrees there.  His younger sister, Rebecca Rowena Barone (d. 1984), graduated from Hunter College in 1934, received a library science degree from Pratt Institute in 1941 and eventually made a career as a librarian.  In 1925, Dr. Barone lived with his wife (Anna Giulio) and their three children (Victoria, Alfred, and Myron) at 208 Prospect Avenue in the Park Slope neighborhood of Brooklyn.  </p><p>Melchisedech and Anna's oldest son, Alfred Dernier Barone (1922-2006), graduated from PS 10 in 1937, Manual Training High School in 1941 and attended New York University prior to being drafted into the U.S. Army during World War II.  While stationed in San Francisco, California, he met his eventual wife, Shirley Lawson (d. 1978).  
+He served in the 11th Airborne Division in the Philippines, Okinawa, and Japan.  Following the war, Alfred worked for Allied Bendix Aerospace.</p><p><emph render="underline">Source</emph>:</p><p>Donor correspondence, 2016</p>  </bioghist>
+  <processinfo id="aspace_618cebf6dcfdff49f334006ca5274e24">
+    <head>Processing Information</head>
+<p>Minimally processed to the series level.  Some newspaper clippings have been photocopied for preservation purposes.</p>  </processinfo>
+  <arrangement id="aspace_6366be314508d90cf0c1e3788610b54b">
+    <head>Arrangement</head>
+<p>The collection is organized into five series:</p><p>Series 1: Alfredo Barone personal papers</p><p>Series 2: Melchisedech Barone personal papers</p><p>Series 3: Rebecca Barone personal papers</p><p>Series 4: Alfred Dernier Barone personal papers</p><p>Series 5: Photographs</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">School children--New York (State)--Kings County</subject>
+    <genreform source="aat">Snapshots</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families |z New England</subject>
+    <genreform source="aat">Photographic prints</genreform>
+    <subject source="lcsh">Military uniforms</subject>
+    <genreform source="aat">Studio portraits</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Diplomas</genreform>
+    <genreform source="lcsh">School yearbooks</genreform>
+    <genreform source="aat">Military records</genreform>
+    <genreform source="aat">Death certificates</genreform>
+    <subject source="lcsh">World War, 1939-1945 |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Parachute troops</subject>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Baptismal certificates</genreform>
+    <genreform source="aat">Hair (material)</genreform>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <genreform source="aat">Transcripts</genreform>
+    <genreform source="aat">Booklets</genreform>
+    <genreform source="aat">Birth certificates</genreform>
+    <geogname source="lcsh">Wyoming</geogname>
+    <genreform source="aat">Books</genreform>
+    <genreform source="aat">Artifacts (object genre)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Georgia</geogname>
+    <geogname source="lcsh">California</geogname>
+    <persname role="dnr" rules="dacs" source="local">Barone, Dennis</persname>
+    <persname rules="dacs" source="local">Barone, Melchisedech Alfred</persname>
+    <persname rules="dacs" source="local">Barone, Rebecca Rowena</persname>
+    <persname rules="dacs" source="local">Barone, Alfred Dernier</persname>
+    <persname rules="dacs" source="local">Lawson, Shirley</persname>
+    <corpname rules="aacr" source="naf">Manual Training High School (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">New York University</corpname>
+    <corpname rules="dacs" source="local">Gwen Nottage Dance Academy</corpname>
+    <corpname rules="dacs" source="local">P.S. 10 (Brooklyn, New York, N.Y.)</corpname>
+    <persname rules="dacs" source="local">Barone, Alfredo, Rev.</persname>
+    <corpname rules="aacr" source="naf">Columbia College (New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="naf">United States. Army</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref10_dwa" level="series"><did><unittitle>Series 1: Alfredo Barone personal papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent><extent altrender="carrier">in one folder</extent></physdesc><unitdate datechar="creation" normal="1942/1956" type="inclusive">1942-1956</unitdate></did><scopecontent id="aspace_9852467f74816d2cc2bc47d440f37bb5"><head>Scope and Contents</head><p>The series contains records relating to Alfredo Barone, dating from 1942 to 1956, and includes his alien registration documents issued by the Department of Justice in the early 1940s, a few portrait photographs, and copies of obituaries for Alfredo and his wife, Rosina.</p></scopecontent></c><c id="aspace_ref11_dgn" level="series"><did><unittitle>Series 2: Melchisedech Barone personal papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2.21 Linear Feet</extent><extent altrender="carrier">in four folders and one oversized box</extent></physdesc><unitdate datechar="creation" normal="1891/1961" type="inclusive">1891-1961</unitdate></did><scopecontent id="aspace_c31bce52c84dc8d65bb904ed71f7f885"><head>Scope and Contents</head><p>The series contains records relating to Melchisedech Alfred Barone, dating from 1891 to 1961, and includes certificates, news clippings, and ephemera relating to his practice of medicine in Connecticut and New York, materials that appear to relate to his funeral arrangements, a baptism certificate and copy of the death certificate of his wife, Anna, and one book entitled <emph render="italic">Gli Animali Della Bibbia el le Lezioni Che Ci Danno</emph> by Dr. Riccardo Newton (1891).</p></scopecontent></c><c id="aspace_ref12_tfq" level="series"><did><unittitle>Series 3: Rebecca Barone personal papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent><extent altrender="carrier">in one folder</extent></physdesc><unitdate datechar="creation" normal="1941/1984" type="inclusive">1941-1984</unitdate></did><scopecontent id="aspace_2616c5190c71de9283ddf13e3dca0491"><head>Scope and Contents</head><p>The series contains records relating to Rebecca Rowena Barone, dating from to 1941 to 1984, and includes a diploma, certificate, obituary, and her personal calling cards.</p></scopecontent></c><c id="aspace_ref13_nz2" level="series"><did><unittitle>Series 4: Alfred Dernier Barone personal papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.92 Linear Feet</extent><extent altrender="carrier">in seventeen folders and one garment bag</extent></physdesc><unitdate datechar="creation" normal="1922/2009" type="inclusive">1922-2009</unitdate></did><scopecontent id="aspace_4dd461edd37266e5336ad7357ad2643c"><head>Scope and Contents</head><p>The series contains records relating to Alfred Dernier Barone, dating from 1922 to the late 2000s.  It includes materials related to his childhood, such as birth and baptismal certificates and programs from performances in which he participated in the early 1930s that were put on by the Gwen Nottage Studio of Stage Dancing on Flatbush Avenue.  Also present are materials relating to his education, such as diplomas, yearbook(s), graduation programs, and transcripts.  The collection documents his U.S. Army service and includes items and records such as his U.S. Army uniform, military orders, induction and separation papers, and annotated paratroop training documents from Fort Benning, Georgia.  Also included is correspondence with his father, Dr. Melchisedech Barone, written during the 1940s, a few personal photographs, and two high school yearbooks and obituary of Alfred's wife, Shirley Lawson.</p></scopecontent></c><c id="aspace_ref14_fug" level="series"><did><unittitle>Series 5: Photographs</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3.72 Linear Feet</extent><extent altrender="carrier">in sixteen folders and one flat file drawer</extent></physdesc><unitdate datechar="creation" normal="1913/1916" type="inclusive">1913-1963</unitdate></did><scopecontent id="aspace_6bec1fbe6d10a1439e540697a0cf4c7b"><head>Scope and Contents</head><p>The series contains 485 photographs dating from circa 1913 to 1963.  The series is almost exclusively black-and-white photographic prints, but also includes several color photographic prints and a small number of photographic negatives.  The photographs mostly consist of snapshots of members of the Barone family and friends in largely unidentified locations and show children and adults primarily outdoors and at leisure.  The early childhood of siblings Alfred D. Barone, Victoria Barone, and Myron Barone is particularly well represented.  Approximately 20 of the photographs are studio portraits, the subjects of which include Melchisedech Alfred Barone, Alfred D. Barone, and Victoria Barone, among others.  The series also contains several class photographs, including a wide format photograph of a class at Erasmus Hall High School (1931).  Photographs of Alfred D. Barone and Melvin Barone in military uniform and an outdoor group portrait of the 2nd Platoon CO "H" 1st Signal Training Regiment taken at Camp Edison in New Jersey in 1943 are also present.  Some of the photographs are dated and identified on the verso and locations include the Coney Island neighborhood of Brooklyn, New York, California, Wyoming, and Washington, D.C.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>

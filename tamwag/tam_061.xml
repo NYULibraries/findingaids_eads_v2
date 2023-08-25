@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_061/">tam_061</eadid><filedesc><titlestmt><titleproper>Guide to the American Labor Party Minutes and Proceedings <num>TAM.061</num></titleproper><author>Tamiment staff</author></titlestmt><editionstmt><p>This version was derived from ALP template.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>Finding Aid</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:49:00 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>American Labor Party Minutes and Proceedings</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n92086852" source="naf">American Labor Party</corpname>
+    </origination>
+    <unitid>TAM.061</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1922/1924" type="inclusive">1922-1924</unitdate>
+    <abstract id="aspace_7baf22fa012c158c6301bf8bb963148b" label="Abstract">The American Labor Party was a short-lived group founded in 1922. The collection contains convention proceedings and minutes, which have been microfilmed. Patrons must use microfilm copy (R-7862)</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_c55ae06b01aa1ca7df9b8511a1b1adf1" label="Mixed Materials [31142062729184]" type="Box">1</container>
+  </did>
+  <acqinfo id="aspace_8d0d531157a4f52d06a7f1801554a439">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred from the Rand School Archives, 1963. The accession number associated with this collection is 1963.002.</p>  </acqinfo>
+  <accessrestrict id="aspace_1b788bfdb0c93c7012270e846795a62e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_493bcaa56d68d15108e2f174d1555a4f">
+    <head>Historical/Biographical Note</head>
+<p>The American Labor Party (ALP), was a short lived group, organized along lines of British Labour Party, that was founded in New York City in 1922 by delegates from Socialist Party, Farmer Labor Party, Workmen's Circle, Poale Zion, and 82 labor organizations.</p>  </bioghist>
+  <scopecontent id="aspace_2d96080bc52cf613177f652ce6b6b4b0">
+    <head>Scope and Content Note</head>
+<p>This collection contains minutes of the Party's three conventions (1922-1923), Executive Committee minutes (1922-1924), and General Campaign Committee minutes (1922). Prominent persons active in the ALP include: Joseph D. Cannon, Edward F. Cassidy, Nathan Fine, Julius Gerber, Marie B. MacDonald, James Oneal, and A.I. Shiplacoff.</p>  </scopecontent>
+  <arrangement id="aspace_d70358ba4739441f8eba8f72dca09664">
+    <head>Arrangement</head>
+<p>Folders are arranged chronologically.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Inventory</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_5203b71aa4bd2eefc7b5f9c424e79486">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Abraham I. Shiplacoff Papers and Photographs (TAM 102).</p>  </relatedmaterial>
+  <userestrict id="aspace_4644f1c5e68a9f2b27506d7285a4fea8">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1922-1924, are expected to enter the public domain in 2045.</p>  </userestrict>
+  <prefercite id="aspace_596811ee7fbe4d317b5ec13f7b23011f">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <phystech id="aspace_67dfb234aeafced145252625b3b57584">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Due to the fragile nature of the original materials, researchers must use the microfilmed version; microfilm call number is Film R-7862.</p>  </phystech>
+  <controlaccess>
+    <genreform source="aat">Proceedings.</genreform>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <subject source="lcsh">Working class -- United States -- Political activity.</subject>
+    <subject source="lcsh">Socialism -- United States.</subject>
+    <persname rules="dacs" source="local">Gerber, Julius, 1862-1916</persname>
+    <persname rules="dacs" source="local">Fine, Nathan</persname>
+    <persname source="naf">Oneal, James, 1875-1962</persname>
+    <persname rules="dacs" source="local">MacDonald, Marie B.</persname>
+    <persname rules="dacs" source="local">Shiplacoff, A. I. (Abraham Isaac), 1877-1936</persname>
+    <corpname authfilenumber="(lccn)n92086852" source="naf">American Labor Party</corpname>
+    <persname source="local">Cannon, Joseph D.</persname>
+    <persname rules="dacs" source="local">Cassidy, Edward F.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Inventory</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Convention Proceedings (First), New York</unittitle><unitdate datechar="creation">Jul 1922</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7e8211b658e5a25fe2ba107422ee0f0f" label="Mixed Materials [31142062729184]" type="Box">1</container><container id="aspace_a3f516e302e14afa0f39a72f93b157f8" parent="aspace_7e8211b658e5a25fe2ba107422ee0f0f" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Convention Proceedings (Second), New York</unittitle><unitdate datechar="creation">Feb 1923</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_48eca076fff1f4a96d16703cfde88da5" label="Mixed Materials [31142062729184]" type="Box">1</container><container id="aspace_dbbfd5ba49b4767147b9e855209f508b" parent="aspace_48eca076fff1f4a96d16703cfde88da5" type="Folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Convention Proceedings (Third), New York</unittitle><unitdate datechar="creation">Sep 1923</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_95de99833f6389089788e4a499890156" label="Mixed Materials [31142062729184]" type="Box">1</container><container id="aspace_2f70a45f1268db87001450fb1bb63404" parent="aspace_95de99833f6389089788e4a499890156" type="Folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Minutes: Executive Committee, New York</unittitle><unitdate datechar="creation" normal="1922/1924" type="inclusive">1922-1924</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f5acca15f7d1ea82d7c13d5d7990420b" label="Mixed Materials [31142062729184]" type="Box">1</container><container id="aspace_022816e17672f8dc3618c766b00e4919" parent="aspace_f5acca15f7d1ea82d7c13d5d7990420b" type="Folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Minutes: General Campaign Committee, New York</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_cb5575adfe6dd9bdba88c65fdb588cd0" label="Mixed Materials [31142062729184]" type="Box">1</container><container id="aspace_901c563f22d7405df23938f4e8deca2d" parent="aspace_cb5575adfe6dd9bdba88c65fdb588cd0" type="Folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Minutes: General Council, New York</unittitle><unitdate datechar="creation" normal="1922/1924" type="inclusive">1922-1924</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_27ac3f073af32ebc749403f942d6d280" label="Mixed Materials [31142062729184]" type="Box">1</container><container id="aspace_e24b0210c5456f636abd977d0ef38a01" parent="aspace_27ac3f073af32ebc749403f942d6d280" type="Folder">6</container></did></c></c></dsc>
+</archdesc>
+</ead>

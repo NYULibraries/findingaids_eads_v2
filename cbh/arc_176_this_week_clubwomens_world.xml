@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_176_this_week_clubwomens_world/">arc_176_this_week_clubwomens_world</eadid><filedesc><titlestmt><titleproper>Guide to the <emph render="italic">This Week</emph> and <emph render="italic">The Clubwomen's World</emph> magazine collection <num>ARC.176</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>January 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:26:07 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>This Week and The Clubwomen's World magazine collection</unittitle>
+    <origination label="Creator">
+      <persname role="pbl" source="local">Fisher, Gertrude Morrison</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="edt" source="local">Pasquin, Lee M.</persname>
+    </origination>
+    <unitid>ARC.176</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.84 Linear Feet</extent>
+      <extent altrender="carrier">in three manuscript boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1928/1933" type="inclusive">1928-1933</unitdate>
+    <abstract id="aspace_eff7ca3ddfa6e3e42852f3ff23755db3"><emph render="italic">This Week</emph>, later titled <emph render="italic">The Clubwomen's World</emph>, was a weekly women's magazine published in Brooklyn during the late 1920s and 1930s.  Initially containing only social news relating to Brooklyn Heights, the magazine later expanded its coverage to include social news relating to additional Brooklyn neighborhoods, the activities of Brooklyn women's clubs, and the greater New York City area.  This collection contains several issues of <emph render="italic">This Week</emph> and <emph render="italic">The Clubwomen's World</emph> spanning the period March 10, 1928 to March 25, 1933.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Half Manuscript Box Legal" id="aspace_0272bb88341c79ed9718916283a63967" label="Text" type="Box">ARC.176 3 of 3</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_b4c67cd2bfa5a267ddc33bc55a30fe2c" label="Text" type="Box">ARC.176 1 of 3</container>
+    <container altrender="Full Manuscript Box Letter" id="aspace_a22a3fd432ebd7b29e8450cd85d16a0f" label="Text" type="Box">ARC.176 2 of 3</container>
+  </did>
+  <processinfo id="aspace_86fd8c7e3a2f61bb81188793246a4873">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_303ac58ce0bffbe0ee54a4426ea70a17">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); <emph render="italic">This Week</emph> and <emph render="italic">The Clubwomen's World</emph> magazine collection, ARC.176, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <userestrict id="aspace_af306611f6aac70e8d7bc504cda94b4c">
+    <head>Conditions Governing Use</head>
+<p>Copyright restrictions may apply.  Please consult library staff for more information.</p>  </userestrict>
+  <acqinfo id="aspace_fab8325ec9ec7719fa705f042c8769e1">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.</p>  </acqinfo>
+  <accessrestrict id="aspace_ba073adfe031e0c51784502bc9f1ee42">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_8bee8d9975e7cc2b1c6393b33c50bcd5">
+    <head>Biographical / Historical</head>
+<p>Since the early 19th century, New York City has been a major center for the publishing of women's magazines.  Some of the earliest titles included <emph render="italic">Lady's Weekly Miscellany</emph> (1805-1808) and <emph render="italic">Ladies' Literary Cabinet</emph> (1819-1822).  Later prominent titles published and edited in New York included <emph render="italic">Vogue</emph> (1892-), <emph render="italic">The Dilineator</emph> (1873-1937), <emph render="italic">Cosmopolitan</emph> (1886-), <emph render="italic">Good Housekeeping</emph> (1885-), and <emph render="italic">Ladies' Home Journal</emph> (1883-).  While for many decades these publications contained articles relating to such issues as fashion, domestic life, and activities of the social elite, in the 1960s they also began to carry articles reflecting the dramatic changes upheaving women's conventional social roles.  From the 1970s onward, women's magazines continued to flourish in New York City and covered an increasingly diverse range of issues.</p><p><emph render="italic">This Week</emph>, later titled <emph render="italic">The Clubwomen's World</emph>, was a weekly women's magazine published in Brooklyn during the late 1920s and 1930s.  Initially containing only social news relating to Brooklyn Heights, the magazine later expanded its coverage to include social news relating to additional Brooklyn neighborhoods, the activities of Brooklyn women's clubs, and the greater New York City area.  The magazine was edited by Lee M. Pasquin and published by Gertrude Morrison Fisher.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Zuckerman, Mary Ellen. "Women's Magazines," in <emph render="italic">The Encyclopedia of New York City</emph>, ed. Kenneth T. Jackson (New Haven, Conn.: Yale University Press; New York: New York Historical Society, c1995), 1270-1271.</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_e517c24ba8f6d38f2c74ff3e895996af">
+    <head>Scope and Contents</head>
+<p>This collection contains issues of the Brooklyn weekly women's magazine, <emph render="italic">This Week</emph>, spanning the period March 10, 1928 to March 25, 1933.  Issues dating from January 14, 1933 to March 25, 1933 carry the magazine's later name, <emph render="italic">The Clubwomen's World</emph>.  The magazines contain social news relating to several Brooklyn neighborhoods and the greater New York City area, with a focus on the activities of various women's clubs.  While the collection contains most issues of the magazine published during the aforementioned date range, a small number of issues are absent.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Magazines (periodicals)</genreform>
+    <subject source="lcsh">Women's periodicals, American |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+    <subject source="lcsh">Women |z New York (State) |z Kings County |x Societies and clubs</subject>
+    <geogname source="lcsh">New York (N.Y.) |x Social life and customs</geogname>
+    <title source="local">Clubwomen's world (Brooklyn, New York, N.Y.)</title>
+    <title source="local">This week (Magazine)</title>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

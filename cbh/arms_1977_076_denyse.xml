@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_076_denyse/">arms_1977_076_denyse</eadid><filedesc><titlestmt><titleproper>Guide to the Jacques Denyse estate administration document <num>1977.076</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 24, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:55 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Jacques Denyse estate administration document</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Lefferts, Jacobus L.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Denyse, Jacques</persname>
+    </origination>
+    <unitid>1977.076</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1796/1796" type="inclusive">1796</unitdate>
+    <abstract id="aspace_2e866dc1cdced34c116f59a1358974f7">One document, dated April 12, 1796, that appoints Adam Denyse and John Denyse as administrators of the estate of Jacques Denyse. It is signed by Jacobus Lefferts, Surrogate of Kings County. Jacques Denyse was a resident of the town of Gravesend, which later became the Brooklyn neighborhood of Gravesend.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_82d607247d00104b09b7dfaa4350a8b7" label="Text" type="Box">A0032</container>
+  </did>
+  <accessrestrict id="aspace_e1aed048ed5919c1b6b63cbd48a297b7">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_ea9b9930bec368d4c93b5dbb4edc82f0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Jacques Denyse estate administration document, 1977.076, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_25ef427c820a5bab0ca5a8281fd1f99c">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The document was formally accessioned in 1977.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Estate records</genreform>
+    <persname rules="dacs" source="local">Denyse, Jacques</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

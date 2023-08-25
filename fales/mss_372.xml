@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_372/">mss_372</eadid><filedesc><titlestmt><titleproper>Guide to the Fisher and Levy Archives <num>MSS.372</num></titleproper><author>Jasmine Larkin</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>August 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:01:56 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Fisher and Levy Archives</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Fisher &amp; Levy</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Fisher, Chip (Charles)</persname>
+    </origination>
+    <unitid>MSS.372</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 half manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1978/2006" type="inclusive">1978-2006</unitdate>
+    <abstract id="aspace_8835b80090d341b52ccba12e52d8862f">Fisher &amp; Levy was a New York City catering business established by Chip Fisher and Doug Levy in 1983. Fisher &amp; Levy offered high-end, corporate catering services as well as individual takeout items. This collection contains materials created and collected by the Fisher &amp; Levy catering company. Materials include press clippings, correspondence from customers, certificates, and menus. Materials date from 1978 to 2006.</abstract>
+    <physloc id="aspace_e8a6c695e8c29b771c4c552735f0929e">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_3de78a0ae49484fbb62b44bc5747a3f4">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_55d286698ce7cbcf6fe9f6a4f28bfaa1">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_ec49f65f8786e1c65c4259fcfe482950">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Chip Fisher, 2013. The accession number associated with this gift is 2013.372.</p>  </acqinfo>
+  <arrangement id="aspace_de54e7129649563fcacf2e78003723ee">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_e3a3d9b588a020b95ba0ae944aaec464">
+    <head>Historical Note</head>
+<p>Fisher &amp; Levy was a New York City catering business established by Chip Fisher and Doug Levy in 1983. Fisher &amp; Levy offered daily corporate catering services as well as individual takeout items from their storefront location in Sutton Place. The catering company focused on providing high-end meals and food items tailored to appeal to a sophisticated, corporate clientele. Chip Fisher, a former IBM salesperson, handled the overall business, while Doug Levy, chef, was in charge of the cooking.</p>  </bioghist>
+  <prefercite id="aspace_6248276ec0182e3e4952805def441364">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Fisher and Levy Archives; MSS 372; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_cf3eaac2f1ddc22ab073f03c1fc50ea9">
+    <head>Processing Information</head>
+<p>Materials placed in archival folders and boxes.</p>  </processinfo>
+  <scopecontent id="aspace_a81baebc494159c713ee5b668a7d90ac">
+    <head>Scope and Contents</head>
+<p>This collection contains materials created and collected by the Fisher &amp; Levy catering company. A majority of the collection contains press clippings regarding the company, and the owners Chip Fisher and Doug Levy. A smaller portion of the collection contains correspondence from customers, certificates, and menus. Materials date from 1978 to 2006.</p>  </scopecontent>
+  <userestrict id="aspace_43c6596a81228da494ac6eafeb3d8276">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Fisher &amp; Levy was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Caterers and Catering.</subject>
+    <subject source="lcsh">Restaurants.</subject>
+    <persname role="dnr" rules="dacs" source="local">Fisher, Chip (Charles)</persname>
+    <persname rules="dacs" source="local">Levy, Doug</persname>
+  </controlaccess>
+  <dsc><c id="aspace_1448d430d13ec45f81d0dbc067b6ce3e" level="file"><did><unittitle>Clippings and correspondence</unittitle><unitdate datechar="creation" normal="1978/1990" type="inclusive">1978-1990</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1d545d36bbd97c729b9df577f8d88499" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_06a505b75820dcff31abe964114cae45" parent="aspace_1d545d36bbd97c729b9df577f8d88499" type="Folder">1</container></did></c><c id="aspace_017e0a9fb3410f2c4be15818ffe650a5" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_99fc596c437db3f02612212dc6b8dffb" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_27b805e49d58b41fb92b3c060e180599" parent="aspace_99fc596c437db3f02612212dc6b8dffb" type="Folder">2</container></did></c><c id="aspace_47e350cfacfc4d4614971ebef2cbafa8" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9bbbd2d0d3d65ad4647a59e4084624b8" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_3bc3a8bdaabf4410d55c5f2778e52957" parent="aspace_9bbbd2d0d3d65ad4647a59e4084624b8" type="Folder">3</container></did></c><c id="aspace_7f37550e35ee3c897a6b698fe63f9bbc" level="file"><did><unittitle>Clippings and correspondence</unittitle><unitdate datechar="creation" normal="1984/1992" type="inclusive">1984-1992</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f3d086387ea99f1251914f56caf73953" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_35110ff60b57d3522f65acc508f0f974" parent="aspace_f3d086387ea99f1251914f56caf73953" type="Folder">4</container></did></c><c id="aspace_c4501246f5da7cbba9766aac6cac9e71" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1985/1994" type="inclusive">1985-1994</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7185f0ccda60524e6d68ee2decabc7cd" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_b12f91566947e4ef99a2b9c3b3007d9d" parent="aspace_7185f0ccda60524e6d68ee2decabc7cd" type="Folder">5</container></did></c><c id="aspace_88c385f1ea8a76a859b1355be5f22251" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1983/1994" type="inclusive">1983-1994</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9b888637c1a754f5816fd9497dca727a" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_5e50a482323ada07992a8444f03c2867" parent="aspace_9b888637c1a754f5816fd9497dca727a" type="Folder">6</container></did></c><c id="aspace_9872ce8bc6d7983a79077242e8b1f39a" level="file"><did><unittitle>Clippings and correspondence</unittitle><unitdate datechar="creation" normal="1984/1994" type="inclusive">1984-1994</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7a70cccdbfaaf2274d2ec7c10529ed45" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_612bda9b17a52b80c42bc007d092193b" parent="aspace_7a70cccdbfaaf2274d2ec7c10529ed45" type="Folder">7</container></did></c><c id="aspace_e3d2c4e7709c92cf2da9b51cc7f3b386" level="file"><did><unittitle>Menus</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4284a346c25ddbb456ca1f4566c8faf1" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_6fb582624e7aa52684af063853965f7f" parent="aspace_4284a346c25ddbb456ca1f4566c8faf1" type="Folder">8</container></did></c><c id="aspace_61344c1088a02245bb733839a1e1a4dc" level="file"><did><unittitle>Certificates</unittitle><unitdate datechar="creation" normal="1989/2006" type="inclusive">1989-2006</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9c3429712248ef2c46f403e325c15e94" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_165fa96b7d5037b793bc77f30241bb19" parent="aspace_9c3429712248ef2c46f403e325c15e94" type="Folder">9</container></did></c><c id="aspace_8e531eece1c192d3724471c338915399" level="file"><did><unittitle>Clippings and correspondence</unittitle><unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bb45db78242703fae28757df86a8d7c7" label="Mixed Materials [31142062732584]" type="Box">1</container><container id="aspace_463237f92f4ad436e82602e9d385d24b" parent="aspace_bb45db78242703fae28757df86a8d7c7" type="Folder">10</container></did></c></dsc>
+</archdesc>
+</ead>

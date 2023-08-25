@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_005/">mss_005</eadid><filedesc><titlestmt><titleproper>Guide to the Beach Archive <num>MSS.005</num></titleproper><author>Processed by Tania Friedel, April 1999</author></titlestmt><editionstmt><p>This version was derived from beach.html</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:02:42 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Beach Archive</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Beach Books</corpname>
+    </origination>
+    <unitid>MSS.005</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 Box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1962/1973" type="inclusive">ca. 1962-1973</unitdate>
+    <abstract id="aspace_de23f69ec95967aff919a71ec3e94cbe" label="Abstract">The <title render="italic">Beach</title> Archive is a collection of correspondence and manuscripts submitted to the editors of Beach Books, Claude Pelieu and Mary Beach, between 1962 and 1973. Collection highlights include manuscripts and letters written by Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky.</abstract>
+    <langmaterial id="aspace_0c97bb5b571a5b513c68231b0f393613">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_2d45048f6deb73adaa9850332faea59a">
+    <head>Access Restrictions</head>
+<p>Materials are open without restrictions. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <prefercite id="aspace_b912fde941e8ec1d74605c3fb4498aff">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date (if known); The Beach Archive; MSS 5; Box number; Folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_12c8d3c40fc88a3b7d16df9936ad37b7">
+    <head>Scope and Content Note</head>
+<p>The Beach Archive is a collection of correspondence and manuscripts submitted to the editors of Beach Books, Claude Pelieu and Mary Beach, from 1962 to 1973. Collection highlights include manuscripts and letters written by Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky.</p>  </scopecontent>
+  <arrangement id="aspace_eac0e294281a28293004676e9d2d7f9b">
+    <head>Arrangement</head>
+
+
+<p>The Beach Archive is arranged alphabetically.</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Correspondence and Manuscripts</item>
+    </list>
+  </arrangement>
+  <separatedmaterial id="aspace_542771e6af475d30dcf3a8705d40e34e">
+    <head>Separated Material</head>
+<p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>  </separatedmaterial>
+  <userestrict id="aspace_26ed346432b7307e17f90c198a77118a">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Poets, American -- 20th century.</subject>
+    <subject source="lcsh">Avant-garde (Aesthetics)</subject>
+    <subject source="lcsh">American literature -- 20th century.</subject>
+    <subject source="lcsh">Art, Modern |y 20th century |v Periodicals.</subject>
+    <genreform source="aat">Manuscripts for publication.</genreform>
+    <subject source="lcsh">Literature, Experimental |x Periodicals.</subject>
+    <subject source="lcsh">American poetry -- 20th century.</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Postcards.</genreform>
+    <subject source="lcsh">Authors, American -- 20th century.</subject>
+    <persname source="naf">Giorno, John</persname>
+    <persname source="naf">Pélieu, Claude</persname>
+    <persname source="naf">Orlovsky, Peter, 1933-2010</persname>
+    <persname source="naf">Leary, Timothy, 1920-1996</persname>
+    <persname source="naf">Corso, Gregory</persname>
+    <persname source="naf">Beach, Mary, 1919-2006</persname>
+    <corpname source="local">Beach Books</corpname>
+    <persname source="naf">Ginsberg, Allen, 1926-1997</persname>
+    <persname source="naf">Ferlinghetti, Lawrence</persname>
+    <persname source="naf">De Loach, Allen</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref10" level="series"><did><unittitle>Series I: Correspondence and Manuscripts</unittitle></did><scopecontent id="aspace_3d55ffea9a6db8d54ae76783f49c1f4e"><head>Scope and Contents note</head><p>Series 1 contains one box of correspondence to the editors Claude Pelieu and Mary Beach. Noted correspondents include Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky. Series 1 also contains manuscripts submitted by Carl Solomon and Allen Ginsberg.</p></scopecontent><c id="aspace_ref11" level="otherlevel" otherlevel="unspecified"><did><unittitle>Julian Beck, Bonnie Bresmer, and Gregory Corso</unittitle><unitdate datechar="creation">1967-1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c70f2f92a6b10cd5bbb438f3f1123401" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_04039154959d55c815d7c78f522f465b" parent="aspace_c70f2f92a6b10cd5bbb438f3f1123401" type="Folder">1</container></did></c><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle>Lawrence Ferlinghetti</unittitle><unitdate datechar="creation">1970-1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a499a3fd2c3fd686c832aa63822124fa" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_592760f96328c8f13319760e9d40ee5a" parent="aspace_a499a3fd2c3fd686c832aa63822124fa" type="Folder">2</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle>John Giorno, Timothy Leary, Peter Orlovsky, and Charles Plymel</unittitle><unitdate datechar="creation">1971-1972; undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3e2f708bbbbb6385f2e9175369db1819" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_8a9f03e27b7502aa2f966deab2c6b2d5" parent="aspace_3e2f708bbbbb6385f2e9175369db1819" type="Folder">3</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Ed Sanders</unittitle><unitdate datechar="creation">1970-1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0e20666f860e5426c2a3698c81999f46" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_6bcc01c613b88e4627ea05e7cdc760f4" parent="aspace_0e20666f860e5426c2a3698c81999f46" type="Folder">4</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Aldan Van Buskirk, Ken Weaver, John Weiners</unittitle><unitdate datechar="creation">1970, 1972; undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8fe67856f963d259ab619648070994ab" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_f8b8fd6afbbe8fbafe1af7bba7f6ea96" parent="aspace_8fe67856f963d259ab619648070994ab" type="Folder">5</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Allen Ginsberg</unittitle><unitdate datechar="creation">1970-1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b37cd826b0b6501639ee1d7779697f0e" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_f4b393b60d5b95e6172386cc50b1baff" parent="aspace_b37cd826b0b6501639ee1d7779697f0e" type="Folder">6</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Allen Ginsberg <lb/>"Television Was a Baby"</unittitle><unitdate datechar="creation">1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c5a49af6aa6d5acea84e0b0f78efe3d7" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_13fca1a79d18edc5db66e5da2b3c36ae" parent="aspace_c5a49af6aa6d5acea84e0b0f78efe3d7" type="Folder">7</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Allen Ginsberg, and French translations by Mary Beach</unittitle><unitdate datechar="creation">ca. 1970</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6a12fbe1561f7871acbbf8c13635e833" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_9023fc9e8d1bf19f499ad8a2c11ba0ef" parent="aspace_6a12fbe1561f7871acbbf8c13635e833" type="Folder">8</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Carl Solomon</unittitle><unitdate datechar="creation">1966-1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a7380d2408ae36bbb13335f12ed155e9" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_78ece590a0734ffd242ebaacd96959c2" parent="aspace_a7380d2408ae36bbb13335f12ed155e9" type="Folder">9</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Carl Solomon, various manuscripts</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_282d3024a46890861cbaf3473ce65b2d" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_2d483ec0e201d6c1079c806e077e165f" parent="aspace_282d3024a46890861cbaf3473ce65b2d" type="Folder">10</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Related materials, Carl Solomon, Ann Solomon, Cordola Koshembahr, and Allen DeLoach.</unittitle><unitdate datechar="creation">1962-1967</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c61688ed4c1040762732f786d30ad8b9" label="Mixed Materials [31142054862936]" type="Box">1</container><container id="aspace_a8dd097bde77451961a369f5aa0fe412" parent="aspace_c61688ed4c1040762732f786d30ad8b9" type="Folder">11</container></did></c></c></dsc>
+</archdesc>
+</ead>

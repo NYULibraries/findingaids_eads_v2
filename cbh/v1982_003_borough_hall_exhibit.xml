@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1982_003_borough_hall_exhibit/">v1982_003_borough_hall_exhibit</eadid><filedesc><titlestmt><titleproper>Guide to the Borough Hall: Mirror of Change exhibit photograph collection <num>V1982.003</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 21, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:42 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Borough Hall: Mirror of Change exhibit photograph collection</unittitle>
+    <origination label="Creator">
+      <persname role="cur" rules="aacr" source="naf">Willensky, Elliot</persname>
+    </origination>
+    <unitid>V1982.003</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in two manuscript boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate>
+    <abstract id="aspace_7c8f5fa8778bff6a80dba1167c7e05f7" label="Abstract">Images in the collection document artwork in the exhibit curated by Elliot Willensky, then Brooklyn Borough Historian, and held by the Brooklyn Borough President.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c565e17409b6cfd86f6331f7df78a8cc" label="Graphic Materials" type="Box">Prints by Accession 44</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_63f69b1a90ef32cccf792edae307fad0" label="Graphic Materials" type="Box">Medium Format Negatives 11</container>
+    <container altrender="Medium Flat Box 26" id="aspace_14f1451a9bc734d807d477a357ee41a4" label="Graphic Materials" type="Box">Slides by Accession 1</container>
+    <container id="aspace_3d30384c83dcc6a4dd0a6c56dbc2325e" parent="aspace_14f1451a9bc734d807d477a357ee41a4" type="Box">1</container>
+    <container id="aspace_c1ae51c129c4e009c261c4c1145d04ea" parent="aspace_3d30384c83dcc6a4dd0a6c56dbc2325e" type="item">V1982.3.1-2, 8-9, 15, 17, 26, 28, 30-33, 35-37, 39-42, 44-46</container>
+  </did>
+  <scopecontent id="aspace_e51796b6495ea653b9a8f12892779d9a">
+    <head>Scope and Contents</head>
+<p>The Borough Hall: Mirror of Change exhibit photograph collection contains 47 items dated circa 1982. Images in the collection document artwork in the exhibit curated by Elliot Willensky, then Brooklyn Borough Historian, and held by the Brooklyn Borough President. The collection includes black-and-white prints, color negatives, color transparencies, and black-and-white transparencies. Exhibit items depicted include maps of Brooklyn, aerial views of Brooklyn, architectural drawings of Borough Hall, and various Brooklyn neighborhoods.</p>  </scopecontent>
+  <accessrestrict id="aspace_e0da4015377178b510f02b97b4518481">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_47cbbd268dc21e4625ba78eaaa099051">
+    <head>Conditions Governing Use</head>
+<p>Copyright will remain in effect for 120 years following the date of creation. All images in this collection will enter the public domain by 2109. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <otherfindaid id="aspace_36ab71332bd370dbcd159562d0d231dd">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <prefercite id="aspace_c38dfc02c41fb941e8354e382e0fdc2d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Borough Hall: Mirror of Change exhibit photograph collection, V1982.003, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_76d08f39e6213a63699bb71939c5fabc">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Elliot Willensky, 1982.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_287/">wag_287</eadid><filedesc><titlestmt><titleproper>Guide to the Jack Schmulowitz Manuscript on Julius and Lilly Schmulewitz <num>WAG.287</num></titleproper><author>Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:39:54 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Jack Schmulowitz Manuscript on Julius and Lilly Schmulewitz</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Schmulowitz, Jack </persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Schmulowitz, Jack </persname>
+    </origination>
+    <unitid>WAG.287</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+    <abstract id="aspace_8a9a0fa3b6d8410edd66f978642bf1b7">Julius Schmulewitz (1895-1966) was a member of the Bakery and Confectionary Workers International Union, Local 3. This collection contains a small biographical manuscript on Julius and Lilly Schmulewitz, written by their son Jack Schmulowitz.</abstract>
+    <langmaterial id="aspace_bebd398f8436c0346cb57e24ee79f6db">Materials are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_cac3cb27081c4c376f6e4fcf8f59d7e7">
+    <head>Historical/Biographical Note</head>
+<p>Julius Schmulewitz (1895-1966) was a member of the Bakery and Confectionary Workers International Union, Local 3. Julius, and his wife Lilly Schmulewitz (1902-1968) immigrated from Poland during the 1920s. Their son, Jack Schmulowitz, wrote this biographical manuscript about their lives in 1999.</p>  </bioghist>
+  <scopecontent id="aspace_894b2730b0349b0ec9059db714507a65">
+    <head>Scope and Contents</head>
+<p>This collection contains a small manuscript on Julius and Lilly Schmulewitz. The manuscript covers the lives of Julius and Lilly, and Julius's work with the Bakery and Confectionary Workers International Union, Local 3. The manuscript also contains several maps and tables.</p>  </scopecontent>
+  <arrangement id="aspace_04a5281e8aea57209ae3542143144a1e">
+    <head>Arrangement</head>
+<p>The collection is arranged in a single folder.</p>  </arrangement>
+  <acqinfo id="aspace_c9196d9784c2ed37bb90a9a73a1c4270">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Jack Schmulowitz in 1999. The accession number 1999.020 is associated with this gift.</p>  </acqinfo>
+  <accessrestrict id="aspace_8012cb63d3bba4ebdefddbeacdec9d98">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_be206632ebde2c81ce2171fdc9f1e50b">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Jack Schmulowitz was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <prefercite id="aspace_0ac168dd09c889975626be41348895ce">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jack Schmulowitz Manuscript on Julius and Lilly Schmulewitz; WAG 287; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Bakery employees |x Labor unions.</subject>
+    <corpname rules="dacs" source="local">Bakery, Confectionery, and Tobacco Workers International Union. Local 3 (Long Island City, N.Y.)</corpname>
+    <persname rules="dacs" source="local">Schmulewitz, Lilly</persname>
+    <persname rules="dacs" source="local">Schmulewitz, Julius</persname>
+    <persname role="dnr" rules="dacs" source="local">Schmulowitz, Jack </persname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>

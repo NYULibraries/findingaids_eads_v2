@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_015/">photos_015</eadid><filedesc><titlestmt><titleproper>Guide to the George N. Caylor Photographs <num>PHOTOS.015</num></titleproper><author>Tamiment staff and Erika Gottfried, 2003.</author></titlestmt><editionstmt><p>NP 15 Worksheet</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:32:31 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>George N. Caylor Photographs</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" source="naf">Caylor, George Nathan, 1885-1973</persname>
+    </origination>
+    <unitid>PHOTOS.015</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1886/1948" type="inclusive">1886-1948</unitdate>
+    <unitdate datechar="creation" normal="1914/1948" type="bulk">1914-1948</unitdate>
+    <abstract id="aspace_f8957c71d020189c7bcda87596458a0f" label="Abstract">George Caylor (1885-1973), born George N. Cohen, was a socialist, writer, labor arbitrator, businessman, and brother of labor leader Joseph E. Cohen (1883-1950). This collection is composed of photographs removed from the George N. Caylor Papers (Tamiment 030).</abstract>
+    <physdesc id="aspace_8445d15678baefa60e0ecd4ddf8d6ba7" label="General Physical Description note">(3x5, 5x7, 8x10 photographic prints, 11x17 photocopies; b&amp;w)</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_9f25f9be1c1b89ec8b6415ee792b9299">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_76bcb793c6a24c783ba5cc0c9751d934">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by George N. Caylor in 1957 and 1965 and seperated from the George N. Caylor Papers (TAM 030). The accession numbers associated with these gifts are 1957.001 and NPA.2002.046.</p>  </acqinfo>
+  <arrangement id="aspace_fc98c6ba6924cfa81ec415a2c126ac46">
+    <head>Arrangement</head>
+<p>Photographs are in no designated order.</p><p>Folders are arranged into series.</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Inventory</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_a2d76c0099a678398254806fab411f4c">
+    <head>Historical/Biographical Note</head>
+<p>George Caylor (1885-1973), born George N. Cohen, was a socialist, writer, labor arbitrator, businessman, and brother of labor leader Joseph E. Cohen (1883-1950). Caylor compiled sketches of socialist and labor figures including Debs, Elizabeth Gurley Flynn, John Spargo, Frances Perkins, Jack London, Emmanuel Haldeman-Julius and Bettina Borman Wells. Caylor's other writings dealt with labor, socialism and racial justice. In his autobiography, <title render="italic">If My Memory Serves Me Right</title>, he writes of his early years in Philadelphia, the socialist movement, the single-tax community of Arden, Delaware and the Rand School, as well as of such individuals as Hillquit, Frances Perkins, Rose Schneiderman, Pauline Newman and others. Caylor also wrote a series of letters to the Orlando Sentinel on political and social issues which he then used as the basis of a seminar at Rollins College, in Florida, in 1958.</p>  </bioghist>
+  <prefercite id="aspace_cafaac85651c6f986883d810c914af17">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; George N. Caylor Photographs; PHOTOS 015; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_c6324af9ec688859f4fcc528c00b2c13">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>George N. Caylor Papers (Tamiment 030).</p>  </relatedmaterial>
+  <scopecontent id="aspace_c4aaa45b1d2ef81b33ae501553373150">
+    <head>Scope and Content Note</head>
+<p>The bulk of the images that make up this collection are oversize photocopies of large pages from a family photograph album (also included are negative photocopies of the pages as well), a handful of black and white images (snapshots and one negative photocopy), dates ranging from 1914 to 1948. Most of the images are traditional family album portraits and informal snapshots (including views of family and friends at Arden and several portraits and snapshots of Joseph Cohen). In addition, there are also a number of shots of meetings of organizations. Included are an International Labour Organization meeting in Geneva, Switzerland,in 1938; Social Security Board Federal Advisory Council for Employment Security meeting, 1942; Seminar Workmen's Compensation, Toronto 1946, and Testimonial Dinner, International Typographical Union, Local 2, 1941. Group portraits provide important documentation for the Socialist Party of Pennsylvania - the Socialist State Convention, Reading, Pa, 1930; the Socialist Convention, Harrisburg, 1909; the Pennsylvania delegation to the national Socialist Convention, 1912, and the Philadelphia delegation to the state convention, in Harrisburg, 1932. In addition there is a snapshot of Joe Cohen with the Pennsylvania socialist, James Maurer. Of particular interest is a snapshot of Aaron Berkman of Philadelphia, Charlie Chaplin, and Upton Sinclair (date unknown, although it appears to be pre-1920s, place unknown also).</p>  </scopecontent>
+  <userestrict id="aspace_c6c5a996795fc235e37614dd292dfe1e">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in unitdate range, are expected to enter the public domain in year.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Arden (Del.) |v Pictorial works.</geogname>
+    <subject source="lcsh">Single tax.</subject>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <subject source="lcsh">Collective settlements.</subject>
+    <genreform source="aat">Portraits.</genreform>
+    <persname source="naf">Maurer, James H. (James Hudson), 1864- -- Portraits.</persname>
+    <persname source="naf">Sinclair, Upton, 1878-1968 -- Portraits.</persname>
+    <corpname authfilenumber="(lccn)nr98002647" source="naf">Socialist Party of Pennsylvania -- Pictorial works.</corpname>
+    <persname source="naf">Caylor, George Nathan, 1885-1973</persname>
+    <persname rules="dacs" source="local">Berkman, Aaron -- Portraits.</persname>
+    <persname source="local">Cohen, Joseph E., 1883-1950 -- Portraits.</persname>
+    <persname rules="aacr" source="naf">Chaplin, Charlie, 1889-1977</persname>
+    <corpname authfilenumber="(lccn)nr98002647" source="naf">Socialist Party of Pennsylvania</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series Inventory</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversized photocopies of photographs from an album, including images of: <lb/>- family (incl. Joseph Cohen w/James Maurer) <lb/>- friends at Arden, Delaware (Single Tax community) <lb/>- Socialist Convention, Harrisburg, 1909 <lb/>- Pennsylvania delegation to the national Socialist Convention, 1912 <lb/>- Testimonial Dinner, International Typographical Union, Local 2, 1941 <lb/>- Social Security Board Federal Advisory Council for Employment Security meeting, 1942 <lb/>- Seminar Workmen's Compensation, Toronto 1946</unittitle><unitdate datechar="creation" normal="1886/1946" type="inclusive">1886-1946</unitdate><container altrender="Flat OS Box 17" id="aspace_3a1324fb7b51ae75eff3d264890352d5" label="Mixed Materials [31142062759793]" type="Box">Shared Tamiment OS002</container><container id="aspace_325c6d39c6538e7fac05aa2be1ec331d" parent="aspace_3a1324fb7b51ae75eff3d264890352d5" type="Folder">1</container><container altrender="Manuscript box - Legal - Half" id="aspace_ba046778911194321b35d405b55029a8" label="Mixed Materials [31142062667996]" type="Box">1</container><container id="aspace_efe8c79cb3ac3c828ed835de57dfcab6" parent="aspace_ba046778911194321b35d405b55029a8" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographic prints of <lb/>- friends and family at Arden, Delaware (Single Tax community) <lb/>- Snapshot of Aaron Berkman of Philadelphia, Charlie Chaplin, and Upton Sinclair (date unknown, although it appears to be pre- 1920s, place unknown also) <lb/>- Philadelphia delegation to State Socialist Convention at Reading, PA, July 4, 1932 <lb/>- (Delegates to meeting of?) International Labour Organization (Geneva, Switzerland, 1938)</unittitle><unitdate datechar="creation" normal="1900/1938" type="inclusive">ca. 1910-1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_28788a4c7c90f2e5e52a540c852e7249" label="Mixed Materials [31142062667996]" type="Box">1</container><container id="aspace_70c5ba4186eb89f5ea28969b987025e9" parent="aspace_28788a4c7c90f2e5e52a540c852e7249" type="Folder">2</container></did></c></c></dsc>
+</archdesc>
+</ead>

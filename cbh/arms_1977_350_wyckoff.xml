@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_350_wyckoff/">arms_1977_350_wyckoff</eadid><filedesc><titlestmt><titleproper>Guide to the Wyckoff House collection <num>1977.350</num></titleproper><author>Robyn Hjermstad and Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 4, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:27 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Wyckoff House collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">New York (N.Y.). Dept. of Parks and Recreation</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Wyckoff House &amp; Association</corpname>
+    </origination>
+    <unitid>1977.350</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.67 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+    <abstract id="aspace_b1b7042600f1b9860928e398ac8702f6">This collection contains eleven Photostats of property maps and architectural drawings relating to property of the Wyckoff family in Flatlands.  The maps and drawings detail original Wyckoff properties, purchases from Canarsie Indians, and other sales throughout the period 1628 to 1901.  The Photostats date from 1973.  Also included is <emph render="italic">The Wyckoff House: Its History and Structure</emph> by Oppenheimer, Brady, and Associates for the New York City Department of Parks and Recreation.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box 3" id="aspace_6aaa1ce9ce94e5f707030b30ff6feacd" label="Graphic Materials" type="Box">OS-6</container>
+  </did>
+  <prefercite id="aspace_946082769d22352d68452d229d5abbc3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Wyckoff House collection, 1977.350, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_2e732f7d4586ff575e2e4bfa5c2dfbba">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <acqinfo id="aspace_7f97d56dd2ce098565c5e379f098e79f">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <bioghist id="aspace_21e11bf11b89ab3cb03deffce433ea9d">
+    <head>Biographical Note</head>
+<p>The Wyckoff family was a prominent Brooklyn family descended from Pieter Claesen Wyckoff, one of the most influential leaders during 17th-century settlement in New Amsterdam.  Claesen-Wyckoff and his wife, Greitje van Ness, eventually settled in Flatlands, Brooklyn, in what is now the historic Wyckoff Homestead.  Claesen-Wyckoff and his wife had a total of eleven children, who married into several different families, creating a vast and complex genealogy spanning the entire country.</p>  </bioghist>
+  <scopecontent id="aspace_9cefcd67849321e4f12b2ba3a82f3404">
+    <head>Scope and Contents</head>
+<p>This collection contains eleven Photostats of property maps and architectural drawings relating to property of the Wyckoff family in Flatlands.  The maps and drawings detail original Wyckoff properties, purchases from Canarsie Indians, and other sales throughout the period 1628 to 1901.  The Photostats date from 1973.  Also included is <emph render="italic">The Wyckoff House: Its History and Structure</emph> by Oppenheimer, Brady, and Associates for the New York City Department of Parks and Recreation.</p>  </scopecontent>
+  <accessrestrict id="aspace_dda95d61efb03dbf3c810032dd03690f">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <relatedmaterial id="aspace_8885a9b3c306c13f2404b1b81af18a38">
+    <head>Related Materials</head>
+<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>1973.258, Harriet Stryker-Rodda typescript of Peter Wyckoff recollections, 1828-1958</item>
+      <item>1977.582, Peter Wyckoff historical notes, circa 1700-1850</item>
+      <item>1978.002, William F. Wyckoff papers, 1695-1942</item>
+      <item>V1991.069, Clifford Ball photographs of the Pieter Claesen Wyckoff House and the Wyckoff-Bennett Homestead, 1982</item>
+    </list>
+  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Indians of North America |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Maps</genreform>
+    <genreform source="aat">Volumes (documents by form)</genreform>
+    <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+    <genreform source="local">Land titles |z New York (State) |z Kings County</genreform>
+    <genreform source="aat">Architectural drawings</genreform>
+    <subject source="lcsh">Dwellings |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Histories</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <famname source="naf">Wyckoff family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

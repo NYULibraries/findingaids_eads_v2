@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1992_021_denis/">arms_1992_021_denis</eadid><filedesc><titlestmt><titleproper>Guide to the Antonia Denis collection <num>1992.021</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:14:46 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Antonia Denis collection</unittitle>
+    <origination label="Creator">
+      <persname source="local">Denis, Antonia</persname>
+    </origination>
+    <unitid>1992.021</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1948/1983" type="inclusive">1948-1983</unitdate>
+    <abstract id="aspace_d754a77a153a478e5c113a4de2e53452" label="Abstract">The Antonia Denis collection spans the period 1948 to 1983 and consists of correspondence, administrative documents, financial records, photocopied newspaper articles, calling cards, certificates, newsletters, pamphlets, and other ephemera relating to Denis's work with the cultural organizations La Casa de Puerto Rico and the Puerto Rican Pioneers Parade, as well as her political activism and work with the Betances Democratic Club and other organizations. A small amount of papers pertaining to Denis's personal life are also included.</abstract>
+    <langmaterial id="aspace_fd9e6f0c2d2e2cb97194f01f1318c278">Materials in Spanish and English.</langmaterial>
+    <container altrender="Medium Flat Box 3" id="aspace_8cf5dc4be78cae4f20c83c1fa8993b2b" label="Text" type="Oversize">1992.021 1 of 1</container>
+  </did>
+  <prefercite id="aspace_38040fb52d804a3c940bb4dfc900bfac">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Antonia Denis collection, 1992.021, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_e4f12df2e0a6114a90236d360a88fb35">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <bioghist id="aspace_d232d667569bbb8417158c66a83458b2">
+    <head>Biographical Note</head>
+<p>Antonia Denis, a social and political activist, arrived in Brooklyn, N.Y. from Baja Vega, Puerto Rico during World War I.  She soon became a major figure in several Brooklyn-based organizations, including La Casa de Puerto Rico, the Puerto Rican Pioneers Parade, and the Betances Democratic Club.  These organizations advocated for political and social equality, celebrated Puerto Rican history and culture, and administered anti-poverty, cultural, and educational programs for Brooklyn's Puerto Rican community.</p>  </bioghist>
+  <scopecontent id="aspace_589cd5a86503c8e6155153f5f6e1825a">
+    <head>Scope and Contents</head>
+<p>The Antonia Denis collection spans the period 1948 to 1983 and consists of correspondence, administrative documents, financial records, photocopied newspaper articles, calling cards, certificates, newsletters, pamphlets, and other ephemera relating to Denis's work with the cultural organizations La Casa de Puerto Rico and the Puerto Rican Pioneers Parade, as well as her political activism and work with the Betances Democratic Club and other organizations.  A small amount of papers pertaining to Denis's personal life are also included.  Several newspaper articles, while not relating directly to Denis, contain information on the general political, social, and cultural affairs of Brooklyn and New York City's Latino community.  Over half the materials in the collection are written in Spanish, while the remaining items are in English.</p>  </scopecontent>
+  <accessrestrict id="aspace_18d532a435b419c6de738e19630d8c45">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_0aa7ff4b38fb6f1cf1c6e76332bddce5">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Sara Ramirez, date unknown.  Formally accessioned in 1992.</p>  </acqinfo>
+  <relatedmaterial id="aspace_96cdc93ab52f4d07be7f5de4c2f7b19f">
+    <head>Related Materials</head>
+<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>1976.001, Puerto Rican Oral History Project records, 1960-1984</item>
+      <item>ARC.032, Hispanic Communities Documentation Project records and oral histories, 1924-1992</item>
+    </list>
+  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Housing |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social conditions</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Economic conditions</geogname>
+    <subject source="lcsh">Puerto Ricans |z New York (State) |z Kings County |x Economic conditions</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government</geogname>
+    <subject source="lcsh">Puerto Ricans |z New York (State) |z Kings County |x Social conditions</subject>
+    <subject source="lcsh">Puerto Ricans |z New York (State) |z Kings County |x Ethnic identity</subject>
+    <subject source="lcsh">Puerto Ricans |z New York (State) |z Kings County |x Intellectual life</subject>
+    <subject source="lcsh">Puerto Ricans |x Housing |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Puerto Ricans |z New York (State) |z Kings County |x Social life and customs</subject>
+    <subject source="lcsh">Puerto Ricans |z New York (State) |z Kings County |x Politics and government</subject>
+    <subject source="lcsh">Puerto Ricans |z New York (State) |z Kings County |x Societies, etc.</subject>
+    <subject source="lcsh">Puerto Ricans |x Education |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Community activists -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+    <subject source="lcsh">Education -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Puerto Rican women |x Political activity |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Visiting cards</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Financial records</genreform>
+    <genreform source="aat">Administrative records</genreform>
+    <genreform source="aat">Printed ephemera</genreform>
+    <genreform source="aat">Articles</genreform>
+    <persname source="local">Denis, Antonia</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_277_i_love_ny_spring_festival/">arc_277_i_love_ny_spring_festival</eadid><filedesc><titlestmt><titleproper>Guide to the I Love New York Spring Festival ephemera and memorabilia collection <num>ARC.277</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 14, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:47 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>I Love New York Spring Festival ephemera and memorabilia collection</unittitle>
+    <unitid>ARC.277</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.98 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box and oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+    <abstract id="aspace_ef1d43c96cf40c54c6f2dbeded9e59c1" label="Abstract">This collection contains ephemera and memorabilia disseminated for the 1992 I Love New York Spring Festival in Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box 6" id="aspace_5f4d6982db06f9009bd47caa97e73a8c" label="Mixed Materials" type="Oversize">ARC.277 2 of 2</container>
+    <container altrender="Half Manuscript Box Letter" id="aspace_e685dc78b6059e61b4205414fc275a9e" label="Text" type="Box">ARC.277 1 of 2</container>
+  </did>
+  <processinfo id="aspace_2e85f9078558b2c966bfcd0257e195b3">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p><p>The collection combines the accessions 1992.011 and 1992.032.</p>  </processinfo>
+  <acqinfo id="aspace_a2bf780bb0d3572a5d6ad0eeb2e13fa5">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1992.</p>  </acqinfo>
+  <prefercite id="aspace_8c3577b8e855f4c3debfb9f7c58950ba">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); I Love New York Spring Festival ephemera and memorabilia collection, ARC.277, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_1b4b8991ca89533b739e4670411319dd">
+    <head>Scope and Contents</head>
+<p>This collection contains ephemera and memorabilia disseminated for the 1992 I Love New York Spring Festival in Brooklyn.  Items include press releases, brochures, and posters related to festival events, as well as organizations such as the Brooklyn Academy of Music, the Brooklyn Botanic Garden, the Brooklyn Historical Society, and the Brooklyn Museum.  A souvenir bag, wall calendar, and button are also included.</p>  </scopecontent>
+  <accessrestrict id="aspace_9de6cb3c5430f948730a62cd1ff0f063">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_a8fce3ddd9a0313b6169d17cc696ab40">
+    <head>Historical Note</head>
+<p>The I Love New York Spring Festival took place in Brooklyn from May 21 to June 21, 1992 and was a publicity campaign to generate increased interest and tourism in the borough of Brooklyn.  The festival highlighted Brooklyn's iconic landmarks, neighborhoods, parks, arts and cultural organizations, and restaurants.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Festivals |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Tourism |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+    <genreform source="aat">Press releases</genreform>
+    <genreform source="aat">Brochures</genreform>
+    <genreform source="aat">Printed ephemera</genreform>
+    <genreform source="aat">Memorabilia</genreform>
+    <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
+    <corpname rules="aacr" source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Brooklyn Museum</corpname>
+    <corpname rules="aacr" source="naf">Brooklyn Botanic Garden</corpname>
+    <corpname source="local">I Love New York Spring Festival</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

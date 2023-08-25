@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_190_matlack/">arms_1978_190_matlack</eadid><filedesc><titlestmt><titleproper>Guide to the Timothy Matlack farm auction broadside <num>1978.190</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 5, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:13:01 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Timothy Matlack farm auction broadside</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Matlack, Timothy</persname>
+    </origination>
+    <unitid>1978.190</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1823/1823" type="inclusive">1823</unitdate>
+    <abstract id="aspace_0b20c6f3bfae7353720c4e02690e49ab">A broadside, dated 1823, that advertises the auction of a farm locted in Flushing, Queens to be sold by Timothy Matlack. The farm was situated on 248 acres of land and was located on the banks of Little Neck Bay. The broadside provides detailed information on the characteristics of the property.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_fdd7a1a5ab58b3bb7a5c5308da25957f" label="Text" type="Box">A0092</container>
+  </did>
+  <prefercite id="aspace_bed74e186932f1823f3fcc1f8a95a17f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Timothy Matlack farm auction broadside, 1978.190, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_1128011f01597b61628abed92d5c711b">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1978.</p>  </acqinfo>
+  <accessrestrict id="aspace_0f04b83b75f909ffdab20a8ddecde9d9">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Broadsides (notices)</genreform>
+    <subject source="lcsh">Farms |z New York (State) |z Queens County</subject>
+    <subject source="lcsh">Auctions |z New York (State) |z Queens County</subject>
+    <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

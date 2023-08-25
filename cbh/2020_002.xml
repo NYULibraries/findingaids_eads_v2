@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2020_002/">2020_002</eadid><filedesc><titlestmt><titleproper>Guide to the Khalil Abdulkhabir photographs of the Dar-ul-Islam movement <num>2020.002</num></titleproper><author>Mary Mann</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 22, 2020</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:06 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Khalil Abdulkhabir photographs of the Dar-ul-Islam movement</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Abdulkhabir, Khalil</persname>
+    </origination>
+    <unitid>2020.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7.52 Megabytes</extent>
+      <extent altrender="carrier">in 16 digital photographic images in jpeg format.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1972/1977" type="inclusive">1972-1977</unitdate>
+    <abstract id="aspace_c987df7475f28057a5b8c5c2c00baa23">The Khalil Abdulkhabir photographs of the Dar-ul-Islam movement collection comprises sixteen digital photographic images taken by Khalil Abdulkhabir documenting the activities of Brooklyn's Dar-ul-Islam community in the 1970s. The Dar-ul-Islam, known as "the Dar", was one of the first and most significant grassroots movements established by African-American Sunni Muslims in America. The Brooklyn Dar community was focused around the Yasin Mosque, at 52 Herkimer Place in  Bedford-Stuyvesant.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_0a015cbaadc4397902ae2819756a9e8c">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_302542a3f7929950d384f3174a367820">
+    <head>Conditions Governing Use</head>
+<p>Permission to publish or reproduce must be secured from Brooklyn Historical Society.</p>  </userestrict>
+  <acqinfo id="aspace_95c2edac888d2b1d41ec924dc4ba6b6d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Kamila Barbour, daughter of Khalil Abdulkhabir, 2020.</p>  </acqinfo>
+  <scopecontent id="aspace_fd8363996988c7111c89f402bb54c9ac">
+    <head>Scope and Contents</head>
+<p>This Khalil Abdulkhabir photographs of the Dar-ul-Islam movement collection comprises sixteen digital photographs, primarily black and white, of Dar-ul-Islam activities, taken by Khalil Abdulkhabir between 1972 and 1977. The Dar-ul-Islam, known as "the Dar", was one of the first and most significant grassroots movements established by African-American Sunni Muslims in America. The Bedford-Stuyvesant Dar community was focused around the Yasin Mosque, at 52 Herkimer Place. The photographer, Khalil Abdulkhabir, discovered photography during his work with Youth in Action, an anti-poverty program in Brooklyn, NY. He devoted his time to photography projects designed to educate and motivate youth in the Bedford-Stuyvesant neighborhood. Abdulkhabir and his wife Tunura raised seven children in the Dar and he currently resides in Syracuse, NY.</p>  </scopecontent>
+  <prefercite id="aspace_1de0f969562662b9f4dd74ba5d0ad51f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Khalil Abdulkhabir photographs of the Dar-ul-Islam movement, 2020.002, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <relatedmaterial id="aspace_f74dafdbcdabeed5b3b638205e67bfbb">
+    <head>Related Materials</head>
+<p>Muslims in Brooklyn oral histories (2018.006)</p>  </relatedmaterial>
+  <processinfo id="aspace_e50914d1bd848b4c8804d008c079dd4b">
+    <head>Processing Information</head>
+<p>The photographs in digital format were donated by the photographer's daughter in no particular order by subject, date, or location. Digital files were given matching object identification numbers and are stored on a networked server.</p>  </processinfo>
+  <arrangement id="aspace_a3b13a56feed21ffe2df546216fc4401">
+    <head>Arrangement</head>
+<p>Items are arranged by date.</p>  </arrangement>
+  <otherfindaid id="aspace_8de444392857282924167e838d38420d">
+    <head>Other Finding Aids</head>
+<p>Item-level description and images are available for searching via PastPerfect Online.</p>  </otherfindaid>
+  <controlaccess>
+    <subject source="lcsh">Muslims |z New York (State) |z New York</subject>
+    <subject source="lcsh">Black Muslims</subject>
+    <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+    <subject source="lcsh">African Americans</subject>
+    <subject source="lcsh">Photography |z New York (State) |z New York</subject>
+    <subject source="lcsh">Halal food -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Islamic religious education -- United States</subject>
+    <subject source="lcsh">Religious institutions |z New York (State) |z New York</subject>
+    <subject source="lcsh">Religious education of children |z New York (State) |z New York</subject>
+    <subject source="lcsh">Mosques -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Photographers |z New York (State) |z New York</subject>
+    <subject source="lcsh">Festivals |z New York (State) |z Kings County</subject>
+    <corpname rules="dacs">Dar-ul-Islam Movement</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_1c916f680b705173d6b2d6dfee0d7af6" level="file"><did><unittitle>Brother from Yasin Mosque hands out dawa literature at street bazaar, Nostrand Ave and Fulton Street</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_bea2285e105edf8bd59e1ebdca473a17" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_2055c581fc8b58b7127399b671c74c3b" level="file"><did><unittitle>Congresswoman Shirley Chisholm visits the Dar-ul-Miska table at a street festival on Fulton Street</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container id="aspace_71cef409595d16138c40ddaf1001a12a" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_8d57a49cca6c7ca9afcc8f7503917f68" level="file"><did><unittitle>Brother from Yasin Mosque and Nation of Islam brother, Nostrand Ave and Fulton Street</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_1b5be6a045d9ddd07ed02a264d47dfd2" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_dd52256577711036b36c8f79f56a709e" level="file"><did><unittitle>Bazaar merchant at the Islamic Center of Washington</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_5efa6e4bde5326af2791b02ec099ad29" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_4b5bee018934cc6dd1cbcd9488bd1bfe" level="file"><did><unittitle>Members from affiliated Dar mosques in the courtyard of the Islamic Center of Washington</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_7afe6915341eeb01f3e8c4d2191b189e" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_a0b5fa19f8d07a90f6f9ee0651a1bdd3" level="file"><did><unittitle>Jawwala Scouts Boy Scout Troop 599 asking for donations at the Islamic Center of Washington</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_755a4dd86c4840c4704fb8bdd011142a" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_799aa0cd76d53876a00b9f1534972be0" level="file"><did><unittitle>Rad members posing across the street from Yasin Mosque</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_418daf922ef09d30b42256b50898f39a" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_15edd06833868351fd50bcbe0024e0c1" level="file"><did><unittitle>Ministers from Yasin Mosque, members of the Muslim Students Association and Association of Muslim Social Scientists at a conference in Painted Post, NY</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_cbdfd7bdaee6b7e872f3b580679bcb7b" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_4eaaddd7f7df780f96a7cb90b3105864" level="file"><did><unittitle>Conference speaker addressing attendees, Painted Post, NY</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container id="aspace_01a762d67a0c5c2ef76cd0dc0d4ff9f8" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_1b7fec4367b5c3a1015519841f750600" level="file"><did><unittitle>Elder Somali traveler and editor of Jihad-ul-Akbar magazine conversing in Brooklyn Botanic Garden</unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_d75af1a7a78860b24cb55a37ca74e445" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_c0823a8d9c79fc633b83ac8b330927c5" level="file"><did><unittitle>Jawwala Scouts in racing competition at Ten Mile River Scout Camp, Catskills, NY</unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container id="aspace_309e2e6fce8cc114235a734635193ada" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_80352016fa18831fcdb4dabd20af4003" level="file"><did><unittitle>Inspecting meat at The Halal Meat Store, 143 Court Street</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_57500dc0cbe37147dec9e697f6624fc2" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_66d767c6623f173cfb058d3361e0e13c" level="file"><did><unittitle>Teacher instructing Madrassah-tush-Shaheedain students in a satellite building on Bedford Ave and Jefferson Street</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_560bb439dce9520bf0dd390230aa2344" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_f109d1266b36f898130806e95b3773a2" level="file"><did><unittitle>Teacher from Madrassah-tush-Shaheedain with children outside Yasin Mosque</unittitle><unitdate datechar="creation" normal="1975/1975">1975</unitdate><container id="aspace_6c76c0896c8de24c3996f889e8c62dff" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_9c84c01d0f03658fb9b2a7aeac2b58c1" level="file"><did><unittitle>Families celebrating Eid Prayer at Restoration Center, 1368 Fulton Street</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_9555fb88310736f4946d11ce235e9357" label="Graphic Materials" type="item">digital files</container></did></c><c id="aspace_391982cb5cd83855929dac635a084209" level="file"><did><unittitle>Studio test shot at Reflection Studios, 93 Putnam Avenue</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container id="aspace_859860e26d8549d073f78b0bcdbb2841" label="Graphic Materials" type="item">digital files</container></did></c></dsc>
+</archdesc>
+</ead>

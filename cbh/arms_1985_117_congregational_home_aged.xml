@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_117_congregational_home_aged/">arms_1985_117_congregational_home_aged</eadid><filedesc><titlestmt><titleproper>Guide to the New York Congregational Home for the Aged annual reports <num>1985.117</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 19, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:21 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>New York Congregational Home for the Aged annual reports</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">New York Congregational Home for the Aged (New York, N.Y.)</corpname>
+    </origination>
+    <unitid>1985.117</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.21 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1910/1925" type="inclusive">1910-1925</unitdate>
+    <abstract id="aspace_acedbb6f13ee7f8eb643821fa62c88f7">The New York Congregational Home for the Aged annual reports span the period 1910 to 1925. The reports are compiled in two bound volumes and feature extensive summary information on the Home, including listings and directories of officers, directors, managers, committees, and auxiliaries; lists of the Home's inhabitants (including the churches they came from, dates of admittance, and remarks on whether the resident left the home or passed away during the reviewed year); minutes of annual meetings; reports of directors, managers, physicians, and auxiliaries; financial statements and summaries of donations; lists of members and contributors from each of the Home's member churches; and the Home's certificate of incorporation, bylaws, and rules and regulations. Also included is a separate publication containing the Home's certificate of incorporation, bylaws, and rules.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Half Manuscript Box Legal" id="aspace_0e251b111d6ae976e43222ee2aae5a94" label="Text" type="Box">1985.117 1 of 1</container>
+  </did>
+  <bioghist id="aspace_9481f6315a5a50a98118ba71066e420a">
+    <head>Historical Note</head>
+<p>The New York Congregational Home for the Aged was incorporated in 1910, and was funded by the Brooklyn-Manhattan Conference of Congregational Churches.  Located in Brooklyn, the Home provided care and housing for elderly men and women affiliated with the Congregational denomination within Conference limits.  Its original location was 125-127 Gates Avenue, but by 1917 it had relocated to 123 Linden Avenue.  As of 2010, the Home continues to serve elderly members of the Congregational parish at 135 Linden Boulevard.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>New York Congregational Home for the Aged. <emph render="italic">Seventh Annual Report and Certficate of Incorporation, By-Laws and Rules of the New York Congregational Home for the Aged</emph>. Brooklyn, N.Y.: Guide Printing &amp; Publishing Co., 1916.</item>
+      <item>New York Congregational Home for the Aged. <emph render="italic">Eighth Annual Report and Certficate of Incorporation, By-Laws and Rules of the New York Congregational Home for the Aged</emph>. Brooklyn, N.Y.: Guide Printing &amp; Publishing Co., 1917.</item>
+      <item>New York Congregational Home for the Aged Foundation. "New York Congregational Home for the Aged Foundation." Accessed November 19, 2010. http://www.nycnc.org/foundation.htm</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_e27197b6a5f8243b80da0360866fcb15">
+    <head>Scope and Contents</head>
+<p>The New York Congregational Home for the Aged annual reports span the period 1910 to 1925.  The reports are compiled in two bound volumes and feature extensive summary information on the Home, including listings and directories of officers, directors, managers, committees, and auxiliaries; lists of the Home's inhabitants (including the churches they came from, dates of admittance, and remarks on whether the resident left the home or passed away during the reviewed year); minutes of annual meetings; reports of directors, managers, physicians, and auxiliaries; financial statements and summaries of donations; lists of members and contributors from each of the Home's member churches; and the Home's certificate of incorporation, bylaws, and rules and regulations.  Also included is a separate publication containing the Home's certificate of incorporation, bylaws, and rules.</p>  </scopecontent>
+  <accessrestrict id="aspace_27a75363d753262929c24051f3b71b5f">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_2065ef18f03754141fd77da93241342b">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1985.</p>  </acqinfo>
+  <prefercite id="aspace_b8ccdd0751d4b65c89a2cbe7e991e730">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); New York Congregational Home for the Aged annual reports, 1985.117, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_1017b36feaedcf8f6adea5b2f5989f16">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Church membership |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Membership lists</genreform>
+    <subject source="lcsh">Church membership |z New York (State) |z New York</subject>
+    <genreform source="aat">Bylaws (administrative records)</genreform>
+    <genreform source="aat">Certificates of incorporation</genreform>
+    <genreform source="aat">Annual reports</genreform>
+    <genreform source="aat">Rules of procedure</genreform>
+    <subject source="lcsh">Old age homes |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Directories</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Financial statements</genreform>
+    <subject source="lcsh">Congregationalists |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church charities |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Manhattan (New York, N.Y.)</geogname>
+    <genreform source="aat">Volumes (documents by form)</genreform>
+    <subject source="lcsh">Congregationalists |z New York (State) |z New York</subject>
+    <subject source="lcsh">Church charities |z New York (State) |z New York</subject>
+    <corpname rules="aacr" source="naf">New York Congregational Home for the Aged (New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

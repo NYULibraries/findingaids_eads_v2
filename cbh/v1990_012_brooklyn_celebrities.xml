@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_012_brooklyn_celebrities/">v1990_012_brooklyn_celebrities</eadid><filedesc><titlestmt><titleproper>Guide the Brooklyn celebrities photography collection <num>V1990.012</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 8, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:21:15 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn celebrities photography collection</unittitle>
+    <unitid>V1990.012</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/2000" type="inclusive">circa late 20th century</unitdate>
+    <abstract id="aspace_288048af79eddf16557906acb31390a1" label="Abstract">Six items, including photographs and one postcard, dated circa 1970 to 1990. Images in the collection show celebrities born in Brooklyn, N.Y., including Woody Allen, Neil Diamond, Malcolm Forbes, and Eddie Murphy.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_4202c8c6d4cac09835e189980c38f9f4" label="Graphic Materials" type="Box">Prints by Accession 56</container>
+  </did>
+  <scopecontent id="aspace_91f16b61c5c3ee4551d7c27817cfae3c">
+    <head>Scope and Contents</head>
+<p>Six items, including photographs and one postcard, dated circa 1970 to 1990. Images in the collection show celebrities born in Brooklyn, N.Y., including Woody Allen, Neil Diamond, Malcolm Forbes, and Eddie Murphy.</p>  </scopecontent>
+  <accessrestrict id="aspace_93fbf92da7d28c0224412953201eb7eb">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_53d49c2a6379d9ef148f371f1158570e">
+    <head>Conditions Governing Use</head>
+<p>Based on the date range of this collection, all items will enter the public domain by 2110. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <otherfindaid id="aspace_57cc14df445bfcd33dd0c52a02535a4f">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <prefercite id="aspace_382492081db55019a3d8cad6e22fb8e3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn celebrities photography collection, V1990.012, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_ac15346c5606d1d78f88c161c83a0c31">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <acqinfo id="aspace_3e70c1ba417aff6669585707c854501b">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Gallin Morey Associates, 1990.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Postcards</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Celebrities |z New York (State) |z Kings County</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_186/">mc_186</eadid><filedesc><titlestmt><titleproper>Guide to the Mary Agnes Brady Papers <num>MC.186</num></titleproper><author>Jonathan Lawler.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:52:27 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Mary Agnes Brady papers</unittitle>
+    <origination label="Creator">
+      <persname role="aut" rules="dacs" source="local">Brady, Mary Agnes</persname>
+    </origination>
+    <unitid>MC.186</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box and one oversize box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1939/1939">1939</unitdate>
+    <abstract id="aspace_2e3dd528b0ad69537cca9558880910c4" label="Abstract">This collection comprises the personal papers of Mary Agnes Brady, graduate student in the School of Education, Health, Nursing, and the Arts Professions (now the Steinhardt School of Culture, Education and Human Development).  This collections contains class notes, papers, and assignments relating to theater history, theory, and performance.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_5be955dfa9cd4e4ee9a8d01aae27d549">
+    <head>Scope and Contents</head>
+<p>This collection contains papers, play scripts, stage set designs, costume designs, scrapbooks and course notes by Mary Agnes Brady, a 1939 graduate of the School of Education.  Brady's class notes consist of the history, theory, and practice of theater.  The two scrapbooks in the collection contain images of costumes and set layouts designed by Brady as well as a script of Romeo and Juliet edited by her.</p>  </scopecontent>
+  <accessrestrict id="aspace_cc103b0a1fb3e5b1b3e551241e6ac96e">
+    <head>Access Restrictions</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_9609f07fa58a1645cd7ba81087ef300b">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>  </userestrict>
+  <prefercite id="aspace_e290bf3c6d7bfd31f13989a6e41db290">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: Identification of item, date (if known); Collection Name; MC 186; box number; folder number; New York University Archives</p>  </prefercite>
+  <arrangement id="aspace_1434c0c6d15c91505f038deaad9ccaa9">
+    <head>Arrangement</head>
+<p>Material is arranged by record type in a single series.</p>  </arrangement>
+  <bioghist id="aspace_88919cbc2ae0a6873d216ba325d99a7c">
+    <head>Biography of Mary Agnes Brady</head>
+<p>Mary Agnes Brady was a masters student in the School of Education, Health, Nursing, and the Arts Professions concentrating in theater.  She earned a Master of Arts degree in 1939. Prior to attending New York University, Brady received a Bachelor of Arts degree from Miami University in 1934.</p>  </bioghist>
+  <processinfo id="aspace_4226a2896b6189fd3d8315a6274f12dc">
+    <head>Preservation Action</head>
+<p>Collection contains fragile paper documents.  Preservation action, consisting of interleaving with archival paper, was taken on two colored drawings located in "Play Production."</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Theater.</subject>
+    <geogname source="lcsh">New York (N.Y.).</geogname>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <genreform source="aat">Notes.</genreform>
+    <corpname authfilenumber="(lccn)n80079859" source="naf">New York University. School of Education, Health, Nursing, and Arts Professions</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref17" level="series"><did><unittitle>Series I</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref8" level="file"><did><unittitle>Costumes Scrapbook</unittitle><unitdate datechar="creation">1939</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8acedda7b7bc88480883e9bdc5a4000c" label="Mixed Materials [31142063045390]" type="Box">1</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Class Notes</unittitle><unitdate datechar="creation">1939</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_c329579018b20932e255e1c0dcc11c00" label="Mixed Materials [31142063041233]" type="Box">2</container><container id="aspace_d7cd5254909cdfa989fbd681a900b5a3" parent="aspace_c329579018b20932e255e1c0dcc11c00" type="Folder">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Term Paper</unittitle><unitdate datechar="creation">1939</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_9b3da884a702136a55a814363caf020c" label="Mixed Materials [31142063041233]" type="Box">2</container><container id="aspace_5371c1cb8b75ce8d4a07fea0d588c4bb" parent="aspace_9b3da884a702136a55a814363caf020c" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Play Production</unittitle><unitdate datechar="creation">1939</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_f8058a781051f69339b02f9a37ab604f" label="Mixed Materials [31142063041233]" type="Box">2</container><container id="aspace_a130c8130508641d659afd9c3977140a" parent="aspace_f8058a781051f69339b02f9a37ab604f" type="Folder">3</container></did></c></c></dsc>
+</archdesc>
+</ead>

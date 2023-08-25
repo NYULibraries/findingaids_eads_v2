@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_124/">alba_124</eadid><filedesc><titlestmt><titleproper>Guide to the Elias Begelman Papers <num>ALBA.124</num></titleproper><author>Wendy Scheir</author></titlestmt><editionstmt><p>This version was derived from begelman.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:35:51 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Elias Begelman Papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Begelman, Elias, 1912-1959</persname>
+    </origination>
+    <unitid>ALBA.124</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1944" type="inclusive">1937-1944</unitdate>
+    <unitdate datechar="creation" normal="1938/1938" type="bulk">1938</unitdate>
+    <abstract id="aspace_6ac36814d5cb691a04e1587f6bf944b9" label="Abstract">Elias Begelman (1912-1959) served in the International Brigades as a volunteer in the Abraham Lincoln Briagde in Spain from January 1937 through October 1938, during which time he saw heavy action and served as translator and interpreter for Brigade headquarters. The collection includes letters Begelman wrote from Spain; letters from Artur Dorf to Leona Beal, Begelman's wife, during World War II; a typescript about a battle in Spain; and a letter from Begelman's commander during World War II.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <custodhist id="aspace_4f2e44f8e012c90f9cca4b21f70ad9d9">
+    <head>Provenance</head>
+<p>The Elias Begelman Collection was donated to Abraham Lincoln Brigade Archives in 1974 and 1975 by Leona Beal, Begelman's wife. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <accessrestrict id="aspace_8ec7a1cb6cf40654fc40a650da940bb1">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <bioghist id="aspace_6df7a7b3be2e42bd6344535e309b5738">
+    <head>Historical/Biographical Note</head>
+<p>Elias Begelman (1912-1959) was born in Riga, Latvia and grew up in the Williamsburg section of Brooklyn, New York. Telling his mother he was going to Chicago, Begelman joined the Abraham Lincoln Brigade and went to Spain in January 1937. He saw heavy action on several fronts, and also served for a stint as translator and interpreter for Brigade headquarters (he spoke eight languages). He returned to the United States in October 1938. Begelman later served in World War II.</p><p>Alternate spellings for Begelman found in this collection are Biegelman and Begilman. During the Spanish Civil War, he sometimes adopted the name Eli Simms, and addressed his brother as Michael Simms in letters to him. After the war Elias Begelman went by the name Ellis Beal; this was the name used by his wife, Leona.</p>  </bioghist>
+  <scopecontent id="aspace_90a2a08fd98c28a99aa9c118bbd16e17">
+    <head>Scope and Content Note</head>
+<p>The collection consists of letters from Begelman to his brother, Michael Simms, discussing the progress of the war in Spain and family situations back home (certain of these letters are copies of the originals typed by Begelman's wife, Leona). Also included are a five-page typescript by Begelman about capturing the town of Quinto; International Brigade documents; letters from the Friends of the Abraham Lincoln Brigade in New York to Simms; and a letter from Begelman's commander during World War II disputing "a file on his case which prevents him from ever being sent overseas." The collection also includes are a series of letters from Artur Dorf to Leona Beal while Dorf was serving in World War II. Dorf was a German anti-fascist who spent two and a half years in Spain as political commissar of the Sanitary Service of the International Brigades, and was subsequently held for several years in concentration camps in France and in North Africa.</p>  </scopecontent>
+  <arrangement id="aspace_d061a2d9b7c3975ea7d84dce2b1c75c2">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Spanish Civil War and World War II</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_0c711c9f814f7f09304b1dc3573481e0">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>ALBA collections at the Tamiment Library.</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_883a8eb172c49c8546e63906de8c5f7c">
+    <head>Separated Material</head>
+<p>Photographs from the Elias Begelman Collection have been transferred to the non-print section of the ALBA collection in the Tamiment Library and Robert F. Wagner Labor Archives (ALBA Photo #36).</p>  </separatedmaterial>
+  <userestrict id="aspace_e084dc677e9a9ca7b8a046ea7bcb3aa7">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <prefercite id="aspace_256842fb94cfa5eb135a776c8aee9e26">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Typescripts</genreform>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- International brigades.</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+    <genreform source="aat">Articles.</genreform>
+    <persname source="local">Begelman, Elias, 1912-1959</persname>
+    <persname source="local">Beal, Ellis</persname>
+    <persname source="local">Beal, Leona</persname>
+    <corpname authfilenumber="(lccn)nr99000072" source="naf">Friends of the Abraham Lincoln Brigade</corpname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV</corpname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+    <persname source="local">Dorf, Artur</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: Spanish Civil War and World War II</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Beal, Ellis: New York Times Death Notice</unittitle><unitdate datechar="creation">Oct 1959</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ef0617fde4bee185027fa3547ff9955a" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_4b3fe206caa86028bf7546160e2a94df" parent="aspace_ef0617fde4bee185027fa3547ff9955a" type="Folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence: Artur Dorf to Leona Beal</unittitle><unitdate datechar="creation">Dec 1943-Aug 1944</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8dbbfa2ec41e30b966945f8e103aebcb" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_59cf79f4e4c7faa49b424bcaa7369837" parent="aspace_8dbbfa2ec41e30b966945f8e103aebcb" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence: Elias Begelman to Michael Simms</unittitle><unitdate datechar="creation" normal="1937/1944" type="inclusive">undated , Jan 1937-Aug 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b4c0ec333ac06bfda5dbe3d365e9e778" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_10f0f8fb9124bfbac1602a1a51a72509" parent="aspace_b4c0ec333ac06bfda5dbe3d365e9e778" type="Folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence: Friends of the Abraham Lincoln Brigade to Michael Simms</unittitle><unitdate datechar="creation">Feb 1938-Sep 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f1e7de2c2248d3c87ec85c2a489dc893" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_c96ae96187dde16a63b6dae6a9cb643b" parent="aspace_f1e7de2c2248d3c87ec85c2a489dc893" type="Folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence: General</unittitle><unitdate datechar="creation">May 1937-May 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c58727c16394e7bb12599bc873f079e5" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_26db8b9c95e416075c4ec2ddbf3deee8" parent="aspace_c58727c16394e7bb12599bc873f079e5" type="Folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Hot Spot in Quinto: An actual experience of the war in Spain (typescript)</unittitle><unitdate datechar="creation" normal="1937/1944" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9da56c49e80e8748ca37b1ab18d4bc7b" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_4aebf158c75e62be6130d6020416bd0b" parent="aspace_9da56c49e80e8748ca37b1ab18d4bc7b" type="Folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>International Brigades: Authorizations, official business</unittitle><unitdate datechar="creation">Jan 1938-Sep 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_baf920fb8296d05d50bbb006d18e9053" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_80ef272211339f027835256e9482d3f6" parent="aspace_baf920fb8296d05d50bbb006d18e9053" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>World War II: Request for transfer</unittitle><unitdate datechar="creation">Jul 1943</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_691db5cfe2554352cbbdb432de2ad276" label="Mixed Materials [31142062756419]" type="Box">1</container><container id="aspace_561469ae1e9f9394ee6e65aa173f674d" parent="aspace_691db5cfe2554352cbbdb432de2ad276" type="Folder">8</container></did></c></c></dsc>
+</archdesc>
+</ead>

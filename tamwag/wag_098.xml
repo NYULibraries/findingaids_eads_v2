@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_098/">wag_098</eadid><filedesc><titlestmt><titleproper>Joseph Califf Papers <num>WAG.098</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>Brief EAD; Finding Aid (Paper)</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:27:59 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Joseph Califf Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Califf, Joseph, 1911-</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Califf, Joseph, 1911-</persname>
+    </origination>
+    <unitid>WAG.098</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1936/1977" type="inclusive">1936-1977</unitdate>
+    <unitdate datechar="creation" normal="1936/1950" type="bulk">1936-1950</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_ec1b1d997b4cee5dde655f41db3a6711" label="Mixed Materials [31142062761708]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal" id="aspace_5427232f9192c76a9e3efd5c6b5c1f6d" label="Mixed Materials [31142062761716]" type="Box">2</container>
+  </did>
+  <bioghist id="aspace_07ae5cb28d66688b066e15cf018a156a">
+    <head>Historical/Biographical Note</head>
+<p>Joseph Califf was born in 1911 in Pennsylvania. He grew up in Louisville, Kentucky, and attended the University of Kentucky and then the University of the South, where he graduated in 1932. He worked for various New Deal relief agencies first in Kentucky and then in Washington, D.C., where he worked for the Resettlement Administration, the Works Progress Administration, and finally the Wage and Hour Division of the Department of Labor. While working in Washington, Califf was actively opposed to the policies of the leadership of his union, the American Federation of Government Employees, AFL. When the AFL expelled his local in 1936, it joined the United Federal Workers of America, CIO. </p><p>In 1944, Califf went to work for the United Auto Workers, where he handled wage stabilization cases before the National War Labor Board. The next year he became Education and Research Director of the Food and Tobacco Workers in Philadelphia, writing industry reports and participating in contract negotiations. In 1950, when the FTA was expelled from the CIO and merged with several office and distributing workers unions, Califf took a research position at District 65. He opposed the action by District 65 to go back into the CIO, and subsequently left the union. </p><p>In the 1950s, Califf worked briefly with a number of unions, among them the United Mine Workers, and the Fur Workers Union. He worked for the Civil Rights Congress and as a steelworker before getting a job teaching social science and economics at the State University of New York at Potsdam. </p>  </bioghist>
+  <scopecontent id="aspace_33a2aac6e163220eb75eca973e4eca24">
+    <head>Scope and Contents</head>
+<p>The Papers of Joseph Califf reflect his union activities and work for the Food, Tobacco, Agricultural and Allied Workers Union of America (FTA-CIO). The papers, which comprise 1.2 linear feet, span the years 1936-1977, with the bulk of the material dated ca. 1940-1950. </p><p>The collection is divided into two series. Series I., Pre-FTW Work, comprises approximately .25 linear feet. This series contains material regarding the organization and early years of the United Federal Workers of America, Local 12, of which Califf was a member. This series also contains materials generated by the National War Labor Board and the National Labor Relations Board. Most of these notes, reports and a few government documents pertain to agricultural labor and labor relations in the food processing industry. </p><p>Series II, FTA-CIO, comprises approximately .75 linear feet. The material in this series pertains to Califf's work as research director of the FTA in the late-1940s. The bulk of this series consists of research reports on various food and tobacco industries, written by Califf and others on his staff. Of particular interst are the organizing and membership statistics which give an overview of the industry, its racial and gender compositions, and the state of unionization for the year 1948. </p><p>The collection provides little information about the internal operations of the FTA. The collection does, however, adequately document labor relations in the food processing and tobacco industries in the 1940s. The collection also provides some documentation regarding early union organizing in the federal government (the Department of Labor). </p><p>INVENTORY AVAILABLE IN REPOSITORY; CONTACT : tamiment.wagner@nyu.edu.</p>  </scopecontent>
+  <accessrestrict id="aspace_05efbee312864ebde6949993071e8047">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_6c696f81f6f3db51d084642751cfaa07">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Joseph Califf was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <acqinfo id="aspace_e05bac7b44af5645d3de96a636966dfa">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Joseph Califf at an unknown date. The accession number associated with this gift is 1978.014.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Tobacco workers |z United States.</subject>
+    <subject source="lcsh">Labor leaders -- United States.</subject>
+    <subject source="lcsh">Labor unions |x Food industry employees |x Organizing.</subject>
+    <corpname authfilenumber="(lccn)n88159627" source="naf">Food, Tobacco, Agricultural, and Allied Workers Union of America</corpname>
+    <corpname source="local">United Federal Workers of America. Local 12</corpname>
+    <corpname authfilenumber="(lccn)n79022254" source="naf">United States. National Labor Relations Board</corpname>
+    <corpname authfilenumber="(lccn)n85304801" source="naf">United States. National War Labor Board (1942-1945)</corpname>
+    <persname role="dnr" rules="dacs" source="local">Califf, Joseph, 1911-</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_136_prospect_park/">arms_1974_136_prospect_park</eadid><filedesc><titlestmt><titleproper>Guide to the New York City Department of Parks records on Prospect Park <num>1974.136</num></titleproper><author>Nicholas Pavlik and Weatherly Stephen</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 11, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:18:18 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>August 2023</date><item>Revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>New York City Department of Parks records on Prospect Park</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">New York (N.Y.). Dept. of Parks</corpname>
+    </origination>
+    <unitid>1974.136</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in seven folders.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1965/1967" type="inclusive">1965-1967</unitdate>
+    <abstract id="aspace_0e2afeff58d38f580604837717c03e1b">This collection contains photocopies of records of the New York City Department of Parks dating from 1965 to 1967 and relating to various matters at Brooklyn's Prospect Park, including the rehabilitation of the Park's boathouse, the construction of the children's farm, the appointment of curators of the Park, and a multiple wedding ceremony.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_629d12369d2418289a60b4ea15fe025f" label="Mixed Materials" type="Box">A0013</container>
+  </did>
+  <accessrestrict id="aspace_33bc88b919796dd797da08634349b590">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ce159938512caff80dfd314d51cfd3c7">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Donald Simon, 1972.</p>  </acqinfo>
+  <arrangement id="aspace_5d9f6bb95eb02f6bd1b11c55dd33068f">
+    <head>Arrangement</head>
+<p>The collection is arranged into seven folders by subject and type.</p>  </arrangement>
+  <bioghist id="aspace_11a9cc82b691b12407059e4c43d0eb82">
+    <head>Historical note</head>
+<p>The New York City Department of Parks was formed in 1934 when Mayor Fiorello H. LaGuardia discontinued the independent parks departments of the city's five boroughs and consolidated them to form a unifying administrative body to govern the entirety of the city's park system. LaGuardia appointed Robert Moses as the Parks Department's first commissioner. After becoming a branch of the Parks, Recreation and Cultural Affairs Administration under Mayor John V. Lindsay in 1968, the Parks Department was reorganized as the Department of Parks &amp; Recreation under Mayor Abraham D. Beame in 1976.</p><p>Prospect Park, located in Brooklyn, N.Y. was designed by Frederick Law Olmsted and Calvert Vaux, the landscape architects responsible for Central Park and Riverside Park in Manhattan. Construction began in 1866 and continued into the 1870s. The park's design included a meadow, wooded ravine, and lake. Prospect Park was immensely popular upon opening, and attracted visitors from across the social classes. The park's rural scenery and recreation areas were supplemented by new features such as a zoo and playgrounds in the early 20th century. Prospect Park is one of the largest parks in Brooklyn and receives millions of visitors each year.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>New York City Deparment of Parks &amp; Recreation. "A Timeline of New York City Department of Parks &amp; Recreation History." Accessed May 11, 2011. http://www.nycgovparks.org/sub_about/parks_history/historic_tour/historic_tour.html</item>
+      <item>Prospect Park Alliance. "Timeline." Accessed April 1, 2011. http://www.prospectpark.org/visit/history/timeline</item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_9550b4c798a8c219d9e5e42cc5032aae">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_022c03b7d2314ef96dbf11386b5f30d8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); New York City Department of Parks records on Prospect Park, 1974.136, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_26479dd0c2c7edc20844b275c85cd110">
+    <head>Processing Information</head>
+<p>This collection was originally minimally processed to the collection level. In August 2023 folder headings were added and the finding aid revised by Dee Bowers.</p>  </processinfo>
+  <relatedmaterial id="aspace_0f40eb0943b1de4615bebc2b4047c898">
+    <head>Related Materials</head>
+<p>For materials relating to Prospect Park in the 1960s, see the following collections:</p><p>Everett and Evelyn Ortner papers and photographs ARC.306</p><p>Brooklyn Ephemera Collection BCMS.0007</p><p>Downtown Brooklyn Development Association records 1979.021</p><p>Park Slope Civic Council (PSCC) records BCMS.0083</p>  </relatedmaterial>
+  <scopecontent id="aspace_e13edd5507c248119eaff37f35ac07ec">
+    <head>Scope and Contents</head>
+<p>This collection contains photocopies of records of the New York City Department of Parks dating from 1965 to 1967 and relating to various matters at Brooklyn's Prospect Park, including the rehabilitation of the Park's boathouse, the construction of the children's farm, the appointment of curators of the Park, and a multiple wedding ceremony. Items include correspondence, court records, and newspaper clippings.</p>  </scopecontent>
+  <userestrict id="aspace_d562bc4ab3371d04690df9c93ecdf6d6">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Parks |z New York (State) |z Kings County</subject>
+  </controlaccess>
+  <dsc><c id="aspace_36fb70aa2bbaf7d69470a7962e6e72c7" level="file"><did><unittitle>Boat House rehabilitation</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_9efb7d3e23fb776b02ea22eed1d2e491" label="Mixed Materials" type="Box">A0013</container><container id="aspace_0be28af9daa4f99bb591c7ee0f46644b" parent="aspace_9efb7d3e23fb776b02ea22eed1d2e491" type="Folder">1</container></did></c><c id="aspace_aa5c275f17097bf803c0c60aaa22b25c" level="file"><did><unittitle>Children's Farm - background information</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f95e650d705e6a0d9db89e1f67e90763" label="Mixed Materials" type="Box">A0013</container><container id="aspace_9806adea30a6d9396341b5878e966565" parent="aspace_f95e650d705e6a0d9db89e1f67e90763" type="Folder">2</container></did></c><c id="aspace_b90f745119f35e69af94c8556226aa2f" level="file"><did><unittitle>Children's Farm - correspondence</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_440cd8638234c7d391c7573e985bce2f" label="Mixed Materials" type="Box">A0013</container><container id="aspace_1a61563c05ff3651bbd929c9fa71d91e" parent="aspace_440cd8638234c7d391c7573e985bce2f" type="Folder">3-4</container></did></c><c id="aspace_124f9a177b6fbc22ec0f615e3659c638" level="file"><did><unittitle>Children's Farm - court records</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_eec8a8c361835b7c5eef0bcde43b5cc5" label="Mixed Materials" type="Box">A0013</container><container id="aspace_8684f8cc6ca5ecbe810c7cf83d015fef" parent="aspace_eec8a8c361835b7c5eef0bcde43b5cc5" type="Folder">5</container></did></c><c id="aspace_109d2e363234862ac9331f8a5380566c" level="file"><did><unittitle>"Wed-In" multiple wedding ceremony</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_344b270bf8a3d7f98cd342049b785d8a" label="Mixed Materials" type="Box">A0013</container><container id="aspace_93d4471ec87c1f987c39357b795a5c8f" parent="aspace_344b270bf8a3d7f98cd342049b785d8a" type="Folder">6</container></did></c><c id="aspace_1aee5ec70252bedbaa7d7d9be86b12ca" level="file"><did><unittitle>Newspaper clippings</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2aa40376974da9c447081a4f5b43d40d" label="Mixed Materials" type="Box">A0013</container><container id="aspace_d3ffbab90b7d0aef03b3c2f5b2c61c53" parent="aspace_2aa40376974da9c447081a4f5b43d40d" type="Folder">7</container></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_562_provost/">arms_1977_562_provost</eadid><filedesc><titlestmt><titleproper>Guide to the Andrew J. Provost letter <num>1977.562</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 22, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:14:36 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Andrew J. Provost letter</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Provost, Andrew J.</persname>
+    </origination>
+    <unitid>1977.562</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1898/1898" type="inclusive">1898</unitdate>
+    <abstract id="aspace_d5b66d53fed6c98311cc4cd70602cefd">One four-page manuscript written by Andrew J. Provost detailing the history of two oil paintings of Captain Pieter Praa and his daughter Christine, which Provost potentially donated to the Long Island Historical Society (later Brooklyn Historical Society) in 1898.  Andrew J. Provost (1834-1925) was the descendant of David Provost, mayor of the town of Brooklyn (or Breuckelen) from 1698 to 1699, and for whom Provost Street in Brooklyn was named.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_5e66a5fd88c1956143c26565155feef1" label="Text" type="Box">A0072</container>
+  </did>
+  <acqinfo id="aspace_0e14a423d09bb6aea2264d9c1ba4e0e6">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Andrew J. Provost Jr., 1980.</p>  </acqinfo>
+  <bioghist id="aspace_506ff99d4a208daa7982b3818d3be9c0">
+    <head>Biographical Note</head>
+<p>Andrew J. Provost (1834-1925) was the descendant of David Provost, mayor of the town of Brooklyn (or Breuckelen) from 1698 to 1699, and for whom Provost Street in Brooklyn was named.  Andrew J. Provost married Harriet Titas (1835-1910) in 1856 and eventually resided at 403 Washington Avenue in Brooklyn.  He was Vice-President of the Citizens Committee of Greenpoint, which aided families of soldiers in the Army.</p>  </bioghist>
+  <scopecontent id="aspace_0b375e61e7dedd5b128fa9f2e364488e">
+    <head>Scope and Contents</head>
+<p>One four-page manuscript written by Andrew J. Provost detailing the history of two oil paintings of Captain Pieter Praa and his daughter Christine, which Provost potentially donated to the Long Island Historical Society (later the Brooklyn Historical Society) in 1898.</p>  </scopecontent>
+  <prefercite id="aspace_ab66aabe5ed03f03f8921207392bbf1a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Andrew J. Provost letter, 1977.562, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_fdfa6a54b34ccec64ba8fcf82ed848de">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <processinfo id="aspace_cac0ba503e39609888cadaca020d1d42">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level by Nicholas Pavlik on July 22, 2011. Finding aid updated by John Zarrillo in April 2017.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Art |z New York (State) |z Kings County |x History</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+    <subject source="lcsh">Historical museums |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">History |x Societies, etc.</subject>
+    <genreform source="local">Letters</genreform>
+    <subject source="lcsh">Museums |x Acquisitions |z New York (State) |z Kings County</subject>
+    <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
+    <persname source="local">Praa, Christine</persname>
+    <persname source="local">Praa, Pieter</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

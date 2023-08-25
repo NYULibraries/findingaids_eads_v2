@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_064_hess_brooklyn_bridge/">v1990_064_hess_brooklyn_bridge</eadid><filedesc><titlestmt><titleproper>Guide to the Joseph Hess collection of Brooklyn Bridge photographs <num>V1990.064</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:21 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Joseph Hess collection of Brooklyn Bridge photographs</unittitle>
+    <unitid>V1990.064</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">three items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1901/2000" type="inclusive">circa 20th century</unitdate>
+    <abstract id="aspace_d247090877487c9bc4c941f1ee6a0fc6" label="Abstract">Included is one aerial view of the bridge, as well as two views of the bridge shown from the Brooklyn waterfront looking south towards the Manhattan cityscape. Piers and boats are also shown in the photographs.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c94062baca981cb6e87dbf8d8573e882" label="Graphic Materials" type="Box">Prints by Accession 56</container>
+  </did>
+  <relatedmaterial id="aspace_188ce0edb33455a2d37535710ba59d05">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society holds additional manuscript and photographic collections related to the Brooklyn Bridge. Please consult with library staff for more information.</p>  </relatedmaterial>
+  <processinfo id="aspace_d8896093b1bc1bc0fa9fa0452eff9ed9">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <otherfindaid id="aspace_d2af3896f34a51ad38785b4cd6383b2b">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <userestrict id="aspace_6a3d51bac365ad51c597f25ad5835009">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_698d9a72d995b28ed6c21d196661b9f7">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Joseph Hess, 1990.</p>  </acqinfo>
+  <accessrestrict id="aspace_276b2f7d420f3d807778920bc4b04ba3">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_f79d8eb85bdc6b6c69fc48bd52e48be1">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Joseph Hess collection of Brooklyn Bridge photographs, V1990.064, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_102bc914ce41117d965f84f835a40c4d">
+    <head>Scope and Contents</head>
+<p>The Joseph Hess collection of Brooklyn Bridge photographs consists of three black-and-white 8 x 10 inch glossy photographs showing views of the Brooklyn Bridge, circa 1950. Included is one aerial view of the bridge, as well as two views of the bridge shown from the Brooklyn waterfront looking south towards the Manhattan cityscape. Piers and boats are also shown in the photographs.</p>  </scopecontent>
+  <bioghist id="aspace_6b318c23261ebbc140dbfc8808b4e4ec">
+    <head>Historical note</head>
+<p>The Brooklyn Bridge is a steel suspension bridge that spans the East River connecting the boroughs of Manhattan and Brooklyn in New York City. Completed in 1883, the bridge was called both the East River Bridge and the New York and Brooklyn Bridge until 1915 when the name was officially changed to the Brooklyn Bridge. The bridge was designated a National Historic Landmark in 1964 and was further designated a National Historic Civil Engineering Landmark in 1972.</p>  </bioghist>
+  <controlaccess>
+    <geogname source="lcsh">Manhattan (New York, N.Y.)</geogname>
+    <genreform source="aat">Marines (visual works)</genreform>
+    <geogname source="lcsh">New York (N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <subject source="lcsh">Waterfronts |z New York (State) |z New York</subject>
+    <subject source="lcsh">Piers |z New York (State) |z New York</subject>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.) |v Pictorial works</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <genreform source="aat">Cityscapes</genreform>
+    <geogname source="lcsh">East River (N.Y.)</geogname>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Aerial photographs</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1988_059_brodsky/">arms_1988_059_brodsky</eadid><filedesc><titlestmt><titleproper>Guide to the Sol Brodsky induction papers <num>1988.059</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 23, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:09 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Sol Brodsky induction papers</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Selective Service System (U.S.)</corpname>
+    </origination>
+    <unitid>1988.059</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+    <abstract id="aspace_b13c867e3d910b340e944acefdab95f1">Military induction papers for Brooklyn resident Sol Brodsky, dated May 3, 1943.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_72768064dbe9113820ef75056e48ed2e" label="Text" type="Box">A0109</container>
+  </did>
+  <prefercite id="aspace_5659d0645ff14e0758d7f782c966dfcc">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Sol Brodsky induction papers, 1988.059, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_ad14f7acec8a2b69aae97aee511bb9f4">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1988.</p>  </acqinfo>
+  <accessrestrict id="aspace_47b2b0c129ef3086087be5f9760d5bf7">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Military records</genreform>
+    <subject source="lcsh">World War, 1939-1945</subject>
+    <subject source="lcsh">Draft |z New York (State)</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <persname rules="dacs" source="local">Brodsky, Solomon</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

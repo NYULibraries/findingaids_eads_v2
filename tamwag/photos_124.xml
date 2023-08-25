@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_124/">photos_124</eadid><filedesc><titlestmt><titleproper>Guide to the Jack Doyle New York City Construction Photographs <num>PHOTOS.124</num></titleproper><author>Janet Greene and Jack Doyle</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2002</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:38:52 -0400</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Jack Doyle New York City Construction Photographs</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" rules="dacs" source="local">Doyle, Jack</persname>
+    </origination>
+    <unitid>PHOTOS.124</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1968/1987" type="inclusive">1968-1987</unitdate>
+    <abstract id="aspace_e28df657f18f196ee62797314be9a926">Jack Doyle was President and Business Agent of Iron Workers Local 40. Doyle took the photographs in the collection between 1968 and 1987, during the course of his work on four major building projects in New York City: World Trade Center Tower 1, 7 World Trade Center, Rockefeller Medical Center, and the J.P. Morgan Building.
+
+Doyle kept a camera in his tool kit and made a photographic record of aspects of the work which interested him, including new technology, difficult procedures, and near accidents. Many of the photographs depict the beams and girders that would form the buildings and the cranes and derricks needed to lift them into place. Doyle also took pictures of his friends and co-workers on the jobs. The collection documents the building construction processes of the period and the daily lives of union members.</abstract>
+    <langmaterial id="aspace_ed92d5aca13faf01f0d3db0f624524d1">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_319cda61a33d6609280d23c426cad230">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a6da08fc65a264b03a7ae01ae7e2f264">
+    <head>Immediate Source of Acquisition</head>
+<p>Jack Doyle sent a gift of 91 photographs of four major building projects in New York City between 1968-1987 in 2002. The accession numbers associated with this gift are 1950.164 and NPA.2002.045.</p>  </acqinfo>
+  <arrangement id="aspace_897d62380515455511f02fa6dbc95451">
+    <head>Arrangement</head>
+<p>Photographs are grouped by building project. Individual items were assigned numbers as Jack Doyle and Janet Greene captioned the photographs. The folder order reflects these numbers.</p>  </arrangement>
+  <bioghist id="aspace_954833c4f0c28e27018c9a488c3553fb">
+    <head>Historical/Biographical Note</head>
+<p>Jack Doyle was President and Business Agent of Iron Workers Local 40. The photographs in the collection were taken between 1968 and 1987, during the course of his work on four major building projects in New York City: World Trade Center Tower 1, 7 World Trade Center, Rockefeller Medical Center, and the J.P. Morgan Building.</p>  </bioghist>
+  <prefercite id="aspace_e84a4acf905604841aab66a46eb5a2ff">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jack Doyle New York City Construction Photographs; PHOTOS 124; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_3d63ff5347ca46623ca883dc3fd2a3a8">
+    <head>Processing Information</head>
+<p>Item level descriptions for the entire collection were written by Janet Greene and Joe Doyle shortly after the collection was donated in 2002, and this has served as the basis for subsequent arrangement and description.</p>  </processinfo>
+  <relatedmaterial id="aspace_33d9bedc44c896f8abb2241ee5fd92a1">
+    <head>Related Archival Materials</head>
+<p>Building Trades Oral History Project (OH 045)</p><p>International Association of Bridge, Structural and Ornamental Iron Workers, Local 580 Records (WAG 214)</p><p>International Association of Bridge, Structural and Ornamental Iron Workers, Local 0361 Records (WAG 156)</p><p>International Association of Bridge, Structural and Ornamental Iron Workers, Local 0197 Records (WAG 154)</p>  </relatedmaterial>
+  <scopecontent id="aspace_67601c30c966d48ef5f0a3ff451f87a1">
+    <head>Scope and Content Note</head>
+<p>The collection consists of ninety-one color prints taken between 1968 and 1987, during the course of four building projects in New York City: 7 World Trade Center (38 photographs); World  Trade Center, Tower 1 (24 photographs); Rockefeller Medical Center (20 photographs); and the J.P. Morgan Building (10 photographs). Jack Doyle took most of the photos himself, and all were taken with his camera.</p><p>Doyle kept a camera in his tool kit and made a photographic record of aspects of the work which interested him, including new technology, difficult procedures, and near accidents. Many of the photographs depict the beams and girders that would form the buildings and the cranes and derricks needed to lift them into place. Doyle also took pictures of his friends and co-workers on the jobs. </p><p>When the collection was donated in 2002, Doyle and Janet Greene created a list of captions for the photographs, which is also included in the collection. Each photograph has been numbered, and their contents can be determined by using this guide. The captions also frequently elaborate on the procedures shown, indicating what would happen before or after and sometimes including Doyle's reactions. The collection documents the building construction processes of the period and the daily lives of union members.</p>  </scopecontent>
+  <userestrict id="aspace_2963b02fe7a998273070d58fceb9e061">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Jack Doyle were transferred to New York University in 2002 by Jack Doyle. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Labor Archives. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">World Trade Center (New York, N.Y.)</subject>
+    <geogname source="lcsh">World Trade Center Site (New York, N.Y.)</geogname>
+    <subject source="lcsh">Skyscrapers -- Construction.</subject>
+    <subject source="lcsh">Building, Iron and steel</subject>
+    <subject source="lcsh">Cranes, derricks, etc.</subject>
+    <subject source="lcsh">Iron and steel workers |x Labor unions</subject>
+    <subject source="lcsh">Office buildings |z New York (State)</subject>
+    <corpname source="naf">International Association of Bridge, Structural and Ornamental Iron Workers</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle>Caption list written by Janet Greene and Jack Doyle</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a25da634bbf73fa7e5f9816f4b1aadf1" label="Mixed Materials [31142062724557]" type="Box">1</container><container id="aspace_caf714c37df6ffc3b5f15b9359614aad" parent="aspace_a25da634bbf73fa7e5f9816f4b1aadf1" type="Folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>7 World Trade Center</unittitle><unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b28e07fdc2a7cc9e5b937a945ec29ddd" label="Mixed Materials [31142062724557]" type="Box">1</container><container id="aspace_5b8b666538767b65bc93c890e80eaffd" parent="aspace_b28e07fdc2a7cc9e5b937a945ec29ddd" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>World Trade Center, Tower 1</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ac1c3334ce942a9258ddc7b35880a446" label="Mixed Materials [31142062724557]" type="Box">1</container><container id="aspace_881888014e86debff90d651bee2bbe6c" parent="aspace_ac1c3334ce942a9258ddc7b35880a446" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Rockefeller Medical Center</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a32f86263a90022e5e46bc4831bf883a" label="Mixed Materials [31142062724557]" type="Box">1</container><container id="aspace_94315d1bffdc1d11e4d5b0b73f1c938f" parent="aspace_a32f86263a90022e5e46bc4831bf883a" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>J.P. Morgan Building</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_eef8c714ff24cf71951e3635710edbe8" label="Mixed Materials [31142062724557]" type="Box">1</container><container id="aspace_59f75deaedbaa3e9646ec6d2503f3801" parent="aspace_eef8c714ff24cf71951e3635710edbe8" type="Folder">5</container></did></c></dsc>
+</archdesc>
+</ead>

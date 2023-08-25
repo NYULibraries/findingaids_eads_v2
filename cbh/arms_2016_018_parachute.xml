@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_018_parachute/">arms_2016_018_parachute</eadid><filedesc><titlestmt><titleproper>Guide to the Department of Parks and Recreation Coney Island Parachute Jump report <num>2016.018</num></titleproper><author>Katherine Palm</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:35 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Department of Parks and Recreation Coney Island Parachute Jump report</unittitle>
+    <origination label="Creator">
+      <corpname role="fnd" rules="aacr" source="naf">New York (N.Y.). Dept. of Parks and Recreation</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Hardesty &amp; Hanover</corpname>
+    </origination>
+    <unitid>2016.018</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+    <abstract id="aspace_5af331e85d380ce0b09a15bdae156e93">The collection consists of a report prepared in September 1983 by New York engineering firm Hardesty &amp; Hanover for the Department of Parks and Recreation concerning the structural integrity, historical status, and future potential of the Parachute Jump attraction in the Coney Island neighborhood of Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_3c501fa962fdf2d6cddb39bb172ca64f" label="Mixed Materials" type="Box">A0073</container>
+  </did>
+  <bioghist id="aspace_f293e24c6a0406df2ef809424909fc76">
+    <head>Historical note</head>
+<p>The Parachute Jump was originally designed as an amusement ride for the New York World's Fair (1939-1940).  Following the close of the fair, the Parachute Jump was sold and moved to the Coney Island neighborhood of Brooklyn, where it became part of the Steeplechase Park complex.  In 1968, the Parachute Jump was closed and Steeplechase Park was acquired by the City of New York in 1969.  The City attempted to sell the Parachute Jump in 1971, but received no bids.  Competing plans to demolish or preserve the ride arose.  In 1980, the Parachute Jump was listed on the National Register of Historic Places.  Parks Commissioner Gordon Davis called for analysis and recommendations to be prepared concerning the structural integrity, historical status, and future potential of the Parachute Jump.  The engineering firm of Hardesty &amp; Hanover delivered the resulting report in fall 1983.</p>  </bioghist>
+  <scopecontent id="aspace_f59aed79a47c03b4de9414c2d608ab57">
+    <head>Scope and Contents</head>
+<p>One copy of a report entitled "Study for Structural Safety Investigation and Recommendation for Reconstruction of the Parachute Jump at Coney Island, Borough of Brooklyn known as Study No. B169-382 (also known as Capital Project No. 114)" prepared by Hardesty &amp; Hanover Consulting Engineers in September 1983 for the Department of Parks and Recreation of the City of New York.  Included with the report are five schematic drawings relating to proposed reconstruction work, 40 color photographic prints, five black-and-white photographic prints, and sixteen color slides.  The color slides are instead copy slides of images of historic Brooklyn.</p>  </scopecontent>
+  <accessrestrict id="aspace_1eb694cbee37704c4207db2d3dc2ba40">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction</p>  </accessrestrict>
+  <processinfo id="aspace_6bed234a0cb48537ef6edd22ed4e2213">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_af41e0e524194dd4149636dda59bd953">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Department of Parks and Recreation Coney Island Parachute Jump report, 2016.018, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <userestrict id="aspace_b40e73a614a82951a2190692d05c35c8">
+    <head>Conditions Governing Use</head>
+<p>Copyright is likely held by the Department of Parks and Recreation of the City of New York and the collection is expected to enter the public domain in 2103.  Please consult library staff for more information.</p>  </userestrict>
+  <acqinfo id="aspace_80fe4bea0dce9cdfe72b7cfa68c3f049">
+    <head>Immediate Source of Acquisition</head>
+<p>Immediate source of acquisition unknown. Formally accessioned in March 2016.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Color slides</genreform>
+    <genreform source="aat">Schematic drawings</genreform>
+    <genreform source="aat">Photographic prints</genreform>
+    <subject source="lcsh">Amusement parks |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Reports</genreform>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="AE" mainagencycode="AE-NyNyUAD">ad_mc_030_ref162</eadid><filedesc><titlestmt><titleproper>Guide to the photograph album Snaps of Egypt and Palestine - Allenby's campaign from the Hisham Khatib Collection <num>AD.MC.030_ref162</num></titleproper><author>Jasmine Soliman</author></titlestmt><publicationstmt><publisher>Akkasah: Photography Archive (NYU Abu Dhabi)</publisher><address><addressline>New York University Abu Dhabi</addressline><addressline>Abu Dhabi P.O. Box 129188</addressline><addressline>akkasah@nyu.edu / www.akkasah.org</addressline><addressline>URL: <extptr xlink:href="https://akkasah.org/" xlink:show="new" xlink:title="https://akkasah.org/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 19:13:00 +0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Akkasah: Photography Archive (NYU Abu Dhabi)</corpname>
+    </repository>
+    <unittitle>Snaps of Egypt and Palestine - Hisham Khatib Collection</unittitle>
+    <unitid>AD.MC.030_ref162</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">38 Photographic Prints</extent>
+      <extent altrender="carrier">38 pages of an album - 'Snaps of Egypt and Palestine - Allenby's campaign' (Original catalogue number PH0038)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1880/1920" type="inclusive">1880s-1920s</unitdate>
+    <langmaterial>
+      <language langcode="ara">Arabic</language>
+.    </langmaterial>
+    <container id="aspace_94a5865fe5bcc87a5140cad791f3fdd1" label="graphic materials" type="E-records">Electronic Records AD_MC_030_ref162</container>
+  </did>
+  <controlaccess>
+    <genreform source="lcsh">Photographic Prints</genreform>
+    <genreform source="lcsh">Albumen Prints</genreform>
+    <geogname source="lcsh">Palestine</geogname>
+    <geogname source="lcsh">Jordan</geogname>
+    <geogname source="lcsh">Egypt</geogname>
+    <geogname source="lcsh">Syria</geogname>
+    <geogname source="lcsh">Lebanon</geogname>
+    <subject source="lcsh">Landscapes</subject>
+    <subject source="lcsh">Archaeological Sites/Artifacts</subject>
+    <genreform source="lcsh">Postcards</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

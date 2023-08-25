@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_565/">tam_565</eadid><filedesc><titlestmt><titleproper>Dan La Botz Socialist Party of Ohio U.S. Senate Campaign (2010) Records <num>TAM.565</num></titleproper><author>Peter M. Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1/25/2011</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:37:04 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Dan La Botz Socialist Party of Ohio U.S. Senate Campaign (2010) Records</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">La Botz, Dan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">La Botz, Dan</persname>
+    </origination>
+    <unitid>TAM.565</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Manuscript box - Legal" id="aspace_30e407e036dcc3c6dd1ac87568041a08" label="Mixed Materials [31142062730539]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal" id="aspace_e5878d7196b1ae3845756b8031a8ccd5" label="Mixed Materials [31142062730547]" type="Box">2</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_e12af0f6da17d48f3113f829dd3263d2" label="Mixed Materials [31142062730554]" type="Box">3</container>
+  </did>
+  <accessrestrict id="aspace_a7551fb8647f27724ecbff4406694125">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_b8d45c5ad1457ed9d116d63e27e2524f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Dan La Botz in 2010; additional materials were donated in 2013. The accession numbers associated with this collectin are 2011.006 and 2013.031.</p>  </acqinfo>
+  <bioghist id="aspace_279b8aba79bdcb3f803f19397ef9eb7c">
+    <head>Historical/Biographical Note</head>
+<p>Dan La Botz (1945- ) was the Socialist Party of Ohio's 2010 candidate for the U.S. Senate.</p>  </bioghist>
+  <prefercite id="aspace_850158bba75dc342b1c07798c085a70c">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Dan La Botz Socialist Party of Ohio U.S. Senate Campaign (2010) Records; TAM 565; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_d68ff3a04a09534c250e249e10ec343b">
+    <head>Related Archival Materials</head>
+<p>Dan La Botz Papers (TAM 678)</p>  </relatedmaterial>
+  <scopecontent id="aspace_622cb30e77dfb318db38858a0026e7c3">
+    <head>Scope and Contents</head>
+<p>This unprocessed collection contains materia relating to La Botz's 2010 Socialist Party campain for Ohio U.S. Senate. The materials include correspondence (with voters, government bodies, the mass media, other (progressive organizations, etc.), a campaign diary, handwritten notes, materials relating to a compliant filed with the  FCC (Federal Communications Commission), campaign literature and related printed ephemera, a book-length typescript "A Vision from the Heartland: Socilalism for the 21st Century," and two DVDs containing television appearances and other events.</p>  </scopecontent>
+  <userestrict id="aspace_771363077b3559fb77883b3d0087e9bb">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Dan La Botz, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Elections |z Ohio.</subject>
+    <subject source="lcsh">Socialists |z Ohio.</subject>
+    <subject source="lcsh">Political candidates |z Ohio.</subject>
+    <subject source="lcsh">Third parties (United States politics)</subject>
+    <persname rules="dacs" source="naf">La Botz, Dan</persname>
+    <persname role="dnr" rules="dacs" source="naf">La Botz, Dan</persname>
+    <corpname authfilenumber="(lccn)no2004009046" source="naf">Socialist Party of Ohio</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

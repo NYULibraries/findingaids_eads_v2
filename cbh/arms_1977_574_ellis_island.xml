@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_574_ellis_island/">arms_1977_574_ellis_island</eadid><filedesc><titlestmt><titleproper>Guide to the Manuscript and typescript histories of Ellis Island, N.Y. <num>1977.574</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 25, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:15:12 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Manuscript and typescript histories of Ellis Island, N.Y.</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">United States. Immigration and Naturalization Service</corpname>
+    </origination>
+    <unitid>1977.574</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.04 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1947/1951" type="inclusive">1947, 1951</unitdate>
+    <abstract id="aspace_1e7a3b465a491e2039630f0e0d13775e" label="Abstract">Two brief histories of Ellis Island, one typewritten by the Immigration and Naturalization Service of the United States Department of Justice, dated 1947, and the other handwritten by a descendant of Samuel Ellis, dated 1951.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_1e63a32155a2e85767f9ad6ebb14fee4" label="Text" type="Box">A0072</container>
+  </did>
+  <accessrestrict id="aspace_932c7fd12398691281922e9189598ed4">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_9d094b55fbeb2293517f88a2a55eccbf">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <processinfo id="aspace_b487d5b81740dab584cf390a20331468">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_b5f41b4242c8a368ddd1c8416c86b61e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Manuscript and typescript histories of Ellis Island, N.Y., 1977.574, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_692cbdc8ecc7c70720a0dfbaaf0921b9">
+    <head>Scope and Contents</head>
+<p>Two brief histories of Ellis Island, one typewritten by the Immigration and Naturalization Service of the United States Department of Justice, dated 1947, and the other handwritten by a descendant of Samuel Ellis, dated 1951.  Photocopies of the original histories are also included.</p>  </scopecontent>
+  <bioghist id="aspace_6a7433e3f2a193f7ecbff5249d8825fd">
+    <head>Historical Note</head>
+<p>Ellis Island, an island in Upper New York Bay, is named for Samuel Ellis, who acquired land on the island in 1785.  Purchased in 1808 by the State of New York, the island was then turned over to the federal government, which used it for a time as a fort and arsenal to defend the harbor.  Beginning in 1892, Ellis Island became the site of the federal immigration center.  Between 1892 and 1924, 71 percent of alll immigrants to the United States came through the immigration center at Ellis Island.  In 1924, restrictions  on mass immigration by Congress diminished the role of Ellis Island as an immigration center, and until 1954 it was mainly used as a site to detain deportees.  The island was declared a national monument in 1965, though lack of funds to restore the immigration facilities caused them to deteriorate in the ensuing decades.  Private restoration efforts were begun in the 1980s, and a museum of immigratrion on the island was opened to the public in 1990.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Blumberg, Barbara. "Ellis Island," in <emph render="italic">The Encyclopedia of New York City</emph>, ed. Kenneth T. Jackson (New Haven, Conn.: Yale University Press; New York: New York Historical Society, c1995), 372-373.</item>
+    </list>
+  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Histories</genreform>
+    <geogname source="lcsh">Ellis Island (N.J. and N.Y.)</geogname>
+    <geogname source="lcsh">New York (N.Y.) |x Emigration and immigration</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

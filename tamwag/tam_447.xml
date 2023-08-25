@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_447/">tam_447</eadid><filedesc><titlestmt><titleproper>Guide to the Higley Hill Camp Records <num>TAM.447</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/17/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:33:37 -0400</date>.</creation><langusage>Finding aid written in English</langusage></profiledesc><revisiondesc><change><date>January 2019</date><item>Record updated by Rachel Searcy to reflect 2018 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Higley Hill Camp Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Higley Hill Camp (Wilmington, Vt.)</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Kraus, Ingrid </persname>
+    </origination>
+    <unitid>TAM.447</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record and 1 half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1959/2008" type="inclusive">1959-2008</unitdate>
+    <abstract id="aspace_bbf7a658aec53ec427b0325f1ac9cced">Camp Higley Hill was a summer camp in Vermont (1946-1964) owned and operated by Max and Grace Granich, the latter having served as the personal secretary to Earl Browder, Communist Party, USA General Secretary from 1930 to 1945. The collection contains records from Higley Hill Camp, including administrative records, correspondence, and publications produced by the camp regarding activities there. Among these materials are several camp newsletters and copies of the Higley Hill Holler (1960-1964). The collection also contains correspondence related to everyday operations of the camp and camper enrollment. Other materials pertaining to daily operations of the camp consist of schedules, food supply and athletic equipment catalogs, and files related to camp organizations. The collection also contains several song books from the 1950s and 1960s.</abstract>
+    <langmaterial id="aspace_23d856dc0c2050a157b9dcdeda113286">Materials are in English.</langmaterial>
+    <container altrender="Record carton" id="aspace_80a8fad464713fc6efba331505793fcd" label="Mixed Materials [31142062765600]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_f53975b5d1bcd764ab4bc7c48214810b" label="Mixed Materials [31142062765618]" type="Box">2</container>
+  </did>
+  <accessrestrict id="aspace_215618d58ab1b3b31378aee32a872206">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_cdb66366ae75df3d67e04c783aa27fa4">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown with the exception of Ingrid Kraus' 2009 donation and Marion Nestle's 2018 donation. The accession numbers associated with this collection are 1950.267, 2009.023, 2014.066, 2014.094, and 2019.005.</p>  </acqinfo>
+  <bioghist id="aspace_19ac1dadc1e7b8858bb0188298bbacfc">
+    <head>Historical Note</head>
+<p>Camp Higley Hill was a summer camp in Vermont (1946-1964) owned and operated by Max and Grace Granich, the latter having served as the personal secretary to Earl Browder, Communist Party, USA General Secretary from 1930 to 1945.</p>  </bioghist>
+  <relatedmaterial id="aspace_ca47e85274cc437657f24eaf8c378c67">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Marion Nestle Higley Hill Camp Photographs (Photos 239)</p>  </relatedmaterial>
+  <scopecontent id="aspace_a941d99f4c58987d3f4e0d35c38cc8ec">
+    <head>Scope and Contents</head>
+<p>The collection contains records from Higley Hill Camp, which operated in Wilmington, Vermont from 1946-1964. The collection consists of a small amount of administrative records, including correspondence and publications produced by the camp regarding activities there. Among these materials are several camp newsletters and copies of the Higley Hill Holler (1960-1964). The collection also contains correspondence related to everyday operations of the camp and camper enrollment. Other materials pertaining to daily operations of the camp consist of  schedules, food supply and athletic equipment catalogs, and files related to camp organizations. The collection also contains several song books from the 1950s and 1960s. There are also a limited number of letters from campers at Higley Hill.</p>  </scopecontent>
+  <userestrict id="aspace_f21fc76c02c83667815e940a0d1d696b">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1959-1966, are expected to enter the public domain in 2086.</p>  </userestrict>
+  <arrangement id="aspace_8250f883d5b1bf7286da89e3bf5d0acb">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. Original order is unknown.</p>  </arrangement>
+  <controlaccess>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Publications (documents)</genreform>
+    <subject source="lcsh">Women communists -- United States.</subject>
+    <subject source="lcsh">Camps |z Vermont.</subject>
+    <subject source="lcsh">Communists -- United States.</subject>
+    <subject source="lcsh">Socialism and youth -- United States.</subject>
+    <subject source="lcsh">Communism and culture -- United States.</subject>
+    <persname source="local">Granich, Max, 1896-1987</persname>
+    <corpname source="local">Higley Hill Camp (Wilmington, Vt.)</corpname>
+    <persname source="local">Granich, Grace, 1895-1971</persname>
+    <persname role="dnr" rules="dacs" source="local">Kraus, Ingrid </persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

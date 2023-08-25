@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_554_young/">arms_1977_554_young</eadid><filedesc><titlestmt><titleproper>Guide to the David Young papers <num>1977.554</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 22, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:14:18 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>David Young papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Young, David</persname>
+    </origination>
+    <unitid>1977.554</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1891/1896" type="inclusive">1891-1896</unitdate>
+    <abstract id="aspace_ce9fc26fe7b8d53ee7c52317f467a068">This collection includes various materials spanning 1891 to 1896 and relating to Reverend David Young.  Reverend David Young (1719-1752) was born in Southold, Long Island and graduated from Yale College in 1741.  He was ordained in either Setauket or Brookhaven, Long Island in 1742.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d87ceed0b3eff330b300410169fd5131" label="Text" type="Box">A0072</container>
+  </did>
+  <bioghist id="aspace_d23c1493b71c9bb7b95c897d6e4e8ab4">
+    <head>Biographical Note</head>
+<p>Reverend David Young (1719-1752) was born in Southold, Long Island and graduated from Yale College in 1741.  He was ordained in either Setauket or Brookhaven, Long Island in 1742.</p>  </bioghist>
+  <scopecontent id="aspace_d12653fd93263bf1243993bef8c1dc65">
+    <head>Scope and Contents</head>
+<p>This collection includes various materials spanning 1891 to 1896 and relating to Reverend David Young, including originals of some of Reverend David Young's sermons; research notes on important dates in Young's life and sermons; a copy of a letter from Jonathan Barber to Young's wife sending condolences upon Young's death; a copy of an excerpt from <emph render="italic">A History of the Presbyterian Church in America</emph> containing a biographical sketch of Young; correspondence concerning Young's research; and an unidentified sketch map.</p>  </scopecontent>
+  <accessrestrict id="aspace_334f2a3efa48023bc1f15fbba8f15b8c">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_e344707a880b5d862779dc7477cbf13e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); David Young papers, 1977.554, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_0a55ec5946f2c309e24c0bd1d5c6bdec">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <acqinfo id="aspace_f01f911e1eb16a9eca23f5dc8896c7d5">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of F. and H. Young, 1927.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Presbyterians -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Clergy -- New York (State) -- Long Island</subject>
+    <genreform source="aat">Sermons</genreform>
+    <subject source="lcsh">Presbyterian Church -- New York (State) -- Long Island</subject>
+    <genreform source="aat">Biographies</genreform>
+    <genreform source="aat">Research notes</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <persname source="local">Young, David</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

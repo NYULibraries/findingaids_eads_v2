@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1989_028_kaye/">v1989_028_kaye</eadid><filedesc><titlestmt><titleproper>Guide to the Photographic portraits of Danny Kaye and Sylvia Fine <num>V1989.028</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 9, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:21:11 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Photographic portraits of Danny Kaye and Sylvia Fine Kaye</unittitle>
+    <unitid>V1989.028</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">two items contained in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1901/1925" type="inclusive">circa early 20th century</unitdate>
+    <abstract id="aspace_8aab51ef02d9dd826f32ec6d39a51f41" label="Abstract">The Photographic portraits of Danny Kaye and Sylvia Fine is comprised of two modern 8" x 10" black-and-white photographic prints of Danny Kaye (at age 7 or 8) and Sylvia Fine (at age 3). In the portraits, Danny is shown outdoors sitting in a toy car, while Sylvia is shown outdoors sitting on a large rock. The photographic prints were reproduced from photographs taken circa 1916 to 1920.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6574a8f5880528fd2d9dae16d2ff8c4e" label="Graphic Materials" type="Box">Prints by Accession 55</container>
+  </did>
+  <scopecontent id="aspace_5db43728673527d82cd2e42a287331d1">
+    <head>Scope and Contents</head>
+<p>The Photographic portraits of Danny Kaye and Sylvia Fine is comprised of two modern 8" x 10" black-and-white photographic prints of Danny Kaye (at age 7 or 8) and Sylvia Fine (at age 3). In the portraits, Danny is shown outdoors sitting in a toy car, while Sylvia is shown outdoors sitting on a large rock. The photographic prints were reproduced from photographs taken circa 1916 to 1920.</p>  </scopecontent>
+  <processinfo id="aspace_627d5dd9572f439b4241705bcdb1a11b">
+    <head>Processing Information note</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <otherfindaid id="aspace_2d2af3a3d2a985b335e95d324599dd67">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <prefercite id="aspace_628e1007965513f765011501bbdf056a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Photographic portraits of Danny Kaye and Sylvia Fine, V1989.028, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_1d8e698421f964c209616f73c60a887f">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Sylvia Fine Kaye, 1989.</p>  </acqinfo>
+  <userestrict id="aspace_8dc76b8c8ba5711461582b11f8f269f4">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <accessrestrict id="aspace_29d124cf793ebcfee94db26fdf9799fa">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_ed3c5d40c6abfa743ec9680808b7549c">
+    <head>Biographical note</head>
+<p>Danny Kaye and Sylvia Fine met while working on an off-Broadway play in 1939 and married in 1940. They had one daughter, Dena, born in 1946. Danny Kaye (1913-1987) was born in Brooklyn and went on to become a well-known singer, actor, dancer, and comedian. Sylvia Fine (1913-1991) was a Brooklyn-born lyricist, composer, and producer.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Celebrities |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Portraits</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <persname rules="aacr" source="naf">Kaye, Danny</persname>
+    <persname rules="dacs" source="naf">Fine, Sylvia</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

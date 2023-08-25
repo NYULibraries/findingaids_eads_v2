@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_032_ramsay/">v1990_032_ramsay</eadid><filedesc><titlestmt><titleproper>Guide to the David Ramsay photograph collection <num>V1990.032</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 6, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:21:43 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>David Ramsay photograph collection</unittitle>
+    <unitid>V1990.032</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">four items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1865/1931" type="inclusive">1865-1931</unitdate>
+    <abstract id="aspace_6ed10c5da9612f6b0ccbafef7197e88b" label="Abstract">Two photographs date from circa 1930 and pertain to the construction of the New York City subway. Included is an exterior view of elevated subway line construction at 4th Avenue and 9th Street in Brooklyn and an interior view of underground subway construction showing two excavation workers in a subway tunnel.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_699215fe8890094352809db6c5d8e06e" label="Graphic Materials" type="Box">Prints by Accession 56</container>
+  </did>
+  <scopecontent id="aspace_1d1e59d204419d7a03d71ff6676f410c">
+    <head>Scope and Contents</head>
+<p>The David Ramsay photograph collection is comprised of four black-and-white photographs. Two photographs date from circa 1930 and pertain to the construction of the New York City subway. Included is an exterior view of elevated subway line construction at 4th Avenue and 9th Street in Brooklyn and an interior view of underground subway construction showing two excavation workers in a subway tunnel. The donor identified the location of the tunnel as, "probably 8th Avenue." The remaining two photographs are modern copy prints of illustrations. One copy print depicts an advertisement for Wechsler &amp; Abraham, a large dry goods store that was located on Fulton Street in Brooklyn. The second copy print shows an illustration of an interior view of "the New England Kitchen at the great Sanitary Fair in aid of the soldiers during the Civil War, 1865."</p>  </scopecontent>
+  <accessrestrict id="aspace_98903b87a00854e2d9e84ba0c5183501">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_69f287ae5c85cd4832ed9a977ff13ca7">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_17eb5ba88d4ce3c2401a85b727a0a1ae">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of David Ramsay, 1990.</p>  </acqinfo>
+  <otherfindaid id="aspace_4de530148575668372bb0abee2154817">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <prefercite id="aspace_0c94b36bf73616941769eaf4c444a263">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); David Ramsay photograph collection, V1990.032, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_c397e2867b2dccf506f58dad311e948f">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Advertisements</genreform>
+    <subject source="lcsh">Department stores |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Transportation |z New York (State) |z New York</subject>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865 |x Civilian relief</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Subways -- New York (State) -- Kings County -- Design and construction</subject>
+    <subject source="lcsh">Subway tunnels |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Copy prints</genreform>
+    <corpname rules="aacr" source="naf">Wechsler &amp; Abraham</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

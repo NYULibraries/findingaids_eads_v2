@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_337/">tam_337</eadid><filedesc><titlestmt><titleproper>Guide to the Red Falcons of America Records <num>TAM.337</num></titleproper><author>Processed by Jennifer Jana</author></titlestmt><editionstmt><p>This version was derived from red_falcons.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:30:10 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Red Falcons of America Records</unittitle>
+    <origination label="Creator">
+      <persname source="ingest">Red Falcons of America.</persname>
+    </origination>
+    <unitid>TAM.337</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1932/1938" type="inclusive">1932-1938</unitdate>
+    <abstract id="aspace_7b789484523729c7ff1dd6dcf53d0fe4" label="Abstract">The Red Falcons of America was a socialist organization for children between the ages of eight and fifteen, established ca. 1932, and affiliated with the Socialist Party (U.S.). The collection contains circulars, constitutions, correspondence, flyers, manuals, minutes, newsletters, programs and reports. The bulk of the material is concerned with the Red Falcons' founding, organization, political program, educational activities, plans to establish a summer camp, and relations with the Socialist Party and the Young People's Socialist League, in particular during the period of factional dispute leading up to the 1936 split within the Socialist Party.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Manuscript box - Legal" id="aspace_37202998fdfe62c94278521878bcf504" label="Mixed Materials [31142062733640]" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_42d738f39ec626c8ca399c86a4ac1518">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a4e4bc263816d2b0326bff10dffaaa52">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.050.</p>  </acqinfo>
+  <arrangement id="aspace_ffc3076850ecc6be5a7e1f1ac6d0b46f">
+    <head>Arrangement</head>
+<p>Folders are arranged chronologically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Subject Files</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_2165aaf049f319390d41959d6f78579a">
+    <head>Historical/Biographical Note</head>
+<p>The Red Falcons of America was a socialist organization for children between the ages of 8 and 15, established ca. 1932, and affiliated with the Socialist Party (U.S.).</p>  </bioghist>
+  <prefercite id="aspace_a09eca85414e90a99ae87f707269d556">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_4cfe400f0b4633ed93840fb00b89d7d9">
+    <head>Scope and Content Note</head>
+<p>The collection contains circulars, constitutions, correspondence, flyers, manuals, minutes, newsletters, programs and reports. The bulk of the material is concerned with the Red Falcons' founding, organization, political program, educational activities, plans to establish a summer camp, and relations with the Socialist Party and the Young People's Socialist League, in particular during the period of factional dispute leading up to the 1936 split with the Socialist Party. Notable correspondents include Edna Peters Keller (Red Falcon national chairperson) and SP leaders William E. Bohn and Clarence Senior.</p>  </scopecontent>
+  <userestrict id="aspace_6bb414f077982b31e57c0eda2b235ad1">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1932-1938, are expected to enter the public domain in 2058.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Children |x Political activity |z United States.</subject>
+    <subject source="lcsh">Socialism and youth -- United States.</subject>
+    <genreform source="aat">Reports.</genreform>
+    <genreform source="aat">Newsletters.</genreform>
+    <corpname authfilenumber="(lccn)n80089534" source="naf">Socialist Party (U.S.)</corpname>
+    <corpname authfilenumber="(lccn)n88057383" source="naf">Young People's Socialist League</corpname>
+    <persname rules="dacs" source="local">Keller, Edna Peters</persname>
+    <persname source="local">Bohn, William E.</persname>
+    <persname source="naf">Senior, Clarence Ollson, 1903-1974</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: General Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation" normal="1932/1938" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b3bc952940c30f88cb9ba90691548df" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_1b2b44d50cd281be6ebabf49d3dc416f" parent="aspace_2b3bc952940c30f88cb9ba90691548df" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a9e1de1a02c5fd3d3710b4a697ed67d" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_02283ae048aad4ffce5f4c6c78eac29e" parent="aspace_6a9e1de1a02c5fd3d3710b4a697ed67d" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_c48834cffbfd58ba3670ff819fe389d2" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_db30973598df9082853bf61e4513197e" parent="aspace_c48834cffbfd58ba3670ff819fe389d2" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_cfefcafddd416f06938f888117147976" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_d08359f934bf9a477239810b5f53ed51" parent="aspace_cfefcafddd416f06938f888117147976" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation">Jan 1935-Feb 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_750e0bab87bbc41c80affee9d8cd0ac4" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_0f85d6cb7bff39d6083f8ba9c7155703" parent="aspace_750e0bab87bbc41c80affee9d8cd0ac4" type="Folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation">Mar 1935-Jul 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_37e456d778b1043680db5e98f836b06f" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_b40fbb604f56e1cafc875813c5bdd7c8" parent="aspace_37e456d778b1043680db5e98f836b06f" type="Folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation">Aug 1935-Sep 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_f39983970d8c6b593bcfd2ac9457f8bd" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_772d14446d5541aa6ea4c0d243e01053" parent="aspace_f39983970d8c6b593bcfd2ac9457f8bd" type="Folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation">Oct 1935-Dec 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_b5c12700339c74561057f8cd4741abe1" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_990d65f107d83980cebbb38aaf1dfd3a" parent="aspace_b5c12700339c74561057f8cd4741abe1" type="Folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ab8633dfb99379568739dba6b27e7b7" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_dbba4d6adfb0ab3f8aa2359f7e19bf52" parent="aspace_0ab8633dfb99379568739dba6b27e7b7" type="Folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Red Falcons of America</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_20e13736c8ba6a3972a5a26da5b3dd69" label="Mixed Materials [31142062733640]" type="Box">1</container><container id="aspace_219501b6bbfcf236603c00049a65028c" parent="aspace_20e13736c8ba6a3972a5a26da5b3dd69" type="Folder">10</container></did></c></c></dsc>
+</archdesc>
+</ead>

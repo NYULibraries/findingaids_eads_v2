@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_087_fire_dept_ephemera/">arms_1985_087_fire_dept_ephemera</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Fire Department ephemera <num>1985.087</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 8, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:18:43 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn Fire Department ephemera</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Brooklyn (New York, N.Y.). Fire Dept</corpname>
+    </origination>
+    <unitid>1985.087</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+      <extent altrender="carrier">in 9 folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1831/1873" type="inclusive">1831-1873</unitdate>
+    <abstract id="aspace_052c1d6eeac02c8ad0ecb3b31cb46c79">The Brooklyn Fire Department ephemera spans 1831 to 1873 and measures 0.3 linear feet. It includes several items related to the Brooklyn Fire Department, including the constitution and bylaws of the Village of Brooklyn Fire Department, reports and acts concerning the reorganization of the City of Brooklyn Fire Department, reports of the chief engineers of the Eastern and Western Districts, reports of the Fire Marshalls, a prospectus for the Brooklyn Fire Extinguishing Company, and a copy of the fire and buildings inspection code.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_3a623e987426173ceb7a4fb13ddbdb0e" label="Text" type="Box">A0106</container>
+  </did>
+  <prefercite id="aspace_49f586b3a7f9974ce9f433c61f71fc28">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn Fire Department ephemera, 1985.087, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_fbc09db76948bbd40676dac8d2848a5d">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The collection was formally accessioned in 1985.</p>  </acqinfo>
+  <accessrestrict id="aspace_18fa3d3a4f463263f180bfbd1fa1d3ee">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Prospectuses</genreform>
+    <subject source="lcsh">Fire fighters |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Fire prevention |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Constitutions</genreform>
+    <genreform source="aat">Bylaws (administrative records)</genreform>
+    <genreform source="aat">Reports</genreform>
+    <corpname source="local">Brooklyn (New York, N.Y.). Fire Dept</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

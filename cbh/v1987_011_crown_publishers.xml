@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1987_011_crown_publishers/">v1987_011_crown_publishers</eadid><filedesc><titlestmt><titleproper>Guide to the Crown Publishers photographs of Brooklyn <num>V1987.011</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 22, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:23 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Crown Publishers photographs of Brooklyn</unittitle>
+    <origination label="Creator">
+      <corpname role="pbl" rules="aacr" source="naf">Crown Publishers</corpname>
+    </origination>
+    <unitid>V1987.011</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.16 Linear Feet</extent>
+      <extent altrender="carrier">82 items contained in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1910/1970" type="inclusive">circa 1920 to 1960</unitdate>
+    <abstract id="aspace_83031e63792849ddb7b2811ca6abbe79" label="Abstract">The images were included in When Brooklyn Was the World by Elliot Willensky, originally published by Crown Publishers in 1986. Images of buildings, people, transportation, neighborhoods, public events, recreation, and parks are included in the collection, as are images of Coney Island, and the New York Naval Shipyard (now the Brooklyn Navy Yard), among others.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6a6aded918322e449e420ae4607e8a90" label="Graphic Materials" type="Box">Prints by Accession 52</container>
+  </did>
+  <acqinfo id="aspace_56ea4bdf32249bb48f93b619bd03a175">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Crown Publishers via Harriet Bell, 1987.</p>  </acqinfo>
+  <scopecontent id="aspace_480cc9881899efaf82277561a34f6011">
+    <head>Scope and Contents</head>
+<p>The Crown Publishers photographs of Brooklyn is comprised of 82 black-and-white photographic prints that document Brooklyn from the period circa 1920 to 1960. The images were included in When Brooklyn Was the World by Elliot Willensky, originally published by Crown Publishers in 1986. Images of buildings, people, transportation, neighborhoods, public events, recreation, and parks are included in the collection, as are images of Coney Island, and the New York Naval Shipyard (now the Brooklyn Navy Yard), among others.</p>  </scopecontent>
+  <bioghist id="aspace_dac7201cec9f63060ab53222ce7dc089">
+    <head>Historical note</head>
+<p>Crown Publishers is a New York City based publishing company that was established in 1933.</p><p>Crown Publishers is a New York City-based publishing company that was established in 1933. In 1986, under its imprint Harmony Books, Crown Publishers, published When Brooklyn Was the World by Elliot Willensky. In 1988, Crown Publishing Group, whose imprints included Crown Publishers, Clarkson Potter, Inc., Harmony Books, and the Outlet Book Company Publishers, was then acquired by Random House, who in turn, was acquired by Bertelsmann AG, a media company based in Germany, in 1998.</p>    <list numeration="arabic" type="ordered">
+      <head>Soruces:</head>
+      <item>Random House, Inc. "Our publishers." Accessed July 26, 2011. http://www.randomhouse.biz/ourpublishers/</item>
+      <item>Random House, Inc. "About us." Accessed July 26, 2011. http://www.randomhouse.com/about/history.html</item>
+    </list>
+  </bioghist>
+  <accessrestrict id="aspace_1213e446f97b5c6a771bb4d49a8e1a24">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_24f90462d305740b298c3761601bed87">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <otherfindaid id="aspace_1ca8a2b0f6fc4dda57d08a32a9f255dd">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <relatedmaterial id="aspace_823637b1d194120dd0ced9e76dfee1de">
+    <head>Related Materials</head>
+<p>The items form this collection were used for the book <emph render="italic">When Brooklyn Was the World</emph> by Elliot Willensky. Brooklyn Historical Society's Othmer Library holds a copy of this book (See: Reference - Desk F129.B7 W58 1986 c.2 / Non-circulating. Please consult library staff for more information.</p>  </relatedmaterial>
+  <prefercite id="aspace_452249d912e5ad7156f8dbb459e1f511">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Crown Publishers photographs of Brooklyn, V1987.011, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_48283c7cb2f0b1c4dff0e9763734f43c">
+    <head>Processing Information note</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <subject source="lcsh">Neighborhoods -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y 20th century</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</geogname>
+    <corpname rules="aacr" source="naf">New York Naval Shipyard</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

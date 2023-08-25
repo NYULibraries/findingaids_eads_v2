@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_5/">mc_5</eadid><filedesc><titlestmt><titleproper>Thomas Thompson Taylor, Jr., Papers <num>MC.5</num></titleproper><author>Bayrd Still.  </author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:54:35 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Thomas Thompson Taylor, Jr., Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Taylor, Thomas Thompson, Jr.</persname>
+    </origination>
+    <unitid>MC.5</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1914/1982" type="inclusive">1914-1982</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_c411bf74ab9b966cbe120abfc9abbc79">
+    <head>Biographical Note</head>
+<p>Thomas Thompson Taylor, Jr. was born July 9, 1892, in Fort Scott, Kansas. His father ultimately was Vice President of the Bank of Fergus County in Lewiston, Montana. Taylor attended high school in Kansas City, Missouri, graduating in June 1911. From 1911 to 1914 he attended the University of Kansas, where he was enrolled in a liberal arts course. Then, aspiring to be a banker, he decided to enroll at the School of Commerce of New York University. This presumably was in the fall of 1914. He apparently was enrolled in the School of Commerce during the academic years 1914-1915 and 1915-1916. By the close of the academic year 1915-1916 he lacked about 10 credits (including transfer credit from the University of Kansas) for graduation with the Bachelor of Commercial Science degree. In June 1916, he returned to Montana and soon thereafter became involved in service in World War I. He attended Officer Training Camp and served overseas for nine months, attaining the rank of first lieutenant. He reports that "having served for over 2 years as an officer in Field Artillery" he was entitled to enough credits to be awarded his University degree. The New York University Recorder's Office reports that Taylor was awarded the degree, B.C.S. (Bachelor of Commercial Science), as of February, 1923. This is corroborated by the listing in the program of New York University, Ninety-first Commencement, p. 25.</p><p>Talyor's business career has to be deduced from a special edition of the <title render="italic">Salt Lake Tribune</title>, Salt Lake City, Utah, September 27, 1962, and from his recently written memoir. During his last year at New York University, Taylor worked in the auditor's department of the Metropolitan Life Insurance Company. Upon leaving NYU, he worked briefly in a bank in Lewiston, Montana; then he was involved for a time in an oil venture in Montana. In 1823, he became deputy superintendent of banks for the State of Montana. In March 1926 he was chosen as secretary manager of the United States Building and Loan Association of Butte, Montana. In 1938, the Butte firm merged with a small Salt Lake City association, Prudential Savings and Loan Association; on March 31, 1938, Taylor was named President. In July 1938 Taylor arranged for the purchase of the Columbia Trust Company Building in Salt Lake City, and the new main office of Prudential Federal Savings and Loan Association opened there on December 28, 1938. Taylor was responsible for major growth of this institution. He retired as manager on July 31, 1962, at age 70, having served for 36 years. At that time he became President, Director, and Consultant to the Board. Through the years he had been extremely active in roles of civic responsibility. For a listing of these see <title render="italic">Salt Lake Tribune</title> (September 27, 1962).</p>  </bioghist>
+  <prefercite id="aspace_bf19a45be5e0a75fa846cb4728867c43">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form:</p><p>Identification of item, date (if known); Thomas Thompson Taylor Papers, MC 5; box number; folder number; New York University Archives </p>  </prefercite>
+  <custodhist id="aspace_e366e1598fafb9a0528a6f96a61c21e0">
+    <head>Custodial History</head>
+<p>Materials in this collection were collected by the creator, Thomas Thompson Taylor, Jr., and were transmitted to the University Archives at his request through Professor of Economics Richard A. Girard.</p>  </custodhist>
+  <separatedmaterial id="aspace_84c7ee412d0b7d93b2191df6d20e1a95">
+    <head>Separated Originals</head>
+<p>Original photographs from Folder #5 are located in the Photograph Collection in the University Archives.</p>  </separatedmaterial>
+  <userestrict id="aspace_8a1cbb8aeb130969bba75b1a670c5367">
+    <head>Use Restrictions</head>
+<p>Permission to publish materials must be obtained in writing from the:</p><p>New York University Archives
+Elmer Holmes Bobst Library
+70 Washington Square South
+New York, NY 10012
+Phone: (212) 998-2641
+Fax: (212) 995-4070
+E-mail: university-archives@nyu.edu</p>  </userestrict>
+  <accessrestrict id="aspace_d72e08ec2f66513babfc6273c5e56b2a">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <scopecontent id="aspace_d7725afba19fb96aa2687edc32e1b908">
+    <head>Scope and Contents</head>
+<p>This collection includes correspondence, financial records, newspaper clippings, photographs, slides, publications, and a memoir prepared by Taylor at the request of Prof. Richard A. Girard, former Professor of Economics. Materials cover the time Taylor began at the School of Commerce in 1914 and end when the collection was transmitted to to Bayrd Still at the University Archives by Professor Girard in 1982.</p>  </scopecontent>
+  <arrangement id="aspace_abb5b27224880d46418761d004832241">
+    <head>Arrangement</head>
+<p>This collection is arranged in 5 folders by topic and format.</p>  </arrangement>
+  <controlaccess>
+    <corpname authfilenumber="(lccn)n82028909" source="naf">New York University. School of Commerce, Accounts, and Finance</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref3" level="file"><did><unittitle>Letters of Transmittal</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_333bbf7e19fcd5e829c7517875f4ff00" label="Mixed Materials [31142063000585]" type="Box">1</container><container id="aspace_880d3a857196299c49ee5a371e1b6ca2" parent="aspace_333bbf7e19fcd5e829c7517875f4ff00" type="Folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Memoir of Thomas T. Taylor</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_7da36f48e4354106c805939c880ebaf7" label="Mixed Materials [31142063000585]" type="Box">1</container><container id="aspace_9b90c50eda5be11f0d2eba3f30c908d1" parent="aspace_7da36f48e4354106c805939c880ebaf7" type="Folder">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Newspaper excerpts from Salt Lake City Tribune and Daily Utah Chronicle</unittitle><unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_e8c5672c23df5ccfb3e9783aa60109e5" label="Mixed Materials [31142063000585]" type="Box">1</container><container id="aspace_54e2505ebbaffe2e650ce52e1a013410" parent="aspace_e8c5672c23df5ccfb3e9783aa60109e5" type="Folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Telegram, copy</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_67c1cf11cd0fde55191f9b2f02a1388e" label="Mixed Materials [31142063000585]" type="Box">1</container><container id="aspace_52a541a9039f16f80e12d9e0b97bcaba" parent="aspace_67c1cf11cd0fde55191f9b2f02a1388e" type="Folder">3</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Photographs, copies</unittitle><unitdate datechar="creation" normal="1914/1916" type="inclusive">1914-1916</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_afd6da61e8f95a23c62408bacf1b6f45" label="Mixed Materials [31142063000585]" type="Box">1</container><container id="aspace_e1a9179c31c4ec073a1c51437c65e59c" parent="aspace_afd6da61e8f95a23c62408bacf1b6f45" type="Folder">4</container></did></c></dsc>
+</archdesc>
+</ead>

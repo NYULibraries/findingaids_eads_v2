@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1988_039_aalbue/">v1988_039_aalbue</eadid><filedesc><titlestmt><titleproper>Guide to the Marie Aalbue collection of Brooklyn Navy Yard photographs <num>V1988.039</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 9, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:47 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Marie Aalbue collection of Brooklyn Navy Yard photographs</unittitle>
+    <unitid>V1988.039</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1930/1965" type="inclusive">circa 1940 to 1955</unitdate>
+    <abstract id="aspace_c17b42e13e3d3abf4f1690aa42caa57a" label="Abstract">The Marie Aalbue collection of Brooklyn Navy Yard photographs dates from circa 1940 to 1955 and contains 10 items. The photographs show the construction of ships and aircraft carriers at the Brooklyn Navy Yard and officers of the USS <emph render="italic">Saratoga</emph>. In addition, one illustration provides a list of naval vessels constructed at the Navy Yard, with the vessel names and date of launch.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_dd93273de3c66466f5a59a14876c7dd1" label="Graphic Materials" type="Box">Prints by Accession 55</container>
+  </did>
+  <bioghist id="aspace_ea2dacc28df515d1d639db26d3fba032">
+    <head>Historical note</head>
+<p>The origins of the Brooklyn Navy Yard (officially known as the New York Naval Shipyard) date back to 1801, when the United States Navy acquired what had previously been a small, privately owned shipyard in order to construct naval vessels. By the time the Department of Defense ceased shipbuilding activities at the Brooklyn Navy Yard in 1966, 88 vessels had been manufactured at the facility. In 1967, the Brooklyn Navy Yard was acquired by the City of New York and was converted for private commercial use.</p>  </bioghist>
+  <scopecontent id="aspace_ccc0292674820a64b79efeddbfa097ab">
+    <head>Scope and Contents</head>
+<p>The Marie Aalbue collection of Brooklyn Navy Yard photographs dates from circa 1940 to 1955 and contains 10 items. The photographs show the construction of ships and aircraft carriers at the Brooklyn Navy Yard and officers of the USS <emph render="italic">Saratoga</emph>. In addition, one illustration provides a list of naval vessels constructed at the Navy Yard, with the vessel names and date of launch.</p>  </scopecontent>
+  <accessrestrict id="aspace_9b82c3a70e8a970b18c42f4681acb66d">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_1c2d3f5dbb28d4dc4ce01c9de8b3f590">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <processinfo id="aspace_75236dc86b632ddc6fd203a9b5c95236">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <prefercite id="aspace_4d717b3ec6a20d1334d75ffa48911cf2">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Marie Aalbue collection of Brooklyn Navy Yard photographs, V1988.039, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_f52434386162b9d3cfcdadcbfe7d8a82">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Marie Aalbue, 1988.</p>  </acqinfo>
+  <userestrict id="aspace_1fa1dae195ff8cbe27e524dfd8546ea4">
+    <head>Conditions Governing Use</head>
+<p>Copyright will remain in effect for 120 years following the date of creation. All items in this collection will enter the public domain by 2075. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <relatedmaterial id="aspace_b1996fac56ddbfa879f6aae7c5d45bfd">
+    <head>Related Materials</head>
+<p>For a list of related collections, please see the Brooklyn Navy Yard subject guide, available in paper form in the library.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Navy-yards and naval stations</subject>
+    <subject source="lcsh">Shipbuilding |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Ships</subject>
+    <subject source="lcsh">Aircraft carriers</subject>
+    <corpname rules="aacr" source="naf">Saratoga (Aircraft carrier : CVA-60)</corpname>
+    <corpname rules="aacr" source="naf">New York Naval Shipyard</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

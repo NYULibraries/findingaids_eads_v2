@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_181_cadman_plaza_complex/">arc_181_cadman_plaza_complex</eadid><filedesc><titlestmt><titleproper>Guide to the Cadman Plaza Complex resident newsletters <num>ARC.181</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>January 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:26:16 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Cadman Plaza Complex resident newsletters</unittitle>
+    <unitid>ARC.181</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.21 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1969/1981" type="inclusive">1969-1981</unitdate>
+    <abstract id="aspace_2ebda81508bb9e37eb53ffb55260f756" label="Abstract">The Cadman Plaza Complex resident newsletters date from 1969 to 1981 and measure 0.21 linear feet. The collection consists of tenant and owner newsletters titled Cadman Views.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Half Manuscript Box Letter" id="aspace_0db3f7f692ac03c944e5dc639d0fdc12" label="Text" type="Box">ARC.181 1 of 1</container>
+  </did>
+  <bioghist id="aspace_ab0e42a95d36c5d5987256b42014f6d4">
+    <head>Historical note</head>
+<p>Cadman Plaza Complex refers to a series of apartment buildings and townhouses located between Cadman Plaza West and Henry Street in Brooklyn Heights. These buildings--Cadman Plaza North (140 Cadman Plaza West), Whitman Close (75 Henry Street), and Cadman Towers (101 Clark Street and 10 Clinton Street)--were constructed in the late 1960s where the Brooklyn Bridge trolley terminal once stood. The buildings were funded as part of the Mitchell-Lama Housing Program, providing affordable housing to middle-income residents. During the time period covered in the collection, the buildings were newly inhabited.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources</head>
+      <item>"Brooklyn Heights." In <emph render="italic">The Neighborhoods of Brooklyn</emph> edited by Kenneth T. Jackson and John Manbeck, 34-39. New Haven, Conn.: Yale University Press, 2004.</item>
+    </list>
+  </bioghist>
+  <accessrestrict id="aspace_f2f70bd96afadebc62020ad6dee1d00f">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_49835c1ba295a28ca280459c1e464991">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for items in the collection are unknown.</p>  </acqinfo>
+  <prefercite id="aspace_155d9e77aa4184ac80e00af5b9c6058b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Cadman Plaza Complex resident newsletters, ARC.181, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_4319df0f2a0996642a1a5a2d956d148f">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <scopecontent id="aspace_72a92a41a87e5f3586622bef572ba37a">
+    <head>Scope and Contents</head>
+<p>The Cadman Plaza Complex resident newsletters date from 1969 to 1981 and measure 0.21 linear feet. The collection consists of tenant and owner newsletters, titled <emph render="italic">Cadman Views</emph> and <emph render="italic">Cadman Complex</emph>. From its first issue to November 1970, <emph render="italic">Cadman Views</emph> was published by Cadman Plaza North tenants and co-op owners. In December 1970, <emph render="italic">Cadman Views</emph> absorbed the neighboring Whitman Close resident newsletter, evolving into a publication for both properties. With the February 1978 issue, <emph render="italic">Cadman Views</emph> was re-named <emph render="italic">Cadman Complex</emph> and devoted an equal amount of space to residents in Cadman Plaza North, Whitman Close, and Cadman Towers. The newsletters contain editorials, letters from residents, and brief articles. Information in the newsletters detail the activities and social gatherings of residents as well as neighborhood issues such as schools, sidewalk maintenance, and security.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Low-income housing |z New York (State) |z New York</subject>
+    <subject source="lcsh">Tenants' associations |z New York (State) |z New York</subject>
+    <subject source="lcsh">Housing, Cooperative |z New York (State) |z New York</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+    <title source="local">Cadman complex (Newsletter)</title>
+    <title source="local">Cadman views (Newsletter)</title>
+    <genreform source="lcsh">Newsletters</genreform>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <corpname rules="dacs" source="local">Cadman Towers (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Cadman Plaza North (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Whitman Close (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

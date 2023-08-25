@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_342_kelly/">arms_1977_342_kelly</eadid><filedesc><titlestmt><titleproper>Guide to the James A. Kelly papers <num>1977.342</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 21, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:21 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>James A. Kelly papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Kelly, James A.</persname>
+    </origination>
+    <unitid>1977.342</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in seven folders.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1916/1966" type="inclusive">1916-1966</unitdate>
+    <abstract id="aspace_8c68dfdefe06ca8246015af330b10e4f">The James A. Kelly papers span the period 1916 to 1965 and include correspondence; photostats of songs written by James A. Kelly; news clippings dated 1949 to 1966; biographical and genealogical notes; materials from the Long Island Historical Society testimonial dinner; memorabilia of the 100th anniversary of Prospect Park; and a collection of notes, correspondence and documents regarding Jennie Jerome, the mother of Winston Churchill.  Also included are photographs of various subjects, including a function held in honor of Kelly, Kelly's appointment as historian of the borough of Brooklyn, the unveiling of a plaque in honor of Jennie Jerome, and other events commemorating Brooklyn history.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_b7bc05d745a8bf9ecd377c484a82931c" label="Text" type="Box">A0066</container>
+  </did>
+  <bioghist id="aspace_4fba9b8ff1565af0d16ce0eb12a8e232">
+    <head>Biographical note</head>
+<p>James A. Kelly was born in Ireland. He served as Deputy County Clerk for Brooklyn form 1926 to 1964, and was the Borough of Brooklyn Historian from 1944 to 1971.</p>  </bioghist>
+  <scopecontent id="aspace_f708706d8ba302a87d08278a66bb7258">
+    <head>Scope and Contents</head>
+<p>The James A. Kelly papers span the period 1916 to 1965 and measure 0.1 linear feet. Included in the papers are correspondence; photostats of songs written by James A. Kelly; news clippings dated 1949 to 1966; biographical and genealogical notes; materials from the Long Island Historical Society testimonial dinner; memorabilia of the 100th anniversary of Prospect Park; and a collection of notes, correspondence and documents regarding Jennie Jerome, the mother of Winston Churchill.  Also included are photographs of various subjects, including a function held in honor of Kelly, Kelly's appointment as historian of the borough of Brooklyn, the unveiling of a plaque in honor of Jennie Jerome, and other events commemorating Brooklyn history.</p>  </scopecontent>
+  <accessrestrict id="aspace_b65c75b6599a49cb9e7a741883bdf1dd">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <processinfo id="aspace_557a54bc65ca073069bf6075bb9baa6a">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_6fdbf418aa6a9a19afc1af71ec7e80c6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); James A. Kelly papers, 1977.342, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_cc710c43fd2874175447dbfd33c97145">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of James A. Kelly, 1966.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Historians |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Memorabilia</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Genealogies</genreform>
+    <persname rules="dacs" source="local">Kelly, James A.</persname>
+    <persname rules="aacr" source="naf">Churchill, Randolph Spencer, Lady</persname>
+    <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

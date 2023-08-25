@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_218_teunis_schenck/">arms_1973_218_teunis_schenck</eadid><filedesc><titlestmt><titleproper>Guide to the Teunis Schenck land deed <num>1973.218</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 21, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:48 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Teunis Schenck land deed</unittitle>
+    <unitid>1973.218</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1818/1818" type="inclusive">1818</unitdate>
+    <abstract id="aspace_51df97820baebada5ecdaea9d5ccdd9a">Deed for a parcel of land located on the Brooklyn and Jamaica Turnpike (as of 2011, Fulton Street), transferred by Ferdinand and Anne Bennett to Teunis Schenck in 1818.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box 3" id="aspace_3cd8f77b799bbb0c031c2999b695e5d1" label="Text" type="Box">OS-41</container>
+  </did>
+  <acqinfo id="aspace_b334f28355ecef9491080da20055448e">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.</p>  </acqinfo>
+  <accessrestrict id="aspace_29cd55bacbe3732c0dcb99d2a43190c5">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_0884a387239a6672981a4806f50c213d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Teunis Schenck land deed, 1973.218, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Deeds |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="local">Fulton Street (Brooklyn, New York, N.Y.)</geogname>
+    <famname source="naf">Bennett family</famname>
+    <famname rules="dacs" source="local">Schenck family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

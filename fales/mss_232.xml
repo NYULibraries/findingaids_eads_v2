@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_232/">mss_232</eadid><filedesc><titlestmt><titleproper>Judson Memorial Church Oral History Archive<lb/><date calendar="gregorian" era="ce">2008</date><lb/> <num>MSS.232</num></titleproper><author>Colin Wells, 2009. Media updated by Rhyannon Rodriguez, 2009, and Mickey Sanchez, 2009</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2009</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:07:34 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>February 2019</date><item>Edited and updated to include materials integrated from accession number 2019.012 by Stacey Flatt</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Judson Memorial Church Oral History Archive</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n2007040399" source="naf">Judson Memorial Church (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Steinberg, Joanna</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">Steinberg, Joanna</persname>
+    </origination>
+    <unitid>MSS.232</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">in 2 record cartons and 3 other containers</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">32 Gigabytes</extent>
+      <extent altrender="carrier">in 1 flash drive</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2008/2008">2008</unitdate>
+    <abstract id="aspace_a8fd7147a12d9403fadc86b667157816" label="Abstract">The Judson Memorial Church Oral History Archive, documents an oral history project conducted by New York University graduate students in Professor Rachel Bernstein's Fall 2008 Oral History class, in conjunction with the Oridnary People, Extraordinary Lives Oral History Project.  The interviewees were selected from a list developed by the Judson Church Oral History Committee and Judson historian Ed Powers and include former pastor Howard Moody and several prominent activists and artists that were involved with Judson Memorial Church programs.  The oral history interviews concentrate on activities at Judson from roughly the 1950s to the 1970s, although some material falls outside this time period.  The items in the collection include administrative documents associated with the project, student papers and presentations, and recordings of the oral history interviews.
+Additionally in 2010, one of the former students, Johanna Steinberg, interviewed more people, adding those recordings to this collection.</abstract>
+    <langmaterial id="aspace_b7dc5a9a7f9215be851b8790c81dcf0b">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_3c1c70ab46d2ef5b763639b6d8c85829">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers.</p>  </accessrestrict>
+  <acqinfo id="aspace_1f4a31108204fbd6130bd1a701686a6b">
+    <head>Immediate Source of Acquisition</head>
+<p>The Judson Memorial Church Oral History Archive was acquired from New York University Professor Rachel Bernstein in 2009 after completion of the Oral History course. The accession number associated with this gift is 2009.232.</p><p>An accretion to the collection was donated by former Bernstein student, Joanna Steinberg, in July 2018. The accession number associated with this gift is 2019.011.</p>  </acqinfo>
+  <arrangement id="aspace_4d9045978848420500a289d7119cfde3">
+    <head>Arrangement</head>
+<p>The materials are arranged alphabetically by either student or interviewee name. The collection is organized into four series, two of which have been further divided into subseries.
+The series and subseries arrangement of the collection is as follows:</p><p>Series I: Administrative Papers</p><p>Series II: Student-Produced Material</p><p>Subseries A: Fieldwork Analysis Papers</p><p>Subseries B: Student Presentations</p><p>Subseries C: Student Presentations CDs/DVDs</p><p>Series III: Oral History Interview Audio Discs</p><p>Subseries A: Audio - Access Copies</p><p>Subseries B: Audio - Originals</p><p>Series IV: 2010 Oral History Interviews</p>  </arrangement>
+  <bioghist id="aspace_c7196a244a1ed941d974902d1bf3da03">
+    <head>Historical Note</head>
+<p>In 1838, a small group in Greenwich Village, dissatisfied with local churches, founded the Berean Church on the corner of Bedford and Downing Streets. Fifty years later, under the direction of Rev. Edward Judson (1844-1914), a new church was built and named Judson Memorial Church in memoriam to Edward's father Adoniram Judson (1788-1850), the first missionary to Burma. Edward Judson chose as the new location of his church the south side of Washington Square Park, because he wanted to reach out to the neighboring Italian community. His goal was not to convert, but to help supply this community, and any other community in need, with the necessary tools to become successful and independent.</p><p>Edward Judson's mission for the Judson Memorial Church was to create a ministry devoted to social outreach, which would meet the needs of the city and of its growing immigrant population. Some of the social service programs developed during Rev. Judson's tenure included a health center, an employment service, sewing and cooking classes, a community woodpile, and the delivery of fresh milk from New Jersey farms.</p><p>Judson Church's mission of social outreach continued throughout the years following Edward Judson's ministry. Beginning in the 1950's under the leadership of the Rev. Robert Spike and continuing under Rev. Howard Moody, Judson Memorial Church established programs designed to help those in need despite the controversial or sometimes, unpopular nature of that help. The church, for example, established local networks to aid women who needed abortions, housed and cared for drug addicts and runaway teens, established a Professional Women's Clinic for women engaged in prostitution, and helped provide medical resources for people with AIDS to name only a few of it's progressive programs.</p><p>The Judson Memorial Church supported a radical arts ministry. The groundwork for involvement in the arts had been laid by Edward Judson's gospel sings and moving picture shows during the early years of the church. However, the Judson Arts Ministry did not fully take shape until the late 1950's when church members polled local artists to determine how the church could best assist the arts community. The results of this inquiry indicated that artists needed space in which to create and show their work. The Judson Memorial Church responded by making the space of the church available to artists for art exhibitions, rehearsals, and performances. The church also assured that this space was to be a place where these artists could have the freedom to experiment in their work without fear of censorship.</p><p>In 1957, the Judson Memorial Church offered gallery space to Claes Oldenburg, Jim Dine, and Robert Rauschenberg, who were then unknown artists. In 1959, the Judson Gallery showed work by Pop artists, Tom Wesselman, Daniel Spoerri, and Red Grooms. The Judson Gallery became the first home to the "happenings" movement of the 1960's. Hosted by the Judson Group, these "happenings" included Ray Gun Spex and Jim Dines' presentation of an environment called Apple Shrines.</p><p>In 1959, the Judson Literary Quarterly, Exodus, was published under the aegis of the Judson Studio. This anthology of poetry edited by Howard Hart and sold in local bookstores, included poems by William Godden, Robert Hanlon, and John Williams. Volumes I, II, and II of Exodus were published in the spring of 1959, the fall of 1959, and the summer of 1960, respectively. Exodus later became The Judson Review, edited by Rev. Al Carmines and Don Katzman. Volume I of The Judson Review was published in 1963 and included the poetry of Jackson Mac Low, Diane Wakoski, and Joel Oppenheimer.</p><p>In 1961, the Judson Poet's Theater was founded by Robert Nichols and Chuck Gordone, the Pulitzer Prize-winning playwright and a "free-wheeling" Sunday-school teacher at the church. The Judson Poet's Theater laid the foundation for "off off" Broadway theater, by producing plays by Rosalyn Drexler, Chuck Gordone, Maria Irene Fornes, Robert Nichols, Sam Shepard, and Lanford Wilson. In 1967, Rev. Al Carmines restructured the group and renamed it the Judson Musical Theater. The Judson Musical Theater produced musical theater performances throughout the late 1960's and the 1970's.</p><p>The Judson Dance Theater, which began in 1962, provided a venue for dancers and choreographers such as Trisha Brown, Lucinda Childs, Steve Paxton, David Gordon, and Yvonne Rainer to create and show their work. Among others, these dancers and choreographers shaped dance history by creating post-modern dance, the first avant-garde movement in dance theater since the modern dance of the 1930's and 1940's. Judson Dance Theater was founded by a group of young choreographers who had taken Robert Dunn's choreography course at the Merce Cunningham studio from 1960-1962. These choreographers decided to present a concert of work they had created during the Dunn course. Judson Memorial Church welcomed the group and provided space for rehearsal and performance. A Concert of Dance #1, open to the public and free of charge, was presented at Judson Memorial Church on July 6, 1962. This concert proved to be the beginning of the evolution of post-modern dance.</p><p>In the 1970's, the Judson Memorial Church hosted various art shows and multi-media events. Most notable among these multi-media events was the People's Flag Show of November 1970, a six-day exhibition of painting and sculpture on the theme of the American flag. The exhibit and the accompanying symposium, featuring speeches by Abbie Hoffman and Kate Millet, attracted widespread attention from the public, the press, and the police. During the final days of the exhibit, three of the contributing artists were arrested, Rev. Howard Moody was served with a summons, and the District Attorney closed the exhibit on charges of desecration of the American flag.</p><p>In the 1980's, the Judson Memorial Church sponsored various political theater performances, such as those by the Vermont-based Bread and Puppet Theater. These performances included Insurrection Opera and Oratorio, performed in February and March of 1984. In this performance, the Bread and Puppet Theater, under the direction of founder, Peter Schumann, used opera and the company's now signature oversized puppets to convey an anti-nuclear message.</p><p>The Judson Memorial Church celebrated its Centennial in 1990 with performances and symposia involving many of the artists who had been involved with the arts ministry in the 1960's and 1970's. The Judson Memorial Church continues its support of the arts and its social outreach to the community today. Among the church's present day arts-related activities is a free dance concert series coordinated by the dance organization, Movement Research, and held at the Judson Memorial Church on Monday evenings.</p>  </bioghist>
+  <prefercite id="aspace_453b5d5b61f6735d65d6dd53865540cc">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Judson Memorial Church Oral History Archive; MSS 232; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_769f553b13bf4dc6d34cbad6404c2073">
+    <head>Scope and Contents</head>
+<p>The Judson Memorial Church Oral History Archive contains oral history interviews and related documents concerning 21 prominent individuals associated with the Judson Memorial Church.  The work was conducted by New York University graduate students in Professor Rachel Bernstein's Fall 2008 Oral History Class.  The materials include administrative documents, student papers and presentations, and digital audio files of the oral history interviews.  </p><p>The oral history interviewees were selected by the Judson Church Oral History Committee and Judson historian Ed Powers.  The interviewees include political and social activists, artists, Judson Memorial Church clergy, and congregation members.  The interviews cover a wide range of topics but focus primarily on the lives of the interviewees and the social, political, artistic, and religious activities of the Judson Church, with emphasis on the period of 1950 through the 1970s.  </p><p>The original individuals interviewed include:<lb/><lb/>
+Bebe Anderson<lb/>
+Holly Bean<lb/>
+Reathel Bean<lb/>
+Keen Berger<lb/>
+Malcolm Goldstein<lb/>
+Grace Goodman<lb/>
+Peggy Halsey<lb/>
+Sue Harwig<lb/>
+Rose James<lb/>
+Harry Koutoukas<lb/>
+Arthur Levin<lb/>
+Mary Meyer<lb/>
+Howard Moody<lb/>
+Maxine Philips<lb/>
+Anna Lou Pickett<lb/>
+Tom Roderick<lb/>
+Tamara Rowe<lb/>
+Carolee Schneemann<lb/>
+Steve Studnicka<lb/>
+Elaine Summers<lb/>
+Rachel Tenney<lb/>
+Bethene Trexel<lb/><lb/></p><p>In 2018, an additional 11 oral history digital audio recordings were added to the existing collection. These interviews were conducted by Joanna Steinburg, one of Bernstein's former students on the oral history project. The 2010 interviews were primarily with artists in the Judson Dance Theater (including Steve Paxton and Yvonne Rainer), as well as congregants who had been part of the Judson Poets Theater. These interviews cover new ground, exploring the social context of the church, and recording the artists' reflections as they look back on their involvement at Judson 50 years later. </p>  </scopecontent>
+  <userestrict id="aspace_fc08a8bd73bbf488e8afaf04b0342a88">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. In particular, student work in Series II may not be reproduced or quoted without permission of the student authors. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <processinfo id="aspace_a9746b9579073420c34bc91c3e6fa2df">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown. In 2019, the accretion flash drive was labeled and information was recorded into medialog.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Agreements.</genreform>
+    <subject source="lcsh">Oral history.</subject>
+    <subject source="lcsh">Artists. -- New York (State) -- New York. -- 20th century</subject>
+    <subject source="lcsh">Artists and community -- New York (State) -- New York</subject>
+    <genreform source="aat">Interviews.</genreform>
+    <persname role="dnr" rules="dacs" source="naf">Steinberg, Joanna</persname>
+    <corpname source="naf">Judson Poet's Theater</corpname>
+    <persname role="ive" source="local">Trexel, Bethene</persname>
+    <persname role="ive" source="local">Roderick, Tom</persname>
+    <corpname authfilenumber="(lccn)n83127297" rules="aacr" source="naf">Judson Dance Theater</corpname>
+    <persname role="ive" source="local">Tenney, Rachel</persname>
+    <corpname authfilenumber="(lccn)no2005081700" source="naf">Judson Gallery (New York, N.Y.)</corpname>
+    <persname role="ive" source="local">Studnicka, Steve</persname>
+    <persname role="ive" source="local">Anderson, Bebe</persname>
+    <persname role="ive" source="local">Berger, Keen</persname>
+    <persname role="ive" source="local">Bean, Holly</persname>
+    <persname role="ive" source="local">Bean, Reathel</persname>
+    <persname role="ive" source="naf">Phillips, Maxine</persname>
+    <persname role="ive" source="naf">Pickett, Anna Lou</persname>
+    <persname role="ive" source="local">Rowe, Tamara</persname>
+    <persname authfilenumber="(lccn)n78043895" role="ive" rules="dacs" source="naf">Schneemann, Carolee, 1939-2019</persname>
+    <persname role="ive" rules="aacr" source="naf">Goldstein, Malcolm, 1936-</persname>
+    <persname role="ive" source="naf">Moody, Howard, 1921-2012</persname>
+    <persname role="ive" source="local">Meyer, Mary</persname>
+    <persname role="ive" source="local">Levin, Arthur</persname>
+    <persname role="ive" source="local">Koutoukas, Harry</persname>
+    <persname role="ive" source="local">James, Rose</persname>
+    <persname role="ive" source="local">Harwig, Peggy</persname>
+    <persname role="ive" source="local">Halsey, Peggy</persname>
+    <persname role="ive" source="naf">Goodman, Grace Ann</persname>
+    <persname source="naf">Rainer, Yvonne, 1934-</persname>
+    <persname source="naf">Paxton, Steve</persname>
+    <persname rules="dacs" source="naf">Vaughan, David, 1924-2017</persname>
+    <persname rules="dacs" source="naf">Passloff, Aileen</persname>
+    <persname source="naf">Summers, Elaine, 1925-2014</persname>
+    <persname rules="dacs" source="naf">Guilliatt, Lee</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Administrative Papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">.25 Linear Feet</extent><extent altrender="carrier">in 2 file folders.</extent></physdesc><unitdate datechar="creation" normal="2008/2008">2008</unitdate></did><scopecontent id="aspace_b6150490a4e6f737558e294d5828a60a"><head>Scope and Contents</head><p>This series contains general administrative forms collected during the oral history projects. The series includes a list of interviewees, student topics, interview agreements, Oral History Indices, interview worksheets, and partial transcripts for some of the interviews conducted.</p></scopecontent><arrangement id="aspace_0cac961a775697f75a6714cbcc86e239"><head>Arrangement</head><p>The forms are arranged alphabetically by the last name of the interviewee.</p></arrangement><c id="aspace_ref3" level="file"><did><unittitle>Administrative Papers 1 of 2</unittitle><unitdate datechar="creation" normal="2008/2008">2008</unitdate><container id="aspace_499db4932395a860aba9c2de211ad5ac" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_a2cd73a201da358f4639a00fdd34f6c7" parent="aspace_499db4932395a860aba9c2de211ad5ac" type="Folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Administrative Papers 2 of 2</unittitle><unitdate datechar="creation" normal="2008/2008">2008</unitdate><container id="aspace_87cce70a9482e5dda55bbe9f925bbf55" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_66fe4913d02e3be767c675164755f284" parent="aspace_87cce70a9482e5dda55bbe9f925bbf55" type="Folder">2</container></did></c></c><c id="aspace_ref5" level="series"><did><unittitle>Series II: Student-Produced Materials</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent><extent altrender="carrier">1 manuscript box, 1 record carton, 1 file folder.</extent></physdesc><unitdate datechar="creation" normal="2008/2008">2008</unitdate></did><scopecontent id="aspace_a25f041e57b8d911b18a15c08ba15f3f"><head>Scope and Contents</head><p>This series contains materials produced by the students conducting the oral history interviews. These materials include fieldwork analysis papers that place the subjects of the interviews within a historical context, presentations that utilize the oral history information in a variety of public history projects, and digital files of the presentations.</p></scopecontent><arrangement id="aspace_b3c1ad2ed1c40c88a3e8b70f2a22ca15"><head>Arrangement</head><p>Papers and presentations in this series are arranged alphabetically by the last name of the students.</p></arrangement><c id="aspace_ref8" level="subseries"><did><unittitle>Subseries A: Fieldwork Analysis Papers</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">Fall 2008</unitdate><physdesc id="aspace_c45e4a92393594de7ced42f7063af496" label="Container Summary">1 Folder</physdesc></did><c id="aspace_ref9" level="file"><did><unittitle>Fieldwork Analysis Papers</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">Fall 2008</unitdate><container id="aspace_8f2dc4a4caa8efb4b85ba956b604e2c5" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_4fd67f51cc2a373ff35037a7a0b0b1e1" parent="aspace_8f2dc4a4caa8efb4b85ba956b604e2c5" type="Folder">3</container></did></c></c><c id="aspace_ref10" level="subseries"><did><unittitle>Subseries B: Student Presentations</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">Fall 2008</unitdate><physdesc id="aspace_8b1d89a7c3a8eea9f9fe462f7f699d5d" label="Container Summary">11 folders</physdesc></did><c id="aspace_ref11" level="file"><did><unittitle>"Something in the Air": Civil Rights, Women's Rights, and Activism in the 1960s</unittitle><container id="aspace_93ef99d3f5ab02c1263c21ca27aa7d99" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_f0f23406fcccb1375b5f5fc7da6c1286" parent="aspace_93ef99d3f5ab02c1263c21ca27aa7d99" type="Folder">4</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>The Life History of Ms. Rose James</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_f662281a91a4c8b70d6ea9e050911b2f" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_102241e64ba74ea0ed1baffe71edba0b" parent="aspace_f662281a91a4c8b70d6ea9e050911b2f" type="Folder">5</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>History in Layers</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_3828b4e65f9ce3f1ae9e7280466c3042" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_55a78f35c877393b7637fcc59d0d1ffc" parent="aspace_3828b4e65f9ce3f1ae9e7280466c3042" type="Folder">6</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Judson Memorial Church: You Are Here</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_33711c4cee5c9b64b37a3717082e5e36" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_c798cc326f14f58c8f95fced3e1fdca6" parent="aspace_33711c4cee5c9b64b37a3717082e5e36" type="Folder">7</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Voices of New York 1950-1970</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_125b77298b0db29e4ef39b3e7aecf7d9" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_cbde94f523d0f39313578f2d627f2d33" parent="aspace_125b77298b0db29e4ef39b3e7aecf7d9" type="Folder">8</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Avant-Garde Theater -- Greenwich Village -- 1960s and 70s</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_974f2a1c1c1431f1f274727184c295d3" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_7340d5dd9a86df8855b925c783c8fd34" parent="aspace_974f2a1c1c1431f1f274727184c295d3" type="Folder">9</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Judson Memorial Church: "It's All in the Timing": The Tenure of Reverend Howard Moody 1956-1992</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_73f49a64f72aed32a34a6d050d58ccb9" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_548da7899008a2d18671a9b454455c90" parent="aspace_73f49a64f72aed32a34a6d050d58ccb9" type="Folder">10</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Judson Memorial Church and the Reproductive Rights Movement</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_cde5666ccbd8cb8ddc9b4a03c50ed904" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_bdb9431d19dcd727154fe08062fb5d71" parent="aspace_cde5666ccbd8cb8ddc9b4a03c50ed904" type="Folder">11</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>"A Sanctuary for Artistic Expression": Judson Dance Theater 1962-1966</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_50956536f16934dba0d1c3efc9ad8cba" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_4e2c9171e7bd4c58a3639f78d0e4314e" parent="aspace_50956536f16934dba0d1c3efc9ad8cba" type="Folder">12</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Voices of Judson Memorial Church: "Creating Community Across Generations"</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_f496cbd5099e96a557072deff1a392fa" label="Mixed Materials [31142054927838]" type="Box">1</container><container id="aspace_d3664f948a9449a0fd940959cdd07f1f" parent="aspace_f496cbd5099e96a557072deff1a392fa" type="Folder">13</container></did></c></c><c id="aspace_ref22" level="subseries"><did><unittitle>Subseries C: Student Presentations CDs/DVDs</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">Fall 2008</unitdate><physdesc id="aspace_086ea51d11b94766af0d9d9fccc2d389" label="Container Summary">1 archive box, 11 folders.</physdesc></did><c id="aspace_ref23" level="file"><did><unittitle>Women and Social Movements, Elizabeth Banks, Ashley Welch, 12/17/08</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_2e226b1bb10db0f3f40aca713de7362a" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_989d46bf825fbdc08d7dea145f4540a5" parent="aspace_2e226b1bb10db0f3f40aca713de7362a" type="Folder">1</container><container id="aspace_a022aa06f6b9336c0cd386bc6eeffc7b" parent="aspace_989d46bf825fbdc08d7dea145f4540a5" type="disk">ID: 232.0035</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Documents and Images for History in Layers Exhibit, Keara Duggan, 18 December 2008, Oral History-NYU, Fall 2008</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_774c1addad6eb007b61fa1c6705674ee" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_3b7dc38cc4bf2c1087b47ce693ce2d03" parent="aspace_774c1addad6eb007b61fa1c6705674ee" type="Folder">2</container><container id="aspace_dc75ac79423c526a7f2ff71b2fc8812a" parent="aspace_3b7dc38cc4bf2c1087b47ce693ce2d03" type="disk">ID: 232.0036</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Audio Clips, History in Layers Exhibit, Keara Duggan, Fall 2008 Oral History Course, Created 11 Dec. 2008</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_39da5a4f170573062d4c4db372c75d30" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_779024e5da20f6c0b87d7c7307d9d3c2" parent="aspace_39da5a4f170573062d4c4db372c75d30" type="Folder">3</container><container id="aspace_3777e3890d9f9f85ebfc037f47d9b07c" parent="aspace_779024e5da20f6c0b87d7c7307d9d3c2" type="disk">ID: 232.0037</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Voices of New York 1950-1970, Blog and Attachments for Archives, Adina Langer, 12/13/08</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_cc6e42b1b4b0ac53a58be37afb3b5e5e" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_be7973feb845e45bc99ca2d826cb2f30" parent="aspace_cc6e42b1b4b0ac53a58be37afb3b5e5e" type="Folder">4</container><container id="aspace_6293157460534d604bd38a9854b21109" parent="aspace_be7973feb845e45bc99ca2d826cb2f30" type="disk">ID: 232.0038</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Walking Tour of the Avant-Garde Theaters, by Kaitlyn Medley</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_507e3621cb171458c56a1deb51eed272" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_44a2338dc44df50014f3b717018c58af" parent="aspace_507e3621cb171458c56a1deb51eed272" type="Folder">5</container><container id="aspace_62d70e2ea7d2d49889d2b5034ffb7306" parent="aspace_44a2338dc44df50014f3b717018c58af" type="disk">ID: 232.0039</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Howard Moody, Oral History, Public History Exhibit, PowerPoint, Stacey Satchell, Fall Semester 2008</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_5a4196e1b987fea13336ff436d68e30c" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_0256ffb415f6eb3d24db49cfe1450830" parent="aspace_5a4196e1b987fea13336ff436d68e30c" type="Folder">6</container><container id="aspace_fc32ef04afe14b05315a34ee675fcf12" parent="aspace_0256ffb415f6eb3d24db49cfe1450830" type="disk">ID: 232.0040</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Judson Memorial Church and the Reproductive Rights Movement, http://voicesofjudson.blogspot.com, Breanne Scanlon, 2008</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_50a6ea60b2bf44ae9045b132f35b8f51" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_8b8819c39f90d28a5068d760cb88cc7c" parent="aspace_50a6ea60b2bf44ae9045b132f35b8f51" type="Folder">7</container><container id="aspace_12669a437e39557fb60e1e92cf2a91f9" parent="aspace_8b8819c39f90d28a5068d760cb88cc7c" type="disk">ID: 232.0041</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Audio Clips Used on http://voicesofjudson.blogspot.com, Howard Moody, Anna Lou Pickett, Mary Meyer, Breanne Scanlon, NYU Fall '08</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_19a3e4bfe1e3edc4b6b7f1b2eacc41c7" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_a083172ebeac66f749a20cdd50734bf3" parent="aspace_19a3e4bfe1e3edc4b6b7f1b2eacc41c7" type="Folder">8</container><container id="aspace_d9f4f0b40071e48ff1ac15bee34d9205" parent="aspace_a083172ebeac66f749a20cdd50734bf3" type="disk">ID: 232.0042</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Philip Corner's "On Tape from the Judson Years"</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_634bd76fd127a99d63c78a2c06918018" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_07f73c8567fd0ecfcb575acd97f458a2" parent="aspace_634bd76fd127a99d63c78a2c06918018" type="Folder">9</container><container id="aspace_41bc7b98b9d913f0530b5c89e7cb2f99" parent="aspace_07f73c8567fd0ecfcb575acd97f458a2" type="disk">ID: 232.0043</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Final Project on Judson Dance Theater (PowerPoint), Joanna Steinberg</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_2c8deca52d7f5afef6a1e224d774a53c" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_ff544b3719e3793d430574f6e75f1c16" parent="aspace_2c8deca52d7f5afef6a1e224d774a53c" type="Folder">10</container><container id="aspace_7603cebfbb62264eb6a7510aa09764ce" parent="aspace_ff544b3719e3793d430574f6e75f1c16" type="disk">ID: 232.0044</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Voices of Judson Memorial Church - Final Project, Final PowerPoint, Oral History Audio Clips, Laura Zeccardi 12/15/08</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container id="aspace_0c75300aad5465726c489df39db80c96" label="Computer Disks [31142054927846]" type="Box">2</container><container id="aspace_3f4e6ff923cdd51f85e93154ba30c40e" parent="aspace_0c75300aad5465726c489df39db80c96" type="Folder">11</container><container id="aspace_6c6430a2d9a1efb08033a772ac85355c" parent="aspace_3f4e6ff923cdd51f85e93154ba30c40e" type="disk">ID: 232.0045</container></did></c></c></c><c id="aspace_ref183" level="series"><did><unittitle>Series III: Oral History Interview Audio Discs</unittitle><unitdate datechar="creation">2008</unitdate></did><scopecontent id="aspace_55a12112f25df7cd1ab669a22920b2ad"><head>Scope and Contents</head><p>This series contains digital audio discs of the complete interviews.</p></scopecontent><c id="aspace_ref184" level="subseries"><did><unittitle>Subseries A: Audio - Access Copies</unittitle><unitdate datechar="creation">2008</unitdate></did><c id="aspace_ref186" level="item"><did><unittitle>Bebe Anderson Oral History, Interviewed by Ashley Welch, 12/9/2008</unittitle><unitid>ID: 232.0047</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_2f89861da464388557ec2efc4278edcf" label="Audio" type="case">232.0047</container></did><odd id="aspace_83df2ec6b6cc7397f4c91f7a9409f806"><head>General Note</head><p>Bebe Anderson Oral History December 9, 2008 <lb/>
+Interviewed by Ashley Welch <lb/>
+Disc 1 of 1 (61 minutes) <lb/>
+Ordinary People, Extraordinary Lives Oral History Project <lb/>
+Track 1: Childhood in California <lb/>
+Track 2: Family, Parents <lb/>
+Track 3: Education <lb/>
+Track 4: Move to New York City <lb/>
+Track 5: Legal Career <lb/>
+Track 6: Judson Memorial Church <lb/>
+Track 7: Activist? <lb/>
+Track 8: religion and Ethics <lb/>
+Track 9: Significant Historical Events</p></odd></c><c id="aspace_ref188" level="item"><did><unittitle>Holly Bean Oral History Parts I &amp; II, Interviewed by Elizabeth Banks, 11/18/2008</unittitle><unitid>ID: 232.0049, ID: 232.0051</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_62a689dfbf11b73ce4f41f98e5d35e22" label="Audio" type="case">232.0049</container><container altrender="Jewel Case - 5.75" id="aspace_7d10bddcf891c229cb5cb90c43c2372d" label="Audio" type="case">232.0051</container></did><odd id="aspace_47f81dcbf08563ee3c24f2b81be521ad"><head>General Note</head><p>Holly Bean Oral History <lb/>
+November 18, 2008 <lb/>
+Interviewed by Elizabeth Banks <lb/>
+Disc 1 of 1 (100 minutes) <lb/>
+Judson Memorial Church Oral History Project <lb/>
+Disc 1 of 1 (100 Minutes) <lb/>
+Track 1: Childhood - Moving Around and Family <lb/>
+Track 2: Attitudes Toward Race and Gender at Home<lb/>
+Track 3: Early Interest in Religion, Diversity<lb/>
+Track 4: Part of the Baby Boom Generation<lb/>
+Track 5: College and Its Meaning for a Woman<lb/>
+Track 6: New York, Work and Family<lb/>
+Track 7: Judson, Programs and Philosophy<lb/>
+Track 8: Pursuing a Career as a Minister<lb/>
+Track 9: Fighting Fear and Societal Pressures for a Career<lb/>
+Track 10: Final Reflections</p></odd></c><c id="aspace_ref189" level="item"><did><unittitle>Reathel Bean Oral History Parts I &amp; II, Interviewed by Kait Medley, 10/10/2008</unittitle><unitid>ID: 232.0053, ID: 232.0055</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_7dec30001ada2e36bdc4a4f3cb589133" label="Audio" type="case">232.0053</container><container altrender="Jewel Case - 5.75" id="aspace_bb490065194d48605dcd7d92cbf359b1" label="Audio" type="case">232.0055</container></did><odd id="aspace_b54e8885fa5b005b37e832a3504898f9"><head>General Note</head><p>Reathel Bean Oral History<lb/>
+October 10, 2008<lb/>
+Interviewed by Kait Medley<lb/>
+Disc 1 of 1 (87 minutes)<lb/>
+Ordinary People, Extraordinary Lives Oral History Project<lb/>
+Track 1: Childhood in Missouri<lb/>
+Track 2: Junior High and High School<lb/>
+Track 3: College and Religious Background<lb/>
+Track 4: Civil Rights Activities<lb/>
+Track 5: Judson Memorial Church and Acting in the 1960s<lb/>
+Track 6: Adult Life</p></odd></c><c id="aspace_ref190" level="item"><did><unittitle>Keen Berger Oral History Parts I &amp; II, Interviewed by Elizabeth Banks, 10/10/2008</unittitle><unitid>ID: 232.0057, ID: 232.0059</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_a95147fd6457f1665050fb6226b7fbc7" label="Audio" type="case">232.0057</container><container altrender="Jewel Case - 5.75" id="aspace_181433bf5c2a1738517e008ed2a4bc4f" label="Audio" type="case">232.0059</container></did><odd id="aspace_cfa5d36f3dcb5b36c84336cfda8de815"><head>General Note</head><p>Keen Berger Oral History<lb/>
+October 10, 2008<lb/>
+Disc 1 of 1 (118 minutes)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Childhood and Upbringing<lb/>
+Track 2: College<lb/>
+Track 3: Involvement in Civil Rights<lb/>
+Track 4: New York and Judson Church<lb/>
+Track 5: Marriage and Family Life<lb/>
+Track 6: Teaching<lb/>
+Track 7: Politics on a Professional Level<lb/>
+Track 8: Reflections on Social Change<lb/>
+Track 9: Writing<lb/>
+Track 10: Conclusions</p></odd></c><c id="aspace_ref191" level="item"><did><unittitle>Malcolm Goldstein Oral History Parts I &amp; II, Interviewed by Joanna Steinberg, 10/16/2008</unittitle><unitid>ID: 232.0061, ID: 232.0063</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_08a4e0cc128a73157d7a227926180266" label="Audio" type="case">232.0061</container><container altrender="Jewel Case - 5.75" id="aspace_217f4167520913ba4058b6dd0f6dc0af" label="Audio" type="case">232.0063</container></did><odd id="aspace_e568c683c59c94e3ac59460f880ae34d"><head>General Note</head><p>Malcolm Goldstein Oral History<lb/>
+October 16, 2008<lb/>
+Interviewed by Joanna Steinberg<lb/>
+Judson Church Project<lb/>
+Disc 1 of 7 (2 hours)<lb/>
+Track 1: Childhood in Brooklyn and Queens, family (parents and brother), religion, community, edication (in school and in music), early ambitions and experiences with violin, composition, music theory<lb/>
+Track 2: Music Education: formal training vs. instruction in composition and music theory. Instruction by Antonio Miranda<lb/>
+Break -- Issue with recording device<lb/>
+Track 3: Introduction and contributions to Judson Dance Theater: reflections on collaboration and improvisation and the use of the body.<lb/>
+Track 4: Thoughts on the politics of improvisation (Sounding the Full Circle); conceptual art in relation to politics; other aspects of career outside of Judson in 1960s (Tone Roads Ensemble)<lb/>
+Track 5: Art that "creates an experience" and "develops awareness;" textured art, improvisation, and trust<lb/>
+Track 6: Working with Elaine Summers at Judson Church on "Fantastic Gardens"<lb/>
+Track 7: Art at Judson Church; mentions Al Carmines and Rev. Howard Moody; Greenwich Village (1960s); teaching positions; other projects; political issues<lb/>
+Track 8: Family (children); orchestra in Puerto Rico and Central America; Vermont; community<lb/>
+Track 9: Tone Roads Ensemble; recent projects and continual interaction and collaborations with friends; residency in Canada<lb/>
+Track 10: Sons; current projects; writing, graphic work, poetry; personal archives; conclusion</p></odd></c><c id="aspace_ref192" level="item"><did><unittitle>Grace Goodman Oral History Parts I &amp; II, Interviewed by Brigid Harmon, 10/16/2008</unittitle><unitid>ID: 232.0065, ID: 232.0067</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_645adaa36ddfc54fe27c74fbe0b6d6b1" label="Audio" type="case">232.0065</container><container altrender="Jewel Case - 5.75" id="aspace_3d4bd5662971b9f7e2b7a2f858aea3b5" label="Audio" type="case">232.0067</container></did></c><c id="aspace_ref193" level="item"><did><unittitle>Peggy Halsey Oral History Parts I &amp; II, Interviewed by Ashley Welch, 10/20/2008</unittitle><unitid>ID: 232.0069, ID: 232.0071</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_11f8f5afed0f292622c83e5411c20fd6" label="Audio" type="case">232.0069</container><container altrender="Jewel Case - 5.75" id="aspace_6644b186d5c624f6a317b4d40ceb0b78" label="Audio" type="case">232.0071</container></did><odd id="aspace_4de206dc4dcf5a7ba736bccefa94f890"><head>General Note</head><p>Peggy Halsey Oral History<lb/>
+October 20, 2008<lb/>
+Disc 1 of 1 (122 minutes)<lb/>
+Ordinary People, Extraordinary Lives Oral History Project<lb/>
+Track 1: Moving to New York City<lb/>
+Track 2: Childhood in Florida<lb/>
+Track 3: Judson Church<lb/>
+Track 5: Career-Board of Global Ministries<lb/>
+Track 6: Judson Work<lb/>
+Track 7: Memories of father<lb/>
+Track 8: Memories of mother, siblings<lb/>
+Track 9: College<lb/>
+Track 10: Activism in Civil Rights Movement<lb/>
+Track 11: High School<lb/>
+Track 12: September 11th<lb/>
+Track 13: Painting, hobby</p></odd></c><c id="aspace_ref194" level="item"><did><unittitle>Sue Harwig Oral History Part One, Interviewed by Adina Langer, 10/17/2008</unittitle><unitid>ID: 232.0073</unitid><unitdate datechar="creation">2008</unitdate><container id="aspace_0b35c75e9fb978cb826c73286dbff2bc" label="Mixed Materials" type="shelf">Media</container><container id="aspace_d4516c22aa65d0f064cd82f901595565" parent="aspace_0b35c75e9fb978cb826c73286dbff2bc" type="Media">ID: 232.0073</container></did><odd id="aspace_4f33e3bb2ed85841e35af6accf6263ea"><head>General Note</head><p>Sue Harwig, CD1 Backup, Interview 10/17/08, Adina Langer, 55:17, 1/3</p></odd></c><c id="aspace_ref195" level="item"><did><unittitle>Sue Harwig Oral History Part Two, Interviewed by Adina Langer, 10/17/2008</unittitle><unitid>ID: 232.0075</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_dbf6308464bb60e27546d77cf371ffe7" label="Audio" type="case">232.0075</container></did><odd id="aspace_48e382d64bb7cf72b1c510a33e31a0e7"><head>General Note</head><p>Sue Harwig, CD2 Backup, Interviewed by Adina Langer, 10/17/08, 25:47, 2/3</p></odd></c><c id="aspace_ref196" level="item"><did><unittitle>Sue Harwig Oral History Part Three, Interviewed by Adina Langer, 10/17/2008</unittitle><unitid>ID: 232.0077</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_76c0e404bba985f839140e3ea82437a9" label="Audio" type="case">232.0077</container></did><odd id="aspace_510b65a4913b48b27a91ea30f8a49f73"><head>General Note</head><p>Sue Harwig, CD3 Backup, Interviewed by Adina Langer, 10/17/08, 44:13, 3/3</p></odd></c><c id="aspace_ref197" level="item"><did><unittitle>Rose James Oral History Part One, 10/17/2008</unittitle><unitid>ID: 232.0079</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_4c7d504b4f7a0cbc98676c8b0422d0ea" label="Audio" type="case">232.0079</container></did></c><c id="aspace_ref198" level="item"><did><unittitle>Rose James Oral History Part Two, 11/10/2008</unittitle><unitid>ID: 232.0081</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_b11e3c408180395766f3cadedc94f389" label="Audio" type="case">232.0081</container></did></c><c id="aspace_ref199" level="item"><did><unittitle>Harry Koutoukas Oral History, Interviewed by Kait Medley, 11/11/2008</unittitle><unitid>ID: 232.0083</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_d54380e60c3eb9a7751a77f73fd67b10" label="Audio" type="case">232.0083</container></did><odd id="aspace_4d24e15b918098a24fc1f430098b775e"><head>General Note</head><p>Harry Koutoukas Oral History<lb/>
+Interviewed by Kait Medley<lb/>
+November 11, 2008<lb/>
+Disc 1 of 1 (71 minutes)<lb/>
+Ordinary People, Extraordinary lives Oral History Project<lb/>
+Track 1: First experiences with avant-garde theater<lb/>
+Track 2: Experience with Judson<lb/>
+Track 3: Ellen Stewart and La Mama<lb/>
+Track 4: Involvement with Stonewall<lb/>
+Track 5: Family Life<lb/>
+Track 6: The end of avant-garde</p></odd></c><c id="aspace_ref200" level="item"><did><unittitle>Arthur Levin Oral History Part One, Interviewed by Stacey Satchell, 11/24/2008</unittitle><unitid>ID: 232.0085</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_989a3e7c3e344e7983e3b656e7540881" label="Audio" type="case">232.0085</container></did><odd id="aspace_9221d8b1f852cb0562c8eade4293047f"><head>General Note</head><p>Arthur Levin Oral History (part 2)<lb/>
+November 24, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 1 of 2 (71 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Early Life, Upper West Side, New York<lb/>
+Track 2: Village Independent Democrats, met Moody<lb/>
+Track 3: Early involvement with Judson, runaways<lb/>
+Track 4: After runaway program, Judson staff<lb/>
+Track 5: Beginnings of involvement in health care<lb/>
+Track 6: Abortion programs, CCS/CRASH<lb/>
+Track 7: Development of Center for Medical Consumers<lb/>
+Track 8: More public health experiences<lb/>
+Track 9: Discussion of Judson environment<lb/>
+Track 10: Political involvement</p></odd></c><c id="aspace_ref201" level="item"><did><unittitle>Arthur Levin Oral History Part Two, Interviewed by Stacey Satchell, 11/24/2008</unittitle><unitid>ID: 232.0087</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_a9aaeb01f1083f3fa2a339a1276f5484" label="Audio" type="case">232.0087</container></did><odd id="aspace_be8b7474acc299467625dedaafd34f8d"><head>General Note</head><p>Arthur Levin Oral History (Part 2)<lb/>
+November 24, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 2 of 2 (71 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 11: Military service experience<lb/>
+Track 12: Late 1960s activism<lb/>
+Track 13: AIDS task force<lb/>
+Track 14: Prositution project<lb/>
+Track 15: Late political involvement, disillusioned<lb/>
+Track 16: Appreciation of Judson<lb/>
+Track 17: Brainstorming youth programs, early</p></odd></c><c id="aspace_ref202" level="item"><did><unittitle>Mary Meyer Oral History Part One, Interviewed by Breanne Scanlon, 10/26/2008</unittitle><unitid>ID: 232.0089</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_a03ce291850b6100740c0ee62ac9cf43" label="Audio" type="case">232.0089</container></did></c><c id="aspace_ref203" level="item"><did><unittitle>Mary Meyer Oral History Part Two, Interviewed by Breanne Scanlon, 10/26/2008</unittitle><unitid>ID: 232.0091</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_1b89ed7c6b02c1c5051bbc7cad51969f" label="Audio" type="case">232.0091</container></did></c><c id="aspace_ref204" level="item"><did><unittitle>Howard Moody Oral History Part One, Disc One, Interviewed by Stacey Satchell, 10/15/2008</unittitle><unitid>ID: 232.0093</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_9fc37992cfa9d9fb42eb28a269526b7d" label="Audio" type="case">232.0093</container></did><odd id="aspace_ef97214a19f2d960de3c60f486b61d14"><head>General Note</head><p>Howard Moody Oral History (Part 1)<lb/>
+October 15, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 1 of 2(77:37 minutes)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Childhood, early life<lb/>
+Track 2: Santa Barbara (post-WWII)<lb/>
+Track 3: Parents, family background<lb/>
+Track 4: Seminary (Colgate Rochester/Yale)<lb/>
+Track 5: Pacifism, early Judson experience<lb/>
+Track 6: Ohio State years<lb/>
+Track 7: Importance of urban culture/experience<lb/>
+Track 8: Coming to Judson<lb/>
+Track 9: Early experience at Judson, VID<lb/>
+Track 10: Early Judson arts efforts, youth efforts<lb/>
+Track 11: Exodus<lb/>
+Track 12: Village Aid Service Center, drugs</p></odd></c><c id="aspace_ref205" level="item"><did><unittitle>Howard Moody Oral History Part One, Disc Two, Interviewed by Stacey Satchell, 10/15/2008</unittitle><unitid>ID: 232.0095</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_c10d561dc39d8252d60673c94db025a1" label="Audio" type="case">232.0095</container></did><odd id="aspace_85c84407e0848cc28165f615a332784a"><head>General Note</head><p>Howard Moody Oral History (Part 1)<lb/>
+October 15, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 2 of 2 (50:46 minutes)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Theory on drug rehab<lb/>
+Track 2: Al Carmine, Judson Players' Theatre<lb/>
+Track 3: Dance, Poets Theatre<lb/>
+Track 4: Publicity and growth<lb/>
+Track 5: Clashes with the NYC and NYU<lb/>
+Track 6: Runaway shelter, mobile clinic</p></odd></c><c id="aspace_ref206" level="item"><did><unittitle>Howard Moody Oral History Part Two, Disc One, Interviewed by Stacey Satchell, 11/18/2008</unittitle><unitid>ID: 232.0097</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_6e75c9b6e54bd28933d1fac3a13798f6" label="Audio" type="case">232.0097</container></did><odd id="aspace_9d31a067df9453ec90e5133c4051c41d"><head>General Note</head><p>Howard Moody Oral History (Part 2)<lb/>
+November 18, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 1 of 3 (176:47 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Late 1960s, runaway projects<lb/>
+Track 2: Runaway youth arts program<lb/>
+Track 3: Politics and social change (1968)<lb/>
+Track 4: Abortion Clinic<lb/>
+Track 5: Clergy Consultation Service<lb/>
+Track 6: Prostitution Project</p></odd></c><c id="aspace_ref207" level="item"><did><unittitle>Howard Moody Oral History Part Two, Disc Two, Interviewed by Stacey Satchell, 11/18/2008</unittitle><unitid>ID: 232.0099</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_d427c0171982cfe4a5270e1384666c10" label="Audio" type="case">232.0099</container></did><odd id="aspace_46e8e39537c9a4b477b44800547ef50d"><head>General Note</head><p>Howard Moody Oral History (Part 2)<lb/>
+November 18, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 2 of 3 (176:47 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 7: Prostitution Project/AIDS Task force<lb/>
+Track 8: 1990, financial crisis<lb/>
+Track 9: Welcoming Church, growth of Judson<lb/>
+Track 10: Looking back from now, treatise<lb/>
+Track 11: Civil Rights movement, involvement<lb/>
+Track 12: Current (2008) gay issues, Prop 8</p></odd></c><c id="aspace_ref208" level="item"><did><unittitle>Howard Moody Oral History Part Two, Disc Three, Interviewed by Stacey Satchell, 11/18/2008</unittitle><unitid>ID: 232.0101</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_57343e422d0cbf0a4daafa56b1301914" label="Audio" type="case">232.0101</container></did><odd id="aspace_d8d7ac09b7b12df30352e54e87bf536d"><head>General Note</head><p>Howard Moody Oral History (Part 2)<lb/>
+November 18, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 3 of 3 (176:47 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 13: 1968 Democratic Convention experience<lb/>
+Track 14: Vietnam War -- protest movement<lb/>
+Track 15: Physical Space of Judson<lb/>
+Track 16: American exceptionalism<lb/>
+Track 17: Worship service at Judson, changes<lb/>
+Track 18: Censorship<lb/>
+Track 19: Let things go...<lb/>
+Track 20: Representative of Congregation</p></odd></c><c id="aspace_ref209" level="item"><did><unittitle>Maxine Phillips Oral History Part One, Interviewed by Laura Zeccardi, 10/21/2008</unittitle><unitid>ID: 232.0103</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_a242d43b67e7c04aed22fedcc30512b8" label="Audio" type="case">232.0103</container></did><odd id="aspace_e4de506eeea42789600e7252dd6fa895"><head>General Note</head><p>Judson Church Oral History Project: Maxine Phillips<lb/>
+October 21, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 1 of 2 (1:53:47)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood in Pennsylvania<lb/>
+Track 2: Parent's Background and History<lb/>
+Track 3: Religious Background<lb/>
+Track 4: Sense of Being the 'Other'<lb/>
+Track 5: Academic Background<lb/>
+Track 6: Study Abroad in France<lb/>
+Track 7: Graduate School at Syracuse<lb/>
+Track 8: Religious Involvement in College<lb/>
+Track 9: Children's Religious Upbringing<lb/>
+Track 10: Introduction to Judson Church<lb/>
+Track 11: Runaway House at Judson<lb/>
+Track 12: Organizing Welfare Rights at Judson<lb/>
+Track 13: Communal Living in Brooklyn<lb/>
+Track 14: Child Welfare League<lb/>
+Track 15: Life Planning Project at Judson<lb/>
+Track 16: Courtship and Wedding to Tom Roderick<lb/>
+Track 17: 1980s - Motherhood and Career at Dissent<lb/>
+Track 18: Reflections on Judson Church - Why Judson?</p></odd></c><c id="aspace_ref210" level="item"><did><unittitle>Maxine Phillips Oral History Part Two, Interviewed by Laura Zeccardi, 10/21/2008</unittitle><unitid>ID: 232.0105</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_dd54592bc05ec3fb363d390409353616" label="Audio" type="case">232.0105</container></did><odd id="aspace_c7386f7660344eef25c697272ee3e9de"><head>General Note</head><p>Judson Church Oral History Project: Maxine Phillips<lb/>
+October 21, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 2 of 2 (1:53:47)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood in Pennsylvania<lb/>
+Track 2: Parent's Background and History<lb/>
+Track 3: Religious Background<lb/>
+Track 4: Sense of Being the 'Other'<lb/>
+Track 5: Academic Background<lb/>
+Track 6: Study Abroad in France<lb/>
+Track 7: Graduate School at Syracuse<lb/>
+Track 8: Religious Involvement in College<lb/>
+Track 9: Children's Religious Upbringing<lb/>
+Track 10: Introduction to Judson Church<lb/>
+Track 11: Runaway House at Judson<lb/>
+Track 12: Organizing Welfare Rights at Judson<lb/>
+Track 13: Communal Living in Brooklyn<lb/>
+Track 14: Child Welfare League<lb/>
+Track 15: Life Planning Project at Judson<lb/>
+Track 16: Courtship and Wedding to Tom Roderick<lb/>
+Track 17: 1980s - Motherhood and Career at Dissent<lb/>
+Track 18: Reflections on Judson Church - Why Judson?</p></odd></c><c id="aspace_ref211" level="item"><did><unittitle>Anna Lou Pickett Oral History Part One, Interviewed by Breanne Scanlon, 10/19/2008</unittitle><unitid>ID: 232.0107</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_2b7387e5fe096bcfd3e9416f5848aa48" label="Audio" type="case">232.0107</container></did></c><c id="aspace_ref212" level="item"><did><unittitle>Anna Lou Pickett Oral History Part Two, Interviewed by Breanne Scanlon, 10/19/2008</unittitle><unitid>ID: 232.0109</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_0efa27cf33b8e8d9f037f9e759b22fc9" label="Audio" type="case">232.0109</container></did></c><c id="aspace_ref213" level="item"><did><unittitle>Tom Roderick Oral History Part One, Interviewed by Adina Langer, 10/24/2008</unittitle><unitid>ID: 232.0111</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_a4bcd55c2c76a0d9169e0e53a0f40f18" label="Audio" type="case">232.0111</container></did><odd id="aspace_f077649c186ceb9d88cd96e1fe83d004"><head>General Note</head><p>Tom Roderick<lb/>
+Part 1 of 3<lb/>
+Interviewed by Adina Langer<lb/>
+10/24/08<lb/>
+wav file<lb/>
+37:53<lb/>
+Judson Church Oral History Project</p></odd></c><c id="aspace_ref214" level="item"><did><unittitle>Tom Roderick Oral History Part Two, Interviewed by Adina Langer, 10/24/2008</unittitle><unitid>ID: 232.0113</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_104aca514f097326c7cc0b05bdc0c98f" label="Audio" type="case">232.0113</container></did><odd id="aspace_9201747b80a66fe8ff263205c2773bdd"><head>General Note</head><p>Tom Roderick Part 2 of 3 Interviewed by Adina Langer 10/24/08 wav file 42:09 Judson Church Oral History Project</p></odd></c><c id="aspace_ref215" level="item"><did><unittitle>Tom Roderick Oral History Part Three, Interviewed by Adina Langer, 10/24/2008</unittitle><unitid>ID: 232.0115</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_6cc175844ca0934edf23f23a19db78e6" label="Audio" type="case">232.0115</container></did><odd id="aspace_d33618413a3ee61bbd7b642d68234290"><head>General Note</head><p>Tom Roderick Part 3 of 3 Interviewed by Adina Langer 10/24/08 wav file 42:14 Judson Church Oral History Project</p></odd></c><c id="aspace_ref216" level="item"><did><unittitle>Tamara Rowe Oral History, Interviewed by Keara Duggan, 11/02/2008</unittitle><unitid>ID: 232.0117</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_5df0da1e75aed9db4c7690e46a4fb5bb" label="Audio" type="case">232.0117</container></did><odd id="aspace_b1ebc481daad5efb2765c9285960a3b9"><head>General Note</head><p>Tamara Oral History<lb/>
+November 2, 2008<lb/>
+Interviewed by Keara Duggan<lb/>
+Disc 1 of 1 (56 min 50 sec)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+For NYU Oral History Course - Fall 2008<lb/>
+Track 1: Introduction by Keara Duggan<lb/>
+Track 2: Brooklyn Neighborhoods<lb/>
+Track 3: Joining the Lafayette Avenue Presbyterian Church<lb/>
+Track 4: Childhood in Bedford Stuyvesant and Food<lb/>
+Track 5: Living in Fort Greene<lb/>
+Track 6: Career as a Teacher<lb/>
+Track 7: Teaching and Higher Education</p></odd></c><c id="aspace_ref217" level="item"><did><unittitle>Carolee Schneemann Oral History, Interviewed by Joanna Steinberg, 11/25/2008</unittitle><unitid>ID: 232.0119</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_d3802fed2990b67acd6c2f516424c8e7" label="Audio" type="case">232.0119</container></did><odd id="aspace_057f80e0b2acea4cdd2bb81b54987228"><head>General Note</head><p>Carolee Schneeman Oral History<lb/>
+11/25/2008<lb/>
+Interviewed by Joanna Steinberg<lb/>
+Judson Church Project<lb/>
+Disc 1 (45 minutes)<lb/>
+Track 1: Introduction to Judson Church; early uses of the body in art; "protofeminist" and "transgressive" movement in Judson Dance Theater; coherence and dissention in choreographic styles within the Judson group; emergence of art scene at Judson Church in 1960s<lb/>
+Track 2: Continued emergence of art scene at Judson; meaning of church as a space for performance; relationship between artists and members of Judson Church; Schneemann's artistic process<lb/>
+Track 3: Audience members and their responses; Newspaper Event; Meet Joy; Freedom of Expression at Judson Church; political implications of Judson aesthetic; relevant political issues and involvement (anti-Vietnam movement and feminism)<lb/>
+Track 4: "Interior Scroll"; inclusion of women in art criticism; teaching positions and practices; overall impressions and reflections on experiences at Judson Church</p></odd></c><c id="aspace_ref218" level="item"><did><unittitle>Rachel Tenney and Bethene Trexel Oral History Part One, Interviewed by Laura Zeccardi, 11/19/2008</unittitle><unitid>ID: 232.0121</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_5ea24ef64852f80a4bfe4399160e1832" label="Audio" type="case">232.0121</container></did><odd id="aspace_16fee4300d01e74b0c3809e8dfe31cae"><head>General Note</head><p>Judson Oral History Project:<lb/>
+Rachel Tenney and Bethnene Trexel<lb/>
+November 19, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 1 of 2 (1:27:5)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood at Judson<lb/>
+Track 2: Teenage Years at Judson<lb/>
+Track 3: Youth Activities/Teaching Judson Beliefs<lb/>
+Track 4: Past and Present Activism at Judson<lb/>
+Track 5: Acceptance and Activism<lb/>
+Track 6: Teaching Sunday School at Judson<lb/>
+Track 7: Leaving Judson, Macalester College<lb/>
+Track 8: Personal Growth/Changes at Judson<lb/>
+Track 9: Bethnene's Description of Rachel's Childhood at Judson<lb/>
+Track 10: Growth of Congregation<lb/>
+Track 11: Rachel's Baptism at Judson<lb/>
+Track 12: Bethnene's Reaction to Rachel's Rededication<lb/>
+Track 13: Bethnene's Childhood/Religious Background<lb/>
+Track 14: Bethnene's experience in NYC/Judson Church<lb/>
+Track 15: Bethnene's Activism work during Rachel's Childhood</p></odd></c><c id="aspace_ref219" level="item"><did><unittitle>Rachel Tenney and Bethene Trexel Oral History Part Two, Interviewed by Laura Zeccardi, 11/19/2008</unittitle><unitid>ID: 232.0123</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Jewel Case - 5.75" id="aspace_8a62b0375a6327d822d68dea3f3a5c98" label="Audio" type="case">232.0123</container></did><odd id="aspace_0c257c5b9c131d89b2574abf94113091"><head>General Note</head><p>Judson Oral History Project:<lb/>
+Rachel Tenney and Bethnene Trexel<lb/>
+November 19, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 2 of 2 (1:27:5)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood at Judson<lb/>
+Track 2: Teenage Years at Judson<lb/>
+Track 3: Youth Activities/Teaching Judson Beliefs<lb/>
+Track 4: Past and Present Activism at Judson<lb/>
+Track 5: Acceptance and Activism<lb/>
+Track 6: Teaching Sunday School at Judson<lb/>
+Track 7: Leaving Judson, Macalester College<lb/>
+Track 8: Personal Growth/Changes at Judson<lb/>
+Track 9: Bethnene's Description of Rachel's Childhood at Judson<lb/>
+Track 10: Growth of Congregation<lb/>
+Track 11: Rachel's Baptism at Judson<lb/>
+Track 12: Bethnene's Reaction to Rachel's Rededication<lb/>
+Track 13: Bethnene's Childhood/Religious Background<lb/>
+Track 14: Bethnene's experience in NYC/Judson Church<lb/>
+Track 15: Bethnene's Activism work during Rachel's Childhood</p></odd></c></c><c id="aspace_ref221" level="subseries"><did><unittitle>Subseries B: Audio - Originals</unittitle><unitdate datechar="creation">2008</unitdate></did><c id="aspace_ref222" level="item"><did><unittitle>Bebe Anderson Oral History, Interviewed by Ashley Welch, 12/9/2008</unittitle><unitid>ID: 232.001</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_e36149092c9259f53b9c85e0f86d63f0" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_9be57db45d5ccfba1cd30ff3afa3a6dc" parent="aspace_e36149092c9259f53b9c85e0f86d63f0" type="Media">ID: 232.0001</container></did><odd id="aspace_1c9394edf5a467ef36d26fcdf8649310"><head>General Note</head><p>Bebe Anderson Oral History December 9, 2008<lb/>
+Interviewed by Ashley Welch<lb/>
+Disc 1 of 1 (61 minutes)<lb/>
+Ordinary People, Extraordinary Lives Oral History Project<lb/>
+Track 1: Childhood in California<lb/>
+Track 2: Family, Parents<lb/>
+Track 3: Education<lb/>
+Track 4: Move to New York City<lb/>
+Track 5: Legal Career<lb/>
+Track 6: Judson Memorial Church<lb/>
+Track 7: Activist?<lb/>
+Track 8: religion and Ethics<lb/>
+Track 9: Significant Historical Events</p></odd></c><c id="aspace_ref223" level="item"><did><unittitle>Holly Bean Oral History, Interviewed by Elizabeth Banks, 11/18/2008</unittitle><unitid>ID: 232.0002</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_4b336d57580b5c1b7daf10611c845197" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_7a3a1372fc2b4af31d5395056ab74521" parent="aspace_4b336d57580b5c1b7daf10611c845197" type="Media">ID: 232.0002</container></did><odd id="aspace_3d35ff1ec598e68c31a0fd6d6d0e7931"><head>General Note</head><p>Holly Bean Oral History<lb/>
+November 18, 2008<lb/>
+Interviewed by Elizabeth Banks<lb/>
+Disc 1 of 1 (100 minutes)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Disc 1 of 1 (100 Minutes)<lb/>
+Track 1: Childhood - Moving Around and Family<lb/>
+Track 2: Attitudes Toward Race and Gender at Home<lb/>
+Track 3: Early Interest in Religion, Diversity<lb/>
+Track 4: Part of the Baby Boom Generation<lb/>
+Track 5: College and Its Meaning for a Woman<lb/>
+Track 6: New York, Work and Family<lb/>
+Track 7: Judson, Programs and Philosophy<lb/>
+Track 8: Pursuing a Career as a Minister<lb/>
+Track 9: Fighting Fear and Societal Pressures for a Career<lb/>
+Track 10: Final Reflections</p></odd></c><c id="aspace_ref224" level="item"><did><unittitle>Reathel Bean Oral History, Interviewed by Kait Medley, 10/10/2008</unittitle><unitid>ID: 232.0003</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_01b92887f8ff81eebec9fd62b39c8775" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_85f0f98d51e446f6a9e66d4fa1e31a6a" parent="aspace_01b92887f8ff81eebec9fd62b39c8775" type="Media">ID: 232.0003</container></did><odd id="aspace_0b075f32ffd45b7f2ce27d47b2076415"><head>General Note</head><p>Reathel Bean Oral History<lb/>
+October 10, 2008<lb/>
+Interviewed by Kait Medley<lb/>
+Disc 1 of 1 (87 minutes)<lb/>
+Ordinary People, Extraordinary Lives Oral History Project<lb/>
+Track 1: Childhood in Missouri<lb/>
+Track 2: Junior High and High School<lb/>
+Track 3: College and Religious Background<lb/>
+Track 4: Civil Rights Activities<lb/>
+Track 5: Judson Memorial Church and Acting in the 1960s<lb/>
+Track 6: Adult Life</p></odd></c><c id="aspace_ref225" level="item"><did><unittitle>Keen Berger Oral History, Interviewed by Elizabeth Banks, 10/10/2008</unittitle><unitid>ID: 232.0004</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_34744330fe2107466e4e6ea46641cd29" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_df17fa20c21101a42cd21eccbd7478c4" parent="aspace_34744330fe2107466e4e6ea46641cd29" type="Media">ID: 232.0004</container></did><odd id="aspace_dccd44d8dbb255e877f85fbfd43b71a4"><head>General Note</head><p>Keen Berger Oral History<lb/>
+October 10, 2008<lb/>
+Disc 1 of 1 (118 minutes)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Childhood and Upbringing<lb/>
+Track 2: College<lb/>
+Track 3: Involvement in Civil Rights<lb/>
+Track 4: New York and Judson Church<lb/>
+Track 5: Marriage and Family Life<lb/>
+Track 6: Teaching<lb/>
+Track 7: Politics on a Professional Level<lb/>
+Track 8: Reflections on Social Change<lb/>
+Track 9: Writing<lb/>
+Track 10: Conclusions</p></odd></c><c id="aspace_ref226" level="item"><did><unittitle>Malcolm Goldstein Oral History, Interviewed by Joanna Steinberg, 10/16/2008</unittitle><unitid>ID: 232.0005</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_332f4cf909d2e5144d12b6985fc60207" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_bf2b73bae652951afb66ff4f5b14f1b2" parent="aspace_332f4cf909d2e5144d12b6985fc60207" type="Media">ID: 232.0005</container></did><odd id="aspace_5cbbc16ed20593a90cebf05dfa1ad100"><head>General Note</head><p>Malcolm Goldstein Oral History<lb/>
+October 16, 2008<lb/>
+Interviewed by Joanna Steinberg<lb/>
+Judson Church Project<lb/>
+Disc 1 of 7 (2 hours)<lb/>
+Track 1: Childhood in Brooklyn and Queens, family (parents and brother), religion, community, edication (in school and in music), early ambitions and experiences with violin, composition, music theory<lb/>
+Track 2: Music Education: formal training vs. instruction in composition and music theory. Instruction by Antonio Miranda<lb/>
+Break -- Issue with recording device<lb/>
+Track 3: Introduction and contributions to Judson Dance Theater: reflections on collaboration and improvisation and the use of the body.<lb/>
+Track 4: Thoughts on the politics of improvisation (Sounding the Full Circle); conceptual art in relation to politics; other aspects of career outside of Judson in 1960s (Tone Roads Ensemble)<lb/>
+Track 5: Art that "creates an experience" and "develops awareness;" textured art, improvisation, and trust<lb/>
+Track 6: Working with Elaine Summers at Judson Church on "Fantastic Gardens"<lb/>
+Track 7: Art at Judson Church; mentions Al Carmines and Rev. Howard Moody; Greenwich Village (1960s); teaching positions; other projects; political issues<lb/>
+Track 8: Family (children); orchestra in Puerto Rico and Central America; Vermont; community<lb/>
+Track 9: Tone Roads Ensemble; recent projects and continual interaction and collaborations with friends; residency in Canada<lb/>
+Track 10: Sons; current projects; writing, graphic work, poetry; personal archives; conclusion</p></odd></c><c id="aspace_ref227" level="item"><did><unittitle>Grace Goodman Oral History, Interviewed by Brigid Harmon, 10/16/2008</unittitle><unitid>ID: 232.0006</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_5a3ca50f385dfc471e68590f194b33eb" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_ca070ed7f5df3e5a09d362ad720e7ff8" parent="aspace_5a3ca50f385dfc471e68590f194b33eb" type="Media">ID: 232.0006</container></did></c><c id="aspace_ref228" level="item"><did><unittitle>Peggy Halsey Oral History, Interviewed by Ashley Welch, 10/20/2008</unittitle><unitid>ID: 232.0007</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_bf2dcf6c42266b9f0ccfa30700b7dc63" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_c666ea977e747f13ccfebc7b36beadb3" parent="aspace_bf2dcf6c42266b9f0ccfa30700b7dc63" type="Media">ID: 232.0007</container></did><odd id="aspace_5672fdcc9199238e8748d2ac088abfcd"><head>General Note</head><p>Peggy Halsey Oral History<lb/>
+October 20, 2008<lb/>
+Disc 1 of 1 (122 minutes)<lb/>
+Ordinary People, Extraordinary Lives Oral History Project<lb/>
+Track 1: Moving to New York City<lb/>
+Track 2: Childhood in Florida<lb/>
+Track 3: Judson Church<lb/>
+Track 5: Career-Board of Global Ministries<lb/>
+Track 6: Judson Work<lb/>
+Track 7: Memories of father<lb/>
+Track 8: Memories of mother, siblings<lb/>
+Track 9: College<lb/>
+Track 10: Activism in Civil Rights Movement<lb/>
+Track 11: High School<lb/>
+Track 12: September 11th<lb/>
+Track 13: Painting, hobby</p></odd></c><c id="aspace_ref229" level="item"><did><unittitle>Sue Harwig Oral History Part One, Interviewed by Adina Langer, 10/17/2008</unittitle><unitid>ID: 232.0008</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_f4850e91a9de9beb8a33b5b5f879777c" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_8a6c6edb71ae7aab093e5e79c80a665a" parent="aspace_f4850e91a9de9beb8a33b5b5f879777c" type="Media">ID: 232.0008</container></did><odd id="aspace_c0a3b3987ebcb082cf2ab30e4379626a"><head>General Note</head><p>Sue Harwig, CD1 Backup, Interview 10/17/08, Adina Langer, 55:17, 1/3</p></odd></c><c id="aspace_ref230" level="item"><did><unittitle>Sue Harwig Oral History Part Two, Interviewed Adina Langer, 10/17/2008</unittitle><unitid>ID: 232.0009</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_8e38acd45708ea4860a96727fa7a2df6" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_6cf09669c0fb15cfea6e278cc53e40e3" parent="aspace_8e38acd45708ea4860a96727fa7a2df6" type="Media">ID: 232.0009</container></did><odd id="aspace_184d5b238fc28a7ffad3fd40ba807ac1"><head>General Note</head><p>Sue Harwig, CD2 Backup, Interviewed by Adina Langer, 10/17/08, 25:47, 2/3</p></odd></c><c id="aspace_ref231" level="item"><did><unittitle>Sue Harwig Oral History Part Three, Interviewed by Adina Langer, 10/17/2008</unittitle><unitid>ID: 232.0010</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_462ebb4935bdb028f756ea3e2dcb2580" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_c5182f1bfc61f4c83cf84dcdc893c6bf" parent="aspace_462ebb4935bdb028f756ea3e2dcb2580" type="Media">ID: 232.0010</container></did><odd id="aspace_b087c762bf2ae22ff26a8359c898f71d"><head>General Note</head><p>Sue Harwig, CD3 Backup, Interviewed by Adina Langer, 10/17/08, 44:13, 3/3</p></odd></c><c id="aspace_ref232" level="item"><did><unittitle>Rose James Oral History Part One, 10/17/2008</unittitle><unitid>ID: 232.0011</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_4522e41851114cbe8aaa49a72f4ff2d2" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_3331ac03a0aba669a1247beb9cd9cc6e" parent="aspace_4522e41851114cbe8aaa49a72f4ff2d2" type="Media">ID: 232.0011</container></did></c><c id="aspace_ref233" level="item"><did><unittitle>Rose James Oral History Part Two, 11/10/2008</unittitle><unitid>ID: 232.0012</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_5ee672c6c88159cba16134f0821e5a7e" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_7145c3d3176e1088829fe6600e6b08bb" parent="aspace_5ee672c6c88159cba16134f0821e5a7e" type="Media">ID: 232.0012</container></did></c><c id="aspace_ref234" level="item"><did><unittitle>Harry Koutoukas Oral History, Interviewed by Kait Medley, 11/11/2008</unittitle><unitid>ID: 232.0013</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_e7c0143a8634a0072a26f91ac6f1680e" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_63109db73bdda5d02ca21215c5c7f5e4" parent="aspace_e7c0143a8634a0072a26f91ac6f1680e" type="Media">ID: 232.0013</container></did><odd id="aspace_9286d5b7329fb0e999721757ca83221a"><head>General Note</head><p>Harry Koutoukas Oral History<lb/>
+Interviewed by Kait Medley<lb/>
+November 11, 2008<lb/>
+Disc 1 of 1 (71 minutes)<lb/>
+Ordinary People, Extraordinary lives Oral History Project<lb/>
+Track 1: First experiences with avant-garde theater<lb/>
+Track 2: Experience with Judson<lb/>
+Track 3: Ellen Stewart and La Mama<lb/>
+Track 4: Involvement with Stonewall<lb/>
+Track 5: Family Life<lb/>
+Track 6: The end of avant-garde</p></odd></c><c id="aspace_ref235" level="item"><did><unittitle>Arthur Levin Oral History Part One, Interviewed by Stacey Satchell, 11/24/2008</unittitle><unitid>ID: 232.0014</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_7b48f49fc9ff6c484669bf657b71e5b5" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_c1ead46e07b8f3adb7d4224f3168fb52" parent="aspace_7b48f49fc9ff6c484669bf657b71e5b5" type="Media">ID: 232.0014</container></did><odd id="aspace_ddae225ddf5668685f3940ef798c7a8e"><head>General Note</head><p>Arthur Levin Oral History (part 2)<lb/>
+November 24, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 1 of 2 (71 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Early Life, Upper West Side, New York<lb/>
+Track 2: Village Independent Democrats, met Moody<lb/>
+Track 3: Early involvement with Judson, runaways<lb/>
+Track 4: After runaway program, Judson staff<lb/>
+Track 5: Beginnings of involvement in health care<lb/>
+Track 6: Abortion programs, CCS/CRASH<lb/>
+Track 7: Development of Center for Medical Consumers<lb/>
+Track 8: More public health experiences<lb/>
+Track 9: Discussion of Judson environment<lb/>
+Track 10: Political involvement</p></odd></c><c id="aspace_ref236" level="item"><did><unittitle>Arthur Levin Oral History Part Two, Interviewed by Stacey Satchell, 11/24/2008</unittitle><unitid>ID: 232.0015</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_70a2680c52cdc1e9f9f05d7186779e57" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_de4f54375c94139bfc527d7093c5a656" parent="aspace_70a2680c52cdc1e9f9f05d7186779e57" type="Media">ID: 232.0015</container></did><odd id="aspace_3ccb2f84183f6b093ab2987dc504d98d"><head>General Note</head><p>Arthur Levin Oral History (Part 2)<lb/>
+November 24, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 2 of 2 (71 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 11: Military service experience<lb/>
+Track 12: Late 1960s activism<lb/>
+Track 13: AIDS task force<lb/>
+Track 14: Prositution project<lb/>
+Track 15: Late political involvement, disillusioned<lb/>
+Track 16: Appreciation of Judson<lb/>
+Track 17: Brainstorming youth programs, early</p></odd></c><c id="aspace_ref237" level="item"><did><unittitle>Mary Meyer Oral History Part One, Interviewed by Breanne Scanlon, 10/26/2008</unittitle><unitid>ID: 232.0016</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_ba679a5baf8d4c05985b7bf8214e6610" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_ea20dbaf575d6f47af1eb7cc140a2cc3" parent="aspace_ba679a5baf8d4c05985b7bf8214e6610" type="Media">ID: 232.0016</container></did></c><c id="aspace_ref238" level="item"><did><unittitle>Mary Meyer Oral History Part Two, Interviewed by Breanne Scanlon, 10/26/2008</unittitle><unitid>ID: 232.0017</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_92dbb5e2af2cc3b3b15838a39df62961" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_6a40b8b7faa1d136e43d9178f61b7c9d" parent="aspace_92dbb5e2af2cc3b3b15838a39df62961" type="Media">ID: 232.0017</container></did></c><c id="aspace_ref239" level="item"><did><unittitle>Howard Moody Oral History Part One, Disc One, Interviewed by Stacey Satchell, 10/15/2008</unittitle><unitid>ID: 232.0018</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_2d775a3b2aeb3bd93e8a5a8193580092" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_5423ab5af1800318a61cb33657817be7" parent="aspace_2d775a3b2aeb3bd93e8a5a8193580092" type="Media">ID: 232.0018</container></did><odd id="aspace_8ec9c37771d4616df4c9ae1d94929f78"><head>General Note</head><p>Howard Moody Oral History (Part 1)<lb/>
+October 15, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 1 of 2(77:37 minutes)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Childhood, early life<lb/>
+Track 2: Santa Barbara (post-WWII)<lb/>
+Track 3: Parents, family background<lb/>
+Track 4: Seminary (Colgate Rochester/Yale)<lb/>
+Track 5: Pacifism, early Judson experience<lb/>
+Track 6: Ohio State years<lb/>
+Track 7: Importance of urban culture/experience<lb/>
+Track 8: Coming to Judson<lb/>
+Track 9: Early experience at Judson, VID<lb/>
+Track 10: Early Judson arts efforts, youth efforts<lb/>
+Track 11: Exodus<lb/>
+Track 12: Village Aid Service Center, drugs</p></odd></c><c id="aspace_ref240" level="item"><did><unittitle>Howard Moody Oral History Part One, Disc Two, Interviewed by Stacey Satchell, 10/15/2008</unittitle><unitid>ID: 232.0019</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_7bffea1c51d1e10099d8191e697517d0" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_9e9be1906a3b1af3ab924f2555fbc0de" parent="aspace_7bffea1c51d1e10099d8191e697517d0" type="Media">ID: 232.0019</container></did><odd id="aspace_0d9be1a85cb50b70356a568d44f463e3"><head>General Note</head><p>Howard Moody Oral History (Part 1)<lb/>
+October 15, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 2 of 2 (50:46 minutes)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Theory on drug rehab<lb/>
+Track 2: Al Carmine, Judson Players' Theatre<lb/>
+Track 3: Dance, Poets Theatre<lb/>
+Track 4: Publicity and growth<lb/>
+Track 5: Clashes with the NYC and NYU<lb/>
+Track 6: Runaway shelter, mobile clinic</p></odd></c><c id="aspace_ref241" level="item"><did><unittitle>Howard Moody Oral History Part Two, Disc One, Interviewed by Stacey Satchell, 11/18/2008</unittitle><unitid>ID: 232.0020</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_925446b032b4284cd4de1e3accb548ba" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_85ffecdc2fe75fea044336fe3b088b0c" parent="aspace_925446b032b4284cd4de1e3accb548ba" type="Media">ID: 232.0020</container></did><odd id="aspace_ad0bfe29ef2af13f7b899ffe71aebae9"><head>General Note</head><p>Howard Moody Oral History (Part 2)<lb/>
+November 18, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 1 of 3 (176:47 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 1: Late 1960s, runaway projects<lb/>
+Track 2: Runaway youth arts program<lb/>
+Track 3: Politics and social change (1968)<lb/>
+Track 4: Abortion Clinic<lb/>
+Track 5: Clergy Consultation Service<lb/>
+Track 6: Prostitution Project</p></odd></c><c id="aspace_ref242" level="item"><did><unittitle>Howard Moody Oral History Part Two, Disc Two, Interviewed by Stacey Satchell, 11/18/2008</unittitle><unitid>ID: 232.0021</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_4b3d2c00d8bb4be388b4be66f747c9e5" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_651ce33a659b6d7351f3e58f5e6f71d1" parent="aspace_4b3d2c00d8bb4be388b4be66f747c9e5" type="Media">ID: 232.0021</container></did><odd id="aspace_b47b2e36f30cf8383acd52b7e8a18083"><head>General Note</head><p>Howard Moody Oral History (Part 2)<lb/>
+November 18, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 2 of 3 (176:47 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 7: Prostitution Project/AIDS Task force<lb/>
+Track 8: 1990, financial crisis<lb/>
+Track 9: Welcoming Church, growth of Judson<lb/>
+Track 10: Looking back from now, treatise<lb/>
+Track 11: Civil Rights movement, involvement<lb/>
+Track 12: Current (2008) gay issues, Prop 8</p></odd></c><c id="aspace_ref243" level="item"><did><unittitle>Howard Moody Oral History Part Two, Disc Three, Interviewed by Stacey Satchell, 11/18/2008</unittitle><unitid>ID: 232.0022</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_d501ace7b8d12d4e6fefee7cd04ef0dd" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_a0e973f920183e60e618c2a0c42eabea" parent="aspace_d501ace7b8d12d4e6fefee7cd04ef0dd" type="Media">ID: 232.0022</container></did><odd id="aspace_67a1a22f7ff7dd5fd149980251c8ea89"><head>General Note</head><p>Howard Moody Oral History (Part 2)<lb/>
+November 18, 2008<lb/>
+Interviewed by Stacey Satchell<lb/>
+Disc 3 of 3 (176:47 minutes total)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+Track 13: 1968 Democratic Convention experience<lb/>
+Track 14: Vietnam War -- protest movement<lb/>
+Track 15: Physical Space of Judson<lb/>
+Track 16: American exceptionalism<lb/>
+Track 17: Worship service at Judson, changes<lb/>
+Track 18: Censorship<lb/>
+Track 19: Let things go...<lb/>
+Track 20: Representative of Congregation</p></odd></c><c id="aspace_ref244" level="item"><did><unittitle>Maxine Phillips Oral History Part One, Interviewed by Laura Zeccardi, 10/21/2008</unittitle><unitid>ID: 232.0023</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_535b06afd923a272f355ed582e0fd1b9" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_8fec610c31f983db7c6356d8960ea03e" parent="aspace_535b06afd923a272f355ed582e0fd1b9" type="Media">ID: 232.0023</container></did><odd id="aspace_d10f793f462a1d04710e16994756ccc4"><head>General Note</head><p>Judson Church Oral History Project: Maxine Phillips<lb/>
+October 21, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 1 of 2 (1:53:47)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood in Pennsylvania<lb/>
+Track 2: Parent's Background and History<lb/>
+Track 3: Religious Background<lb/>
+Track 4: Sense of Being the 'Other'<lb/>
+Track 5: Academic Background<lb/>
+Track 6: Study Abroad in France<lb/>
+Track 7: Graduate School at Syracuse<lb/>
+Track 8: Religious Involvement in College<lb/>
+Track 9: Children's Religious Upbringing<lb/>
+Track 10: Introduction to Judson Church<lb/>
+Track 11: Runaway House at Judson<lb/>
+Track 12: Organizing Welfare Rights at Judson<lb/>
+Track 13: Communal Living in Brooklyn<lb/>
+Track 14: Child Welfare League<lb/>
+Track 15: Life Planning Project at Judson<lb/>
+Track 16: Courtship and Wedding to Tom Roderick<lb/>
+Track 17: 1980s - Motherhood and Career at Dissent<lb/>
+Track 18: Reflections on Judson Church - Why Judson?</p></odd></c><c id="aspace_ref246" level="item"><did><unittitle>Maxine Phillips Oral History Part Two, Interviewed by Laura Zeccardi, 10/21/2008</unittitle><unitid>ID: 232.0024</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_c034276079baaa64c4397a8ed955049a" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_a1bbbeeef0a9cf703a4faff1d7025b92" parent="aspace_c034276079baaa64c4397a8ed955049a" type="Media">ID: 232.0024</container></did><odd id="aspace_e7071c67e3202e3c3034d116782c8e50"><head>General Note</head><p>Judson Church Oral History Project: Maxine Phillips<lb/>
+October 21, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 2 of 2 (1:53:47)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood in Pennsylvania<lb/>
+Track 2: Parent's Background and History<lb/>
+Track 3: Religious Background<lb/>
+Track 4: Sense of Being the 'Other'<lb/>
+Track 5: Academic Background<lb/>
+Track 6: Study Abroad in France<lb/>
+Track 7: Graduate School at Syracuse<lb/>
+Track 8: Religious Involvement in College<lb/>
+Track 9: Children's Religious Upbringing<lb/>
+Track 10: Introduction to Judson Church<lb/>
+Track 11: Runaway House at Judson<lb/>
+Track 12: Organizing Welfare Rights at Judson<lb/>
+Track 13: Communal Living in Brooklyn<lb/>
+Track 14: Child Welfare League<lb/>
+Track 15: Life Planning Project at Judson<lb/>
+Track 16: Courtship and Wedding to Tom Roderick<lb/>
+Track 17: 1980s - Motherhood and Career at Dissent<lb/>
+Track 18: Reflections on Judson Church - Why Judson?</p></odd></c><c id="aspace_ref247" level="item"><did><unittitle>Anna Lou Pickett Oral History Part One, Interviewed by Breanne Scanlon, 10/19/2008</unittitle><unitid>ID: 232.0025</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_cdcca16dc2986801946c30d7a9d3484f" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_f92143cc170c1e93e5862198bfbfccae" parent="aspace_cdcca16dc2986801946c30d7a9d3484f" type="Media">ID: 232.0025</container></did></c><c id="aspace_ref248" level="item"><did><unittitle>Anna Lou Pickett Oral History Part Two, Interviewed by Breanne Scanlon, 10/19/2008</unittitle><unitid>ID: 232.0026</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_dc579d5d099f20b7c46d7ca7d5a0409c" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_5413f024d66ae5a867630901d2601329" parent="aspace_dc579d5d099f20b7c46d7ca7d5a0409c" type="Media">ID: 232.0026</container></did></c><c id="aspace_ref249" level="item"><did><unittitle>Tom Roderick Oral History Part One, Interviewed by Adina Langer, 10/24/2008</unittitle><unitid>ID: 232.0027</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_02bfd9a98e7f676749ecc378d3bab5d2" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_995611bd8bb504feb2f18fb3cab32bf4" parent="aspace_02bfd9a98e7f676749ecc378d3bab5d2" type="Media">ID: 232.0027</container></did><odd id="aspace_5e317a04eb3c97ab85f4e910f0c838fa"><head>General Note</head><p>Tom Roderick<lb/>
+Part 1 of 3<lb/>
+Interviewed by Adina Langer<lb/>
+10/24/08<lb/>
+wav file<lb/>
+37:53<lb/>
+Judson Church Oral History Project</p></odd></c><c id="aspace_ref250" level="item"><did><unittitle>Tom Roderick Oral History Part Two, Interviewed by Adina Langer, 10/24/2008</unittitle><unitid>ID: 232.0028</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_527f943ab30e8ad0fc2506e3d8197288" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_c8dd1bbf5b3923ce64d45afc3e82d3fa" parent="aspace_527f943ab30e8ad0fc2506e3d8197288" type="Media">ID: 232.0028</container></did><odd id="aspace_487560827a32421f2b86dc045993dc82"><head>General Note</head><p>Tom Roderick Part 2 of 3 Interviewed by Adina Langer 10/24/08 wav file 42:09 Judson Church Oral History Project</p></odd></c><c id="aspace_ref251" level="item"><did><unittitle>Tom Roderick Oral History Part Three, Interviewed by Adina Langer, 10/24/2008</unittitle><unitid>ID: 232.0029</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_a345e521324621a496e80cce08cadf25" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_2100b6cd77a31aa2451c86045ca862b3" parent="aspace_a345e521324621a496e80cce08cadf25" type="Media">ID: 232.0029</container></did><odd id="aspace_d9dbb3b2e22c9be01409b7b0f1308d7c"><head>General Note</head><p>Tom Roderick Part 3 of 3 Interviewed by Adina Langer 10/24/08 wav file 42:14 Judson Church Oral History Project</p></odd></c><c id="aspace_ref252" level="item"><did><unittitle>Tamara Rowe Oral History, Interviewed by Keara Duggan, 11/02/2008</unittitle><unitid>ID: 232.0030</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_8ea46c5215a29d32ba28dcac5477ceaa" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_3392e46e0b5b81ef6e6befd1337e4d59" parent="aspace_8ea46c5215a29d32ba28dcac5477ceaa" type="Media">ID: 232.0030</container></did><odd id="aspace_a38ab1ec88326dee8f9f7e6ae54b9ce3"><head>General Note</head><p>Tamara Oral History<lb/>
+November 2, 2008<lb/>
+Interviewed by Keara Duggan<lb/>
+Disc 1 of 1 (56 min 50 sec)<lb/>
+Judson Memorial Church Oral History Project<lb/>
+For NYU Oral History Course - Fall 2008<lb/>
+Track 1: Introduction by Keara Duggan<lb/>
+Track 2: Brooklyn Neighborhoods<lb/>
+Track 3: Joining the Lafayette Avenue Presbyterian Church<lb/>
+Track 4: Childhood in Bedford Stuyvesant and Food<lb/>
+Track 5: Living in Fort Greene<lb/>
+Track 6: Career as a Teacher<lb/>
+Track 7: Teaching and Higher Education</p></odd></c><c id="aspace_ref253" level="item"><did><unittitle>Carolee Schneemann Oral History, Interviewed by Joanna Steinberg, 11/25/2008</unittitle><unitid>ID: 232.0031</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_dc955b91b832432373ea0feccd02e341" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_811393a3fb8dc8e5a5ce5547706a443b" parent="aspace_dc955b91b832432373ea0feccd02e341" type="Media">ID: 232.0031</container></did><odd id="aspace_a9bfeddf65ba5322fcb3ff42f62558f1"><head>General Note</head><p>Carolee Schneeman Oral History<lb/>
+11/25/2008<lb/>
+Interviewed by Joanna Steinberg<lb/>
+Judson Church Project<lb/>
+Disc 1 (45 minutes)<lb/>
+Track 1: Introduction to Judson Church; early uses of the body in art; "protofeminist" and "transgressive" movement in Judson Dance Theater; coherence and dissention in choreographic styles within the Judson group; emergence of art scene at Judson Church in 1960s<lb/>
+Track 2: Continued emergence of art scene at Judson; meaning of church as a space for performance; relationship between artists and members of Judson Church; Schneemann's artistic process<lb/>
+Track 3: Audience members and their responses; Newspaper Event; Meet Joy; Freedom of Expression at Judson Church; political implications of Judson aesthetic; relevant political issues and involvement (anti-Vietnam movement and feminism)<lb/>
+Track 4: "Interior Scroll"; inclusion of women in art criticism; teaching positions and practices; overall impressions and reflections on experiences at Judson Church</p></odd></c><c id="aspace_ref254" level="item"><did><unittitle>Steve Studnicka Oral History, Interviewed by Brigid Harmon, 12/02/2008 [No Readable Access Copy Available]</unittitle><unitid>ID: 232.0032</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_0506e370b48a243cca4599aed207290d" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_8faaed2b1be150f07f6a6dfd6351407a" parent="aspace_0506e370b48a243cca4599aed207290d" type="Media">ID: 232.0032</container></did></c><c id="aspace_ref255" level="item"><did><unittitle>Rachel Tenney and Bethene Trexel Oral History Part One, Interviewed by Laura Zeccardi, 11/19/2008</unittitle><unitid>ID: 232.0033</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_b31bcbbab4aca0bf53a985fbc86ba874" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_69915543952d59d25314ebccafe3d89e" parent="aspace_b31bcbbab4aca0bf53a985fbc86ba874" type="Media">ID: 232.0033</container></did><odd id="aspace_b972d29ac9e9e3228b157348eca52d66"><head>General Note</head><p>Judson Oral History Project:<lb/>
+Rachel Tenney and Bethnene Trexel<lb/>
+November 19, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 1 of 2 (1:27:5)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood at Judson<lb/>
+Track 2: Teenage Years at Judson<lb/>
+Track 3: Youth Activities/Teaching Judson Beliefs<lb/>
+Track 4: Past and Present Activism at Judson<lb/>
+Track 5: Acceptance and Activism<lb/>
+Track 6: Teaching Sunday School at Judson<lb/>
+Track 7: Leaving Judson, Macalester College<lb/>
+Track 8: Personal Growth/Changes at Judson<lb/>
+Track 9: Bethnene's Description of Rachel's Childhood at Judson<lb/>
+Track 10: Growth of Congregation<lb/>
+Track 11: Rachel's Baptism at Judson<lb/>
+Track 12: Bethnene's Reaction to Rachel's Rededication<lb/>
+Track 13: Bethnene's Childhood/Religious Background<lb/>
+Track 14: Bethnene's experience in NYC/Judson Church<lb/>
+Track 15: Bethnene's Activism work during Rachel's Childhood</p></odd></c><c id="aspace_ref256" level="item"><did><unittitle>Rachel Tenney and Bethene Trexel Oral History Part Two, Interviewed by Laura Zeccardi, 11/19/2008</unittitle><unitid>ID: 232.0034</unitid><unitdate datechar="creation">2008</unitdate><container altrender="Record carton" id="aspace_3f56af757ec8c81396d74957d3f237a3" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_e383c84aec9cd00524e3d4391a5e03d4" parent="aspace_3f56af757ec8c81396d74957d3f237a3" type="Media">ID: 232.0034</container></did><odd id="aspace_bcd35c3f04bce755e33e1b90a6b1a81d"><head>General Note</head><p>Judson Oral History Project:<lb/>
+Rachel Tenney and Bethnene Trexel<lb/>
+November 19, 2008<lb/>
+Interviewed by Laura Zeccardi<lb/>
+Disc 2 of 2 (1:27:5)<lb/>
+Judson Church Oral History Project<lb/>
+Track 1: Childhood at Judson<lb/>
+Track 2: Teenage Years at Judson<lb/>
+Track 3: Youth Activities/Teaching Judson Beliefs<lb/>
+Track 4: Past and Present Activism at Judson<lb/>
+Track 5: Acceptance and Activism<lb/>
+Track 6: Teaching Sunday School at Judson<lb/>
+Track 7: Leaving Judson, Macalester College<lb/>
+Track 8: Personal Growth/Changes at Judson<lb/>
+Track 9: Bethnene's Description of Rachel's Childhood at Judson<lb/>
+Track 10: Growth of Congregation<lb/>
+Track 11: Rachel's Baptism at Judson<lb/>
+Track 12: Bethnene's Reaction to Rachel's Rededication<lb/>
+Track 13: Bethnene's Childhood/Religious Background<lb/>
+Track 14: Bethnene's experience in NYC/Judson Church<lb/>
+Track 15: Bethnene's Activism work during Rachel's Childhood</p></odd></c></c><c id="aspace_ref98" level="file"><did><unittitle>Audio CD Inserts</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><physdesc id="aspace_f4609970eee08133f62da4c70c142eb0" label="Container Summary">1 folder</physdesc><container altrender="Record carton" id="aspace_1723c0eb7b77980e16342e171bbb0b9e" label="Mixed Materials [31142063513678]" type="Box">3</container><container id="aspace_567d54a4673486c191e97d1cc6417a4a" parent="aspace_1723c0eb7b77980e16342e171bbb0b9e" type="Folder">1</container></did></c><c id="aspace_715e91240086c6c5ad36db0f4ad28f45" level="subseries"><did><unittitle>Subseries C: Audio - Submasters - CLOSED</unittitle></did><c id="aspace_9cff7afd48cf9409ff1471e587f58772" level="file"><did><unittitle>ID 232.0046-232.0122</unittitle><container altrender="Record carton" id="aspace_a7e112dca464d30fda357bcfcb3a85c0" label="Audio [31142054893311]" type="Box">Shared Fales PM 1</container></did></c></c></c></dsc>
+</archdesc>
+</ead>

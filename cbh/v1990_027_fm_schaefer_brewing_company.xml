@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_027_fm_schaefer_brewing_company/">v1990_027_fm_schaefer_brewing_company</eadid><filedesc><titlestmt><titleproper>Guide to the F. &amp; M. Schaefer Brewing Company factory photographs <num>V1990.027</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 6, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:21:35 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>F. &amp; M. Schaefer Brewing Company factory photographs</unittitle>
+    <unitid>V1990.027</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">five items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1934/1970" type="inclusive">1934-1970</unitdate>
+    <abstract id="aspace_41f46c5cd0b0231ce17a99be5f64c4e0" label="Abstract">The F. &amp; M. Schaefer Brewing Company factory photographs is comprised of five 8 x 10 inch photographic prints showing exterior views of the F. &amp; M. Schaefer Brewing Company factory building, circa 1915 to 1970.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_25d1fff2a5e739969d238283179aefdf" label="Graphic Materials" type="Box">Prints by Accession 56</container>
+  </did>
+  <bioghist id="aspace_91683122f54b5ab4505b010c8a542b58">
+    <head>Historical note</head>
+<p>The F. &amp; M. Schaefer Brewing Company was established in 1842 by brothers Frederick and Maximilian Schaefer. Natives of Prussia (now part of Germany), Frederick and Maximilian immigrated to the United States in 1838 and 1839, respectively. Frederick began working for a brewer in Manhattan and by 1842 the brothers were able to buy the small brewery where Frederick worked. With Schaefer Beer, the brothers introduced lager to the United States. Schaefer beer was brewed in Manhattan until Maximilian's son, Rudolph J. Schaefer, assumed presidency of the company and built a modern factory in the Williamsburg neighborhood of Brooklyn. The new factory, completed circa 1916, was located between the East River, Kent Avenue, South Ninth Street, and South Tenth Street. As the company grew, it acquired or built factories in Albany, N.Y., Cleveland, Baltimore, and Allentown, PA. The Brooklyn factory was closed in 1976. The company was acquired by Stroh Brewery Company in 1981, which in turn was acquired by Pabst Brewing Company in 1999.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Schaefer Beer. "History of Schaefer Beer." Accessed September 7, 2011. http://www.schaefer-beer.com/history/</item>
+      <item>BeerHistory.com "The F. &amp; M. Schaefer Brewing Company." Accessed September 7, 2011. http://www.beerhistory.com/library/holdings/schaefer_anderson.shtml</item>
+    </list>
+  </bioghist>
+  <processinfo id="aspace_1b3cb7e268ed3f4eb69c93058bb4f8f3">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <prefercite id="aspace_48c19dbffdd583d9d2f10251b80cd2ca">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); F. &amp; M. Schaefer Brewing Company factory photographs, V1990.027, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <otherfindaid id="aspace_02ced40fd537b34890719932c9808f45">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <acqinfo id="aspace_0767c7f11305fdd6ef5387e8911f0747">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of the Stroh Brewery Company, 1990.</p>  </acqinfo>
+  <userestrict id="aspace_9c820cb44dd0f1720726cf1d07ead900">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <scopecontent id="aspace_6103e5a831a1d761adf3edb8e8c41a08">
+    <head>Scope and Contents</head>
+<p>The F. &amp; M. Schaefer Brewing Company factory photographs is comprised of five 8 x 10 inch photographic prints showing exterior views of the F. &amp; M. Schaefer Brewing Company factory building, circa 1915 to 1970. Four of the photographs are black-and-white, while the 1970 photograph is in color. The brewery was located along the East River in the Williamsburg neighboorhood of Brooklyn.</p>  </scopecontent>
+  <accessrestrict id="aspace_40b45fba0618dd73ea07f01725290228">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Color prints (photographs)</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <subject source="lcsh">Breweries |z New York (State) |z New York</subject>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Aerial views</genreform>
+    <subject source="lcsh">Factories |z New York (State) |z New York</subject>
+    <subject source="lcsh">Waterfronts |z New York (State) |z New York</subject>
+    <genreform source="aat">Exterior views</genreform>
+    <corpname rules="dacs" source="local">F. &amp; M. Schaefer Brewing Co</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

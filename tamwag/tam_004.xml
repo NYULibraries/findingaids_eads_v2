@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_004/">tam_004</eadid><filedesc><titlestmt><titleproper>Guide to the Sergius Ingerman Papers <num>TAM.004</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:45:07 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sergius Ingerman Papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Ingerman, Sergius, 1868-1943</persname>
+    </origination>
+    <unitid>TAM.004</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1892/1943" type="inclusive">1892-1943</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_4982aab109358acd1c5feeb3d1cd6eaf">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession number associated with this collection is 1974.004</p>  </acqinfo>
+  <scopecontent id="aspace_1bd8fbc98cc258cfa8def32677d5699d">
+    <head>Scope and Contents</head>
+<p>Russian emigre, socialist. Original MSS (largely in Russian), clippings, photographs. Following his expulsion from Russia for radical activities (1884) and immigration to U.S. (1891), Ingerman was associated with the Socialist Labor Party, and later helped found the Socialist Party of America. Chairman, Russian Immigrants Aid Committee. Writings include discussions of his opposition to Lenin and Trotsky, the failure of the social democratic party in Russia, Social Democratic Society of New York, Karl Kautsky, Raphael Abramovitch. Includes obituaries (in English, Russian, German, Yiddish) of wife, Anna Ingerman, M.D., who was also an active socialist.</p>  </scopecontent>
+  <accessrestrict id="aspace_188afcd56070b8ee96d571688a7a951d">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_fbb16f4451d46e783cd123e94bd766fa">
+    <head>Conditions Governing Use</head>
+<p>Materials in this collection, which were created in 1892 to 1943, are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Photographic prints.</genreform>
+    <genreform source="aat">Obituaries.</genreform>
+    <genreform source="aat">Clippings files.</genreform>
+    <subject source="lcsh">Right and left (Political science).</subject>
+    <subject source="lcsh">Socialism -- United States.</subject>
+    <subject source="lcsh">Working class Jews.</subject>
+    <persname source="local">Ingerman, Sergius, 1868-1943</persname>
+    <persname source="naf">Lenin, Vladimir Il'ich, 1870-1924</persname>
+    <persname source="naf">Trotsky, Leon, 1879-1940</persname>
+    <corpname source="local">Russian Immigrants Aid Committee</corpname>
+    <corpname source="local">Social Democratic Society of New York</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_8090e461096e7b9880083dee2304c25d" level="file"><did><unittitle>Unprocessed Records</unittitle><container altrender="Manuscript box - Legal" id="aspace_fde850c3b1ed470ff39e7349d9a09faa" label="Mixed Materials [31142062884872]" type="Box">1</container></did></c></dsc>
+</archdesc>
+</ead>

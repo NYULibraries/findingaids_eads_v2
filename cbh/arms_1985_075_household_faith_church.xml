@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_075_household_faith_church/">arms_1985_075_household_faith_church</eadid><filedesc><titlestmt><titleproper>Guide to the Household of Faith Church collection <num>1985.075</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 17, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:18:27 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Household of Faith Church collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Household of Faith Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>1985.075</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.4 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1886/1922" type="inclusive">1886-1922</unitdate>
+    <abstract id="aspace_7eda5314e60a5849ee6819fb2d9246f7">The Household of Faith Church collection dates from 1886 to 1922 and is housed in one manuscript box. The collection contains seven bound volumes that include reports, the church membership roll, clerks' books, and minutes. The Household of Faith congregation was organized in 1886 under the direction of Rev. William N. Pile, who led the church for two decades.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_12296956cc4f4adcda8f9d7ff7fd299c" label="Text" type="Box">1985.075 Box 1 of 1</container>
+  </did>
+  <scopecontent id="aspace_e5955f42f91c592507fe16a23c91defe">
+    <head>Scope and Contents</head>
+<p>The Household of Faith Church collection dates from 1886 to 1922 and is housed in one manuscript box. The collection contains seven bound volumes that include reports, the church membership roll, clerks' books, and minutes. Reports and minutes document business meetings of the church, as well as meetings of the Board of Trustees. Clerks' books record baptisms and new members joining the church, as well as regular administrative decisions made at the church. Church rolls list members of the congregation and record member addresses, and dates joined and dismissed from the church.</p>  </scopecontent>
+  <bioghist id="aspace_3d60586650e75321a4709434ef77931b">
+    <head>Historical note</head>
+<p>The Household of Faith congregation was organized in 1886 under the direction of Rev. William N. Pile, who led the church for two decades. In its first two years, the Household of Faith held services at temporary locations on Grand Street, then Liberty Hall at Gates and Nostrand Avenues in the Bedford-Stuyvesant neighborhood of Brooklyn. A new and permanent building for the church was opened in 1888, located on Greene Avenue in Bedford-Stuyvesant. Household of Faith followed the Adventist movement, and was also known as First Christian Advent Church of Brooklyn in the early 20th century.</p>  </bioghist>
+  <accessrestrict id="aspace_65dbbec04aa943edc3a201d4df3304aa">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_4d4611df3b8f1255d1a5f41126734315">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Robert Dolliver, date unknown.</p>  </acqinfo>
+  <prefercite id="aspace_5d6b91c8586fb49b2340247018fdcb74">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Household of Faith Church collection, 1985.075, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_8e9b4e79b9356f084e760b7e856f1112">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Minutes</genreform>
+    <subject source="lcsh">Church records and registers</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Genealogy</geogname>
+    <genreform source="aat">Reports</genreform>
+    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Adventists -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Church membership |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Baptismal registers</genreform>
+    <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+    <genreform source="aat">Membership lists</genreform>
+    <persname rules="aacr" source="naf">Pile, William N.</persname>
+    <corpname rules="dacs" source="local">Household of Faith Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">First Christian Advent Church (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_089/">tam_089</eadid><filedesc><titlestmt><titleproper>Camp Midvale/Nature Friends of America: FOIA Files <num>TAM.089</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/15/2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:50:02 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Camp Midvale/Nature Friends of America: FOIA Files</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Lanset, Andy</persname>
+    </origination>
+    <unitid>TAM.089</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      <extent altrender="carrier">in 2 record cartons and 2 manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/1969" type="inclusive">circa 1920-1960s</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_03c8d0e97a375a419105547566ef6d16">
+    <head>Historical/Biographical Note</head>
+<p>Camp Midvale was a recreation camp built in the 1920s by The Nature Friends of America (NFA) and owned by the Labor Lyceum (a progressive workers educational organization). NFA's goals were to provide workers with affordable outdoor recreation and to preserve wildlife. NFA was placed on the Attorney General's list of "subversive organizations" in 1947, and in 1968 Camp Midvale was given to the Ethical Culture Society in the hope that it would be preserved as an ecological retreat.</p>  </bioghist>
+  <scopecontent id="aspace_957ef1f0fb8159b1886ac57c754f5b32">
+    <head>Scope and Contents</head>
+<p>The collection contains documents of FBI investigations into the activities of the camp, Nature Friends Incorporated, The Labor Lyceum and other related organizations, obtained through a Freedom of Information Act request.</p>  </scopecontent>
+  <acqinfo id="aspace_8897ca3652267f77f4c3b2c70353d5bf">
+    <head>Immediate Source of Acquisition</head>
+<p>Obtained through a Freedom of Information Act request made by Andy Lanset, 1989. The accession number associated with this request is 1988.018.</p>  </acqinfo>
+  <relatedmaterial id="aspace_3454855b31f26f4b197fbf9861f0a593">
+    <head>Related Materials</head>
+<p>Camp Midvale/Nature Friends of America Oral History Collection (OH 015)</p>  </relatedmaterial>
+  <accessrestrict id="aspace_3d2df7617370e8631e78220a6edc952e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_260e0282095a90a507aa6e5a7281d877">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it.</p>  </userestrict>
+  <processinfo id="aspace_343afee88c86956a7d8a8f0a7b94e253">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown. In 2019 boxes 3 and 4 were reincorporated into the collection from TAM 144 PM FBI Files.  The materials were placed in acid-free folders and boxes.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Camps |z New Jersey.</subject>
+    <subject source="lcsh">Working class |x Recreation |z New Jersey.</subject>
+    <corpname source="local">Camp Midvale (Ringwood, N.J.)</corpname>
+    <corpname authfilenumber="(lccn)no2016163056" source="naf">Nature Friends of America</corpname>
+    <corpname source="local">Labor Lyceum (New York, N.Y.)</corpname>
+    <persname role="dnr" rules="dacs" source="local">Lanset, Andy</persname>
+  </controlaccess>
+  <dsc><c id="aspace_8bc81937388af260ade84d5b9ca91505" level="file"><did><unittitle>FOIA Files</unittitle><container altrender="Record carton" id="aspace_de3d551a39631e9235e57e396b207063" label="Mixed Materials [31142062758415]" type="Box">1</container><container altrender="Record carton" id="aspace_2063d0405c5b73bc9ffc10b7ec0a6ec6" label="Mixed Materials [31142062758423]" type="Box">2</container><container altrender="Manuscript box - Legal" id="aspace_3ec75d23eacff1af2bbc3814b969bd43" label="Mixed Materials [31142062841690]" type="Box">3</container><container altrender="Manuscript box - Legal" id="aspace_c6429f7edc75fd692e2dcb9a2677030d" label="Mixed Materials [31142062730307]" type="Box">4</container></did></c></dsc>
+</archdesc>
+</ead>

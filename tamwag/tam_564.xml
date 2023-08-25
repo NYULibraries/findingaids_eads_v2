@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_564/">tam_564</eadid><filedesc><titlestmt><titleproper>Guide to the Amerikai Magyar Szo Records <num>TAM.564</num></titleproper><author>Aniko Szucs, Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2011</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:37:02 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Amerikai Magyar Szó Records</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n83023620" source="naf">Amerikai magyar szó</corpname>
+    </origination>
+    <unitid>TAM.564</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1960/1967" type="inclusive">1960, 1967, undated</unitdate>
+    <abstract id="aspace_1a52f5ac13dfd21523f4ba151b6bcf33"><emph render="italic">Amerikai Magyar Szo</emph> (American Hungarian Word; 1952- , now discontinued), was the successor to <emph render="italic">Magyar Jovo</emph> (Hungarian Future), founded in 1937 as the newspaper of the Hungarian section of the Communist-oriented International Workers Order. The collection contains clippings, correspondence, printed ephemera, some business records, and an autobiographical typescript (93 pp.) by Dezso Mihalyi, a Hungarian who migrated to the United States as a youth. The majority of the correspondence is concerned with debate over the Arab-Israeli war of 1967, and the policies of Israel and the Soviet Union at that time. The majority of the material is in Hungarian.</abstract>
+    <langmaterial id="aspace_69e01644a348b3a458ba3f6007fad5bd">Materials are in Hungarian, with some materials in English.</langmaterial>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_7c4289eb577a15b66a3b770401a2b11a" label="Mixed Materials [31142062884369]" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_b6ce84c3ffdd2e8d7ab377b76a3a43c7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_875a9950493beffb1b040037387bc818">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession associated with this collection is 2011.004.</p>  </acqinfo>
+  <bioghist id="aspace_e5521d07d766e941517685115b3e0dc8">
+    <head>Historical/Biographical Note</head>
+<p><emph render="italic">Arerikai Magyar Szo</emph> (American Hungarian Word; 1952-, now discontinued), was the successor to <emph render="italic">Magyar Jovo</emph> (Hungarian Future), founded in 1937 as the newspaper of the Hungarian section of the Communist-oriented International Workers Order. A significant portion of its readership were Jews of Hungarian origin.</p>  </bioghist>
+  <prefercite id="aspace_8c28e36c2548b20e5b03507c6b31f649">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; <emph render="italic">Amerikai Magyar Szó</emph> Records; TAM 564; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_8b11123e7a695737e654ec2de0c14378">
+    <head>Scope and Content Note</head>
+<p>The collection contains clippings (including biographies of Hungarian Communist leaders), correspondence, printed ephemera, some financial and circulation documents, and an autobiographical typescript (93 pp.) by Dezso Mihalyi, a left-wing Hungarian who migrated to the United States as a youth. The majority of the correspondence is concerned with debate over the Arab-Israeli war of 1967, and the policies of Israel and the Soviet Union at that time. The majority of the material is in Hungarian.</p>  </scopecontent>
+  <userestrict id="aspace_5bfc4dc76ee0b15cb071bf09a1f42af8">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Amerikai Magyar Szó, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Autobiographies.</genreform>
+    <subject source="lcsh">Hungarian Americans |v Newspapers.</subject>
+    <subject source="lcsh">Communists -- United States -- Biography.</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Israel-Arab War, 1967</subject>
+    <subject source="lcsh">Jewish communists -- United States.</subject>
+    <subject source="local">Hungarian American communists.</subject>
+    <corpname authfilenumber="(lccn)n83023620" source="naf">Amerikai magyar szó</corpname>
+    <persname source="local">Mihalyi, Dezso</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle><title render="italic">Amerikai Magyar Szó</title> (American Hungarian Word) Business Records</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ef17b0a961e39dbc6f2b928a38d35afb" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_361705b725ee00916ce9efc06934098e" parent="aspace_ef17b0a961e39dbc6f2b928a38d35afb" type="Folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Clippings (English)</unittitle><unitdate datechar="creation">1967</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3b3672edfc88a2dbeff3a3fd1018fc14" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_78f516d39ef9031f066f660ef243fc01" parent="aspace_3b3672edfc88a2dbeff3a3fd1018fc14" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Clippings (German, Russian)</unittitle><unitdate datechar="creation">1967</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2f4bc1ca445e71a799de9eb5eaa7b9bd" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_2ec00a9cee43e7f48d2f8c1964d23b0c" parent="aspace_2f4bc1ca445e71a799de9eb5eaa7b9bd" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Clippings (Hungarian)</unittitle><unitdate datechar="creation">1967</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2d0df7e7948bfccbb06008e3c06b79df" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_34aa85f1db748a28134595c680f9ddb0" parent="aspace_2d0df7e7948bfccbb06008e3c06b79df" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Correspondence</unittitle><container altrender="Manuscript box - Legal - Half" id="aspace_1883259e82f82177bc86ad4af4265c36" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_2fe82ff58522ce3027dd85569f6de874" parent="aspace_1883259e82f82177bc86ad4af4265c36" type="Folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Fliers and Ads (Clippings) of Hungarian Publications, Products and Travels</unittitle><unitdate datechar="creation">1966-1967, undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3724f3e84622cc783e10692e97d40b19" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_3da002393a5b16199ff7778fa85e4ea5" parent="aspace_3724f3e84622cc783e10692e97d40b19" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>H. Kovács, Mihály: "Our Living Traditions, Pupils' Habits" (Booklet on the Földes Ferenc High School, Hungary)</unittitle><container altrender="Manuscript box - Legal - Half" id="aspace_d038566ef9ce506e0644892bab6d4942" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_a125e73a4862c90001278da8e85922ff" parent="aspace_d038566ef9ce506e0644892bab6d4942" type="Folder">8</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Mihályi, Dezső (Dave): Towards the New World (Autobiographical typescript)</unittitle><container altrender="Manuscript box - Legal - Half" id="aspace_7a16e3d50bf55a10e304347cff90ccab" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_1e03a879862dbe381a0c32346de6b329" parent="aspace_7a16e3d50bf55a10e304347cff90ccab" type="Folder">9</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Rákosi, Mátyás; the Secretary of the Hungarian Communist Party (1945-1955): Biography</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bb387ad45cefd7f95fea4f7346509ba3" label="Mixed Materials [31142062884369]" type="Box">1</container><container id="aspace_4c6d331e694aab81f3ab8e36e027cd49" parent="aspace_bb387ad45cefd7f95fea4f7346509ba3" type="Folder">10</container></did></c></dsc>
+</archdesc>
+</ead>

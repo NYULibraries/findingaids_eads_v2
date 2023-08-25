@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_113_zerbe/">arc_113_zerbe</eadid><filedesc><titlestmt><titleproper>Guide to the Warren K. Zerbe papers and photographs <num>ARC.113</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 28, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:22:36 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Warren K. Zerbe papers and photographs</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Sewanhaka Central High School (Floral Park, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Floral Park-Bellerose School</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Zerbe, Warren Kenneth</persname>
+    </origination>
+    <unitid>ARC.113</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in four folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1913/1988" type="inclusive">circa 1923 to 1978</unitdate>
+    <abstract id="aspace_2efea1bdf040ed3900e44f3dccf44e43" label="Abstract">The Warren K. Zerbe papers and photographs span the 1920s to 1978, though they primarily focus on Zerbe's childhood and his service in the United States Coast Guard during World War II. The collection includes photographs of Brooklyn landmarks taken by Zerbe, such as the Montauk Club, Litchfield Villa, and the Brooklyn Botanic Garden, as well as views from the top of the Williamsburgh Savings Bank tower.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_a802b577a8822a5b468edf5c907ff2f6" label="Mixed Materials" type="Box">ARC.113 / ARC.119</container>
+  </did>
+  <bioghist id="aspace_65d11cc5df957eaeb8d746df38bbaed5">
+    <head>Biographical note</head>
+<p>Warren Kenneth Zerbe was born on August 6, 1923 to Louis and Eleanor Zerbe. The Zerbes first lived in Islip, New York, located in Suffolk County on Long Island. The family then moved to Floral Park, New York in Nassau County, also on Long Island, where Warren Zerbe completed most of his education. The family home was located at 9525 239th Street in Floral Park. He attended Islip School, Floral Park Bellerose School, and Sewanhaka High School from which he graduated in 1941. Zerbe served as seaman first class in the United States Coast Guard during World War II and participated in the invasion of the Philippines aboard a Coast Guard-manned frigate. The contribution of the Coast Guard in screening, fire support, and escort duties during World War II helped to make it possible for U.S. vessels carrying supplies and troops to reach land during the offenses in the Philippines. Zerbe died in 1988.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>National Park Service. The War in the Pacific. <emph render="italic">The Coast Guard during World War II</emph>. http://www.nps.gov/history/history/online_books/npswapa/extContent/wapa/coast_guard/cg7.htm (accessed October 1, 2010).</item>
+    </list>
+  </bioghist>
+  <accessrestrict id="aspace_fb48fba1bca642a29a8b7f296618d656">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_46996132d806d72e4f82b41b19f715a4">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. Please consult library staff for more information.</p>  </userestrict>
+  <acqinfo id="aspace_67a226b2a2d5f9b09d905f7c2e2dc841">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Clark S. Marlor, 1990, 1992, and 1995.</p>  </acqinfo>
+  <otherfindaid id="aspace_88c3378cf201b863571543b57c152547">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <prefercite id="aspace_92fa8e53fec35a38617d1f30dafb4e72">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Warren K. Zerbe papers and photographs, ARC.113, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <arrangement id="aspace_71384549cdbd0a680bf0c5452a372e6f">
+    <head>Arrangement</head>
+<p>The collection is organized into two series: </p><p>Series 1: Papers, 1937-1946</p><p>Series 2: Photographs, circa 1920s-1978</p>  </arrangement>
+  <scopecontent id="aspace_82169dc7ba1f799074c50434db563cb1">
+    <head>Scope and Contents note</head>
+<p>The Warren K. Zerbe papers and photographs span the 1920s to 1978, though they primarily focus on Zerbe's childhood and his service in the United States Coast Guard during World War II. The collection includes photographs of Brooklyn landmarks taken by Zerbe, such as the Montauk Club, Litchfield Villa, and the Brooklyn Botanic Garden, as well as views from the top of the Williamsburgh Savings Bank tower.</p>  </scopecontent>
+  <processinfo id="aspace_fe0ebc72e68719dbec8b1a424cb1168e">
+    <head>Processing Information note</head>
+<p>Minimally processed to the series level.</p><p>This collection combines the accessions 1992.009, V1991.116, V1992.004, and V1995.061.</p><p>V1995.061, consisting of color slides of the Montauk Club house and Litchfield Villa taken by Zerbe in 1969, were added to the collection by John Zarrillo in October 2015.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Exterior views</genreform>
+    <subject source="lcsh">School children -- New York (State) -- Long Island</subject>
+    <genreform source="aat">Color slides</genreform>
+    <subject source="lcsh">Public Schools -- New York (State) -- Long Island</subject>
+    <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Islip (N.Y.)</geogname>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Floral Park (N.Y.)</geogname>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Historic buildings |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
+    <corpname rules="aacr" source="naf">United States. Coast Guard</corpname>
+    <corpname source="naf">Williamsburgh Savings Bank Building (Brooklyn, New York, N.Y. : Hanson Place)</corpname>
+    <persname rules="dacs" source="local">Zerbe, Warren Kenneth</persname>
+    <corpname rules="aacr" source="naf">Brooklyn Botanic Garden</corpname>
+    <corpname rules="dacs" source="local">Litchfield Villa (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref8_fxl" level="series"><did><unittitle>Series 1: Papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent><extent altrender="carrier">in one folder.</extent></physdesc><unitdate datechar="creation" normal="1937/1946" type="inclusive">1937-1946</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_e17ca9eb190bcb8dab0703938f6647ad"><head>Scope and Contents</head><p>This series consists of five certificates awarded to Zerbe relating to his education including his diploma from Floral Park Bellerose School in Floral Park, New York, issued on June 21, 1937; his high school diploma issued from Sewanhaka High School, also in Floral Park, 1941; and a Transcript of Record for Zerbe from Sewanhaka High School for the years 1938-1941, issued on July 8, 1946.</p></scopecontent></c><c id="aspace_ref10_fba" level="series"><did><unittitle>Series 2: Photographs</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.19 Linear Feet</extent><extent altrender="carrier">in two folders.</extent></physdesc><unitdate datechar="creation" normal="1920/1978" type="inclusive">circa 1920s to 1978</unitdate></did><scopecontent id="aspace_90219b9cfacf9b7fe867cd6f376e86f3"><head>Scope and Contents</head><p>This series contains photographs of Warren K. Zerbe from infancy into his 20s, as well as two groups of photographs taken by Zerbe in 1969 and 1978. </p><p>Included in the collection are black-and-white photographs of Zerbe as a child taken in the towns of Islip, New York and Floral Park, New York. Zerbe's mother, Eleanor, is in one of the photographs, as are several family dogs. Several images show exterior views of the family home located at 9525 239th Street in Floral Park. The black-and-white group school photographs of Zerbe document his transformation from a child into a teenager, 1930-1936. The school photographs show his classmates, teachers, and exterior views of Floral Park Bellerose School in Floral Park.</p><p>After graduating high school Zerbe served in the United States Coast Guard. The series contains several photographs of Zerbe from this period showing Zerbe in various United States Coast Guard uniforms and one photograph of Zerbe in uniform in the Philippines during World War II, circa 1943.</p><p>Finally, the series includes color slides and photographs taken by Zerbe in 1969 and 1978. </p><p>These include ten color slides depicting the Montauk Club house in the Park Slope neighborhood of Brooklyn, and seven color slides depicting Litchfield Villa in Prospect Park, all taken in July 1969.</p><p>The series also contains photographs Zerbe shot from the top of the Williamsburgh Savings Bank building tower located at 1 Hanson Place in the Fort Greene neighborhood in Brooklyn and of the Brooklyn Botanic Garden in springtime in 1978. These photographs have identifying notes on the rectos or versos.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>

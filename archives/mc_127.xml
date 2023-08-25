@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unprocessed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_127/">mc_127</eadid><filedesc><titlestmt><titleproper>Guide to the Howard Cann Collection <num>MC.127</num></titleproper><author>Jennifer E. Neal</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>June 2019</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:50:09 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>July 2019</date><item>Updated by Jennifer E. Neal to incorporate materials being sent offsite in 2019</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Howard Cann Collection</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Cann, Howard</persname>
+    </origination>
+    <unitid>MC.127</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 3 flat boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1915/1991" type="inclusive">1915-1991</unitdate>
+    <abstract id="aspace_c292efa293840f0cec6f0ea37c1ff639">Howard Cann coached basketball for thirty-five years at New York University, from 1923-1958.</abstract>
+    <physloc id="aspace_e60542b51c2670476572d7a402fbb43b">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_724b2782e145d7ace22e4c387883cc37">Materials are primarily in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_58cff32a6cd1f174e9eb457198f40ed8">
+    <head>Conditions Governing Access</head>
+<p>Access to the Howard Cann Collection is restricted until materials are arranged and described by an archivist.</p>  </accessrestrict>
+  <arrangement id="aspace_048daeb28a2721068a6dc268e9a0125e">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_72eb5b3185b8a6eef9c3d93c97373220">
+    <head>Biographical Note</head>
+<p>Howard Goodsell Cann was a college basketball and football player, and an Olympic shot putter. He coached basketball for thirty-five years at New York University, from 1923-1958. Materials in this collection include certificates, awards, and diplomas from various athletic associations honoring Cann's career as an athlete and coach. There are also certificates of honor from Cann's naval service and an American flag.</p>  </bioghist>
+  <prefercite id="aspace_ae2a954cfe550a03f0128906f6424d5a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Howard Cann Collection; MC 127; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_d75ea411b45b912a81117b9f84bbe9e4">
+    <head>Scope and Contents</head>
+<p>These materials contain mainly certificates, awards and diplomas from various athletic associations honoring Howard Cann's career as an athlete and coach. Included as well are certificates of honor from Cann's naval service and an American flag.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Certificates.</genreform>
+    <genreform source="aat">Awards</genreform>
+    <genreform source="aat">Memorabilia.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_136364d18f13f8646aec333eddedd168" level="file"><did><unittitle>American flag</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_96b0d12393bf9b60a0e202f3579fe7d0" label="Mixed Materials [31142062898369]" type="Box">2</container><container altrender="Flat OS Box 17" id="aspace_c023fa86df8cdcb8df6fc8b30d8b5670" label="Mixed Materials [31142062911972]" type="Box">3</container></did></c><c id="aspace_9b8fe706651cbf7251888c285c7ec501" level="file"><did><unittitle>Framed Photo of Julius Silver Institute of Bio-Medical Engineering Sciences, Technio City, Haifa</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - 36 x 24" id="aspace_364af7532a51ba626f6c4cefd24a1d44" label="Mixed Materials [31142062912178]" type="Flat-File-Folder">4 Right</container></did><scopecontent id="aspace_99f2c4ecf3504666154c6d4bfa3c57ae"><head>Scope and Contents</head><p>ID Number: 456. Description: Color portrait of the Silver building, matted with silver frame. Creator/Donor/Subject: Julius Silver.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>

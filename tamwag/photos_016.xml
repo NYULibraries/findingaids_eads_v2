@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_016/">photos_016</eadid><filedesc><titlestmt><titleproper>Guide to the Kentucky Miners' Defense Photographs <num>PHOTOS.016</num></titleproper><author>Tamiment Staff</author></titlestmt><editionstmt><p>This version was derived from NP16--Final Draft.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:32:34 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Kentucky Miners Defense Photographs</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Kentucky Miners Defense</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Mahler, Bessie Freiberg</persname>
+    </origination>
+    <unitid>PHOTOS.016</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1931/1939" type="inclusive">1931-1939</unitdate>
+    <abstract id="aspace_830271c508991681938719ac1d310468" label="Abstract">The Kentucky Miners' Defense was formed to help free seven miners convicted of murdering three coal company guards in Evart, Harlan County, Kentucky, during a miners' strike in May 1931. Herbert Mahler, director of the organization, spearheaded the publicity campaign to bring national attention to the miners` case. Fund-raising publicity was often aimed at unions and their members, since the Kentucky miners had been attempting to organize, but were being blocked by the coal companies, when the incident took place. The collection spans the years 1931-1939 and consists of 44 photographs, almost all of which are 8x10 black and white copy prints. It is made up of the images of the convicted miners and their families used for publicity purposes by the Kentucky Miners' Defense. There are also views of the area where the strike took place. The shots of Harlan County were used by the defense in the 1932 <title render="italic">Court versus Hightower</title>case. Additional images show Mahler with the four defendants, Al Bencon, Chester Poore, W.B. Jones and Jim Reynolds, the wives of three of them, and portraits of one of the witnesses for the defense.</abstract>
+    <physdesc id="aspace_a93e9a8e555b8f142c3ac39769fecf41" label="General Physical Description note">44 items (5x7, 8x10; b&amp;w)</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_34ed8b56aa97f3b2483f267bde906c51">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_ee08c45c7514180327c28fa8d9a4670a">
+    <head>Immediate Source of Acquisition</head>
+<p>The Kentucky Miners Defense Records were given to the Tamiment Library by Herbert Mahler's wife, Bessie Freiberg Mahler, in 1963. Photographs in this collection were separated from the Kentucky Miners Defense Records (TAM 032) and established as the Kentucky Miners Defense Photographs (PHOTOS 016). The accession number associated with this collection is 1963.015.</p>  </acqinfo>
+  <arrangement id="aspace_6e9dc0d58c0fb574f9a5b3801b1ab25b">
+    <head>Arrangement</head>
+<p>The files are grouped into 1 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Inventory</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_573f90a2d83a69f5152b97b8e1dbe9e4">
+    <head>Historical/Biographical Note</head>
+<p>The Kentucky Miners' Defense was formed to help free seven miners convicted of murdering 3 coal company guards in Evart, Harlan County, Kentucky during the miners' strike in May 1931. Herbert Mahler (a former activist in the Industrial Workers of the World), director of the organization, spearheaded the publicity campaign to bring national attention to the miners` case. Fund-raising publicity was often aimed at unions and their members since the Kentucky miners had been attempting to organize when they were violently blocked by coal companies.</p>  </bioghist>
+  <prefercite id="aspace_89c75551a0fbe0267749e34c5ee294fd">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Kentucky Miners Defense Photographs; PHOTOS 016; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_296bd3d4b9bf531b42a8e4bcf991798e">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Kentucky Miners' Defense Records (TAM 032).</p>  </relatedmaterial>
+  <scopecontent id="aspace_c49e2b80a59b82d3d901bbcf5a7eda73">
+    <head>Scope and Content Note</head>
+<p>The collection of 44 photographs, almost all of which are black and white 8x10 copy prints, is made up of images of the convicted miners and their families used for publicity purposes by the Kentucky Miners' Defense. There are also views of the area where the strike took place. The shots of Harlan County were used by the defense in the 1932 <title render="italic">Court versus Hightower</title>case. Additional images show Mahler with the four defendants, Al Bencon, Chester Poore, W.B. Jones and Jim Reynolds; three of the defendants leaving a reformatory with their wives; and 2 portraits of Dolly Hudson Daniels, a dramatic witness for the defense because she was the wife of the chief mine guard who was killed. Also pictured are William Hightower and Elzie Phillips.</p>  </scopecontent>
+  <separatedmaterial id="aspace_32f1c53da6f800396568237752d469f9">
+    <head>Separated Material</head>
+<p>An 11x14 poster - "free Harlan Miners" with a photograph of the four convicted miners has been placed in the Library's poster collection .</p>  </separatedmaterial>
+  <userestrict id="aspace_091fd36705514171ab13b204316d7101">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in unitdate range, are expected to enter the public domain in year.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <subject source="lcsh">Coal mines and mining |z Kentucky |z Harlan County.</subject>
+    <subject source="lcsh">Coal miners |z Kentucky |z Harlan County.</subject>
+    <geogname source="lcsh">Evarts (Ky.)</geogname>
+    <geogname source="lcsh">Harlan County (Ky.)</geogname>
+    <corpname rules="dacs" source="local">Kentucky Miners Defense</corpname>
+    <persname rules="dacs" source="local">Mahler, Herbert</persname>
+    <persname source="ingest">Phillips, Elzie.</persname>
+    <persname source="ingest">Poore, Chester.</persname>
+    <persname source="ingest">Reynolds, Jim.</persname>
+    <persname source="local">Daniels, Dolly Hudson</persname>
+    <persname rules="dacs" source="local">Hightower, William</persname>
+    <persname source="naf">Benson, Allan L. (Allan Louis), 1871-1940</persname>
+    <persname rules="dacs" source="local">Jones, W. B.</persname>
+    <persname role="dnr" rules="dacs" source="local">Mahler, Bessie Freiberg</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Inventory</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Folder 1</unittitle><unitdate datechar="creation" normal="1931/1939" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_65bba9db16b684ae30d04bb50ef643b9" label="Mixed Materials [31142062668002]" type="Box">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Folder 2</unittitle><unitdate datechar="creation" normal="1931/1939" type="inclusive">undated</unitdate></did></c><c id="aspace_ref20" level="file"><did><unittitle>Oversize</unittitle><unitdate datechar="creation" normal="1936/1937" type="inclusive">1936-1937</unitdate><container altrender="Flat OS Box 17" id="aspace_b333949f76699676fa8885c32c7f3057" label="Mixed Materials [31142062759793]" type="Box">Shared Tamiment OS002</container><container id="aspace_05043a18750209e59ad69d72c6756c80" parent="aspace_b333949f76699676fa8885c32c7f3057" type="Folder">1</container></did></c></c></dsc>
+</archdesc>
+</ead>

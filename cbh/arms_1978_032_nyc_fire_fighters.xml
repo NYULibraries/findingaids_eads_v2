@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_032_nyc_fire_fighters/">arms_1978_032_nyc_fire_fighters</eadid><filedesc><titlestmt><titleproper>New York City fire fighters list <num>1978.032</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 21, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:18:47 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>New York City fire fighters list</unittitle>
+    <unitid>1978.032</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1704/1704" type="inclusive">1704</unitdate>
+    <abstract id="aspace_410e1cc3820088bc1f3fdd5669ac50f9">The exact history of this document is unknown, but it lists the names of fire fighters and fire engineers in New York City, and is dated 1704. The list features 291 names and appears to organize them according to fire company.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_40fa1187bc8357c180837b22d0dc0e25" label="Text" type="Box">A0076</container>
+  </did>
+  <prefercite id="aspace_69e068fda2863f47d8b8d6e0e856a333">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); New York City fire fighters list, 1978.032, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_af2c83ed12b76ec54c5c25b0bb7cbfbc">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1978.</p>  </acqinfo>
+  <accessrestrict id="aspace_7fad5a60488b24b9ff19f3edcd93529e">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Lists (document genres)</genreform>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Fire fighters |z New York (State) |z New York</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

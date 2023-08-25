@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_003_album/">arms_2016_003_album</eadid><filedesc><titlestmt><titleproper>Guide to the Family photograph album <num>2016.003</num></titleproper><author>Katherine Palm</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:24 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Family photograph album</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Rossman, Jim</persname>
+    </origination>
+    <unitid>2016.003</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in one phase box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1924/1955" type="inclusive">1924-1955</unitdate>
+    <abstract id="aspace_35f4d3f3119e160f8121eb6a8a834d79">The collection consists of a family photo album containing approximately 500 black-and-white photographs of a middle-to-upper-class family and friends dating from the mid-1920s to the mid-1950s in settings both domestic and foreign, including Brooklyn locations such as Coney Island, Ebbets Field, Prospect Park, and the Brooklyn neighborhood of Bay Ridge.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_4990840a77ebcbf3650eec813204dc92" label="Graphic Materials" type="volume">1 of 1</container>
+  </did>
+  <scopecontent id="aspace_6832a595adefa444ddb92d572e052606">
+    <head>Scope and Contents</head>
+<p>The collection consists of a family photo album containing approximately 500 black-and-white photographs of a middle-to-upper-class family and friends dating from the mid-1920s to the mid-1950s.  The subjects of the photographs are chiefly domestic and leisure-related and include vacation cruises, beach outings, birthdays, children and toys, family portraits, pets, and other animals.  Many of the photographs are captioned and dated and indicate that photographs were taken chiefly in New York, New Jersey, and Pennsylvania, but also in other states such as Florida and Massachussets, and in other countries, such as Jamaica, Haiti, Cuba, and the Bahamas.  Brooklyn locations include Coney Island, Ebbets Field, Prospect Park, and the Brooklyn neighborhood of Bay Ridge.  Also included are a few news clippings relating to the marriages in 1934 of Harry C. Treber to Vera Weber and of Harold George Kraus to Helen Antoinette Janson.</p>  </scopecontent>
+  <accessrestrict id="aspace_4e8b6ed1bb6bffbde2dc4f551d15edbb">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_a387cb08639845ce24f26d554c50418a">
+    <head>Conditions Governing Use</head>
+<p>Unpublished photographs will enter the public domain 120 years from their date of creation.</p>  </userestrict>
+  <prefercite id="aspace_395fda13a81810d59e305fd40e5bd380">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Family photograph album, 2016.003, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_fdf9fca22fd2dc9e788f4d9b4bcf9727">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <acqinfo id="aspace_da9c1b64509f18b2a00b519d7388c3d0">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Jim Rossman, 2015.</p>  </acqinfo>
+  <bioghist id="aspace_97b6b8405aa7845f9c552d5d4fb2d5fd">
+    <head>Biographical / Historical</head>
+<p>The identity of the family that owned this photograph album is unknown; however, a number of people in photographs are identified by name in handwritten captions.</p>  </bioghist>
+  <controlaccess>
+    <geogname source="lcsh">Cape Cod (Mass.)</geogname>
+    <geogname source="lcsh">Lakewood (N.J.)</geogname>
+    <geogname source="lcsh">Stamford (N.Y. : Township)</geogname>
+    <geogname source="lcsh">Blackwood (N.J.)</geogname>
+    <geogname source="lcsh">Kingston (Jamaica)</geogname>
+    <geogname source="lcsh">Point Pleasant (N.J.)</geogname>
+    <geogname source="lcsh">Jones Beach State Park (N.Y.)</geogname>
+    <geogname source="lcsh">Milford, Pa.</geogname>
+    <subject source="lcsh">Travel photography</subject>
+    <geogname source="lcsh">Lake Peekskill (N.Y.)</geogname>
+    <geogname source="lcsh">Williamsburg (Va.)</geogname>
+    <geogname source="lcsh">Riverhead (N.Y.)</geogname>
+    <geogname source="lcsh">Florida</geogname>
+    <geogname source="lcsh">Port-au-Prince (Haiti)</geogname>
+    <geogname source="lcsh">Havana (Cuba)</geogname>
+    <geogname source="lcsh">Quogue (N.Y.)</geogname>
+    <subject source="lcsh">Pets.</subject>
+    <subject source="lcsh">Voyages and travels</subject>
+    <geogname source="lcsh">Georgia</geogname>
+    <subject source="lcsh">Family life |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Outdoor recreation</subject>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photograph albums</genreform>
+    <genreform source="aat">Photographic prints</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Amateur photographer</subject>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+    <genreform source="aat">Group portraits</genreform>
+    <persname role="dnr" rules="dacs" source="local">Rossman, Jim</persname>
+    <persname rules="dacs" source="local">Janson, Helen Antoinette</persname>
+    <persname rules="dacs" source="local">Weber, Vera</persname>
+    <persname rules="dacs" source="local">Kraus, Harold George</persname>
+    <persname rules="dacs" source="local">Treber, Harry C.</persname>
+    <corpname rules="dacs" source="naf">Ebbets Field (New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

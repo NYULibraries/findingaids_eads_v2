@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid_boxlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_016/">tam_016</eadid><filedesc><titlestmt><titleproper>Co-operative Educational Institute Association Records <num>TAM.016</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:46:16 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Co-operative Educational Institute Association Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Co-operative Educational Institute Association</corpname>
+    </origination>
+    <unitid>TAM.016</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">(3 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1919/1927" type="inclusive">1919-1927</unitdate>
+    <abstract id="aspace_8320b75097fd286e16ea97f1779afb06">The Co-Operative Educational Instite Association in the Brownsville neighborhood of Brooklyn, New York City, administered a cooperative evening school offering high school equivalency courses. The records consist of reports, minutes, schedules, and correspondence that document the life of the school.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_a70a2e439c8b169aa823981b65772ff4">
+    <head>Historical/Biographical Note</head>
+<p>The Co-Operative Educational Instite Association in the Brownsville neighborhood of Brooklyn, New York City, administered a cooperative evening school offering high school equivalency courses. The students selected their teachers, decided on their curriculum and fees, and elected their administrative officers.</p>  </bioghist>
+  <prefercite id="aspace_033e52523ba243f0e5bfe31e6f453b07">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Co-operative Educational Institute Association Records; TAM 016; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_b810fd28688983626b2e56c37fc49e35">
+    <head>Scope and Contents</head>
+<p>The records consist of reports, minutes, schedules, and correspondence that document the life of the school. Many of the letters are to John L. Afras, registrar and English teacher. Also included is correspondence with the Co-operative League of America.</p>  </scopecontent>
+  <accessrestrict id="aspace_eb99169c8b7dac2d274909abc594c4ac">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_5d1d062899daa92dcadb135ed310cacd">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1919 to 1927, are expected to enter the public domain in 2048.</p>  </userestrict>
+  <acqinfo id="aspace_80ae75c4e4f1ac89b7eae84302b8724a">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.149.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brownsville (New York, N.Y.)</geogname>
+    <subject source="lcsh">Education, Cooperative |z United States.</subject>
+    <subject source="lcsh">High school equivalency examinations.</subject>
+    <corpname rules="dacs" source="local">Co-operative Educational Institute Association</corpname>
+    <corpname authfilenumber="(lccn)n99052274" source="naf">Co-operative League of America</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref6" level="file"><did><unittitle>Schedules; Registrar's reports; Financial Reports; Finances; Lists of Officers; Executive Committee; Board of Directors</unittitle><container altrender="Manuscript box - Legal" id="aspace_ae22a55f4e4f8f50674ef48208faff4f" label="Mixed Materials [31142062884500]" type="Box">1</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Membership Meetings: Minutes; Executive Committee of the Students Cooperative School; Minutes of Student Body Meetings; Membership Committee Minutes; Educational Committee Minutes; Finance Committee Minutes; Joint Educational/Finance Committee Minutes; Provisional Commzittee Minutes; Intercooperation Committee Minutes; Entertainment Committee Minutes; Grievance Committee 'Minutes; Miscellaneous Minutes, Reports
+</unittitle><container altrender="Manuscript box - Legal" id="aspace_71769756778226787ea058ef1f5af254" label="Mixed Materials [31142062884518]" type="Box">2</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Correspondence (1922, 1923, 1924, 1925, 1926, undated); Registration and Regents Requirements; Firing of teachers; School announcements; Entertainment and excursions; Mailings to membership; leaflets; Constitutions; Lecture announcements; Correspondence with Cooperative League of America; Afros dismissal case; Resignations; Advertising; <emph render="italic">The Coop Student</emph>; Miscellaneous	</unittitle><container altrender="Manuscript box - Legal" id="aspace_bd329ba20c6d19b03820924659c7b7fd" label="Mixed Materials [31142062884526]" type="Box">3</container></did></c></dsc>
+</archdesc>
+</ead>

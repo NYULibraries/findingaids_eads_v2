@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1992_014_villa_joes/">v1992_014_villa_joes</eadid><filedesc><titlestmt><titleproper>Guide to the Photographs and postcard of Villa Joe's in Coney Island <num>V1992.014</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 17, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:01 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Photographs and postcard of Villa Joe's in Coney Island</unittitle>
+    <unitid>V1992.014</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">12 items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1922/1965" type="inclusive">1922-1965</unitdate>
+    <abstract id="aspace_aed41fef72955d432f8dd1ed65ba530c" label="Abstract">The collection documents the history of Villa Joe's, a family-run Italian restaurant that was located in Coney Island from 1915 to 1975.The photographs show exterior and interior views of the restaurant in 1965, an exterior view of the restaurant in 1955, and two group portraits showing the proprietors, Joseph and Fausta Palescandolo, their three children, and the restaurant staff, in 1922 and again in 1927.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_a9b473497bca413ff61235cf6db83a3b" label="Graphic Materials" type="Box">Prints by accession 59</container>
+  </did>
+  <prefercite id="aspace_885b664bc2beb1b2e36db9ce6c059001">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Photographs and postcard of Villa Joe's in Coney Island, V1992.014, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_1615b4ed3588b44f12771a9fcf0ef27b">
+    <head>Scope and Contents</head>
+<p>The Photographs and postcard of Villa Joe's in Coney Island consist of eight color photographic prints taken in 1965, three black-and-white photographic prints dating from 1922 to 1955, and one photographic postcard, circa 1932. The collection documents the history of Villa Joe's, a family-run Italian restaurant that was located in Coney Island from 1915 to 1975.The photographs show exterior and interior views of the restaurant in 1965, an exterior view of the restaurant in 1955, and two group portraits showing the proprietors, Joseph and Fausta Palescandolo, their three children, and the restaurant staff, in 1922 and again in 1927.</p>  </scopecontent>
+  <acqinfo id="aspace_bc649c82544cddfbe3c52f7d46f312d8">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Frank J. Palescandolo, 1992.</p>  </acqinfo>
+  <accessrestrict id="aspace_de4f8b922df61bb368584eb994502f55">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_368441c8341e254b509a5f00ce49d88e">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <otherfindaid id="aspace_bfefde351ad1a87717a348ce3e3e29bc">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <processinfo id="aspace_5211bba37e5bcc002e9abcc517f16b91">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <bioghist id="aspace_37d7c779d484ceab4b5b9755c452d063">
+    <head>Historical note</head>
+<p>Villa Joe's was a family-owned restaurant in Coney Island that was located on West 15th Street. The restaurant was founded, owned, and operated by Giuseppe (later known as Joseph) and Fausta Palescandolo. Giuseppe Palescandolo immigrated to New York from Naples, Italy in September 1907 when he was seventeen years old. He initially lived in Manhattan and ran a restaurant located on 14th Street on the East Side. Around the outbreak of World War I, the Austrian-born owner of the building where his restaurant was located evicted him. In 1915, Giuseppe and Fausta took over Masaniello, an abandoned italian restaurant in Coney Island dating to back to circa 1875, and the Palescandolo family moved from Manhattan to Coney Island. In 1925, the Palescandolo's changed the name of the restaurant to Villa Joe's. As Villa Joe's, the restaurant also included a cafe chantant with an in-house orchestrina, comics, singers (all Neapolitan), and a speakeasy. Eventually, the restaurant was taken over other family members. First as Masaniello and then as Villa Joe's, the restaurant ran continually from 1915 to 1975. The building was later demolished.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Palescandolo, Frank J. <emph render="italic">Remembrance of a Restaurant: A Decameron of Dining</emph>. Lincoln, Neb.: Writers Club Press, 2001.</item>
+    </list>
+  </bioghist>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Italian Americans |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Photographic postcards</genreform>
+    <genreform source="aat">Color prints (photographs)</genreform>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <genreform source="aat">Interior views</genreform>
+    <genreform source="aat">Group portraits</genreform>
+    <genreform source="aat">Exterior views</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <subject source="lcsh">Restaurateurs |z New York (State) |z New York</subject>
+    <subject source="lcsh">Restaurants |z New York (State) |z New York</subject>
+    <persname rules="dacs" source="local">Palescandolo, Joseph</persname>
+    <persname rules="dacs" source="local">Palescandolo, Fausta</persname>
+    <corpname rules="dacs" source="local">Villa Joe's (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Masaniello (Brooklyn, New York, N.Y)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

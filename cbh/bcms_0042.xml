@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://dlib.nyu.edu/findingaids/html/bhs/bcms_0042/">bcms_0042</eadid><filedesc><titlestmt><titleproper>Guide to the Bella Gordon P.S. 64 collection <num>BCMS.0042</num></titleproper><author>Diana Bowers-Smith, Archivist</author></titlestmt><publicationstmt><publisher>Brooklyn Collection</publisher><p><date>2018</date></p><address><addressline>128 Pierrepont St</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:38 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Collection</corpname>
+    </repository>
+    <unittitle>Bella Gordon P.S. 64 collection</unittitle>
+    <unitid>BCMS.0042</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 flat box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1923/1923">1923</unitdate>
+    <abstract id="aspace_ref2">A small collection of materials relating to Brooklyn middle school P.S. 64 in East New York. These materials were compiled by Bella Gordon, a student in the class of 1923.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_ref4">
+    <head>Biographical note</head>
+<p>Bella Gordon was born in 1909 and attended P.S. 64 in East New York, Brooklyn, where she completed middle school in 1923.</p>  </bioghist>
+  <scopecontent id="aspace_ref5">
+    <head>Scope and Contents</head>
+<p>The collection consists of two black and white photographs mounted on board, a leatherbound autograph book, and a postcard.</p>  </scopecontent>
+  <accessrestrict id="aspace_ref6">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_ref7">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <acqinfo id="aspace_ref8">
+    <head>Provenance</head>
+<p>Donated by Nancy Kossar, daughter of Bella Gordon, in 2018.</p>  </acqinfo>
+  <arrangement id="aspace_ref11">
+    <head>Arrangement</head>
+<p>The four items in this collection are stored in one box.</p>  </arrangement>
+  <relatedmaterial id="aspace_ref12">
+    <head>Related Materials</head>
+<p>Brooklyn Daily Eagle photographs (BCMS.0002), folder Schools: Public: P.S. 64</p><p>Class Photograph Collection (BCMS.0029)</p>  </relatedmaterial>
+  <prefercite id="aspace_8a5e1ed0d4a5c7ce2d01da7bff024dc6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Bella Gordon P.S. 64 collection, BCMS.0042, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="lcsh">Autograph albums</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">East New York (New York, N.Y.)</geogname>
+    <genreform source="lcsh">Photographs</genreform>
+    <genreform source="aat">Postcards</genreform>
+    <subject source="lcsh">Public schools -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Public schools.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref14" level="item"><did><unittitle>Autograph book</unittitle><container id="aspace_2de5adb1ccb96be8e9bc8b1cb91cc1bd" label="Mixed Materials [34444503924268]" type="Box">1</container></did><odd id="aspace_ref21"><head>Note</head><p>The book has messages and signatures on each page from members of the class of 1923 to Bella Gordon, the book's owner. Her name is inscribed on the first page, which is decorated with glitter.</p></odd></c><c id="aspace_ref15" level="item"><did><unittitle>Graduation photograph of class 8B</unittitle><container id="aspace_a9eab99b79dc2c5c17a089c4b79fb23b" label="Mixed Materials [34444503924268]" type="Box">1</container></did><odd id="aspace_ref18"><head>Note</head><p>Photographed by R. Stollmark of Atlantic Avenue, Brooklyn.</p></odd></c><c id="aspace_ref16" level="item"><did><unittitle>Photograph of class 8B in their play costumes</unittitle><container id="aspace_4605c78f60f440ca74df87b2a174e08d" label="Mixed Materials [34444503924268]" type="Box">1</container></did><odd id="aspace_ref19"><head>Note</head><p>Photographed by R. Stollmark of Atlantic Avenue, Brooklyn.</p></odd></c><c id="aspace_ref17" level="item"><did><unittitle>Postcard of P.S. 64</unittitle><container id="aspace_1e64275c6d6647dd9a0dacf79c2c00b5" label="Mixed Materials [34444503924268]" type="Box">1</container></did><odd id="aspace_ref20"><head>Note</head><p>Published by Fred H. Plate of Montawk Avenue, Brooklyn.</p></odd></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_036_prospect_park_exhibit/">v1974_036_prospect_park_exhibit</eadid><filedesc><titlestmt><titleproper>Guide to the Prospect Park exhibit photography collection <num>V1974.036</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 24, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:16 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Prospect Park exhibit photography collection</unittitle>
+    <origination label="Creator">
+      <corpname role="com" rules="aacr" source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>V1974.036</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.34 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize box and one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1877/1985" type="inclusive">1877 to circa 1975</unitdate>
+    <unitdate datechar="creation" normal="1889/1897" type="bulk">1889-1897</unitdate>
+    <abstract id="aspace_39e8df42c4a232a24d1b4e18badae90f" label="Abstract">Items in the collection show scenes of Prospect Park, such as landscapes, statues, arches, bridges, lakes, and recreational activities, namely bicycling and ice skating.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_9a8e9b8d3fdf74a668c5ecb27db90910" label="Graphic Materials" type="Box">Prints by accession 42</container>
+    <container id="aspace_48a648932a163bb30d59b20da4ad4a6c" label="Graphic Materials" type="Oversize">Oversize Prints by Accession 9</container>
+    <container altrender="Large negatives box" id="aspace_433907bac53e232270e06ff7fe9de7cb" label="Graphic Materials" type="Box">Medium Format Negatives 6</container>
+  </did>
+  <scopecontent id="aspace_e9273bd85fad43c39b6dfff1a7051a6d">
+    <head>Scope and Contents</head>
+<p>The Prospect Park exhibit photography collection contains 33 items and ranges in date from 1877 to circa 1975, with the bulk of materials dating from 1889 to 1897. The collection includes oversize photographs, prints, stereographs, and postcards. Items in the collection show scenes of Prospect Park, such as landscapes, statues, arches, bridges, lakes, and recreational activities, namely bicycling and ice skating. Also included is a photograph of Colored School No. 2 in the Bedford-Stuyvesant neighborhood of Brooklyn. Items in the collection were part of a Brooklyn Historical Society exhibit on Prospect Park in the late 1980s.</p>  </scopecontent>
+  <accessrestrict id="aspace_78d7f6f8712ac904fd2618d8c3ac82ee">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_192fa4ca981ee8777a152eb853b0e55f">
+    <head>Conditions Governing Use</head>
+<p>Copyright will remain in effect for 120 years following the date of creation. All items in this collection will enter the public domain by 2095. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <otherfindaid id="aspace_e91342d45df92f316a878ce46ea8e200">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <prefercite id="aspace_ca3331e3d419d4671f59b7db75ab1ca8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Prospect Park exhibit photography collection, V1974.036, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_7a439dffd8645ce2cfc44de82b042cfc">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Outdoor recreation</subject>
+    <subject source="lcsh">Landscape photography |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <subject source="lcsh">Parks |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Stereographs</genreform>
+    <genreform source="aat">Picture postcards</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

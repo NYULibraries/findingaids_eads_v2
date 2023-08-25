@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_173_aldridge/">arms_1977_173_aldridge</eadid><filedesc><titlestmt><titleproper>Guide to the Frederick Aldridge scrapbooks <num>1977.173</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 6, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:14:54 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Frederick Aldridge scrapbooks</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Aldridge, Frederick</persname>
+    </origination>
+    <unitid>1977.173</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.68 Linear Feet</extent>
+      <extent altrender="carrier">in two oversize boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1861/1893" type="inclusive">1861-1893</unitdate>
+    <abstract id="aspace_8b3e9cc4f581226041f36c9fe6f1bc26">Two oversize scrapbooks compiled by Frederick Aldridge of Brooklyn, N.Y.  The scrapbooks contain various items pertaining to American popular culture and history, including trade cards, greeting and calling cards, illustrations and drawings, copy photographs, playbills and theater programs, and other printed ephemera.  Bills of Confederate States of America currency are also included.  While some items do relate to Brooklyn, the scrapbooks do not have any particular geographic focus.  Items date from 1861 to 1893.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box" id="aspace_78f197906ef47dc29b3876614451364a" label="Text" type="Oversize">1977.173 1 of 2</container>
+    <container altrender="Medium Flat Box 9" id="aspace_15b2894f8804ecd5b7d25288966d7726" label="Text" type="Box">1977.173 2 of 2</container>
+  </did>
+  <prefercite id="aspace_8e2409d38d3e97962b26e61f9d38776e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Frederick Aldridge scrapbooks, 1977.173, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_3da81ef88c27cc75bc625987fee97970">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <accessrestrict id="aspace_2455eeb45936242d8341bf1319aaf9a7">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_251cf820da0c652c232cdb9cd5233d20">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Frederick Aldridge, Jr., 1953.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Illustrations (layout features)</genreform>
+    <genreform source="aat">Drawings (visual works)</genreform>
+    <genreform source="aat">Visiting cards</genreform>
+    <genreform source="aat">Greeting cards</genreform>
+    <genreform source="aat">Scrapbooks</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">United States |x Social life and customs |y 19th century</geogname>
+    <geogname source="lcsh">United States |x Intellectual life |y 19th century</geogname>
+    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">Confederate States of America</geogname>
+    <geogname source="lcsh">United States |x History</geogname>
+    <genreform source="aat">Paper money</genreform>
+    <genreform source="aat">Playbills</genreform>
+    <subject source="lcsh">Theater |z United States</subject>
+    <genreform source="aat">Trade cards (advertising)</genreform>
+    <genreform source="aat">Printed ephemera</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

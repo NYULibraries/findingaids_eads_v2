@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_200/">mss_200</eadid><filedesc><titlestmt><titleproper>Guide to the Shael Shapiro Papers <num>MSS.200</num></titleproper><author>Shirin Khaki</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>August 2017</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:03:58 -0400</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2022</date><item>Revised by Weatherly Stephan to note conservation treatment and arrangement</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Shael Shapiro Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Shapiro, Shael</persname>
+    </origination>
+    <unitid>MSS.200</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">76 Linear Feet</extent>
+      <extent altrender="carrier">in 39 manuscript boxes, 13 record cartons, 39 flat file folders, and 63 rolled storage boxes.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">7.16 Megabytes</extent>
+      <extent altrender="carrier">in 5 floppy disks.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1954/2006" type="inclusive">1954-2006</unitdate>
+    <physloc id="aspace_1a73209eee193ec6315be10f15bde74d">Some materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <abstract id="aspace_bc94c5a94e06e01b2d72728ab5ee7557">Shael Shapiro is an architect who was instrumental in the writing and passage of the so-called "Loft Law" that in 1971 allowed artists to legally live in downtown Manhattan lofts. The Shael Shapiro Papers date from 1954 to 2006 and contain architectural drawings and reproductions of numerous buildings throughout New York City and records documenting Shapiro's SoHo based architectural practice from the 1970s to the early 2000s. The bulk of the records are paper with some born-digital files.
+
+<emph render="bold">NOTE:</emph>This collection is closed for processing and conservation treatment through 2023.</abstract>
+    <langmaterial id="aspace_fd62ec61eca577d3bd15a594ea6a7a00">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_ef6122da5b0923193be45f249e93dfc5">
+    <head>Scope and Content Note</head>
+<p>The Shael Shapiro Papers date from 1954 to 2006 and consist of architectural drawings and reproductions, correspondence, building specifications, photographs (primarily building exteriors and interior details), inspection reports, architect's and engineer's reports, financial and legal documents related to Shapiro's architectural practice on Wooster Street in the SoHo neighborhood of Manhattan, N.Y. from the 1970s to the early 2000s. The architectural drawings and reproductions found in the collection include floor plans, elevations, details, structural, plumbing and mechanical drawings, and some sketches. Most reproductions are diazotypes or ink on plastic, and most original drawings are graphite and/or ink on paper or on plastic. Some architectural drawings and reproductions were produced by consulting engineering firms, most often by WYS Design Partnership, Consulting Engineers. The collection also contains New York City Department of Building applications, permits and certificates, documents and correspondence with the City of New York Landmarks Preservation Commission, as well as correspondence and registrations with the New York City Loft Board. Although Shapiro's most notable work is the conversion of lofts in downtown Manhattan, the collection contains material related to projects (identified by job number and address, building, or client name) throughout New York City, with a small number of projects located outside of New York.</p>  </scopecontent>
+  <bioghist id="aspace_75ab714c77a0d0081ba28be5e5130d78">
+    <head>Biographical Note</head>
+<p>Shael Shapiro is an architect whose practice was largely based in the SoHo neighborhood of Manhattan, N.Y. He studied architecture at Rensselaer Polytechnic Institute, in Troy, N.Y., and moved to SoHo in 1967, living in one of the artist George Macuinas's Flux Houses on Wooster Street. Shapiro worked on architectural projects throughout New York City, but his most significant work was focused on artists' lofts in downtown Manhattan. Shapiro was instrumental in the writing and passage of the so-called "Loft Law," enacted in 1971, which allowed artists to legally live in lofts downtown, and helped shape the growing community of artists in 1970s SoHo.</p>  </bioghist>
+  <prefercite id="aspace_8a5e463ffc88776fea7a41753ea75518">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: Identification of item, date (if known); Shael Shapiro Papers; MSS 200; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <userestrict id="aspace_d0616554774e21cbe1c5373d1e28ae0e">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_a257487efeb300ff6c19a08899a61392">
+    <head>Access Restrictions</head>
+<p>This collection is closed for processing and conservation treatment through 2023.</p>  </accessrestrict>
+  <acqinfo id="aspace_da02d2c9475f7c0e3c499f9b392323cf">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Shael Shapiro in 2007. The accession number associated with this gift is 2007.200.</p>  </acqinfo>
+  <arrangement id="aspace_9c2de7b3e90cd164442b8e4758d098c7">
+    <head>Arrangement</head>
+<p>The collection is arranged alphabetically by street name, then numerically by building number, with avenues first (numerical, then named), followed by numbered streets (proceeding East to West), named streets, then project names without addresses. Because of the varying sizes of drawings in the collection, a project may be split among multiple different containers.</p>  </arrangement>
+  <processinfo id="aspace_872c97ee45abaa23664ec19c02223dce">
+    <head>Processing Information</head>
+<p>In 2017, the collection was partially re-housed into archival boxes and folders, and some architectural reproductions and drawings were housed in rolled storage boxes. A file inventory was created for each box, but the collection was not arranged. Therefore, material related to a specific project were stored in multiple, non-consecutive boxes. On April 2019 floppy disks were moved to a shared born-digital box.</p><p>From 2022-2023, rolled and folded items in the collection were flattened and rehoused. During conservation treatment, the legal and letter sized items in the collection were rehoused into manuscript boxes, and the file inventory was consolidated to unite multiple boxes across project numbers or addresses. Drawings on plastic were also separated from other materials in the collection. The collection was arranged physically to group like-sized documents together, and intellectually by building address or project name.</p><p>Floppy disks in the collection were forensically imaged, analyzed, and arranged in Forensic Toolkit. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p>  </processinfo>
+  <phystech id="aspace_ae986e2c4d9413dc0a583489f325f477">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>  </phystech>
+  <controlaccess>
+    <subject source="lcsh">Architecture -- New York (State) -- New York.</subject>
+    <genreform source="aat">Architectural drawings (visual works)</genreform>
+    <genreform source="aat">Architectural records.</genreform>
+    <subject source="lcsh">Artists and community -- New York (State) -- New York</subject>
+    <geogname source="lcsh">SoHo (New York, N.Y.) </geogname>
+    <subject source="lcsh">Artists -- Dwellings -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Architecture, Modern -- 20th century.</subject>
+    <subject source="lcsh">Lofts -- Law and legislation -- New York (State) -- New York.</subject>
+    <corpname authfilenumber="(lccn)n85807075" source="naf">New York (N.Y.). Landmarks Preservation Commission</corpname>
+    <corpname authfilenumber="(lccn)n50076305" source="naf">New York (N.Y.). Department of Buildings</corpname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>

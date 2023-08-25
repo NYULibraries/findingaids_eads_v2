@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_024/">aia_024</eadid><filedesc><titlestmt><titleproper>Guide to the John McLaughlin 1981 Hunger Strike Ephemera Collection <num>AIA.024</num></titleproper><author>Rebecca Altermatt</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/07/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:28:40 -0400</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>John McLaughlin 1981 Irish Hunger Strike Ephemera Collection</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">McLaughlin, John</persname>
+    </origination>
+    <unitid>AIA.024</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box and 2 oversize folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1977/1989" type="inclusive">1977-1989</unitdate>
+    <abstract id="aspace_7cefbb57e013753c94954b4b6a314942">The collection, collected by John McLaughlin, consists of articles, newspaper clippings and posters related to the Irish Hunger Strikes and other Irish Republicanism activities. Both the American and Irish press are represented.</abstract>
+    <langmaterial id="aspace_049e85b43c78cf4a4eabe6a748586408">Materials are in English</langmaterial>
+  </did>
+  <prefercite id="aspace_7b6a172e4caa6f9802768180d5873a6f">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Archives of Irish American, Tamiment Library<lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <relatedmaterial id="aspace_cfaf645644fe0bf793cda66810296c1e">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Archives of Irish America Periodicals Collection AIA 004</p><p>Irish Republicanism Collection AIA 022 </p><p>Archives of Irish America Pamphlet Collection AIA 047</p>  </relatedmaterial>
+  <userestrict id="aspace_bef3a802ced626cb869707735d6b4575">
+    <head>Use Restrictions</head>
+<p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain beginning in 2097. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <accessrestrict id="aspace_806de8f593de13d4688bbadd1d002048">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <arrangement id="aspace_dfe1e7fc0a6bb1f3bfe25aa3730cb03a">
+    <head>Arrangement</head>
+<p>Materials are arranged in one series.</p>  </arrangement>
+  <bioghist id="aspace_f36947cb4e2c51ed636698fe2ea06691">
+    <head>Historical/Biographical Note</head>
+<p>The materials in this collection were collected by Irish American political activist John McLaughlin.</p>  </bioghist>
+  <scopecontent id="aspace_84eaf9536570c234d7cd4526195c9e6c">
+    <head>Scope and Contents</head>
+<p>The collection contains ephemeral material related to and documenting reaction to the Hunger Strikes of 1981 and and to the organization Irish Northern Aid.  Contents include newspaper clippings and magazine articles, and posters relating to the Hunger Strikers at Long Kesh Prison.</p>  </scopecontent>
+  <acqinfo id="aspace_360ca518aff7bad501410edc85218072">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials were collected by John McLaughlin and donated to the Archives of Irish America in 2000.  The accession number associated with this collection is 1997.014.</p>  </acqinfo>
+  <relatedmaterial id="aspace_79a7cfffbd757f8f13d94a8dcac97610">
+    <head>Related Archival Materials</head>
+<p>Issues of <emph render="italic">The Nation</emph> 1986-1995, have been housed in the Periodicals Collection AIA 004.</p>  </relatedmaterial>
+  <prefercite id="aspace_e6b93d80cd8d61b30072073675cbcec8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Collection name; Collection number; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <separatedmaterial id="aspace_f2125747ed275ec7650c486a5ebe7e0b">
+    <head>Separated Materials</head>
+<p>Several pamphlets, publications and articles in the collection have been integrated into the Irish Republicanism Collection, AIA 022</p>  </separatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Posters.</genreform>
+    <genreform source="aat">Articles.</genreform>
+    <subject source="lcsh">Hunger strikes -- Northern Ireland.</subject>
+    <subject source="lcsh">Irish Americans -- New York (State) -- New York -- Political activity.</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <corpname authfilenumber="(lccn)nb2006010765" source="naf">Irish Northern Aid Committee</corpname>
+    <corpname authfilenumber="(lccn)n78060502" rules="aacr" source="naf">Long Kesh (Prison)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref3" level="file"><did><unittitle>Newspaper Clippings and Articles</unittitle><unitdate datechar="creation" normal="1977/1989" type="inclusive">1977-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_a47434102b5b76538d3c80d8ba567d5c" label="Mixed Materials [31142054611937]" type="Box">1</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Posters: Hunger Strikers at Long Kesh Prison; Irish Awareness in America March, Washington DC</unittitle><unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Flat OS Box 17" id="aspace_1ad6e3b102d078550caa6d579b981653" label="Graphic Materials [31142062759801]" type="Box">Shared Tamiment AIAOS001</container><container id="aspace_5ebd32e4d85f49bf3889facb2bb0c7f5" parent="aspace_1ad6e3b102d078550caa6d579b981653" type="Folder">1</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Posters: Hunger Strikers- Bobby Sands Murdered; Join the Boycott</unittitle><unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Flat OS 21" id="aspace_75dea00f2e4daaff95accf569aa26db6" label="Mixed Materials [31142062853117]" type="Box">Shared Tamiment AIAXOS001</container></did></c></dsc>
+</archdesc>
+</ead>

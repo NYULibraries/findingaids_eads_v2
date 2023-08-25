@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2006_034_parsons_navy_commission/">arms_2006_034_parsons_navy_commission</eadid><filedesc><titlestmt><titleproper>Guide to the Archibald L. Parsons U.S. Navy commission <num>2006.034</num></titleproper><author>Nicholas Pavlik and John Zarrillo</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:02 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Archibald L. Parsons U.S. Navy commission</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Vadheim, Robert</persname>
+    </origination>
+    <unitid>2006.034</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent>
+      <extent altrender="carrier">in one box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
+    <abstract id="aspace_59c2372db59ad73fb7db1adaccef49e1">Commission issued to Archibald L. Parsons by the administration of United States President Woodrow Wilson, appointing him a Civil Engineer with the rank of Commander in the U.S. Navy.  Dated 1917.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Rolled Storage Box 3" id="aspace_c829156b201fbbd9602f90b38f3a8eef" label="Text" type="Box">OS-12</container>
+  </did>
+  <prefercite id="aspace_1234dd4cfbb9fd67ba69d0d70eda058d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Archibald L. Parsons U.S. Navy commission, 2006.034, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_3db80bfc9b97433026272ad65661aefa">
+    <head>Processing Information</head>
+<p>Finding aid draft produced by Nicholas Pavlik in 2011. Finding aid completed by John Zarrillo in 2014.</p>  </processinfo>
+  <acqinfo id="aspace_69b4fb05b0b34fe9304f2f98f079a627">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Robert Vadheim, date unknown.  Formally accessioned in 2006.</p>  </acqinfo>
+  <bioghist id="aspace_3c835ad39e9bad3ebe7e0ef2da96d1a1">
+    <head>Biographical Note</head>
+<p>Archibald L. Parsons was a civil engineer who was Assistant Chief of the Bureau of Yards and Docks during WWI.  He was also head of the Bureau's Division of Design, which prepared plans and specifications for all public works of the Navy.  He was stationed at the League Island Navy Yard in Philadelphia, Pennsylvania. In the 1920s, he worked on public works projects in Haiti. By the 1930s, he was stationed as a Public Works officer in the Brooklyn Navy Yard. He died in Brooklyn on September 24, 1953.</p><p>Sources:</p><p>Brooklyn Daily Eagle. 5 February 1923, p. 10.</p><p>Brooklyn Daily Eagle. 14 January 1935, p. 21.</p><p>Brooklyn Daily Eagle. 26 June 1954, p. 13.</p>  </bioghist>
+  <accessrestrict id="aspace_528479d3e078398b0c5c26840257364e">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="aat">Military commissions</subject>
+    <subject source="lcsh">Navy-yards and naval stations |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Civil engineers |z United States</subject>
+    <subject source="lcsh">Civil engineering |z United States</subject>
+    <corpname rules="aacr" source="naf">New York Naval Shipyard</corpname>
+    <persname role="dnr" rules="dacs" source="local">Vadheim, Robert</persname>
+    <persname source="local">Parsons, Archibald L.</persname>
+    <corpname rules="aacr" source="naf">United States. Navy</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

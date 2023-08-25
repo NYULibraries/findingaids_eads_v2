@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_039/">tam_039</eadid><filedesc><titlestmt><titleproper>Guide to the New Leader Collection of Letters from Cuba <num>TAM.039</num></titleproper><author>Tamiment staff</author></titlestmt><editionstmt><p>This version was derived from Cuba Letters template.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:47:30 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>New Leader Collection of Letters from Cuba</unittitle>
+    <origination label="source">
+      <corpname role="dnr" rules="dacs" source="local">The New Leader</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">The New Leader</corpname>
+    </origination>
+    <unitid>TAM.039</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate>
+    <abstract id="aspace_34407c8b4653ae552aaed0174c263303" label="Abstract">Contains anti-Castro letters by Cuban residents, solicited for a never-published supplement to the <emph render="italic">New Leader</emph>.</abstract>
+    <physdesc id="aspace_fc565f1facadb2bf7163f9ce36d59a27" label="General Physical Description note">5 linear inches (1 box)</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_884310b5e010beca1a3197bb83d9a3a6">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of the <emph render="italic">New Leader</emph> in 1963. The accession number 1963.023 is associated with this gift.</p>  </acqinfo>
+  <accessrestrict id="aspace_4eef48f46f6d8502696c07242140bf54">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_3ac607c95cda620b5102e006eed63ca7">
+    <head>Historical/Biographical Note</head>
+<p>Norman Jacobs of the <emph render="italic">New Leader</emph>, a liberal anti-communist periodical, solicited letters from Cubans for a special supplement on Cuba under Castro, that was never published.</p>  </bioghist>
+  <scopecontent id="aspace_a6ad1a7e44b22625e9f8cbcbb57b4dc3">
+    <head>Scope and Content Note</head>
+<p>The collection contains approximately 100 letters by Cuban residents to United States relatives and friends describing conditions in Cuba. The letters, all anti-Castro, describe every-day life, the fates of acquaintances, objections to the regime and provide contemporary anti-Castro jokes and rumors. The collection includes the original letters as well as English translations.</p>  </scopecontent>
+  <arrangement id="aspace_b7ba30916f6bb8f463ed785f20997308">
+    <head>Arrangement</head>
+<p>Within each series the folders are arranged alphabetically and numerically.</p><p>the collection is organized into two series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>1.Originals</item>
+      <item>2. Translations.</item>
+    </list>
+  </arrangement>
+  <userestrict id="aspace_5e3be775c6641fb9320b65b127d419b4">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1961-1963, are expected to enter the public domain in 2084.</p>  </userestrict>
+  <prefercite id="aspace_2ee4ecbbac5335ab82e962c0a836169d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; <emph render="italic">New Leader</emph> Collection of Letters from Cuba; TAM 039; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Correspondence.</genreform>
+    <geogname source="lcsh">Cuba -- Social conditions.</geogname>
+    <subject source="lcsh">Communism -- Cuba.</subject>
+    <title source="local">The New Leader (New York, N.Y.)</title>
+    <persname source="naf">Castro, Fidel, 1926-2016</persname>
+    <persname rules="dacs" source="local">Jacobs, Norman</persname>
+    <corpname role="dnr" rules="dacs" source="local">The New Leader</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series 1: Originals</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba (Nos. 1-58) Original Copies</unittitle><unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_f13fc471a5e6f1a93ae4fb3239149b3d" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_03d28be4190e1e71c88779cde7d4f317" parent="aspace_f13fc471a5e6f1a93ae4fb3239149b3d" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba (to J. Godoy)</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_d25b4c8e1d48d63868f3a0f41be11cc0" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_e3a312eee4b27f0641cdabef548d1c80" parent="aspace_d25b4c8e1d48d63868f3a0f41be11cc0" type="Folder">2</container></did></c></c><c id="aspace_ref16" level="series"><did><unittitle>Series 2: Translations</unittitle></did><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba Before the Blockade</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_9c8e2fdf256697affc74c79d11f2c316" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_97fe2a2f605adeb18423dfb537f113fc" parent="aspace_9c8e2fdf256697affc74c79d11f2c316" type="Folder">3</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba After the Blockade</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_df285e5cd3893c23cdcdaa34025ff987" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_8425f3119347b45c4b33861912c37ed7" parent="aspace_df285e5cd3893c23cdcdaa34025ff987" type="Folder">4</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba, typed translations, sent to USIA (Nos. 1-10)</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_22d335a7931c6be9de841ce8348aaaae" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_e8a22fd622fe82e26e73f4bc8a1aeffe" parent="aspace_22d335a7931c6be9de841ce8348aaaae" type="Folder">5</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba, typed translations, sent to USIA (Nos. 11-25)</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_db41587ea5c221277e0dbbf5c54d9015" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_f39ad91334f5e1e58725127bbf7d6af6" parent="aspace_db41587ea5c221277e0dbbf5c54d9015" type="Folder">6</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba, typed translations, sent to USIA (Nos. 26-58)</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_7f8071ae8742620ea28f60f2ee517c9f" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_b58b405ba6195ea19bb0d5d2c7951a42" parent="aspace_7f8071ae8742620ea28f60f2ee517c9f" type="Folder">7</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba, translated by A.M. Nicholson</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_3aacd88ae1fa5cf54993530f936dccf4" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_d0ca73c6910a4e7a7d0ee5d0c8cc1041" parent="aspace_3aacd88ae1fa5cf54993530f936dccf4" type="Folder">8</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba, miscellaneous</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_6144d951d12c30fba25116429b4607e4" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_ddb1989f2e413e201ee69b607f304757" parent="aspace_6144d951d12c30fba25116429b4607e4" type="Folder">9</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba, translated by Fagan</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_c5de1f453bd2dda7dd17f421a4d14780" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_bf7521186e3444ac0f2e9231cfbbd43b" parent="aspace_c5de1f453bd2dda7dd17f421a4d14780" type="Folder">10</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters from Cuba, uncorrected copies of translations</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_838fd58a01c4e44b17549d24a6f6009c" label="Mixed Materials [31142062773943]" type="Box">1</container><container id="aspace_e53026c4afa6a64d04e8133975696cce" parent="aspace_838fd58a01c4e44b17549d24a6f6009c" type="Folder">11</container></did></c></c></dsc>
+</archdesc>
+</ead>

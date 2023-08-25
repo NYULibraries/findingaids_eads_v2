@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_220_wicht/">arc_220_wicht</eadid><filedesc><titlestmt><titleproper>Guide to the Ken Wicht photograph collection <num>ARC.220</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 26, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:05 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Ken Wicht photograph collection</unittitle>
+    <origination label="Creator">
+      <persname role="pht" rules="dacs" source="local">Wicht, Ken</persname>
+    </origination>
+    <unitid>ARC.220</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">19 photographic negatives, six color slides, and one black-and-white print housed in one negatives binder, one slide box, and one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/1990" type="inclusive">circa 1980</unitdate>
+    <abstract id="aspace_2d4372bc1c2a0f00f057b53ba3c9dc39" label="Abstract">The Ken Wicht photograph collection consists of 19 photographic negatives (35mm) and one black-and-white print showing views of Brooklyn Heights neighborhood, with many views of Henry Street, circa 1980.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_4201ec0adc741191a3ee13d5bd4b4983" label="Graphic Materials" type="Folder">Misc. negatives binder</container>
+    <container altrender="Medium Flat Box 26" id="aspace_7d06e8683d445c8d21a85fe52d82a033" label="Graphic Materials" type="Box">Slides by Accession 3</container>
+    <container id="aspace_9ff75effb7bf6562c3d3494f35c600e9" parent="aspace_7d06e8683d445c8d21a85fe52d82a033" type="Box">6</container>
+    <container id="aspace_24522255cd159f74558d2f4c1b68dc58" parent="aspace_9ff75effb7bf6562c3d3494f35c600e9" type="item">V1991.104.1-6</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d3a1d5518a98eccf2a0bcd317badfbfe" label="Graphic Materials" type="Box">Prints by accession 42</container>
+  </did>
+  <accessrestrict id="aspace_2b5881ad9d99d193084dee9c585fee45">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_877e84a2eb8c1c64a6d4fbb6b09de24d">
+    <head>Scope and Contents</head>
+<p>The Ken Wicht photograph collection consists of 19 photographic negatives (35mm) and one black-and-white print showing views of Brooklyn Heights neighborhood, with many views of Henry Street, circa 1980. The collection also includes six color slides of views of the Manhattan skyline and views of Brooklyn including the Williamsburg Savings Bank building at night, the Brooklyn Bridge (day and night views), the East River shot from under the Brooklyn Bridge, and the waterfront area of Greenpoint, circa 1982. The creator of the slides is unknown, but it is presumed that it was also Ken Wicht, the donor of the slides.</p>  </scopecontent>
+  <bioghist id="aspace_8b1c54501476482e9d0224501e8f781a">
+    <head>Biographical note</head>
+<p>Kenneth Gary Wicht (1955-2005) was an amateur photographer who photographed New York City and Brooklyn during the 1980s, among other subjects. Wicht was born on September 1, 1955 in Rockville Centre, Long Island, NY to Adolph H. Wicht and Marie E. Wicht (nee Croteau). He graduated from Baldwin Senior High School in 1973 and attended the State University of New York, Albany from which he earned a BA in 1978. Wicht learned to fly airplanes and served in the United States Air Force. In the 1980s and 1990s, he studied photography and became an accomplished scuba diver. Wicht died on March 21, 2005 and is buried in Calverton National Cemetery in New York.</p>  </bioghist>
+  <userestrict id="aspace_af5ce963debdfaa8c658a5414632e245">
+    <head>Conditions Governing Use</head>
+<p>Copyright for unpublished works is protected until 70 years after the death of the creator. The negatives, slides, and photographs in this collection will enter the public domain in 2075. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <prefercite id="aspace_dc5c48518a6f3536042a9c30b44a0c0d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Ken Wicht photograph collection, ARC.220, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <otherfindaid id="aspace_31efb6e1ee855940ec5162c45b4c51e9">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <processinfo id="aspace_fc94fddc3057e277a7bd129232ea51a4">
+    <head>Processing Information note</head>
+<p>Fully processed to the item level.</p><p>This collection combines the accessions V1974.046 and V1991.104.</p>  </processinfo>
+  <acqinfo id="aspace_ca5ac78cf6dbeb8df2f277f1945f459c">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Ken Wicht, 1983.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.) |v Pictorial works</geogname>
+    <genreform source="aat">Color slides</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="local">Henry Street (Brooklyn, New York, N.Y.)</geogname>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">New York (N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <genreform source="aat">Cityscapes</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

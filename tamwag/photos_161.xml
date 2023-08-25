@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_161/">photos_161</eadid><filedesc><titlestmt><titleproper>Guide to the Sam Robert Photographs <num>PHOTOS.161</num></titleproper><author>Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>Dec 2013</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:39:06 -0400</date>.</creation><langusage>Finding aid is written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sam Robert Photographs</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Robert, Sam, 1908-</persname>
+    </origination>
+    <unitid>PHOTOS.161</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1950/1990" type="inclusive">1950s - 1990</unitdate>
+    <unitdate datechar="creation" normal="1972/1990" type="bulk">1972-1990</unitdate>
+    <abstract id="aspace_bb186cacfa7e1eb2f488ff19d375ac99">Sam Robert was born in Philadelphia in 1908. He moved to New York City in 1929, and eventually found his way to the motion picture industry. He became a prominent set decorator for movies and commercials and served first as the Vice President of the International Alliance of Theatrical Stage Employees (IATSE), Local 52 and later as the Executive Director of the New York Council of Motion Picture and Television Unions (COMPTU). In these positions, Robert advocated for the merger of unions in the motion picture and television industries, encouraged motion picture production in New York City and played a prominent role in the restoration of the Astoria Studios in Queens, NY. This collection consists of approximately two hundred and fifty black and white and color photographs dating from the 1950s through 1990, though the majority are from the 1970s and 1980s. The images document the various activities of IATSE Local 52 and COMPTU, including meetings, rallies, events and participation in the Labor Day Parade.</abstract>
+    <langmaterial id="aspace_9c3953609753df7eca3f60b81f843ff2">Materials are in English</langmaterial>
+  </did>
+  <arrangement id="aspace_e65b02826e2bd37d54f81722fd7c7ecd">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p>  </arrangement>
+  <bioghist id="aspace_5453071827d97f8ffa8fc8b80f4120b4">
+    <head>Historical/Biographical Note</head>
+<p>Sam Robert was born in Philadelphia in 1908 to a Jewish family involved in labor and socialist organizing. He moved to New York City in 1929, where he became active in the Communist Party, and edited the International Workers Order's publication <emph render="italic">The New Order</emph>. Robert served during WWII in the 163rd Signal Service Battalion. A poet, Robert helped found the Labor Poets of America and eventually found his way to the motion picture industry. He became a prominent set decorator for movies and commercials and served first as the Vice President of the International Alliance of Theatrical Stage Employees, Local 52 and later as the Executive Director of the New York Council of Motion Picture and Television Unions. In these positions, Robert advocated for the merger of unions in the television and film industries, encouraged motion picture production in New York City and played a prominent role in the restoration of the Astoria Studios in Queens, NY.</p>  </bioghist>
+  <userestrict id="aspace_a9e0b10223e12a5819226d9edfe04ba5">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <accessrestrict id="aspace_bcc9c9864d0d200baa85d0123220b36d">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_fc7cf605a15b8e963afc30f0a827934f">
+    <head>Immediate Source of Acquisition</head>
+<p>Possibly donated by Sam Robert, circa 2000. The accession numbers associated with this collection are 1950.191 and NPA.2000.080.</p>  </acqinfo>
+  <prefercite id="aspace_b56e782a5c7562c9554c47c8372edf01">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Sam Robert Photographs; PHOTOS 161; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_fabf4852d5eb5fe0360a965585dc25a2">
+    <head>Processing Information</head>
+<p>Materials have been rehoused in archival boxes and folders.</p>  </processinfo>
+  <relatedmaterial id="aspace_88abcd2a223eec1bfd9a312892e2db4a">
+    <head>Related Archival Materials</head>
+<p>Council of Motion Picture and Television Unions Records (WAG 090)</p><p>International Alliance of Theatrical Stage Employees, Local 52 Records (WAG 251)</p><p>International Alliance of Theatrical Stage Employees, Local 644, International Photographers of Motion Pictures and Television (WAG 067)</p><p>International Alliance of Theatrical Stage Employees, Secretary-Treasurer's Files (WAG 058)</p><p>International Workers Order Records (TAM 001)</p><p>New Yorkers at Work Oral History Collection (OH 001) contains an interview with Sam Robert.</p>  </relatedmaterial>
+  <scopecontent id="aspace_8e069c5332fc95ef3f8d1ba35c69db19">
+    <head>Scope and Content Note</head>
+<p>This collection consists of approximately one hundred black and white photographs and one hundred and fifty color photographs dating from the 1950s through 1990, though the majority are from the 1970s and 1980s. There is also a small amount of fliers, clippings and correspondence included in the collection. The photographs document the various activities of International Alliance of Theatrical Stage Employees (IATSE), Local 52 and the New York Council of Motion Picture and Television Unions (COMPTU), including meetings, rallies, events and participation in the Labor Day Parade. Also included are photographs of the Conference of Motion Picture and Television Unions.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Contact sheets.</genreform>
+    <genreform source="aat">Fliers (printed matter)</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">Labor Day.</subject>
+    <subject source="lcsh">Labor movement -- New York (N.Y.)</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Actors -- Labor unions -- United States</subject>
+    <subject source="lcsh">Motion pictures and theater -- United States.</subject>
+    <corpname authfilenumber="(lccn)n84040318" source="naf">International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada</corpname>
+    <corpname authfilenumber="(lccn)n82089962" source="naf">National Association of Broadcast Employees and Technicians</corpname>
+    <corpname authfilenumber="(lccn)n80161606" source="naf">Screen Actors Guild</corpname>
+    <corpname rules="dacs" source="local">Council of Motion Picture and Television Unions (New York, N.Y.)</corpname>
+    <corpname authfilenumber="(lccn)no00085981" source="naf">Actors' Fund of America</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="file"><did><unittitle>ABC "Runaway" Campaign</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_56c9a55a57868fedd296f3ef998eed14" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_8e1c3fd66b00889cf51964c559b6abca" parent="aspace_56c9a55a57868fedd296f3ef998eed14" type="Folder">1</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Clippings and Fliers</unittitle><unitdate datechar="creation" normal="1982/1989" type="inclusive">1982-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_f1daa76a8d516e64bac806c698d68ff9" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_15d5f6cd8569c73191c335faecdf9aa9" parent="aspace_f1daa76a8d516e64bac806c698d68ff9" type="Folder">2</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Contact Sheets</unittitle><unitdate datechar="creation">1973, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5d35a25eae0a88b31edc065a10a87fc2" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_729d541f40e75649fe6336e635b22742" parent="aspace_5d35a25eae0a88b31edc065a10a87fc2" type="Folder">3</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Events</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3214785dd540c49642e8641c69497d22" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_f35c62af41cd9a93d17622b55869e3cc" parent="aspace_3214785dd540c49642e8641c69497d22" type="Folder">4</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Labor Day Parades</unittitle><unitdate datechar="creation">1990, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_42cfa8d3c279b4aee472d62d72b5541d" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_80295820044c4aab4f07a9a7df4b486f" parent="aspace_42cfa8d3c279b4aee472d62d72b5541d" type="Folder">5</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Meetings</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ff9024f38566fa2adfb7c2f417caa3a0" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_9bdf62113038b22482f691b13039ed15" parent="aspace_ff9024f38566fa2adfb7c2f417caa3a0" type="Folder">6</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Negatives</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3fdfcb1406b311cb82552930795f3c6a" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_28b48846d33df4939eff6fc8f4af0273" parent="aspace_3fdfcb1406b311cb82552930795f3c6a" type="Folder">7</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Rallies</unittitle><unitdate datechar="creation">1989-1990, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f3e2b64ae2efd68b1290bac41f01562c" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_2f2d62fcda1ceaed4d7057bfbb750e0e" parent="aspace_f3e2b64ae2efd68b1290bac41f01562c" type="Folder">8</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Unidentified Photographs</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_91c3541f644649ece00c35a6db6f80fc" label="Mixed Materials [31142062718237]" type="Box">1</container><container id="aspace_bb6035bcd83518c2ebc5a2181170e848" parent="aspace_91c3541f644649ece00c35a6db6f80fc" type="Folder">9</container></did></c></dsc>
+</archdesc>
+</ead>

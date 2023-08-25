@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1992_006_ps_139_portraits/">v1992_006_ps_139_portraits</eadid><filedesc><titlestmt><titleproper>Guide to the Group portrait photographs of classes at P.S. 139 in Flatbush <num>V1992.006</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 17, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:51 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Group portrait photographs of classes at P.S. 139 in Flatbush</unittitle>
+    <unitid>V1992.006</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">two items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1905/1925" type="inclusive">circa 1915</unitdate>
+    <abstract id="aspace_f8892a202c7fa93564c9cb5b1d842fac" label="Abstract">The Group portrait photographs of classes at P.S. 139 in Flatbush consist of two black-and-white mounted photographic prints showing classes at P. S. 139, located in the Flatbush neighborhood of Brooklyn, circa 1915.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_dd2539c851ce16aa6619a41b029ca801" label="Graphic Materials" type="Box">Prints by accession 59</container>
+  </did>
+  <scopecontent id="aspace_5e4aeb438b5aec5b9b12efa7e8cc914e">
+    <head>Scope and Contents</head>
+<p>The Group portrait photographs of classes at P.S. 139 in Flatbush consist of two black-and-white mounted photographic prints showing classes at P. S. 139, located in the Flatbush neighborhood of Brooklyn, circa 1915. Both photographs include notes on the verso identifying the school and its location. One photograph includes a handwritten note on the verso naming "Mordorf" as principal and also names "Marta Boderstrom Riedemann," presumably a student in the photograph.</p>  </scopecontent>
+  <accessrestrict id="aspace_0283d30753ac0f36952919cf3ce5bede">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_82f4fcb8c9c378dda1faf506896dc75a">
+    <head>Conditions Governing Use</head>
+<p>Copyright for anonymously created items remain in effect for 120 years following the date of creation. Based on the date range of this collection, the photographs will enter the public domain in 2035. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <acqinfo id="aspace_7f296975668cefaf59a71b997ff5b8ad">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection cannot be verified. There is some evidence that it was either donated or purchased from Brooklyn Union Gas. The collection was formally accessioned in 1992.</p>  </acqinfo>
+  <otherfindaid id="aspace_c23b24e42215b437fab4168c4115b62d">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <processinfo id="aspace_baec5f5f983e7335872ce01ad6628c0b">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <prefercite id="aspace_ed3ff8a4f773a584bc7b6682a51d0e83">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Group portrait photographs of classes at P.S. 139 in Flatbush, V1992.006, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_de9f9f8105eabe1a98e7852d0e2757a5">
+    <head>Historical note</head>
+<p>P.S. 139 is located at 330 Rugby Road (near Cortelyou) in the Flatbush neighborhood of Brooklyn. In 1915, Oliver C. Mordorf served as principal of the school.</p>  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Group portraits</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <corpname rules="dacs" source="local">P.S. 139 (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

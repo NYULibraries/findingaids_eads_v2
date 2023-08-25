@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_157_union_league_club/">arc_157_union_league_club</eadid><filedesc><titlestmt><titleproper>Guide to the Union League Club of Brooklyn yearbooks  <num>ARC.157</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>December 15, 2010.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:24:46 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Union League Club of Brooklyn yearbooks</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Union League Club of Brooklyn</corpname>
+    </origination>
+    <unitid>ARC.157</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.42 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1890/1912" type="inclusive">1890-1912</unitdate>
+    <abstract id="aspace_b13b52b1fb1fdab384fd1b29306ca14f" label="Abstract">The Union League Club of Brooklyn yearbooks span the years 1890 to 1912 and are housed in one manuscript box. The years represented in the collection are: 1890 to 1891, 1898 to 1899, and 1901 to 1912. The yearbooks contain the Club's constitution, bylaws, house rules, rules of order, and certificate of incorporation. Further, they list the Club's officers and past officers, the Board of Governors, members of the various standing committees, and the names and addresses of members. Membership list are divided into six groups: charter members, life members, resident members, non-resident members, honorary members, and deceased members.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_42f9e88487b4af98c418d3c741add502" label="Text" type="Box">1</container>
+  </did>
+  <bioghist id="aspace_4139e51e9fd6e984c509485e04b1d45e">
+    <head>Historical note</head>
+<p>The Union League Club was founded in 1863 to support the Union cause during the American Civil War. The first location in New York City was in Manhattan on 17th Street and Madison Avenue. </p><p>The Union League Club of Brooklyn was incorporated on March 16, 1888. As stated in its constitution, the mission of the Club was to "promote social intercourse; to advance the cause of good government by awakening a political interest in citizens; to overcome existing indifference in the discharge of political duties; and to perform such other work as may best conserve the welfare of the Republican party." Further, the Club promoted unconditional loyalty to the Federal Government and worked to maintain civil and political equality of all citizens.</p><p>The clubhouse, completed in 1892, was designed by the architecture firm of Lauritzen &amp; Voss and was located in the Brooklyn neighborhood of Crown Heights, on the corner of Bedford Avenue and Dean Street. As of 2010, the building was home to a senior center. Besides the clubhouse, the Club's presence can still be felt in Crown Heights at the Grant Statue, located in Grant Square. The Club presented the statue to the (then) City of Brooklyn in 1896.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Mooney, James E. "Union League Club." In <emph render="italic">The Encyclopedia of New York City</emph>, edited by Kenneth T. Jackson, 1210. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 1995.</item>
+    </list>
+  </bioghist>
+  <accessrestrict id="aspace_95600900f1471ea4b70b3535c8aec15d">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_c89d14fb7217cde2cce64ffd49449e26">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown.</p>  </acqinfo>
+  <prefercite id="aspace_07f20baed7cd88a886f1097349335fbf">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Union League Club of Brooklyn yearbooks, ARC.157, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_10f6ccf32178b901039eb69e546fc1b1">
+    <head>Processing Information note</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <scopecontent id="aspace_b3172a9f39306ea0bc165daf7e4d7ab9">
+    <head>Scope and Contents</head>
+<p>The Union League Club of Brooklyn yearbooks span the years 1890 to 1912 and are housed in one manuscript box. The years represented in the collection are: 1890 to 1891, 1898 to 1899, and 1901 to 1912. The yearbooks contain the Club's constitution, bylaws, house rules, rules of order, and certificate of incorporation. Further, they list the Club's officers and past officers, the Board of Governors, members of the various standing committees, and the names and addresses of members. Membership list are divided into six groups: charter members, life members, resident members, non-resident members, honorary members, and deceased members.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Publications</genreform>
+    <genreform source="aat">Yearbooks</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Membership lists</genreform>
+    <genreform source="aat">Certificates of incorporation</genreform>
+    <genreform source="aat">Bylaws (administrative records)</genreform>
+    <genreform source="aat">Constitutions</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs -- 19th century</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</geogname>
+    <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government |y 19th century</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government |y 20th century</geogname>
+    <subject source="lcsh">Political clubs |z New York (State) |z Kings County</subject>
+    <corpname rules="aacr" source="naf">Republican Party (U.S. : 1854- )</corpname>
+    <corpname rules="dacs" source="local">Union League Club of Brooklyn</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

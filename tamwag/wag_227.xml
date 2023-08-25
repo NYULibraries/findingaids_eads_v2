@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_227/">wag_227</eadid><filedesc><titlestmt><titleproper>Guide to the Morgan Jin Collection on the <emph render="italic"> New York Times</emph> Minorities Class Action Suit  <num>WAG.227</num></titleproper><author>Makoroba Sow</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>November 2019</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:35:56 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Morgan Jin Collection on the <emph render="italic">New York Times</emph> Minorities Class Action Suit</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Jin, David</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Jin, Morgan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Jin, Morgan</persname>
+    </origination>
+    <unitid>WAG.227</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+      <extent altrender="carrier">in 1 legal manuscript, 1 half legal manuscript, and 1 flat box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1942/1992" type="inclusive">1942-1992</unitdate>
+    <unitdate datechar="creation" normal="1974/1981" type="bulk">1974-1981</unitdate>
+    <abstract id="aspace_2e3697863b7f3e987c7280c226dc6e19">The Morgan Jin Collection on the <emph render="italic">New York Times</emph> Minorities Class Action Suit documents the 1974 class action lawsuit brought against the <emph render="italic">New York Times</emph> by Morgan Jin and other <emph render="italic">Times</emph> employees alleging racial discrimination in hiring and promoting. The collection dated 1942-1992, the bulk of the material from 1974-1981, predominantly consists of photocopies of court and legal documents, correspondence, and articles and clippings related to the suit.</abstract>
+    <physloc id="aspace_a3e38d44965e202fb9f70929099baa45">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_fb8c64dad42b841b820b80ee1f0fb160">The majority of materials are in English with some materials written in Chinese.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_661d8312ae75dac583645ecb77c5a4ca">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_f88947f6e838bb216b04def52c24f631">
+    <head>Immediate Source of Acquisition</head>
+<p>The collection was probably donated by Morgan Jin and/or his son David Jin at an unknown date. The accession number associated with this material is 1950.051.</p>  </acqinfo>
+  <arrangement id="aspace_a6450cea9a24cb54918cd926b0d1d427">
+    <head>Arrangement</head>
+<p>Collection materials were grouped together into the following categories: Morgan Jin's personal documents; articles, clippings, and other material; legal documents; and correspondence.</p>  </arrangement>
+  <bioghist id="aspace_2d6465aba8829b9e90d2fac63f375cd9">
+    <head>Biographical Note</head>
+<p>David Jin is the son of the late Morgan Jin (1925-1997), a Chinese American labor advocate and an employee of the <emph render="italic">New York Times</emph> who worked in sales from 1967 to 1996. Morgan Jin began at the <emph render="italic">Times</emph> as a supervisor in the College and School Service Department. Jin alleged that he had been unfairly denied promotion until his position was eventually eliminated in 1972. Jin's charges of racial discrimination were brought to the New York State Human Rights Commission, which decided that racial discrimination was not the cause of Jin's position being eliminated. Jin went on to develop a minority caucus at the <emph render="italic">Times</emph>. With three other named plaintiffs, and the support of their union, the Newspaper Guild of New York, a federal class action suit was brought against the <emph render="italic">Times</emph> in 1974. The suit was settled out of court in 1980 for $1.5 million dollars; among other provisions, it included $400,000 paid out to the class of over 300 employees and applicants, and the development of an affirmative action plan for the <emph render="italic">Times</emph>. Jin continued to work at the <emph render="italic">Times</emph> until his retirement in 1996.</p><p>Sources: "Morgan Jin Discusses Historic NY Times Affirmative Action Suit." <emph render="italic">East/West: The Chinese American Journal</emph>, vol. 15, no. 21, 27 May 1981. </p>  </bioghist>
+  <prefercite id="aspace_7a9ab527c5ab4f57e2d0fd39a70bf8f6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Morgan Jin Collection on the New York Times Minorities Class Action Suit; WAG 227; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_3f960de2f577c51438bc3f19a4a41263">
+    <head>Processing Information</head>
+<p>Materials were placed in acid free folders and boxes, and were physically grouped together as outlined in the arrangement note.</p>  </processinfo>
+  <scopecontent id="aspace_2a73374ddc5da619a5d6caac2046cc1e">
+    <head>Scope and Contents</head>
+<p>The Morgan Jin Collection on the <emph render="italic">New York Times</emph> Minorities Class Action Suit documents the 1974 class action lawsuit brought against the <emph render="italic">New York Times</emph> by Morgan Jin and other <emph render="italic">Times</emph> employees alleging racial discrimination in hiring and promoting. The collection, dated 1942-1992, the bulk of the material from 1974-1981, predominantly consists of photocopies of court and legal documents, correspondence between counsel, Morgan Jin and other plaintiffs, and news clippings related to the suit. Articles and clippings also relate to racial discrimination, particularly workplace discrimination against people of color in news media, and the oppressions faced by Asian and Asian American workers. This collection also includes documentation about Jin's history, his work at the <emph render="italic">Times</emph>, notes on the legal actions, and clippings related to his other labor organizing and advocacy efforts.</p>  </scopecontent>
+  <userestrict id="aspace_db1a209547181941cb2f18ce7be20a6a">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created circa 1942-1992, are expected to enter the public domain in 2112.</p>  </userestrict>
+  <appraisal id="aspace_9d75064f491b99294988c6a278709fe8">
+    <head>Appraisal</head>
+<p>A small number of documents containing personally identifiable information were deaccessioned in 2019.</p>  </appraisal>
+  <controlaccess>
+    <subject source="lcsh">New York Times Company.</subject>
+    <subject source="lcsh">Minorities -- Employment -- United States.</subject>
+    <subject source="lcsh">Discrimination in employment -- United States.</subject>
+    <subject source="lcsh">Race discrimination -- United States.</subject>
+    <subject source="lcsh">Asian Americans.</subject>
+    <genreform source="aat">Legal documents.</genreform>
+    <genreform source="aat">Legal correspondence.</genreform>
+    <persname role="dnr" rules="dacs" source="local">Jin, David</persname>
+    <persname role="dnr" rules="dacs" source="local">Jin, Morgan</persname>
+  </controlaccess>
+  <dsc><c id="aspace_aca62e78154bd717cf3d39e1ccdb7f18" level="file"><did><unittitle>Morgan Jin Personal Documents</unittitle><unitdate datechar="creation" type="inclusive">1942-1992, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_366a3281a86b2c2ea88e60455fd37a31" label="Mixed Materials [31142062757847]" type="Box">1</container><container id="aspace_9cad1adc49b00d2c49086b3e99c4f431" parent="aspace_366a3281a86b2c2ea88e60455fd37a31" type="Folder">1-5</container><container altrender="OS Flat Box - 14.75 x 18.75 - lengthwise" id="aspace_cfc56ec5f919cf45f21e602437d1463e" label="Mixed Materials [31142062852291]" type="Box">3</container><container id="aspace_15011b95f006514f38ca95ba34eacc22" parent="aspace_cfc56ec5f919cf45f21e602437d1463e" type="Folder">1</container></did></c><c id="aspace_9d8fed5a5c6246e32838d0d90172cb38" level="file"><did><unittitle>Articles, Clippings, and Other Material</unittitle><unitdate datechar="creation" type="inclusive">1967-1992, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dc64e91b315a7c0d06e6297e935eca51" label="Mixed Materials [31142062757847]" type="Box">1</container><container id="aspace_08f85d66130d4df606788c0ad47267a1" parent="aspace_dc64e91b315a7c0d06e6297e935eca51" type="Folder">6-11</container><container altrender="OS Flat Box - 14.75 x 18.75 - lengthwise" id="aspace_8ae5bc7fca5e5e836b102d44dfef023d" label="Mixed Materials [31142062852291]" type="Box">3</container><container id="aspace_a8ecee7d356047f9f8efbe653901ae67" parent="aspace_8ae5bc7fca5e5e836b102d44dfef023d" type="Folder">2-4</container></did></c><c id="aspace_0bb5e1fb0f1a7c4437a737ec57ea30bb" level="file"><did><unittitle>Legal Documents</unittitle><unitdate datechar="creation" type="inclusive">1974-1981, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_67b71f255af6f6365b474f02ce700ae3" label="Mixed Materials [31142062757847]" type="Box">1</container><container id="aspace_d7b1f1e240b945b4f7683dd512d2a215" parent="aspace_67b71f255af6f6365b474f02ce700ae3" type="Folder">12-14</container><container altrender="Manuscript box - Legal - Half" id="aspace_d9e2517db70ec3f0cb34f6008ba7812f" label="Mixed Materials [31142063073905]" type="Box">2</container><container id="aspace_f607e4336128de0de0f098bd062ad353" parent="aspace_d9e2517db70ec3f0cb34f6008ba7812f" type="Folder">1-4</container><container altrender="OS Flat Box - 14.75 x 18.75 - lengthwise" id="aspace_a29743957277219d3c47c0ab34b44403" label="Mixed Materials [31142062852291]" type="Box">3</container><container id="aspace_62bfcba12a217e34cc91e40c5bb2e300" parent="aspace_a29743957277219d3c47c0ab34b44403" type="Folder">5</container></did></c><c id="aspace_5099ade65e32ea8fd5bba49836ed12e0" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" type="inclusive">1973-1981, undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f55af5ad372cb549fb9d2088bb0fef0c" label="Mixed Materials [31142063073905]" type="Box">2</container><container id="aspace_6167ac30c7f2daf8a4b1074d28582876" parent="aspace_f55af5ad372cb549fb9d2088bb0fef0c" type="Folder">5-6</container></did></c></dsc>
+</archdesc>
+</ead>

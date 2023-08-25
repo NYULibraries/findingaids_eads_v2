@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NBPol" url="https://findingaids.library.nyu.edu/poly/poly_rg_045/">poly_rg_045</eadid><filedesc><titlestmt><titleproper>Guide to Katepalli Sreenivasan Papers <num>RG.045</num></titleproper><author>Mandy Abokhair and Aileen Thong</author></titlestmt><publicationstmt><publisher>Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</publisher><p><date>October 2021</date></p><address><addressline>NYU Libraries</addressline><addressline>5 MetroTech Center</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>Business Number: 646-997-3530</addressline><addressline>polyarchives@nyu.edu</addressline><addressline>URL: <extptr xlink:href="https://library.nyu.edu/locations/poly-archives-special-collections/" xlink:show="new" xlink:title="https://library.nyu.edu/locations/poly-archives-special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-22 10:07:37 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</corpname>
+    </repository>
+    <unittitle>Katepalli Sreenivasan Papers</unittitle>
+    <unitid>RG.045</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2011/2017" type="inclusive">2011-2017</unitdate>
+    <physloc id="aspace_06889d074e9a6cff371d8944fc7c8c0a">Bern Dibner Library of Science and Technology
+5 MetroTech Center
+Brooklyn, New York, 11201
+(646) 997-3943
+polyarchives@nyu.edu</physloc>
+    <langmaterial id="aspace_c2f0b4cce79e9c67a4e6a229f422dd42">Materials entirely in English.</langmaterial>
+  </did>
+  <bioghist id="aspace_3e6d6bbc833e092fb67ee86495ef595f">
+    <head>Biographical / Historical</head>
+<p>The Katepalli Sreenivasan Papers span Sreenivasan's time as the last President of Brooklyn Poly (then called the Polytechnic Institute of New York University/NYU-Poly) and as the first dean of the NYU Tandon School of Engineering, where he served in this position from 2013-2018. This collection contains correspondence from 2011-2017.</p>  </bioghist>
+  <prefercite id="aspace_1fdbf77687924241106c264c0f2150a3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Katepalli Sreenivasan Papers; RG 045; box number; folder number or item identifier; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_99b08e96faeffed9549dbe5ab42270a3">
+    <head>Scope and Contents</head>
+<p>The Katepalli Sreenivasan Papers contain documents from 2011-2017. This set of correspondence was collected by Sreenivasan during his time as President of Brooklyn Poly and layer as the first dean of the NYU Tandon School of Engineering. The collection is 2 linear feet, located on bay 26, shelf 2E.</p>  </scopecontent>
+  <arrangement id="aspace_83ca54f738db224ff00e2bcdf7132ebf">
+    <head>Arrangement</head>
+<p>This collection is housed in 2 boxes and arranged in 1 series—the Correspondence series.</p>  </arrangement>
+  <acqinfo id="aspace_7507165bf61639e90b160f7f7dabcffb">
+    <head>Immediate Source of Acquisition</head>
+<p>The collection was donated to the Polytechnic Institute of New York University Archives by Katepalli Sreenivasan in 2020.</p>  </acqinfo>
+  <userestrict id="aspace_24d06804f6f24e1ed2bfe4d81d89dfb6">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Polytechnic University in all its forms are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from the Poly Archives. Please contact the Poly Archives, polyarchives@nyu.edu, 646-997-3530.</p>  </userestrict>
+  <dsc><c id="aspace_d1efa85cf0845370d3748a5737eb78d9" level="series"><did><unittitle>Series I: Correspondence</unittitle><unitdate datechar="creation" normal="2011/2017" type="inclusive">2011-2017</unitdate></did><c id="aspace_d0f3e546c29e0723edbd6c7fda473fc6" level="item"><did><unittitle>Chron. File 2011</unittitle><unitdate datechar="creation" normal="2011/2011">2011</unitdate><container id="aspace_1f2e362cb501c6a85837243853770153" label="Mixed Materials" type="box">1</container></did></c><c id="aspace_a624d6cda40dd653bf477b75fe805977" level="item"><did><unittitle>Corresp-2013</unittitle><unitdate datechar="creation" normal="2013/2013">2013</unitdate><container id="aspace_ff779bcf083053d523ac8599a9aff1ba" label="Mixed Materials" type="box">1</container></did></c><c id="aspace_353ad5b465612a749510ab38044102f9" level="item"><did><unittitle>Correspondence-2014</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container id="aspace_7927eeb3204173de06c4938b66de0127" label="Mixed Materials" type="box">1</container></did></c><c id="aspace_e3c32131018d076df1501af4dcc6a00f" level="item"><did><unittitle>Correspondence-2015</unittitle><unitdate datechar="creation" normal="2015/2015">2015</unitdate><container id="aspace_c483e56a25d64da8dd7f9608c8414e59" label="Mixed Materials" type="box">1</container></did></c><c id="aspace_5cade0395d901ffb4f4249f2d7f241d4" level="item"><did><unittitle>2016 Correspondence, Part 1</unittitle><unitdate datechar="creation" normal="2016/2016">2016</unitdate><container id="aspace_2d3271165b1063d49eb88dbd7e833c2a" label="Mixed Materials" type="box">2</container></did></c><c id="aspace_25b0ce4238e238c5a2d3234fa078ba47" level="item"><did><unittitle>2016 Correspondence, Part 2</unittitle><unitdate datechar="creation" normal="2016/2016">2016</unitdate><container id="aspace_719254afd2001ac5e1b790f693156e06" label="Mixed Materials" type="box">2</container></did></c><c id="aspace_8d7bd1d61d81d23ac5cc0e1da4b37182" level="item"><did><unittitle>2017 Correspondence</unittitle><unitdate datechar="creation" normal="2017/2017">2017</unitdate><container id="aspace_a199acfd75549ddf991d80c529654e14" label="Mixed Materials" type="box">2</container></did></c></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/ms3055_sunshine/">ms3055_sunshine</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the International Sunshine Society,<lb/> Department of the Blind<lb/>
+1917, 1926-1928<lb/> <num>MS 3055</num></titleproper><author>Joseph Ditta</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>May-June 2018</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 15:47:08 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Records of the International Sunshine Society, Department of the Blind</unittitle>
+    <origination label="Creator">
+      <corpname rules="rda" source="naf">International Sunshine Society. Department of the Blind</corpname>
+    </origination>
+    <unitid>MS 3055</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.417 Linear feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1917, 1926-1928</unitdate>
+    <abstract id="aspace_12621c79868ccdec5344c42e6680ed73">A small collection of records from the International Sunshine Society, Department of the Blind. The International Sunshine Society, a charity incorporated in 1900 "to bring the sunshine of happiness to the greatest possible number of hearts," extended its work to the care and education of the sightless through its homes for "blind babies" (i.e., minors) at Dyker Heights, Brooklyn, and Summit, New Jersey, among other locations. Monthly meeting minutes for 1917 include reports on activities and progress at the homes; four items--including two in Braille--were written by Lillian Butler (born ca. 1903), a resident of the Dyker Heights home. Includes minutes of the International Sunshine Society's annual conventions for 1926–1928.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_ce12e79f7751c60bd2decf5998eac72c">
+    <head>Historical Note</head>
+<p>Cynthia May Westover Alden (1862–1931), who wrote for the New York Recorder and New York Tribune, began with fellow journalists about 1896 to send Christmas cards to shut-ins. The group organized itself as the Sunshine Society to continue and expand on the practice. Incorporated in 1900 as the International Sunshine Society, the charity sought "to bring the sunshine of happiness to the greatest possible number of hearts and homes." The Society extended its work to the care of sightless children, whose education during the early years of the twentieth century was usually neglected since their blindness was often confused for mental deficiency. The International Sunshine Society's Department (originally Branch) of the Blind was created in 1904 and separately incorporated in 1905, with poet, composer, and humanitarian Mary C. Seward (1839–1919) as president. The Department ran several homes for "blind babies" (i.e., minors), such as the Dyker Heights Home for Blind Babies (opened 1906) at 1255 84th Street, Brooklyn, and the Arthur Home for Blind Babies (opened 1909) at Pine Grove Avenue, Summit, New Jersey. The homes served as combined nurseries, hospitals, and schools. In 1907 the Dyker Heights Home, under the aegis of the New York City Board of Education, hosted the first publicly-run kindergarten for blind children in the United States.</p>  </bioghist>
+  <scopecontent id="aspace_11d0d516bc455f11c0e2ca6c6796acd7">
+    <head>Scope and Contents</head>
+<p>The monthly minutes for 1917 of the International Sunshine Society, Department of the Blind (folders 1–2), document the activities and progress of the Society's homes for "blind babies" (i.e., minors) at Dyker Heights, Brooklyn, and Summit, New Jersey. Among the official reports and financial accounts are four items written by Lillian "Lillie" Butler (born ca. 1903), one of the self-styled "big girls" of the Dyker Heights Home. Two of Lillie's pieces are in Braille: a letter dated 31 May 1917 presenting to Cynthia Alden for her birthday a "chain made entirely and unassisted by the children" (in Minutes for June 1917; with penned translation), and a 10-page "Report of the opening of Summer Work and pleasures of the children," which she read before the July meeting of the Society's officers (in Minutes for July 1917; without translation). Lillie's reports for August and October were made with very few errors on a "typewritter" [sic] (in Minutes for August and October 1917).</p><p>The remainder of the collection consists of minutes of the annual conventions of the International Sunshine Society (folders 3–5) held at Batavia, New York (1926), Waukesha, Wisconsin (1927), and Kansas City, Missouri (1928).</p>  </scopecontent>
+  <arrangement id="aspace_a732e81f9e2324503e532d042d08b0cb">
+    <head>Arrangement</head>
+<p>The collection is sorted chronologically in five folders. The box housing the folders also contains the two empty binders that originally held the collection.</p>  </arrangement>
+  <accessrestrict id="aspace_c9b5e22d17341f1e39edd9e2ceae9877">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p><p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)</p>  </accessrestrict>
+  <userestrict id="aspace_4d184230560a02d2dd4775b7f49d7eb4">
+    <head>Use Restrictions</head>
+<p>This collection is owned by the New-York Historical Society. The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before 1 January 1978 cannot be quoted in publication without permission of the copyright holder.</p>  </userestrict>
+  <prefercite id="aspace_1ced28929d14d03065424c71b7e1ce64">
+    <head>Preferred Citation Note</head>
+<p>This collection should be cited as the Records of the International Sunshine Society, Department of the Blind, MS 3055, The New-York Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_c1e82a80e81c5ed7f137bfa866a222f0">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchase, Franklin Gilliam Rare Books, March 2018.</p>  </acqinfo>
+  <processinfo id="aspace_380a4a59e35a336dd60d6e8e5b2a0301">
+    <head>Processing Information</head>
+<p>Archivist Joseph Ditta processed this collection in June 2018.</p>  </processinfo>
+  <controlaccess>
+    <geogname source="lcsh">Kansas City (Mo.)</geogname>
+    <geogname source="lcsh">Summit (N.J.)</geogname>
+    <geogname source="lcsh">Brooklyn (N.Y.)</geogname>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <genreform source="aat">Annual reports.</genreform>
+    <genreform source="aat">Braille.</genreform>
+    <subject source="lcsh">Blind -- Societies, etc.</subject>
+    <subject source="lcsh">Blind -- Education.</subject>
+    <geogname source="lcsh">Batavia (N.Y.)</geogname>
+    <geogname source="lcsh">Waukesha (Wis.)</geogname>
+    <corpname rules="rda" source="naf">International Sunshine Society. Department of the Blind</corpname>
+    <persname rules="rda" source="local">Seward, Mary C., 1839-1919</persname>
+    <persname source="naf">Alden, Cynthia May Westover, 1862-1931</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref10_roe" level="file"><did><unittitle>Minutes. International Sunshine Society. Department of the Blind.</unittitle><unitdate datechar="creation">1917 January-June</unitdate><container id="aspace_cea8214b3d6928c4981b7378cd74a4db" label="Mixed Materials" type="Box">1 (of 1)</container><container id="aspace_5897cf615e496f104e9f8081a5bc2a91" parent="aspace_cea8214b3d6928c4981b7378cd74a4db" type="Folder">1</container></did></c><c id="aspace_ref11_wk4" level="file"><did><unittitle>Minutes. International Sunshine Society. Department of the Blind.</unittitle><unitdate datechar="creation">1917 July-December</unitdate><container id="aspace_beeba79e5aee4071932161db0be04d03" label="Mixed Materials" type="Box">1 (of 1)</container><container id="aspace_be2b8d5fa76296a4df5e041eb5ab648e" parent="aspace_beeba79e5aee4071932161db0be04d03" type="Folder">2</container></did></c><c id="aspace_ref12_p6y" level="file"><did><unittitle>Minutes. International Sunshine Society. Annual convention, [30th] (Batavia, N.Y.).</unittitle><unitdate datechar="creation">1926 May 17-24</unitdate><container id="aspace_f9d1cb728cb14ddc74b1f648dfde4f8e" label="Mixed Materials" type="Box">1 (of 1)</container><container id="aspace_f452cee8a52bd0936c691b548d3cc00e" parent="aspace_f9d1cb728cb14ddc74b1f648dfde4f8e" type="Folder">3</container></did></c><c id="aspace_ref13_fap" level="file"><did><unittitle>Minutes. International Sunshine Society. Annual convention, 31st (Waukesha, Wis.).</unittitle><unitdate datechar="creation">1927 May 17-20</unitdate><container id="aspace_89e7d3311ade36ac47b3de52a8afdd69" label="Mixed Materials" type="Box">1 (of 1)</container><container id="aspace_9995577fe47be46a96a38a465e529eae" parent="aspace_89e7d3311ade36ac47b3de52a8afdd69" type="Folder">4</container></did></c><c id="aspace_ref16_d8p" level="file"><did><unittitle>Minutes. International Sunshine Society. Annual convention, 32nd (Kansas City, Mo.).</unittitle><unitdate datechar="creation">1928 May 15-18</unitdate><container id="aspace_14db9e14f0f759bfa101b0bd3b91b7c6" label="Mixed Materials" type="Box">1 (of 1)</container><container id="aspace_bcdfb1e91b5f5f2bec21a42317479233" parent="aspace_14db9e14f0f759bfa101b0bd3b91b7c6" type="Folder">5</container></did></c><c id="aspace_ref14_tlc" level="file"><did><unittitle>[binders]</unittitle><container id="aspace_fb49b61c089f4eb08be7f874b91f87c2" label="Mixed Materials" type="Box">1 (of 1)</container></did><scopecontent id="aspace_1dbdbe580b70526c6f9e150d9e1fe4af"><head>Scope and Contents</head><p>Two empty, three-ring binders that originally held the collection, one labeled "Dept. of the Blind | Minutes | 1917," the other marked "Minutes | Annual conventions | I.S.S. | 1926 | 1927 | 1928."</p></scopecontent></c></dsc>
+</archdesc>
+</ead>

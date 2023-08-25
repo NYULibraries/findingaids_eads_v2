@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1991_124_henkels/">v1991_124_henkels</eadid><filedesc><titlestmt><titleproper>Guide to the Charles H. Henkels photographs of the Wyckoff Heights Medical Center <num>V1991.124</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 17, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:37 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Charles H. Henkels photographs of the Wyckoff Heights Medical Center</unittitle>
+    <origination label="Creator">
+      <persname role="pht" rules="dacs" source="local">Henkels, Charles H.</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Wyckoff Heights Medical Center (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>V1991.124</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">43 items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+    <abstract id="aspace_59ad9df578b1c38520bdc57e245d8485" label="Abstract">On November 14, 1991, architect Charles H. Henkels, AIA, photographed portions of the exterior and interior of the building in relation to its scheduled demolition as part of the Wyckoff Heights Medical Center Major Modernization Project.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_2802c638cbf8780b8eb7e6a92d3f59a2" label="Graphic Materials" type="Box">Prints by accession 59</container>
+  </did>
+  <bioghist id="aspace_c68ec83e0693b21c617c5b54835a6af5">
+    <head>Historical note</head>
+<p>Wyckoff Heights Medical Center opened in 1899 as the German Hospital in Brooklyn. In 1886, the Plattdeutscher Volksfest-Verein sought to build a hospital to serve Brooklyn's large German and German-American community. In 1889, the German Hospital Society of Brooklyn was established to spearhead the fundraising for and construction of the hospital. The cornerstone of the German Hospital in Brooklyn was laid in 1894 and the four-story red brick building was dedicated in 1899. The architect was Brooklyn-based architect Rudolph L. Daus (1854-1916). The original hospital consisted of four buildings connected by covered passages and was located on St. Nicholas Avenue between Stockholm and Stanhope Streets. The name of the hospital was changed to Wyckoff Heights Hospital on November 11, 1918. On November 14, 1991, architect Charles H. Henkels photographed portions of the exterior and interior of the building in relation to its scheduled demolition as part of the Wyckoff Heights Medical Center modernization project.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>New York Times. "Brooklyn's German Hospital: Its Cornerstone laid yesterday by Mayor Schieren." October 23, 1894. Accessed October 27, 2011. http://query.nytimes.com/gst/abstract.html?res=F60C17F93A5515738DDDAA0A94D8415B8485F0D3</item>
+    </list>
+  </bioghist>
+  <processinfo id="aspace_74fbeb79539a9cb13d3b7ec36930cd8f">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <otherfindaid id="aspace_7cd95f38bd26be4556f37fbd3927b6fa">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <userestrict id="aspace_ae47b5afcf749dfb6b30d3aac898608f">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <accessrestrict id="aspace_dbbd75adfe6a3e861049200fb100655e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_517c52b9a9b6bd17aa070978dd563a1a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Charles H. Henkels photographs of the Wyckoff Heights Medical Center, V1991.124, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_0663fff67071bca3b8cb9c5d193362b6">
+    <head>Scope and Contents</head>
+<p>The Charles H. Henkels photographs of the Wyckoff Heights Medical Center consists of 14 4 x 5 inch negatives, 14 4 x 5 inch contact prints, and 14 8 x 10 inch enlargements showing views of Wyckoff Memorial Hospital, which was scheduled for demolition as part of the Wyckoff Heights Medical Center Major Modernization Project. All photographs are black-and-white and were taken by Charles H. Henkels, AIA, on November 14, 1991. Exterior and interior views of the hospital are included. There is also one photocopy of a map showing the site plan and the location from which each photograph was taken.</p><p>On November 14, 1991, architect Charles H. Henkels, AIA, photographed portions of the exterior and interior of the building in relation to its scheduled demolition as part of the Wyckoff Heights Medical Center Major Modernization Project. </p>  </scopecontent>
+  <acqinfo id="aspace_1aaf0768417bd529c9bceab8254bd2b8">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of the Wyckoff Heights Medical Center via Charles H. Henkels, 1991.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <genreform source="aat">Copy prints</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+    <subject source="lcsh">Hospitals |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <genreform source="aat">Exterior views</genreform>
+    <genreform source="aat">Interior views</genreform>
+    <genreform source="aat">Englargements (copies)</genreform>
+    <corpname rules="aacr" source="naf">Wyckoff Heights Medical Center (Brooklyn, New York, N.Y.)</corpname>
+    <persname role="arc" rules="aacr" source="naf">Daus, Rudolphe L.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

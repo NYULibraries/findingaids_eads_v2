@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_021_tompkins_avenue_congregational_church/">arms_1986_021_tompkins_avenue_congregational_church</eadid><filedesc><titlestmt><titleproper>Guide to the Tompkins Avenue Congregational Church collection <num>1986.021</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 10, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:44 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Tompkins Avenue Congregational Church collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Tompkins Avenue Congregational Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>1986.021</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1886/1927" type="inclusive">1886-1927</unitdate>
+    <abstract id="aspace_588ee962930f9c7fe380bdb1e36f68a2">The Tompkins Avenue Congregational Church collection dates from 1886 to 1927 and is housed in one half manuscript box. Materials in the collection include yearbooks and programs from church services.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Half Manuscript Box Letter" id="aspace_4e93f3dbe86fada63e1fb63fda987831" label="Text" type="Box">1986.021 Box 1 of 1</container>
+  </did>
+  <scopecontent id="aspace_5ff31e5fdca4480addd040e2906dd105">
+    <head>Scope and Contents</head>
+<p>The Tompkins Avenue Congregational Church collection dates from 1886 to 1927 and is housed in one half manuscript box. Materials in the collection include yearbooks and programs from church services. Yearbooks provide an overview of member activities and include annual reports, treasurers' reports, reports of organizations within the church, committee member lists, and a membership roll of the church congregation with member names and addresses.</p>  </scopecontent>
+  <bioghist id="aspace_8a1766cfdd468e69747773680eb97ecd">
+    <head>Historical note</head>
+<p>The Tompkins Avenue Congregational Church was organized in 1875 and originally met in a schoolhouse on Tompkins Avenue in Brooklyn, N.Y. As the membership increased, a larger building on Park Avenue was used to hold services. In 1888, the church's chapel was erected at Tompkins Avenue and McDonough Street in the Bedford-Stuyvesant neighborhood of Brooklyn. Tompkins Avenue Congregational Church boasted a particularly large membership during its first 40 years--for instance, over 3,000 members were listed in the 1926 yearbook. In 1942, the church merged with the Flatbush Congregational Church.</p>  </bioghist>
+  <accessrestrict id="aspace_8eb939e142859ffe1f1f75ead0efdf7b">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_f4b361732a1e97f7da17bbbc9ff0cbd4">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of the accession are unknown. This collection was formally accessioned in 1986.</p>  </acqinfo>
+  <prefercite id="aspace_20810686e4af7b78a4cbade3960e6f0e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Tompkins Avenue Congregational Church collection, 1986.021, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_20b9bf3dd4f1d6205be58354ba079528">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Congregationalists |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church records and registers</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Genealogy</geogname>
+    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+    <subject source="lcsh">Church membership |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Yearbooks</genreform>
+    <corpname rules="dacs" source="local">Tompkins Avenue Congregational Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Flatbush Congregational Church (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2014_005_brody_family/">arms_2014_005_brody_family</eadid><filedesc><titlestmt><titleproper>Guide to the Brody family papers <num>2014.005</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 2014</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:22:37 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brody family papers</unittitle>
+    <origination label="source">
+      <persname rules="dacs" source="local">Brody, Ann</persname>
+    </origination>
+    <unitid>2014.005</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.25 Linear Feet</extent>
+      <extent altrender="carrier">in one flat box and one oversize folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1927/2001" type="inclusive">1927-2001</unitdate>
+    <unitdate datechar="creation" normal="1927/1932" type="bulk">1927-1932</unitdate>
+    <abstract id="aspace_5e0dd13043ce366db55bb3b265c92a44">The papers consist of material related to the Brody family of Brooklyn, specifically brothers (Israel) George Brody and David Allen Brody. The papers document the brothers days as students in the Williamsburg neighborhood of Brooklyn, and include school publications, class photographs, autograph books, and certificates. It also contains a bound transcript of an oral history interview with George Brody, conducted by the Historical Society for the U.S. District Court for the Eastern District of Michigan. In the interview, Brody discusses his youth in Williamsburg and the Eastern European Jewish immigrant experience during the 1920s and the Great Depression.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Medium Flat Box 4" id="aspace_edfe3d4467da23147adf48bb7f42c130" label="Mixed Materials" type="Box">1 of 1</container>
+    <container id="aspace_c78f001fb16b96bc5ff8d7bfa9a95959" label="Graphic Materials" type="Folder">Flat File</container>
+  </did>
+  <prefercite id="aspace_ecf2671df18f3ed40cdce40578692c63">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brody family papers, 2014.005, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_11c7583df50954c59e964cf2ad1e847d">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_f2acef057f2752309238552faa5200ba">
+    <head>Scope and Contents</head>
+<p>The papers consist of material related to the Brody family of Brooklyn, specifically brothers (Israel) George Brody and David Allen Brody. The papers document the brothers days as students in the Williamsburg neighborhood of Brooklyn, and include school publications, class photographs, autograph books, and certificates. It also contains a bound transcript of an oral history interview with George Brody, conducted by the Historical Society for the U.S. District Court for the Eastern District of Michigan. In the interview, Brody discusses his youth in Williamsburg and the Eastern European Jewish immigrant experience during the 1920s and the Great Depression.</p><p><emph render="bold">Inventory</emph></p><p><emph render="underline">School publications</emph></p><p>The Blue and Gold. Isaac Remsen Junior High School. June 1927</p><p>Eastern District Daisy. Eastern District High School. June 1930 </p><p>Forum Latinum. Boys' High School. 2 issues, 1931-1932</p><p>Senior Recorder. Boys' High School. 3 copies, June 1932</p><p><emph render="underline">Class photographs</emph></p><p>Eastern District High School class photograph, 1930</p><p>Boys' High School class photograph, 1932</p><p><emph render="underline">School certificates</emph></p><p>NYC High School admission certificate, Israel Brody, 1927</p><p>University of the State of New York college entrance diploma, David Brody, 1932</p><p><emph render="underline">School autograph books</emph></p><p>Isaac Remsen Junior High Schools, 1927 and 1930</p><p><emph render="underline">Other items
+</emph></p><p>1 clipping from the Toledo Blade, circa 1950</p><p>"Conversations with George Bundy" bound typescript; oral history conducted by The Historical Society for the U.S. District Court for the Eastern District of Michigan, 2001</p>  </scopecontent>
+  <userestrict id="aspace_fa673f0f89d0e23a9b24d41bb1860649">
+    <head>Conditions Governing Use</head>
+<p>Schools publications and class photographs are in the public domain. Copyright for "Conversations with George Brody" is held by the Historical Society for the U.S. District Court for the Eastern District of Michigan.</p>  </userestrict>
+  <bioghist id="aspace_d65e4241f6c857fab35e19076c97c33d">
+    <head>Biographical note</head>
+<p>Samuel Brody was born around Kaunas, Lithuania, in about 1880. His wife, Lillian ("Lily") Brody, was also born in this area around 1890. Samuel immigrated to New York City in 1906, where he met and married Lily. Both were of Jewish descent. For a time they lived at 75 Johnson Avenue, in Williamsburg, Brooklyn, and later moved to 79 Johnson Avenue. Samuel became a naturalized citizen in 1928. He worked in the garmet industry for most of his life. They had two sons, Israel George Brody and David Allan Brody. Samuel died in 1940, followed by Lily in 1955.</p><p>Israel George Brody (later he legally shortened his name to "George Brody") was born in Brooklyn on December 4, 1913. He was a graduate of Isaac Remsen Junior High School (1927) and the Eastern District High School. He then attended the City College of New York (Class of 1942). After graduating from CCNY, he moved to Detroit and then attended the University of Michigan Law School (Class of 1947). He later attended New York University, eventually obtaining a Master of Law degree in taxation. He was appointed a U.S. Bankruptcy Court judge for the Eastern District of Michigan around 1960, a postition he held until retirement in 1988. After retirement, he continued to work as a bankruptcy judge in San Diego on a part-time basis. He never married. He died on March 6, 2008.</p><p>David Allan Brody was born in Brooklyn on June 24, 1916. He was a graduate of Isaac Remsen Junior High School (1930) and Boys' High School (1932). He attended the City College of New York (Class of 1936) and then Columbia Law School (Class of 1940). He moved to Washington DC, and then married Beatrice Kramer in 1943. He served in the Navy during World War II, and after the war was hired by the Anti-Defamation League in 1949. In 1965 he was appointed Washington Director, serving as the chief lobbyist for the ADL. He retired in 1989, and died on June 26, 2004.</p><p>Samuel Brody was born around Kaunas, Lithuania, in about 1880. His wife, Lillian ("Lily") Brody, was also born in this area around 1890. Samuel immigrated to New York City in 1906, where he met and married Lily. Both were of Jewish descent. For a time they lived at 75 Johnson Avenue, in the Williamsburg neighborhood of Brooklyn, and later moved to 79 Johnson Avenue. Samuel became a naturalized citizen in 1928. He worked in the garment industry for most of his life. They had two sons, Israel George Brody and David Allan Brody. Samuel died in 1940, followed by Lily in 1955.</p><p>Israel George Brody (later he legally shortened his name to "George Brody") was born in Brooklyn on December 4, 1913. He was a graduate of Isaac Remsen Junior High School (1927) and the Eastern District High School. He then attended the City College of New York (Class of 1942). After graduating from CCNY, he moved to Detroit and then attended the University of Michigan Law School (Class of 1947). He later attended New York University, eventually obtaining a Master of Law degree in taxation. He was appointed a U.S. Bankruptcy Court judge for the Eastern District of Michigan around 1960, a position he held until retirement in 1988. After retirement, he continued to work as a bankruptcy judge in San Diego on a part-time basis. He never married. He died on March 6, 2008.</p><p>David Allan Brody was born in Brooklyn on June 24, 1916. He was a graduate of Isaac Remsen Junior High School (1930) and Boys' High School (1932). He attended the City College of New York (Class of 1936) and then Columbia Law School (Class of 1940). He moved to Washington DC, and then married Beatrice Kramer in 1943. He served in the Navy during World War II, and after the war was hired by the Anti-Defamation League (ADL) in 1949. In 1965 he was appointed Washington Director, serving as the chief lobbyist for the ADL. He retired in 1989, and died on June 26, 2004.</p>    <list type="ordered">
+      <head>Sources</head>
+      <item>"Conversations with George" oral history transcript, 1996, 2001</item>
+      <item>Donor correspondence, 2014</item>
+    </list>
+  </bioghist>
+  <originalsloc id="aspace_348a067ec1dfcf7d0534bc329cb6d38d">
+    <head>Existence and Location of Originals</head>
+<p>The George Brody oral history interview transcript included in these papers was conducted by the Historical Society for the U.S. District Court for the Eastern District of Michigan. To access the recordings, please see the <extref xlink:href="http://xserve2.reuther.wayne.edu/SPT--FullRecord.php?ResourceId=1614">Michigan Oral History Project</extref>.</p>  </originalsloc>
+  <relatedmaterial id="aspace_ac7c058767642f394ff2cca65c936210">
+    <head>Related Materials</head>
+<p>Boys' High School register and publications, 1892-1943 (ARC.123)</p><p>Boys' High School and P.S. 247 class photographs, 1928, 1948 (2002.020)</p><p>Brooklyn schools collection, 1828-1975 (1985.054)</p>  </relatedmaterial>
+  <acqinfo id="aspace_bd23d350b385454088f38cfe0db2857c">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Ann Brody, 2014.</p>  </acqinfo>
+  <otherfindaid id="aspace_efb89d6b74384add353ddb38807ba101">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of some images from the collection are available for searching
+via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <controlaccess>
+    <genreform source="aat">Autograph albums</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <subject source="lcsh">Judges |z Michigan</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Transcripts</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Bankruptcy |z United States</subject>
+    <subject source="lcsh">Jews, Russian |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <genreform source="aat">Oral histories (document genres)</genreform>
+    <subject source="lcsh">Student publications -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Jews |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Immigrants -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">School children--New York (State)--Kings County</subject>
+    <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
+    <persname rules="dacs" source="naf">Brody, George</persname>
+    <corpname rules="aacr" source="naf">Boys' High School (Brooklyn, New York, N.Y.)</corpname>
+    <persname role="fmo" rules="dacs" source="local">Brody, Ann</persname>
+    <persname rules="dacs" source="local">Brody, David A.</persname>
+    <corpname rules="dacs" source="local">Isaac Remsen Junior High School (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Brooklyn (New York, N.Y.). Eastern District High School</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

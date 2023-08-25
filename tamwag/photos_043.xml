@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_043/">photos_043</eadid><filedesc><titlestmt><titleproper>Guide to the Lena Morris Lewis Photograph Collection <num>PHOTOS.043</num></titleproper><author>Mary Allison Farley (1989) and Erika Gottfried (2003).</author></titlestmt><editionstmt><p>This version was derived from NP43--Lena Morow Lewis--Final Draft.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1989</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:37:32 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Lena Morrow Lewis Photographs</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Lewis, Lena Morrow</persname>
+    </origination>
+    <origination label="source">
+      <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Wilson, Margaret</persname>
+    </origination>
+    <unitid>PHOTOS.043</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1870/1950" type="inclusive">1870-1949, (Bulk 1900-1920)</unitdate>
+    <unitdate datechar="creation" normal="1900/1920" type="bulk">1900-1920</unitdate>
+    <abstract id="aspace_6284ed3eef0c85e50c9e8741f084748e" label="Abstract">Lena Morrow Lewis (1862-1950) was an itinerant Socialist Party organizer, lecturer, candidate for public office, and journalist. She organized for the Women's Christian Temperance Union, the Socialist Party of America, becoming the first woman elected to its National Executive Committee, and managed Eugene V. Debs' 1920 presidential campaign in the Pacific Northwest. From 1913 through 1931, she served as editor for labor and socialist publications on the West Coast and in Alaska. In 1936, she left the Socialist Party and helped found the Social Democratic Party. In the last years of her life she worked in the Meyer London Memorial Library of the Rand School of Social Science. The collection contains individual and group images of Lewis and other prominent socialists, and pieces of campaign literature (with photographic images of Lewis printed on them), postcards, and personal and family portraits.</abstract>
+    <physdesc id="aspace_70222c4c702579b3ab38940dddc785c2" label="General Physical Description note">7 folders (44 items), 3x2, 3x4, 3x5, 5x7, 8x10; b&amp;w.</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_8121c0edc4eca1a42e1bff62620801e2">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_df1268a1ff9e444efc16c037988a5774">
+    <head>Immediate Source of Acquisition</head>
+<p>Transfer from the Rand School Archives in 1962; additional materials were donated in 1974 by Margaret K. Wilson. The accession number associated with this collection is 1962.009.</p>  </acqinfo>
+  <arrangement id="aspace_43c463bc46d43bbd8b515974f3629d29">
+    <head>Arrangement</head>
+<p>Folders are arranged chronologically.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Container List</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_adb6b6d74dfd788cf4d4b54c9db177d0">
+    <head>Biographical Note</head>
+<p>Lena Morrow Lewis (1862-1950), a talented itinerant Socialist Party organizer, popular lecturer, and journalist, was born in Gerlaw, IIlinois. Daughter of a Presbyterian minister, she graduated from Monmouth College (where she wrote for the college newspaper), a small private institution. Immediately upon graduation she became an official of the Women's Christian Temperance Union, where she honed her talents as an organizer. In 1898, Lewis left the WCTU to work for the woman suffrage movement full-time, working her way West on state suffrage referendums, ending in Oregon. In 1902, in California, she joined the Socialist Party of America (SP). Shortly after, she rose quickly to become a full-time national organizer for the SP. In 1903 she married Arthur Lewis, a well-known Socialist lecturer, and in 1909 she became the first woman to be elected to the Socialist Party's National Executive Committee. The following year she served as its delegate to the International Socialist Congress in Copenhagen.</p><p>After bearing the brunt of a bout of intercine conflict at Party headquarters, Lewis moved to Alaska in 1913, where she edited <title render="italic">Alaska Labor News</title>and in 1916 ran for Congress on the Socialist Party ticket. In 1917 she left Alaska for Seattle and edited the Party's <title render="italic">Seattle Daily Call</title>. In 1919, when many Socialist Party members left to join the newly-formed Communist Party, she remained with the SP, the next year managing Eugene Debs' presidential campaign in the Northwest.</p><p>Returning to California, Lewis served as managing editor for the <title render="italic">Oakland Labor World</title>, an influential and progressive daily newspaper, from 1925-1931, as well as State Secretary of the California Socialist Party. When the Depression caused Labor World to fold, she managed the 1932 Socialist Party campaign in Salt Lake City, and as worked for the Party in Wyoming, Colorado, Utah and Idaho. By now in her mid-sixties, and virtually penniless, she moved to New York City, where a small group of socialist functionaries might find support. In 1936 she left the Socialist Party and helped found the Social Democratic Party. In the last years of her life she worked in the library of the Socialist Party-associated Rand School of Social Science, organizing the papers of the movement to which she had devoted her life.</p>  </bioghist>
+  <prefercite id="aspace_51c1e7f02a8e5b944cc39f909a15d554">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <relatedmaterial id="aspace_e4c8fe930e43f12a362dd14b9ea8ff44">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Lena Morrow Lewis Papers (Tamiment 015)</p>  </relatedmaterial>
+  <scopecontent id="aspace_3dc2f52cda6109c0badd446eeb74f2d7">
+    <head>Scope and Content Note</head>
+<p>While the photographs cover a time period between ca. 1870 to the 1940s, most date from between 1900 to 1920. A handful of family photographs are included, but most are from Lewis' political life. Although the total number of images is small, some of aspects of Lewis' biography are reflected (albeit fragmentarily) in them. Highlights include: tintypes of Lewis as a child and young woman, and images of her mother, Mary A. Story; from the 1910s, snapshots of an audience listening to Lewis speak at an outdoor meeting in Lynn, Massachusetts, postcards of processions at the 8th International Socialist Congress in Copenhagen, 1910,, group photographs of Socialist Party members that include F.G.R. Gordon, J.G. P. Stokes, Rose Pastor Stokes, Victor Berger, and Clarence Darrow (all posed together) and women of Socialist Party in Minneapolis (including Lucy M. Van Lear, the wife of the Socialist mayor of that city, Tom Van Lear), and the exterior of a hall of the "Arctic Brotherhood" in Dawson (in the Yukon) where she spoke during her travels; from the 1920s, a group photograph of women (staff members?) at Socialist Party headquarters; from the 1930s, a hand-colored portrait that appears to be some sort of amalgam of a photograph and drawing. There are also pieces of literature (with photographic images of Lewis printed on them) from two of her campaigns for public office (both on the Socialist Party ticket)--one from her 1916 run in Alaska for United States Congress, and another for her 1934 race for California Lieutenant Governor.</p><p>All but three of the 44 images in this collection are black and white. Many of the identifications inscribed on the back of the images appear to have been written by Lewis herself, a considerable time after they were shot (perhaps near the end of her life).</p><p>Besides those mentioned above, other named individuals pictured include: Mabel Barnes, Carrie Bush, James Carey, Emeline Dent, William "Billy" Feigenbaum, Dan Irwin, Jasper McLevy, James Oneal, Ryan Walker, and Bertha White.</p>  </scopecontent>
+  <userestrict id="aspace_08a2c8a1b10801342561242b86eed2ff">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Lena Morrow Lewis, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Dawson (Yukon) |v Pictorial works.</geogname>
+    <subject source="lcsh">Socialism -- United States.</subject>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <geogname source="lcsh">Lynne (Mass.) |v Pictorial works.</geogname>
+    <genreform source="aat">Snapshots.</genreform>
+    <subject source="lcsh">Socialists |z United States |v Portraits.</subject>
+    <genreform source="aat">Hand coloring.</genreform>
+    <genreform source="aat">Postcards.</genreform>
+    <genreform source="aat">Tintypes (prints)</genreform>
+    <genreform source="aat">Printed ephemera.</genreform>
+    <subject source="lcsh">Political campaigns |z United States |v Pictorial works.</subject>
+    <genreform source="aat">Portraits.</genreform>
+    <persname source="naf">Carey, James B.</persname>
+    <persname rules="dacs" source="local">Irwin, Dan -- Portraits</persname>
+    <persname source="naf">Gordon, F.G.R. (Fred George Russ), 1860-1944</persname>
+    <persname rules="dacs" source="local">Dent, Emeline -- Portraits.</persname>
+    <persname source="naf">Feigenbaum, William M., 1886-1949 -- Portraits</persname>
+    <persname source="naf">McLevy, Jasper, 1878-1962 -- Portraits</persname>
+    <persname source="naf">Berger, Victor L., 1860-1929 -- Portraits</persname>
+    <persname source="naf">Darrow, Clarence, 1857-1938</persname>
+    <persname rules="dacs" source="local">Bush, Carrie -- Portraits.</persname>
+    <persname source="naf">Stokes, Rose Pastor, 1879-1933 -- Portraits.</persname>
+    <persname rules="dacs" source="local">Barnes, Mabel -- Portraits.</persname>
+    <persname source="naf">Stokes, James Graham Phelps, 1872-1960 -- Portraits.</persname>
+    <persname rules="dacs" source="local">Story, Mary A. -- Portraits.</persname>
+    <persname source="naf">Oneal, James, 1875-1962 -- |v Portraits</persname>
+    <persname source="naf">Walker, Ryan -- Portraits</persname>
+    <persname rules="dacs" source="local">Van Lear, Lucy M. -- Portraits</persname>
+    <corpname authfilenumber="(lccn)n80089534" source="naf">Socialist Party (U.S.) -- Pictorial works</corpname>
+    <corpname rules="dacs" source="local">Arctic Brotherhood</corpname>
+    <persname source="naf">White, Bertha Hale -- Portraits</persname>
+    <corpname rules="dacs" source="local">International Socialist Congress at Copenhagen (1910)</corpname>
+    <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
+    <persname role="dnr" rules="dacs" source="local">Wilson, Margaret</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Container list</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>ca.1870 - ca. 1880s</unittitle><unitdate datechar="creation" normal="1854/1890" type="inclusive">ca.1864-1880s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dd34223baad70d46fe9c56230a8bb782" label="Mixed Materials [31142062671154]" type="Box">1</container><container id="aspace_3929e2c39608f5630bec9e49aed0a4f9" parent="aspace_dd34223baad70d46fe9c56230a8bb782" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>1905 - 1910s</unittitle><unitdate datechar="creation" normal="1895/1920" type="inclusive">ca.1905-1910s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4d2e33ec9444dbedaf84d8aeaed2145a" label="Mixed Materials [31142062671154]" type="Box">1</container><container id="aspace_ecba2e11066be11c931cd904091c9d31" parent="aspace_4d2e33ec9444dbedaf84d8aeaed2145a" type="Folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Possibly 1900s - 1910s</unittitle><unitdate datechar="creation" normal="1890/1920" type="inclusive">[1900s-1910s]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_044f0a82d9268c5beeacaf116d6389f0" label="Mixed Materials [31142062671154]" type="Box">1</container><container id="aspace_c585bf63c93d583f30200e23b6f72af5" parent="aspace_044f0a82d9268c5beeacaf116d6389f0" type="Folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>1920s</unittitle><unitdate datechar="creation" normal="1920/1920" type="inclusive">1920s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3177bfda48381fe30cecbf500b42893c" label="Mixed Materials [31142062671154]" type="Box">1</container><container id="aspace_1e6d826ae31bd1488715ec6b4640c6a9" parent="aspace_3177bfda48381fe30cecbf500b42893c" type="Folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Possibly 1920s</unittitle><unitdate datechar="creation" normal="1910/1930" type="inclusive">[1920s]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3d8bf5fc5c4398a46425f57e7c44a438" label="Mixed Materials [31142062671154]" type="Box">1</container><container id="aspace_7d92e39548c8bc0fa1af0ba7740ef1eb" parent="aspace_3d8bf5fc5c4398a46425f57e7c44a438" type="Folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Possibly 1930s</unittitle><unitdate datechar="creation" normal="1920/1940" type="inclusive">[1930s]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2d90ecdb672eaa8a837adfad26728150" label="Mixed Materials [31142062671154]" type="Box">1</container><container id="aspace_8e29e21d6f58d392f9d140be30dfc6d2" parent="aspace_2d90ecdb672eaa8a837adfad26728150" type="Folder">6</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Possibly 1940s</unittitle><unitdate datechar="creation" normal="1930/1950" type="inclusive">[1940s]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5e126d586dfcf422bf06b0367cf950e7" label="Mixed Materials [31142062671154]" type="Box">1</container><container id="aspace_1c78e2dba2c89fb25e600e54146c2b9b" parent="aspace_5e126d586dfcf422bf06b0367cf950e7" type="Folder">7</container></did></c></c></dsc>
+</archdesc>
+</ead>

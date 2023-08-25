@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_021_townsend/">arms_1974_021_townsend</eadid><filedesc><titlestmt><titleproper>Guide to the Townsend family papers <num>1974.021</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 21, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:13 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Townsend family papers</unittitle>
+    <origination label="Creator">
+      <famname source="naf">Townsend family</famname>
+    </origination>
+    <unitid>1974.021</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.07 Linear Feet</extent>
+      <extent altrender="carrier">in three folders in one manuscript box, and one oversize folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1658/1809" type="inclusive">1658-1809</unitdate>
+    <unitdate datechar="creation" normal="1658/1678" type="bulk">1658-1678</unitdate>
+    <abstract id="aspace_a922ffb91aaf5a621e560a83faf5b5c4">Originally from Norwich, England, Henry Townsend (d. 1695) immigrated with his brothers, John and Richard, to the Dutch settlement of New Amsterdam (later New York) during the mid-17th century, eventually settling in the Long Island town of Oyster Bay. This collection includes materials from the Townsend family, including several deeds for land in Oyster Bay, Long Island involving European settlers and Native Americans, dated 1658 to 1678; an arithmetic book of Margaret Townsend, dated 1786; and the will of Almy Townsend, dated 1809.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_37c9eda0f5b677d64f7f7f4cdda7d140">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_315f746239603ec978d10601b6a02d1f">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Ada S. Townsend, 1924.</p>  </acqinfo>
+  <prefercite id="aspace_ae138ba6dc7da781558b1297b5673a7b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Townsend family papers, 1974.021, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_d1f42a45ddba40cbe0ec2c23c84e8ecb">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <userestrict id="aspace_74f0e1479663d45ce7e1f55a2557cd0e">
+    <head>Conditions Governing Use</head>
+<p>Materials in this collection are in the public domain.</p>  </userestrict>
+  <bioghist id="aspace_68b6aab618b02846b0ce32e1d984c648">
+    <head>Biographical / Historical</head>
+<p>Originally from Norwich, England, Henry Townsend (d. 1695) immigrated with his brothers, John and Richard, to the Dutch settlement of New Amsterdam (later New York) during the mid-17th century. After settling in the town of Flushing on Long Island, the Townsend brothers relocated to Warwick, R.I. after political and religious altercations with New Amsterdam governor Peter Stuyvesant. They returned to Long Island in 1656, settling in the town of Jamaica. In 1657, Henry Townsend was arrested and imprisoned for harboring Quakers in his home. This incident prompted him and his brothers to relocate to the Long Island town of Oyster Bay, which was out of the jurisdiction of the Dutch government of New Amsterdam. Henry Townsend resided in Oyster Bay until his death.</p>  </bioghist>
+  <scopecontent id="aspace_c2c9e1e8e70c6f80156b9a3091065606">
+    <head>Scope and Contents</head>
+<p>This collection includes materials from the Townsend family, including several deeds for land in Oyster Bay, Long Island involving European settlers and Native Americans, dated 1658 to 1678; an arithmetic book of Margaret Townsend, dated 1786; and the will of Almy Townsend, dated 1809.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Notebooks</genreform>
+    <subject source="lcsh">Families -- New York (State) -- Long Island</subject>
+    <genreform source="aat">Summonses</genreform>
+    <subject source="lcsh">Decedents' estates -- New York (State) -- Long Island</subject>
+    <genreform source="aat">Wills</genreform>
+    <subject source="aat">Deeds</subject>
+    <geogname source="lcsh">Oyster Bay (N.Y.)</geogname>
+    <subject source="lcsh">Land titles |z New York (State) |z Oyster Bay</subject>
+    <subject source="lcsh">Real property |z New York (State) |z Oyster Bay</subject>
+    <subject source="lcsh">Indians of North America -- New York (State) -- Long Island</subject>
+    <famname source="naf">Townsend family</famname>
+  </controlaccess>
+  <dsc><c id="aspace_76a06e3046ed7540a677bd23b8e3f520" level="file"><did><unittitle>Almy Townsend Will</unittitle><unitdate datechar="creation" normal="1809/1809">1809</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_d1d42f68e76598dcb5f61f54592a636f" label="Mixed Materials" type="Box">A0011</container><container id="aspace_68b9c3f93dc9c34c472136dcd5a4e072" parent="aspace_d1d42f68e76598dcb5f61f54592a636f" type="Folder">1</container></did></c><c id="aspace_f1b87a655c01a448598548508c86a90e" level="file"><did><unittitle>Arithmetic Book of Margaret Townsend</unittitle><unitdate datechar="creation" normal="1786/1786">1786</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2f998bf7036f7f19b143de5351f15a2b" label="Mixed Materials" type="Box">A0011</container><container id="aspace_419db932abef56d1c7943852c05ce33c" parent="aspace_2f998bf7036f7f19b143de5351f15a2b" type="Folder">2</container></did></c><c id="aspace_6d123004f563660058e6a7fc02946e8c" level="file"><did><unittitle>Oyster Bay Land Deeds</unittitle><unitdate datechar="creation" normal="1661/1678" type="inclusive">1661-1678</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ae149e18752123d77c054272ed18295c" label="Mixed Materials" type="Box">A0011</container><container id="aspace_3da37a58c4c51e2affffa5fd0a9c5fc7" parent="aspace_ae149e18752123d77c054272ed18295c" type="Folder">3</container></did></c><c id="aspace_46c5bb7e55626d4ee7081b5444b30828" level="file"><did><unittitle>Long Island Order to take Oath of Allegiance to United Provinces and Prince of Orange</unittitle><unitdate datechar="creation" normal="1673/1673">1673</unitdate><container altrender="Large Flat Box 14" id="aspace_02fdb14ed1d4e20b5b1ba619a3793e69" label="Mixed Materials" type="Box">OS-35</container></did></c></dsc>
+</archdesc>
+</ead>

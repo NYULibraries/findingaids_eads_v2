@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2001_006_marlor/">arms_2001_006_marlor</eadid><filedesc><titlestmt><titleproper>Guide to the Clark S. Marlor Brooklyn ephemera collection <num>2001.006</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:34 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Clark S. Marlor Brooklyn ephemera collection</unittitle>
+    <origination label="Creator">
+      <persname role="col" rules="aacr" source="naf">Marlor, Clark S.</persname>
+    </origination>
+    <unitid>2001.006</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box and one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1850/2011" type="inclusive">circa 1860 to 2001</unitdate>
+    <abstract id="aspace_c24f82578d49ae4ecedacb20a15b0b3e">This collection consists of various ephemera relating to Brooklyn, donated to the Brooklyn Historical Society by Clark S. Marlor.  Items include programs, a calendar, greeting and note cards, and pages from issues of <emph render="italic">Harper's Weekly</emph> from the 1860s containing images and information of significance to Brooklyn history.  Also included are records of expenses for the funeral of Z.H. Zerbe.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_15941c0d64d7172b0e3381417671f8f9" label="Mixed Materials" type="Box">2001.006 1 of 2 (AO625)</container>
+    <container id="aspace_8d5ca8d534317f33ae19438ab2269982" label="Graphic Materials" type="Oversize">2001.006 2 of 2 (TRL-6)</container>
+  </did>
+  <processinfo id="aspace_8899c2f9ca2114fb8288a9351f00ca8b">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_64e2908aee7de9b670db4dda478f9c90">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Clark S. Marlor Brooklyn ephemera collection, 2001.006, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_2316a1889bc5ccf04e1676d855817907">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ec659798835d94a0e31c86708d130210">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Clark S. Marlor, 2001.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+    <genreform source="aat">Printed ephemera</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_260_martin/">arms_1974_260_martin</eadid><filedesc><titlestmt><titleproper>Guide to the Charles C. Martin engrossed resolution <num>1974.260</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:54 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Charles C. Martin engrossed resolution</unittitle>
+    <unitid>1974.260</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize volume.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1895/1895" type="inclusive">1895</unitdate>
+    <abstract id="aspace_be230fb8a5573ceba457fdf90b03dfb9">Engrossed resolution given to Charles C. Martin (1831-1903) in 1895 on the 25th anniversary of his involvement with the Brooklyn Bridge.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_b1f8c73e5971afda6d8ea64f638c4b1e" label="Text" type="volume">1974.260 1 of 1</container>
+  </did>
+  <accessrestrict id="aspace_33ca24a98ba406ff5ccd1cb631121854">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_3dcbe015ab9e6254a385e756eac9eb28">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Charles C. Martin engrossed resolution, 1974.260, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_7dba9f5ecb6dc9a6885e67fcd1b9e225">
+    <head>Biographical Note</head>
+<p>Charles C. Martin (1831-1903) was born in Springfield, PA and attended the Rensselaer Polytechnic Institute in Troy, N.Y., from which he graduated as a civil engineer in 1836.  Martin later relocated to Brooklyn, N.Y., where he worked as an engineer at the Brooklyn Navy Yard during the Civil War and was chief engineer of the construction of the Atlantic Docks and Prospect Park.  Martin then worked as assistant engineer of the Brooklyn Bridge from 1870 until the bridge's opening in 1883, and later became Chief Engineer and Superintendent of the bridge.  Martin remained involved with the maintenance of the Brooklyn Bridge in varying capacities until his death.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>"Charles C. Martin Dead." <emph render="italic">New York Times</emph>, July 12, 1903. Accessed August 18, 2011. http://query.nytimes.com/mem/archive-free/pdf?res=F00917FD3C5D11738DDDAB0994DF405B838CF1D3</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_c2621ada76f533911ba7513c21450015">
+    <head>Scope and Contents</head>
+<p>Engrossed resolution given to Charles C. Martin in 1895 on the 25th anniversary of his involvement with the Brooklyn Bridge.  The resolution is contained in an oversize bound volume and is written in illuminated calligraphy accompanied by several color paintings of the Brooklyn Bridge.  Signatures of those who presented the resolution to Martin are included on the final page.</p>  </scopecontent>
+  <acqinfo id="aspace_349616f5054dec31add418d8e32036aa">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of David M. Kahn, 1991.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Engineers |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Resolutions (administrative records)</genreform>
+    <genreform source="aat">Calligraphy (visual works)</genreform>
+    <genreform source="aat">Paintings (visual works)</genreform>
+    <persname source="local">Martin, Charles C.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_246_decker/">arms_1977_246_decker</eadid><filedesc><titlestmt><titleproper>Guide to the Decker family papers <num>1977.246</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>February 18, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:21 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Decker family papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Ray, Joseph Hardy</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Decker, Josie Ray</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Decker, Louie Ray</persname>
+    </origination>
+    <origination label="Creator">
+      <famname source="naf">Decker family</famname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Wood, Joseph</persname>
+    </origination>
+    <unitid>1977.246</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.76 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box and one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1815/1932" type="inclusive">1815-1932</unitdate>
+    <unitdate datechar="creation" normal="1815/1895" type="bulk">1815-1895</unitdate>
+    <abstract id="aspace_43b3da4cb69983ab4667ba20ecd88f4d">The Decker family papers span the period 1815 to 1932 (bulk dates from 1815 to 1895) and consists of correspondence spanning the years 1815 to 1878; two scrapbooks (dated 1870 and 1895); an autograph book compiled by Josie Ray Decker, 1884 to 1893; certificates awarded to Dr. Ray; a cookbook published by the Huntington Methodist Episcopal Church, 1899; Dr. Ray's handwritten medical notebook (containing entries regarding the treatment of various diseases and medical conditions; instructions on the preparation of drugs and remedies and dosage are included); genealogical notes; and two family genealogies (Wood family record, printed, with marginal notes; handwritten Ray family record).</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Medium Flat Box 4" id="aspace_3813c8d96eee22fcfcf5f43744f1b54c" label="Text" type="Oversize">1977.246 Box 2 of 2</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_dc4f161f77e7d51e0de77eec92fa8fe1" label="Text" type="Box">1977.246 Box 1 of 2</container>
+  </did>
+  <bioghist id="aspace_c96dd13b4dff84b04544b0f91a411db3">
+    <head>Biographical note</head>
+<p>Dr. Joseph Hardy Ray (1806-1875) was born in Baltimore, MD in 1806 to Miles Sherbrook Ray, a sail maker, and Rachel Hardy. Joseph Hardy Ray married Maria L. Wood (1804-1890) in New York in 1826. Maria Wood was the daughter of Joseph Wood (1778-1830), an artist based in New York City, and Margaret Haring (1782-1830). </p><p>In New York City, Joseph Hardy Ray studied medicine and was appointed as a physician for the Board of Health during New York City's cholera epidemic of 1832. The Ray family moved to Huntington, Long Island, N.Y. in 1837 where Dr. Ray set up practice. Louie Ray Decker (1846-1921) was born to Joseph and Maria Ray in Huntington, N.Y. in 1846. Louie, named after an aunt, studied piano and went on to become a noted concert pianist in the New York City area. In 1865, the Ray family moved to Brooklyn where Dr. Ray continued to practice medicine. Louie married George M. Decker (1825-1927) in 1869 and they had one daughter, Josie Ray Decker (circa 1870-1964). Josie, a Brooklyn native, was a long-time resident of the Brooklyn Heights neighborhood. She lived on Montague Street in Brooklyn Heights until her death in 1964.</p>  </bioghist>
+  <accessrestrict id="aspace_2fb8b3e9558ff1edfa16df39fe5ba206">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_467db3e666a28d7595c288b6a88687d4">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. F.W. Worrall from the estate of Josie Ray Decker, 1964.</p>  </acqinfo>
+  <prefercite id="aspace_371ad4c01ccd3d29bc32258cf43e13ae">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Decker family papers, 1977.246, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_0bc7a79d0dc51651341e6a6079f776e8">
+    <head>Processing Information note</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <scopecontent id="aspace_e3f67d670f3294bb459d0c1723c77885">
+    <head>Scope and Contents</head>
+<p>The Decker family papers span the period 1815 to 1932 (bulk dates from 1815 to 1895) and measure 1.76 linear feet. The collection consists of correspondence spanning the years 1815 to 1878; two scrapbooks (dated 1870 and 1895); an autograph book compiled by Josie Ray Decker, 1884 to 1893; certificates awarded to Dr. Ray; a cookbook published by the Huntington Methodist Episcopal Church, 1899; Dr. Ray's handwritten medical notebook (containing entries regarding the treatment of various diseases and medical conditions; instructions on the preparation of drugs and remedies and dosage are included); genealogical notes; and two family genealogies (Wood family record, printed, with marginal notes; handwritten Ray family record).</p><p>The scrapbooks, compiled in 1870 and 1895 by Louie Ray Decker, are comprised of clippings and handwritten entries on a variety of topics including news and obituaries (predominantly New York related), religious and inspirational verses and poetry, gossip, cartoons, recipes, and instructions on how to make a variety of things (cough syrup, crocheted cape, medicine, among others).</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Scrapbooks</genreform>
+    <geogname source="lcsh">New York (N.Y.) |x Social life and customs |y 19th century</geogname>
+    <subject source="lcsh">Physicians |z New York (State) |z New York</subject>
+    <subject source="lcsh">Physicians |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families |z New York (State) |z New York</subject>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Autograph albums</genreform>
+    <subject source="lcsh">Genealogy</subject>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <geogname source="lcsh">Huntington (N.Y.)</geogname>
+    <genreform source="aat">Notes</genreform>
+    <genreform source="aat">Cookbooks</genreform>
+    <persname rules="dacs" source="local">Ray, Joseph Hardy</persname>
+    <persname rules="dacs" source="local">Decker, Louie Ray</persname>
+    <persname rules="dacs" source="local">Decker, Josie Ray</persname>
+    <persname rules="aacr" source="naf">Wood, Joseph</persname>
+    <famname source="naf">Decker family</famname>
+    <famname rules="dacs" source="local">Wood family</famname>
+    <famname rules="dacs" source="local">Ray family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

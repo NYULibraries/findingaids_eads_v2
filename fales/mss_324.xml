@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_324/">mss_324</eadid><filedesc><titlestmt><titleproper>Guide to the Kezia Snyder Papers <num>MSS.324</num></titleproper><author>Jennifer E. Neal</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>August 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:02:18 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Kezia Snyder Papers</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" source="local">Snyder, Kezia</persname>
+    </origination>
+    <unitid>MSS.324</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 linear foot</extent>
+      <extent altrender="carrier">in 1 record carton, 2 card boxes, and 1 CD box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4 videocassettes (vhs)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 audiocassettes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 videodisc (dvd)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1978/2011" type="inclusive">1978-2011</unitdate>
+    <unitdate datechar="creation" normal="1990/2011" type="bulk">1990-2011</unitdate>
+    <abstract id="aspace_fc0fff021c46952979cc4f3f1e119337">Kezia Snyder is a New York City based natural foods chef and wellness consultant. This collection consists of materials Snyder collected during her career between 1978 and 2011. Materials include four VHS tapes, two audiocassettes, one CD, one DVD, newsletters, articles, clippings, pamphlets, and lists related to macrobiotics and healthy living.</abstract>
+    <physloc id="aspace_6a88eec9e3a39dc67032aaa1da220619">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_e816dac58a02b6da68dd89135b213b4c">Materials primarily in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_f804047bdb582e0fc44d21a4a8a20474">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_66eaa27f24ead683560c71fd7f6bf840">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Kezia Snyder in 2011; additional materials were donated in 2012. The accession numbers related to these gifts are 2011.324 and 2012.234.</p>  </acqinfo>
+  <arrangement id="aspace_95bcb5162b61329c17b7b1d83b7d49ff">
+    <head>Arrangement</head>
+<p>Materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_423c039d140efe8ff32ea8550a783aa6">
+    <head>Biographical Note</head>
+<p>Kezia Snyder is a New York City based natural foods chef and wellness consultant. Snyder has cooked healthy, organic, local, sustainable and macrobiotic food and taught the principles of a balanced, healthy, globally conscious lifestyle for over thirty years. She has been involved with the macrobiotic community in New York and the East Coast since she began reading books written by George Ohsawa, the founder of the macrobiotic diet, in 1969.</p><p>
+Sources: </p><p>https://www.facebook.com/KeziaSnyderHealthyLiving/</p><p>http://keziasnyder.blogspot.com/</p>  </bioghist>
+  <phystech id="aspace_578acdea7b332d5561b2022acfa79d7f">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <prefercite id="aspace_6765f22d8715656ba139b1f8b66aa31f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Kezia Snyder Papers; MSS 324; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_e0dbe317a8d4aea9cece7a02fb791964">
+    <head>Processing Information</head>
+<p>Materials were placed in new, acid-free folders and original order was retained. Audiovisual materials were placed in shared media boxes.</p>  </processinfo>
+  <relatedmaterial id="aspace_4f0261473176c389835a2f7b5e2f632d">
+    <head>Related Materials</head>
+<p>Shizuko Yamamoto Papers (MSS 225)</p>  </relatedmaterial>
+  <scopecontent id="aspace_d351a044ac3f9b70427e6ac61e949c86">
+    <head>Scope and Contents</head>
+<p>This collection consists of materials Snyder collected during her career as a natural foods chef and wellness consultant between 1978 and 2011 that document macrobiotics and healthy living. Materials include four VHS tapes, two audiocassettes, and one CD related to wellness exercises, cooking, organic farming, sound healing, and laughter; one DVD related to the production of metals using non-metallic graphite; and various monthly newsletters that document the macrobiotic and wellness community in New York City. The collection also includes articles and clippings related to recipes, health and wellness, and nutrition; lists of foods found in organic and macrobiotic diets; and pamphlets related to conferences and workshops, vegan and vegetarian restaurants, descriptions of various types of grains and vegetables, nutritional services, and the ecological impact on nutrition.</p>  </scopecontent>
+  <separatedmaterial id="aspace_9634150768aa6941ae9507b125710eef">
+    <head>Separated Materials</head>
+<p>Two boxes of books were removed at the time of accessioning and added to the Fales Library collection.</p>  </separatedmaterial>
+  <userestrict id="aspace_d683f07e2b62b934f50929db081ad5c6">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Kezia Snyder, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Macrobiotic diet.</subject>
+    <subject source="lcsh">Food Consultants.</subject>
+    <subject source="lcsh">Local foods</subject>
+    <subject source="lcsh">Health food cooking</subject>
+    <subject source="lcsh">Nutrition</subject>
+  </controlaccess>
+  <dsc><c id="aspace_fcb4b160a6ca463db50606a059ec3193" level="file"><did><unittitle>Newsletters, conferences, workshops</unittitle><unitdate datechar="creation" normal="2000/2011" type="inclusive">2000-2011</unitdate><container altrender="Record carton" id="aspace_f0ffcfd57763ae0fc0a79aac70c92664" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_371bf01b203cfa88de0f90cf615b099d" parent="aspace_f0ffcfd57763ae0fc0a79aac70c92664" type="Folder">1</container></did></c><c id="aspace_8a664e83413247aa7fb92ff4427111b3" level="file"><did><unittitle>Newsletters, clippings, articles, pamphlets</unittitle><unitdate datechar="creation" normal="1986/2003" type="inclusive">1986-2003</unitdate><container altrender="Record carton" id="aspace_5c3b5df4f18fe799b36fa497bf2e0314" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_e9bdeea597fabea009448aea9c2be530" parent="aspace_5c3b5df4f18fe799b36fa497bf2e0314" type="Folder">2</container></did></c><c id="aspace_7a33b3ba6f172e7f3701854742c2355a" level="file"><did><unittitle>Earth Save</unittitle><unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate><container altrender="Record carton" id="aspace_a41ca730df0073bb8187be57c3f66ada" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_a86abd7864b097b1507150039e36a90c" parent="aspace_a41ca730df0073bb8187be57c3f66ada" type="Folder">3</container></did></c><c id="aspace_f425e770d6eafb48bc1b0e40eb0feb27" level="file"><did><unittitle>Newsletters, clippings, articles</unittitle><unitdate datechar="creation" normal="1981/2001" type="inclusive">1981-2001</unitdate><container altrender="Record carton" id="aspace_e3030094ea36f5b5c3c3851c22731724" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_b04d09e9e9d505fb31d317d2207d2b96" parent="aspace_e3030094ea36f5b5c3c3851c22731724" type="Folder">4</container></did></c><c id="aspace_d017eaad9835018e910c02083681910d" level="file"><did><unittitle>Newsletters, clippings, articles, lists</unittitle><unitdate datechar="creation" normal="1978/1989" type="inclusive">1978-1989</unitdate><container altrender="Record carton" id="aspace_aa8443e5ebc0cd736d202cf45dc99613" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_d5ffc871d0598d9846e12101e804b549" parent="aspace_aa8443e5ebc0cd736d202cf45dc99613" type="Folder">5</container></did></c><c id="aspace_8fcb2c3f053963ff322a7167e44c6aff" level="file"><did><unittitle>Newsletters, pamphlets</unittitle><unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate><container altrender="Record carton" id="aspace_93c0a8e008c59a52b2d3a80bc5d29022" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_9d2d39905722d99c59d433991408804f" parent="aspace_93c0a8e008c59a52b2d3a80bc5d29022" type="Folder">6</container></did></c><c id="aspace_26077e193d7a783cd93e8b6d5e5250b5" level="file"><did><unittitle>Newsletters, clippings, articles, pamphlets</unittitle><unitdate datechar="creation" normal="1994/2010" type="inclusive">1994-2010</unitdate><container altrender="Record carton" id="aspace_21e07e40f91771d39c4b8682f0b335af" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_4349a05e9641c005993b040f07bbb101" parent="aspace_21e07e40f91771d39c4b8682f0b335af" type="Folder">7-8</container></did></c><c id="aspace_e5596efdd10b60656e3946563b49d40e" level="file"><did><unittitle>Newsletters, articles, pamphlets</unittitle><unitdate datechar="creation" normal="1979/2010" type="inclusive">1979-2010</unitdate><container altrender="Record carton" id="aspace_b51c10ab48f5fa141734a89d98e1f886" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_f6807023d69d17c565333b8de98a254d" parent="aspace_b51c10ab48f5fa141734a89d98e1f886" type="Folder">9-11</container></did></c><c id="aspace_0a79b679a3b9a58069d46f9e35eb86f4" level="file"><did><unittitle>Newsletters, articles, pamphlets, lists</unittitle><unitdate datechar="creation" normal="2001/2008" type="inclusive">2001-2008</unitdate><container altrender="Record carton" id="aspace_26ab58ddbb1e85e4c1c7fb04f35805cc" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_a07eff51a5a54f712ad88f1abb0a1e8b" parent="aspace_26ab58ddbb1e85e4c1c7fb04f35805cc" type="Folder">12</container></did></c><c id="aspace_4b700720da7f2c0b050f4e20851c8d4f" level="file"><did><unittitle>Newsletters, articles, pamphlets</unittitle><unitdate datechar="creation" normal="1998/2011" type="inclusive">1998-2011</unitdate><container altrender="Record carton" id="aspace_08deb59e4449308e9434a0fd25d2bffa" label="Mixed Materials [31142062772754]" type="Box">1</container><container id="aspace_5c9c5764b8c31f7dce85890c4290b80a" parent="aspace_08deb59e4449308e9434a0fd25d2bffa" type="Folder">13-14</container></did></c><c id="aspace_894b289cef879313088f55a625da7cf4" level="file"><did><unittitle>VHS - Bounty from the Sea</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container altrender="Shoe Box - 9.5" id="aspace_2e77f4df8c0a1f9b3252e32f43ed8303" label="video [31142062728111]" type="Box">Shared Fales 014</container></did></c><c id="aspace_ec658914db701cd9c24958208b96b067" level="file"><did><unittitle>VHS - Cooking for Women's Health </unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container altrender="Shoe Box - 9.5" id="aspace_af6707f18896b6882db774b0b2b47649" label="video [31142062728111]" type="Box">Shared Fales 014</container></did></c><c id="aspace_07e05213526c0f6c6fcfdf6efc73c388" level="file"><did><unittitle>VHS - Energize Yourself with Self-Massage</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container altrender="Shoe Box - 9.5" id="aspace_0ee5f7c005fa47a66f86d08a04abce58" label="video [31142062728111]" type="Box">Shared Fales 014</container></did></c><c id="aspace_e647bf2a6f9cb70cc398ea5b5e3177c9" level="file"><did><unittitle>VHS - Barefoot Shiatsu</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container altrender="Shoe Box - 9.5" id="aspace_5eeb655bd7f0cb060a8a84bcba732749" label="video [31142062728111]" type="Box">Shared Fales 014</container></did></c><c id="aspace_c980890aaf590b30fe7e878cc353662d" level="file"><did><unittitle>CD - Organic Farming Song &amp; Chetana</unittitle><unitdate datechar="creation" normal="2001/2001">2001</unitdate><container altrender="CD Box - 6  x 15" id="aspace_fd59b26afe798669352e1ddbfdd5f13c" label="Audio [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_b395d20ca5d7d34549438e21117ad6cb" level="file"><did><unittitle>DVD - Quantum Rabbit Production of Metalas From Non-Metalic Graphite </unittitle><unitdate datechar="creation" normal="2008/2008">2008</unitdate><container altrender="CD Box - 6  x 15" id="aspace_d924f25a667936dd397de5669e3c3169" label="video [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_fdfbf33fd9840fd8123d16100a87e6bf" level="file"><did><unittitle>Audiocassette - Healing Mealtime Music</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_2e75a6982cefd2a5f7e933ab35192699" label="Audio [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_e782d9b78dd81b37f06193e98a12f28e" level="file"><did><unittitle>Audiocassette - Laugh: For the Health of It! </unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container altrender="Card Box 5.75" id="aspace_d55ab64ea4a95b45be0c65a0c2640a18" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c></dsc>
+</archdesc>
+</ead>

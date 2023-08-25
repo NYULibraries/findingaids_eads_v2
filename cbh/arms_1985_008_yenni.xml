@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_008_yenni/">arms_1985_008_yenni</eadid><filedesc><titlestmt><titleproper>Guide to the Courtney Yenni papers <num>1985.008</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:07 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Courtney Yenni papers</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Yenni, Courtney</persname>
+    </origination>
+    <unitid>1985.008</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+      <extent altrender="carrier">in five folders and one bound volume</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1841/1929" type="inclusive">1841-1929</unitdate>
+    <abstract id="aspace_342190c83634bfb919c0b6448b101625">The Courtney Yenni papers span the period 1841 to 1929 and measure contains two scrapbooks, four programs, and one letter. The programs are of the final performance at the Brooklyn Academy of Music on Montague Street in the Brooklyn Heights neighborhood, as well as the first performance at its new building in the Fort Greene neighborhood. Courtney Yenni was a Brooklyn resident who lived at 17 7th Avenue.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_aa14aa01fa1f5c5df088419d467b353d" label="Text" type="Box">A0097</container>
+  </did>
+  <prefercite id="aspace_327b31402ae6ea16064ee0a25f617817">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Courtney Yenni papers, 1985.008, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_1d0fca54c200a1b40c2cbfb7e42b621a">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Nancy Pearsall, 1983.</p>  </acqinfo>
+  <accessrestrict id="aspace_afd5a51d3722f912e8c954b77560a9de">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Concert programs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Theaters |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Scrapbooks</genreform>
+    <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

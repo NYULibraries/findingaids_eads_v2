@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_349_prospect_park_architect/">arms_1977_349_prospect_park_architect</eadid><filedesc><titlestmt><titleproper>Guide to the Prospect Park architectural drawings <num>1977.349</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 4, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:25 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Prospect Park architectural drawings</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Helmle, Huberty &amp; Hudswell</corpname>
+    </origination>
+    <unitid>1977.349</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.67 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1905/1905" type="inclusive">1905</unitdate>
+    <abstract id="aspace_54f75072066cd084a4ea7e05ce01e890">Eight Photostat copies of architectural and landscape drawings for the Prospect Park Pavilion and Boathouse in Brooklyn, N.Y.  The drawings were done by the architectural firm of Helmle, Huberty, and Hudswell, located at 44 Court Street.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box 3" id="aspace_8e70119d18c802d0baf61450de780af9" label="Graphic Materials" type="Box">OS-6</container>
+  </did>
+  <prefercite id="aspace_0aec58f41720f4908e344c96ea840022">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Prospect Park architectural drawings, 1977.349, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_4e268a889de6fdc4ba939634cf62d988">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <accessrestrict id="aspace_344362af0fdfabe3ed1c3c5d0498272b">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Architectural drawings</genreform>
+    <subject source="lcsh">Parks |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

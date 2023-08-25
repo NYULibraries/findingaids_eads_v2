@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1981_286_hubbard_place/">v1981_286_hubbard_place</eadid><filedesc><titlestmt><titleproper>Guide to the 16 Hubbard Place photographs <num>V1981.286</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 16, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:39 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>16 Hubbard Place photographs</unittitle>
+    <unitid>V1981.286</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1910/1930" type="inclusive">circa 1920</unitdate>
+    <abstract id="aspace_1a3226b0185bf2eb8436de4778314281">16 Hubbard Place (formerly known as Hubbard Lane), located in the Flatlands neighborhood of Brooklyn, was originally the residence of John Lott Williamson (1828-1895), a school teacher, and his wife, Rebecca Stryker Kouwenhoven (1833-1903). Construction of the home at 16 Hubbard Place was completed in 1869. This collection contains three copy prints of the house and barn at 16 Hubbard Place, circa 1920.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d3d972fc27def285e13959dff8f71621" label="Graphic Materials" type="Box">Prints by Accession 44</container>
+  </did>
+  <prefercite id="aspace_dc925ec5f7564b1bdf0095520fba5e80">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); 16 Hubbard Place photographs, V1981.286, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_4f4965c70d2b5cba0eb5b6dd0923860c">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Dorothy Kouwenhoven, 1981.</p>  </acqinfo>
+  <accessrestrict id="aspace_f24474b3b25580cdebfba010a2976260">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <otherfindaid id="aspace_dd1ba4807c7a32ee05d691a1753fedef">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <userestrict id="aspace_3bac131b68adfd372aa096e6411e58a5">
+    <head>Conditions Governing Use</head>
+<p>Copyright will remain in effect for 120 years following the date of creation. All images in this collection will enter the public domain by 2040. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <genreform source="aat">Copy prints</genreform>
+    <subject source="lcsh">Dwellings |z New York (State) |z Kings County</subject>
+    <famname source="naf">Conover family</famname>
+    <famname rules="dacs" source="local">Williamson family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

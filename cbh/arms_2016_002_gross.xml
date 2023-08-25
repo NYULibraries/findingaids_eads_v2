@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_002_gross/">arms_2016_002_gross</eadid><filedesc><titlestmt><titleproper>Guide to the Adolph and Lillian Gross scrapbooks <num>2016.002</num></titleproper><author>Katherine Palm</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:23 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Adolph and Lillian Gross scrapbooks</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Cohen, Howard</persname>
+    </origination>
+    <unitid>2016.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box and one oversize flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1917/1959" type="inclusive">1917-1959</unitdate>
+    <unitdate datechar="creation" normal="1945/1956" type="bulk">1945-1956</unitdate>
+    <abstract id="aspace_c98a3741c9d2c5f6e89d5f29389a42ca">The collection comprises three scrapbooks compiled by twentieth-century Brooklyn florist Adolph Gross and his wife, Lillian, relating to Gross' charitable work on behalf of hospitalized veterans and other causes as a florist and community leader.  The collection contains photographs, newsclippings, and a small amount of correspondence and documentation.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Large Flat Box 3" id="aspace_3566dfde260a633672c50cbcae9c656b" label="Mixed Materials" type="Box">2 of 2</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ea7b397d2bd4857fbed56f4a0bd5e2ab" label="Mixed Materials" type="Box">1 of 2</container>
+  </did>
+  <scopecontent id="aspace_414156655bcd5d602e169e9c7f70ff68">
+    <head>Scope and Contents</head>
+<p>The collection comprises three scrapbooks that contain approximately 130 black-and-white photographic prints, newsclippings (1917-1956), an obituary for Adolph Gross, and a small amount of correspondence, including five telegrams.  The photographs appear to be chiefly the work of professional photographers working for local newspapers or the Armed Forces Public Information Office.  The photographs appear to capture events relating to Adolph Gross' charitable work on behalf of veterans as a member of the Hospitalized Service Men's Committee and the National Foundation for Infantile Paralysis (March of Dimes).  Such events include observation of May 19th, Armed Services Day, and a Veterans Day baseball celebration at Ebbets Field on June 11, 1953.  Subjects of photographs include civilians participating in such charitable work, servicemen and women, and floral arrangements.</p>  </scopecontent>
+  <accessrestrict id="aspace_2f3bf3f24dc4319db9631e24b56b17bf">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_545058edb502e1ef49861abe4769b9ce">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Dr. Howard M. Cohen, 2016.</p>  </acqinfo>
+  <bioghist id="aspace_075e1d2607ad6c42e8963f5e60ee4b81">
+    <head>Biographical note</head>
+<p>Adolph Gross (1888-1959) was a florist who served in World War I and became active in Brooklyn business and community affairs during the mid-twentieth century.  His shop, Gross Florists, was located at 298 Kingston Avenue in Brooklyn, New York.  He served as president of the Metropolitan Retail Florists' Association and was a trustee of the New York Florists' Club.  Gross was particularly active in veterans' welfare work and was a leader in the Kings County American Legion, the Democratic Veterans Organization, and the Hospitalized American Servicemen's Committee.  He died in 1959 in a veterans' hospital in Brooklyn and was survived by his widow, Lillian, his sister, Mrs. Anna Edwards, and his brother, Sol.</p>    <list numeration="arabic" type="ordered">
+      <head>Source</head>
+      <item>Adolph and Lillian Gross scrapbooks</item>
+      <item>Donor correspondence, 2015</item>
+    </list>
+  </bioghist>
+  <processinfo id="aspace_41d87cdb38ef003df4813ef1b474ef80">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_32500cfb6e754ca87c5e3d5f1454da38">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Adolph and Lillian Gross scrapbooks, 2016.002, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <userestrict id="aspace_1e4024001cd904ea03d5a9cc65ff221d">
+    <head>Conditions Governing Use</head>
+<p>The majority of the photographs in the collection are from press agencies, which hold the copyright for such works.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Scrapbooks</genreform>
+    <subject source="lcsh">Veterans |z New York (State) |z Kings County |x Societies, etc.</subject>
+    <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
+    <subject source="lcsh">Florist shops |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Soldiers |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Photograph albums</genreform>
+    <subject source="lcsh">Veterans -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Photographic prints</genreform>
+    <genreform source="aat">Telegrams</genreform>
+    <subject source="lcsh">Charity organization |z New York (State) |z Kings County</subject>
+    <persname rules="dacs" source="local">Gross, Lillian</persname>
+    <corpname role="pht" rules="dacs" source="local">Armed Forces Public Information Office</corpname>
+    <persname role="dnr" rules="dacs" source="local">Cohen, Howard</persname>
+    <persname rules="dacs" source="local">Gross, Adolph</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

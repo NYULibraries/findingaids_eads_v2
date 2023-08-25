@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_575/">mss_575</eadid><filedesc><titlestmt><titleproper>Guide to the John Millaire Collection on Julius Hemphill <num>MSS.575</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>May 2019</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:03:17 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>John Millaire Collection on Julius Hemphill</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Millaire, John</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Millaire, John</persname>
+    </origination>
+    <unitid>MSS.575</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">741 Gigabytes</extent>
+      <extent altrender="carrier">in 10 recordings</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+    <abstract id="aspace_2f991bd79615ae4c15892218bbe70c59">John Millaire is a retired videographer based in St. Louis, Missouri. This collection consists of digital transfers of 10 video recordings by Millaire of performances by Julius Hemphill and the Black Artist Group (BAG) in the 1970s.</abstract>
+    <langmaterial id="aspace_af2009a3f46af51cb8a6c5c68b4ff3d8">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_cfcd3909a2dcd681930ac770eb4d453f">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_b2577d3749f3682c689d32ed3a05f68b">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by John Millaire in December 2018; the accession number associated with this gift is 2019.026.</p>  </acqinfo>
+  <arrangement id="aspace_c19bbecd11f5b13d7fc487d579413504">
+    <head>Arrangement</head>
+<p>This collection is arranged in the order in which files were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_18546297d8de5d25381997df64bc978b">
+    <head>Biographical Note</head>
+<p>John Millaire is a retired videographer based in St. Louis, Missouri.</p>  </bioghist>
+  <phystech id="aspace_21721318f5f7a5d4894cb4b152b29820">
+    <head>Born-Digital Access Policies and Procedures</head>
+<p>Advance notice is required for the use of computer records. Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>  </phystech>
+  <prefercite id="aspace_100b7d730f2a90b850bf299669d328a8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; John Millaire Collection on Julius Hemphill; MSS 575; box number; folder number or item identifier; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_4ae499d0e7e148d5b36e8c118bc07d29">
+    <head>Processing Information</head>
+<p>Prior to acquisition, original video tapes were reformatted and only the digital transfers were donated. At the time of accessioning, materials were described on the collection level. During processing, born-digital items were forensically imaged, arranged, and described. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.</p>  </processinfo>
+  <scopecontent id="aspace_fca8d5697eedcaddb278db79411cbd3b">
+    <head>Scope and Contents</head>
+<p>This collection consists of digital transfers of 10 video recordings by John Millaire of performances by Julius Hemphill and the Black Artist Group (BAG) in the 1970s. Recordings include an African dance and musical performance with Hemphill on the flute and saxophone; various theatrical and musical performances; Julius Hunter, a St. Louis news anchor, delivering the news circa 1976; a children's performance; and an outdoor concert featuring different singers and musicians. All of the recordings are in black and white.</p>  </scopecontent>
+  <userestrict id="aspace_3ce2e3b4b62f65235731407f5818e9ab">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Jazz musicians -- United States</subject>
+    <subject source="lcsh">Saxophonists</subject>
+    <subject source="lcsh">Composers -- United States -- 20th century</subject>
+    <subject source="lcsh">African American jazz musicians</subject>
+    <persname role="dnr" rules="dacs" source="local">Millaire, John</persname>
+    <persname source="naf">Hemphill, Julius</persname>
+    <corpname source="naf">Black Artists' Group</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_d1880b518ce7a506d6113650c5a6f479" level="file"><did><unittitle>Untitled Recording</unittitle><unitid>cuid39218</unitid><unitdate datechar="creation" normal="1970/1979" type="inclusive">circa 1970s</unitdate><container id="aspace_44471729aed96e522cffe76cf8eff7b8" label="electronic records" type="Box">Electronic Records</container><container id="aspace_7b6c5deed201f5b23c908ee21f4b518f" parent="aspace_44471729aed96e522cffe76cf8eff7b8" type="E-records">FA_MSS_575_ER_1</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Untitled Recording" xlink:type="simple"><daodesc><p>Untitled Recording</p></daodesc></dao></did></c><c id="aspace_17d33b5d4491db6c4d3aa03d683fdcdb" level="file"><did><unittitle>Untitled Recording</unittitle><unitid>cuid39219</unitid><unitdate datechar="creation" normal="1970/1979" type="inclusive">circa 1970s</unitdate><container id="aspace_a3107d897f14458ba36553d27a8d888e" label="electronic records" type="Box">Electronic Records</container><container id="aspace_83cd84a31188fd7015d1928b3bd9c857" parent="aspace_a3107d897f14458ba36553d27a8d888e" type="E-records">FA_MSS_575_ER_2</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Untitled Recording" xlink:type="simple"><daodesc><p>Untitled Recording</p></daodesc></dao></did></c><c id="aspace_1e0e127abe550f33ec9a69cb1872e32b" level="file"><did><unittitle>Untitled Recording</unittitle><unitid>cuid39220</unitid><unitdate datechar="creation" normal="1976/1976">circa 1976</unitdate><container id="aspace_27bef576cb30e7bfa6c40aa04dbc8a2f" label="electronic records" type="Box">Electronic Records</container><container id="aspace_ce76846a41ae25e23bc9cf6f0ea02c22" parent="aspace_27bef576cb30e7bfa6c40aa04dbc8a2f" type="E-records">FA_MSS_575_ER_3</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Untitled Recording" xlink:type="simple"><daodesc><p>Untitled Recording</p></daodesc></dao></did></c><c id="aspace_2468fb620b331c4d0cd510123dd00e7b" level="file"><did><unittitle>Untitled Recording</unittitle><unitid>cuid39221</unitid><unitdate datechar="creation" normal="1970/1979" type="inclusive">circa 1970s</unitdate><container id="aspace_e7d09dec1143887864cf261383f5fbe0" label="electronic records" type="Box">Electronic Records</container><container id="aspace_63ff02d883266c02b1063ac83b592f11" parent="aspace_e7d09dec1143887864cf261383f5fbe0" type="E-records">FA_MSS_575_ER_4</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Untitled Recording" xlink:type="simple"><daodesc><p>Untitled Recording</p></daodesc></dao></did></c><c id="aspace_d946a7da637dd7415ce80921b052d76e" level="file"><did><unittitle>Untitled Recording</unittitle><unitid>cuid39222</unitid><unitdate datechar="creation" normal="1970/1979" type="inclusive">circa 1970s</unitdate><container id="aspace_837f4cd0f5ac5a4710e69bb92198c0d8" label="electronic records" type="Box">Electronic Records</container><container id="aspace_4c3c35d366fe1619f5f407f2c3fd8e43" parent="aspace_837f4cd0f5ac5a4710e69bb92198c0d8" type="E-records">FA_MSS_575_ER_5</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Untitled Recording" xlink:type="simple"><daodesc><p>Untitled Recording</p></daodesc></dao></did></c><c id="aspace_90b556717b4a8eabb6ee4f6018a1e7b0" level="file"><did><unittitle>Untitled Recording</unittitle><unitid>cuid39223</unitid><unitdate datechar="creation" normal="1970/1979" type="inclusive">circa 1970s</unitdate><container id="aspace_f19cc8fe7d9c1a0afca2c71f6d202c4b" label="electronic records" type="Box">Electronic Records</container><container id="aspace_f9f31dc021ebb168e22e6c36718979ba" parent="aspace_f19cc8fe7d9c1a0afca2c71f6d202c4b" type="E-records">FA_MSS_575_ER_6</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Untitled Recording" xlink:type="simple"><daodesc><p>Untitled Recording</p></daodesc></dao></did></c><c id="aspace_635998c5fb16fe149764c2bc236b61dd" level="file"><did><unittitle>Untitled Recording</unittitle><unitid>cuid39224</unitid><unitdate datechar="creation" normal="1970/1979" type="inclusive">circa 1970s</unitdate><container id="aspace_1b5d5a54a8b38aca4adad7314baca033" label="electronic records" type="Box">Electronic Records</container><container id="aspace_cb96a1ced8098b268a951a7770caf8e1" parent="aspace_1b5d5a54a8b38aca4adad7314baca033" type="E-records">FA_MSS_575_ER_7</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Untitled Recording" xlink:type="simple"><daodesc><p>Untitled Recording</p></daodesc></dao></did></c></dsc>
+</archdesc>
+</ead>

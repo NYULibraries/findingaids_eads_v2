@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1991_004_los_angeles_dodgers_centennial/">v1991_004_los_angeles_dodgers_centennial</eadid><filedesc><titlestmt><titleproper>Guide to the Los Angeles Dodgers centennial press kit photographs <num>V1991.004</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:34 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Los Angeles Dodgers centennial press kit photographs</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Los Angeles Dodgers (Baseball team)</corpname>
+    </origination>
+    <unitid>V1991.004</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1985/1995" type="inclusive">circa 1990</unitdate>
+    <abstract id="aspace_e73bb382f7891fb700f463ab660eb20e" label="Abstract">The Los Angeles Dodgers centennial press kit photographs consist of two modern black-and-white photographic prints. One photograph is a group portrait of the 1890 Brooklyn Dodgers baseball team, while the other photograph consists of four panels showing views of four different baseball fields that were home to the Brooklyn Dodgers or the Los Angeles Dodgers. A view of Ebbets Field in Brooklyn is included. Though the photographic prints date from circa 1990, the original images from which the prints were reproduced date from circa 1890 to 1990.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_c5873a1d6f688a18580df2b41664aca3" label="Graphic Materials" type="Box">Prints by Accession</container>
+  </did>
+  <scopecontent id="aspace_15b62798a47395a3d1f7ffc2c1e53eb4">
+    <head>Scope and Contents</head>
+<p>The Los Angeles Dodgers centennial press kit photographs consist of two modern black-and-white photographic prints. One photograph is a group portrait of the 1890 Brooklyn Dodgers baseball team, while the other photograph consists of four panels showing views of four different baseball fields that were home to the Brooklyn Dodgers or the Los Angeles Dodgers. A view of Ebbets Field in Brooklyn is included. Though the photographic prints date from circa 1990, the original images from which the prints were reproduced date from circa 1890 to 1990.</p>  </scopecontent>
+  <relatedmaterial id="aspace_b428f6f416eb12489acda53eaa02d52a">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society holds additional manuscript and photograph collections related to the Brooklyn Dodgers. Please consult with library staff for more information.</p>  </relatedmaterial>
+  <processinfo id="aspace_bcd527bd47cb28ba904024300fbac3d1">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <otherfindaid id="aspace_0e66d698c3ad0e8663f44353b5b36ffe">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <acqinfo id="aspace_2b3105d6870288c36db03302c6952fee">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1991.</p>  </acqinfo>
+  <userestrict id="aspace_033f0c6f8ecfd333b3306e9d100f2d20">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <accessrestrict id="aspace_626e1b05190bc42cfd7d75351d5501ed">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_9fb84fff4f4c133676f0367c49adeb9d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Los Angeles Dodgers centennial press kit photographs, V1991.004, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Los Angeles (Calif.)</geogname>
+    <subject source="lcsh">Aerial photographs</subject>
+    <subject source="lcsh">Baseball fields</subject>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Group portraits</genreform>
+    <subject source="lcsh">Baseball teams |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <corpname rules="aacr" source="naf">Brooklyn Dodgers (Baseball team)</corpname>
+    <corpname rules="dacs" source="naf">Ebbets Field (New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Los Angeles Dodgers (Baseball team)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

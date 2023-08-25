@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_019_kings_county/">arms_1977_019_kings_county</eadid><filedesc><titlestmt><titleproper>Guide to the Kings County Commission for Collecting Evidence of Fraud and Outrages affidavit book <num>1977.019</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 16, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:06 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Kings County Commission for Collecting Evidence of Fraud and Outrages affidavit book</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Kings County (N.Y.). Committee for Collecting Evidence of Frauds and Outrages</corpname>
+    </origination>
+    <unitid>1977.019</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.18 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1871/1871" type="inclusive">1871</unitdate>
+    <abstract id="aspace_0a7ae359f06165ca936ac7c49ab2eded">One bound volume of handwritten affidavits of election fraud in the Kings County election of 1871, compiled by the Kings County Committee for the Collecting of Evidence of Frauds and Outrages.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c8b04d023d53b15a13b2624dcdc8772a" label="Text" type="Box">A0027</container>
+  </did>
+  <bioghist id="aspace_98b1781f8dd6e5ae2a0452ae2aa7718a">
+    <head>Historical Note</head>
+<p>The Kings County Committee for Collecting Evidence of Frauds and Outrages was a predominantly Republican group that protested the Democratic victory in the Kings County elections of 1871.  The Committee conducted an investigation into election fraud on the part of the Democrats, which resulted in the indictment of eighteen individuals, five of whom were convicted.</p>  </bioghist>
+  <prefercite id="aspace_9dc4ad70678542eeb820fb94bfcc3fb4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Kings County Commission for Collecting Evidence of Fraud and Outrages affidavit book, 1977.019, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_b6aed49869bb618b0302b9479aff1460">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Ludovic Bennet, date unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <scopecontent id="aspace_e9a816486a281b2aee19a3bdb135932a">
+    <head>Scope and Contents</head>
+<p>One bound volume of handwritten affidavits of election fraud in the Kings County election of 1871, compiled by the Kings County Committee for the Collecting of Evidence of Frauds and Outrages.  Each affidavit is a sworn statement attesting to the individual having observed some form of election fraud.  Testimonies concerning African-Americans are included.</p>  </scopecontent>
+  <accessrestrict id="aspace_d42df300f0573ddf7a01e0423429c026">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">African Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Elections |x Corrupt practices |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government</geogname>
+    <genreform source="aat">Affidavits</genreform>
+    <subject source="lcsh">Local elections |z New York (State) |z Kings County</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

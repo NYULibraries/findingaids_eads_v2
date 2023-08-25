@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2011_008/">2011_008</eadid><filedesc><titlestmt><titleproper>Guide to Jackie Weisberg's Gowanus Impressions photographs <num>2011.008</num></titleproper><author>Maggie Schreiner. Digital files processed by Erica López in 2019.</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>December 2020</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:13 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Jackie Weisberg's Gowanus Impressions photographs</unittitle>
+    <origination label="Creator">
+      <persname role="pht" source="local">Weisberg, Jackie</persname>
+    </origination>
+    <unitid>2011.008</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">177 Megabytes</extent>
+      <extent altrender="carrier">in 42 digital files.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2009/2009">2009</unitdate>
+    <abstract id="aspace_c2fe40c4df5141e1e375756e68f6061f">This collection includes 27 digital photographs and two archival inkjet prints by Jackie Weisberg depicting the neighborhood of Gowanus.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_c092d6bd39377d41274a766c884f3e2d" label="Mixed Materials" type="Disk">digital files</container>
+    <container id="aspace_bcd538a70647d97ea8c37baae1e8c160" label="Graphic Materials" type="Folder">Flat File</container>
+  </did>
+  <accessrestrict id="aspace_d4a948ebdaea560d298539cbdb81863d">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_ce93b4908cbfd8b01a47c4fa3e8f6762">
+    <head>Conditions Governing Use</head>
+<p>These photographs remain under copyright. The researcher assumes all responsibility for copyright questions. Contact CBH for more information.</p>  </userestrict>
+  <prefercite id="aspace_de8a1e9070d8ba218073ff12b707c71e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Jackie Weisberg's Gowanus Impressions photographs, 2011.008, Box and Folder number; Center for Brooklyn History, Brooklyn Public Library.</p>  </prefercite>
+  <phystech id="aspace_40a591a9070018da74105152b31dff76">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Access to digital materials is avaialble onsite at the Othmer Library. Request to access born digital materials must be made at least 2 days in advance by emailing library@brooklynhistory.org</p>  </phystech>
+  <acqinfo id="aspace_3f02b45db0b885470f99df9fa7117584">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Jackie Weisberg in 2011.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="local">Gowanus (New York, N.Y.)</geogname>
+    <geogname source="local">Carroll Street (Brooklyn, N.Y.)</geogname>
+    <genreform source="aat">Digital Photographs</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

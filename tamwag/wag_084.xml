@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_084/">wag_084</eadid><filedesc><titlestmt><titleproper>Guide to the Freda Casso Papers and Photographs <num>WAG.084</num></titleproper><author>Nicole Greenhouse</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>July 12, 2013</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:27:15 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Freda Casso Papers and Photographs</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Casso, Freda Katz</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Casso, Freda Katz</persname>
+    </origination>
+    <unitid>WAG.084</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box and one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1952" type="inclusive">1937-1952</unitdate>
+    <abstract id="aspace_133da4277a4a6ee5e443c44170168141">This collection contains the papers and photographs of Freda Casso, who was an elected leader and worker in the United Shoe Workers of America union in the 1930s-1950s. The collection holds photographs, contract agreements, materials related to union elections, correspondence, clippings, conference proceedings, and other materials.</abstract>
+    <langmaterial id="aspace_7ca25e7623f7f2b7da1e1355ab1b679a">Materials are in English.</langmaterial>
+  </did>
+  <bioghist id="aspace_d677868a3603e396f9eeabd941fac585">
+    <head>Historical/Biographical Note</head>
+<p>Freda Katz Casso worked on ladies' shoes and slippers in New York shops between 1932 and 1960, but was working in Chicago for several months in 1934 when a general strike of slipper workers was broken.  Casso worked in AFL Boot and Shoe Workers Union Local 54 with a Rank and File Committee to take control of the union from mobsters.  In 1937 the Rank and File moved the local into the CIO's United Shoe Workers and launched a city-wide organizing campaign.  Casso served as the unpaid secretary of the local for many years as a member of the General Executive Board of Joint Council 13 from 1937 to 1952 and as shop chairwoman until her retirement.  The United Shoe Workers of New York City eventually merged with the Amalgamated Clothing Workers.</p>  </bioghist>
+  <processinfo id="aspace_8837a702b6ab4f24cfd0fb07bb9615c2">
+    <head>Processing Information</head>
+<p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Freda Casso Photographs (PHOTOS 100). In 2013, the photograph collection was reincorporated into the Freda Casso Papers and Photographs.</p>  </processinfo>
+  <prefercite id="aspace_c3863912a8f086653cef4fe73540c7a6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Freda Casso Papers and Photographs; WAG 084; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_28b6a7dfedd9147f9aa7491e34e24e9e">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Freda Casso, 1992. The accession numbers associated with this gift are 1994.024 and 1994.025.</p>  </acqinfo>
+  <userestrict id="aspace_69d5e9363f282dce88f7d73a0ef6c8d8">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Freda Casso was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_fb1e67fd601da784e3ce57b89e75cf3b">
+    <head>Conditions Governing Access</head>
+<p>The rolled photographs are temporarily closed for preservation. The rest of the collection is open without restrictions.</p>  </accessrestrict>
+  <arrangement id="aspace_06eb211ef547d57f71bd6efc83f76062">
+    <head>Arrangement</head>
+<p>The folders in this collection have been arranged alphabetically.</p>  </arrangement>
+  <scopecontent id="aspace_23b41e8355075d960b5ad06e2ee47c95">
+    <head>Scope and Contents</head>
+<p>This collection holds materials related to Casso's activities as a leader in the United Shoe Workers of America (USWA) Union, the bulk of the materials dating from the late 1930s to the 1950s. There is a significant amount of black-and-white photographs in this collection, most of which depicting group portraits of USWA leaders and members. Many of these photographs have description written on the back. The collection includes a 16-page memoir Casso wrote in 1992 which outlines themes in shoe worker union history including the roles of the Communist Party and the CIO and women. It also holds newspaper clippings and leaflets related to union election campaigns in 1948 and 1952, in which Casso ran in; a Local 54 constitution and contract; the Annual Conference souvenir journal of the United Shoe Workers of America, CIO, 1937; and biographical material and an obituary for Julius Crane, a shoe worker organizer. The collection also contains identification credentials for Casso as an official delegate to conferences and an elected official in the union.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <subject source="lcsh">Labor unions -- Elections -- United States.</subject>
+    <subject source="lcsh">Labor unions |x Shoemakers |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Women labor leaders |z United States.</subject>
+    <corpname authfilenumber="(lccn)n96062199" rules="dacs" source="naf">United Shoe Workers of America</corpname>
+    <persname role="dnr" rules="dacs" source="local">Casso, Freda Katz</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref5" level="file"><did><unittitle>Agreement Guide Local 54 and Constitution of the United Shoe Workers of America</unittitle><unitdate datechar="creation" normal="1937/1954" type="inclusive">1937, 1954</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_90fe326607bebe8b5df0d514d2534e69" label="Mixed Materials [31142062766509]" type="Box">1</container><container id="aspace_0f131ea6b6d6902fdd48e93654c67c4a" parent="aspace_90fe326607bebe8b5df0d514d2534e69" type="Folder">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Annual Convention of the United Shoe Workers of America Proceedings</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">Nov 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_30a42ab1ac17077450b309906eb52708" label="Mixed Materials [31142062766509]" type="Box">1</container><container id="aspace_3ed9e78781ef45714e10b35e353485d2" parent="aspace_30a42ab1ac17077450b309906eb52708" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>"As I Remember It," Correspondence </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_04f931a521ef72ee8286db3c29466ca8" label="Mixed Materials [31142062766509]" type="Box">1</container><container id="aspace_d9dee1f5023105a27624dc45af3ec844" parent="aspace_04f931a521ef72ee8286db3c29466ca8" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Crane, Julius: Clippings, Obituary</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1894ef91ff83f8c515da8c093fb1cde2" label="Mixed Materials [31142062766509]" type="Box">1</container><container id="aspace_52acfb755cc195dec423daf37f021937" parent="aspace_1894ef91ff83f8c515da8c093fb1cde2" type="Folder">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Credentials for Casso</unittitle><unitdate datechar="creation" normal="1937/1962" type="inclusive">1937-1962</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f0b41466b77a0eac646adbf2f7065a7f" label="Mixed Materials [31142062766509]" type="Box">1</container><container id="aspace_2566d25d8ee035f0b901b9ab51d1ab14" parent="aspace_f0b41466b77a0eac646adbf2f7065a7f" type="Folder">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Union Elections: Clippings, Leaflets</unittitle><unitdate datechar="creation" normal="1948/1952" type="inclusive">1948, 1952</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_34bb6cd86b4510ea53d0b0e9bbc0ddc3" label="Mixed Materials [31142062766509]" type="Box">1</container><container id="aspace_0a7dcb28a00098926fadd0a99ad5747b" parent="aspace_34bb6cd86b4510ea53d0b0e9bbc0ddc3" type="Folder">6</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>United Shoe Workers of America Photographs</unittitle><unitdate datechar="creation" normal="1930/1949" type="inclusive">1930s-1940s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c77e0d62c7cdfe33536b2582c44f5c60" label="Mixed Materials [31142062766509]" type="Box">1</container><container id="aspace_e50b063bf0fc6fe5216ddcf4a8a0fd48" parent="aspace_c77e0d62c7cdfe33536b2582c44f5c60" type="Folder">7</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>United Shoe Workers of America Photographs</unittitle><unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate><container altrender="Flat OS Box 17" id="aspace_6d3b58f874b81fbfee11bdef1da15d6e" label="Mixed Materials [31142062759827]" type="Box">Shared Tamiment OS005</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>United Shoe Workers of America Photographs [9 Rolled Photographs]</unittitle><unitdate datechar="creation" normal="1937/1946" type="inclusive">1937-1946</unitdate></did></c></dsc>
+</archdesc>
+</ead>

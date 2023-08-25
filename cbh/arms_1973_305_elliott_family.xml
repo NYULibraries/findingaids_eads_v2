@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_305_elliott_family/">arms_1973_305_elliott_family</eadid><filedesc><titlestmt><titleproper>Guide to the Elliott family genealogy typescript <num>1973.305</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:31 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Elliott family genealogy typescript</unittitle>
+    <unitid>1973.305</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.06 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1480/1960" type="inclusive">circa 1490 to 1950</unitdate>
+    <abstract id="aspace_61a24ab251711c037ba49afdc3a52bbe">Typed history of the Elliott family of New York City and State, created circa 1950, author unknown.  The typescript details the origin of the family name and genealogical information on the family patriarchs from the 15th through the 19th centuries.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_534d1635fc61a17586a9f807699a2a5b" label="Text" type="Box">A0011</container>
+  </did>
+  <accessrestrict id="aspace_358c222fb9ee33cff1243cf311a42533">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_58399cb82afe88211cfb12d8f8bfac44">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of acquisition for this collection are unknown.  The collection was formally accessioned in 1973.</p>  </acqinfo>
+  <prefercite id="aspace_c2fe07a9a2eb2c1d42e5b5c574dd5c66">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Elliott family genealogy typescript, 1973.305, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Families |z New York (State) |z New York</subject>
+    <subject source="lcsh">Families |z New York (State)</subject>
+    <genreform source="aat">Genealogies</genreform>
+    <subject source="lcsh">Genealogy</subject>
+    <famname source="naf">Elliott family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

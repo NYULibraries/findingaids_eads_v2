@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_496_doty/">arms_1977_496_doty</eadid><filedesc><titlestmt><titleproper>Guide to the Vincent Tilyou, Mary Tilyou, and Richard Doty deed <num>1977.496</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 14, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:22 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Vincent Tilyou, Mary Tilyou, and Richard Doty deed</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Doty, Richard</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Tilyou, Mary</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Tilyou, Vincent</persname>
+    </origination>
+    <unitid>1977.496</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1814/1814" type="inclusive">1814</unitdate>
+    <abstract id="aspace_59de7b376f70bca2eac0d47f98235a04">Deed for property in New York City owned by the deceased Vincent Tilyou, a chain maker, and his widow Mary Tilyou, and sold to Richard Doty, a brewer.  The deed is administered by John Tilyou and John Connors, exectuors of Vincent Tilyou's will, and is dated May 2, 1814.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ea272b75b37731e72ed5fc130e02d00a" label="Text" type="Box">A0071</container>
+  </did>
+  <prefercite id="aspace_3cc1bc3912f78f06ba71fd0d5cad455e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Vincent Tilyou, Mary Tilyou, and Richard Doty deed, 1977.496, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_792057c790558223db3ee17029f4f51a">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_2178781f49d8a181c47c5c23d43e8a54">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. D. Irving Mead, 1957.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Decedents' estates |z New York (State) |z New York</subject>
+    <subject source="lcsh">Land titles |z New York (State) |z New York</subject>
+    <subject source="aat">Deeds</subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <persname rules="dacs" source="local">Doty, Richard</persname>
+    <persname source="local">Tilyou, Mary</persname>
+    <persname source="local">Tilyou, Vincent</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

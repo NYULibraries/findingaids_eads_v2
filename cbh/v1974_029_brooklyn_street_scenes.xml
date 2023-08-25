@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_029_brooklyn_street_scenes/">v1974_029_brooklyn_street_scenes</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn street scenes glass plate negatives <num>V1974.029</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 22, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:07 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn street scenes glass plate negatives</unittitle>
+    <unitid>V1974.029</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in one glass negatives box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1865/1910" type="inclusive">circa 1875 to 1900</unitdate>
+    <abstract id="aspace_d032790de407744d8080f529ba46f5f7" label="Abstract">Images in the collection show street scenes of residential and domestic life in late 19th century Brooklyn. Brownstones and cobblestone streets with horse-drawn carriages and streetcars are featured prominently.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container id="aspace_212525f00487e83b7428180ff239d93e" label="Graphic Materials" type="Box">V1974.029 1 of 1; V1988.041 1 of 1; V1991.044 1 of 2</container>
+  </did>
+  <scopecontent id="aspace_5fe55f183afe55e195dc33a1cc802eee">
+    <head>Scope and Contents</head>
+<p>The Brooklyn street scenes glass plate negatives dates from circa 1875 to 1899 and contains 16 items. Images in the collection show street scenes of residential and domestic life in late 19th century Brooklyn. Brownstones and cobblestone streets with horse-drawn carriages and streetcars are featured prominently. Two images of Manhattan and Troy, N.Y. are also included in the collection.</p>  </scopecontent>
+  <accessrestrict id="aspace_56317fafed07db33b735e0c6260a0a20">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_8f58e5aa4f5d3d21cabbeefc49801b06">
+    <head>Conditions Governing Use</head>
+<p>Copyright for items in this collection will remain in effect for 120 years following the date of creation. Based on the date range of this collection, all items will enter the public domain by 2019. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <processinfo id="aspace_46340e6caf624015f0023abac1f61a18">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <prefercite id="aspace_01661a8e737095bbf98a323218355b8b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn street scenes glass plate negatives, V1974.029, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <otherfindaid id="aspace_79cc915b80802b7f645b2bafd4a036b1">
+    <head>Other Finding Aids</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>  </otherfindaid>
+  <acqinfo id="aspace_57d370fabb39ed943b2b6b821fff5eba">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition are unknown. This collection was accessioned in 1974.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Cobblestone roads |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Row houses |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Brownstone buildings |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Dwellings |z New York (State) |z Kings County</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

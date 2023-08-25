@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_520/">tam_520</eadid><filedesc><titlestmt><titleproper>Guide to the Tamiment Library Collection of Noam Chomsky Correspondence and Other Materials Relating to the Faurisson Case <num>TAM.520</num></titleproper><author>Jan Hilley</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/24/09</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:35:02 -0400</date>.</creation><langusage>English</langusage></profiledesc><revisiondesc><change><date>July 2021</date><item>Updated by Rachel Mahre to revise laudatory language in the Biographical / Historical Note.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Tamiment Library Collection of Noam Chomsky Correspondence and Other Materials Relating to the Faurisson Case</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">Rubinstein, W. D.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Glauberman, George</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Cohn, Werner</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Chomsky, Noam</persname>
+    </origination>
+    <unitid>TAM.520</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(I box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/1994" type="inclusive">1980-1994</unitdate>
+    <abstract id="aspace_5736f873309d9065901d7339de65578d">This collection contains material relating to a controversy surrounding Noam Chomsky's defense of the civil liberties of Professor Robert Faurisson, a French Holocaust revisionist.  Articles from the conservative Australian periodical <emph render="italic">Quadrant</emph> and an excerpt from the book <emph render="italic">Droit et Histoire</emph>, by Pierre Guillaume, address this episode, and are accompanied by copies of correspondence discussing Chomsky's opinions and actions.</abstract>
+    <langmaterial id="aspace_b9daf15b2b7da3daffafdb99daf40206">Materials are in English with the exception of the excerpt from <emph render="italic">Droit et Histoire</emph> which is in French.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_b2720a896f4eeaa00c6f60cc160c2b1b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_68d1268769618e2199a695fd054251b4">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials donated by George Glauberman, Werner Cohn and W. D. Rubinstein in 1994 and 1995. The accession number associated with this collection is 2009.091.</p>  </acqinfo>
+  <arrangement id="aspace_01d8250be6e22d64c4797dc4100ee76d">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically within one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Noam Chomsky: Materials Relating to the Faurisson Case, 1980-1994.</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_a99f26070011cb09ec2efb8c19f3e525">
+    <head>Historical/Biographical Note</head>
+<p>Avram Noam Chomsky (1928-  ) is an American linguist, philosopher, cognitive scientist, author, lecturer and political activist.  Beginning with his opposition to the Vietnam War, he established himself as a critic of U.S. foreign and domestic policy.  Chomsky has become an influential voice on the left, lecturing widely and publishing numerous books on U.S. foreign policy, neoliberalism, state capitalism, the news media, and related subjects.  </p><p>His self-professed commitment to freedom has led him to defend the free speech rights of some rather unpopular groups and individuals, including Robert Faurisson, a French professor and Holocaust denier.  Faurisson had been prevented from teaching French Literature at the University of Lyon in the late 1970s on the grounds that he could not be protected from attacks against him as a result of his views about the Holocaust.  He was brought before the French courts in 1979 and found guilty of defamation and incitement to racial hatred because he denied the existence of the gas chambers used by the Nazis to exterminate Jews.  Approximately five hundred people, including Noam Chomsky, signed a petition defending Faurisson's freedom of speech and expression. Because this resulted in accusations of supporting, or at least adding credibility to, Faurisson's views, Chomsky subsequently wrote an essay attacking his critics for failing to respect the principle of freedom of speech and stressing the conceptual distinction between endorsing someone's views and defending his right to express them. The essay, "Some Elementary Comments on the Rights of Freedom of Expression," was used, without Chomsky's knowledge, as the preface to a book by Faurisson. This episode led many to label Chomsky as anti-semitic and a Holocaust denier.  Chomsky continued to defend his actions and took the position that freedom of speech must be extended to all viewpoints, no matter how unpopular or fallacious.</p><p>Robert Faurisson continues to express his views and, as recently as 2006, was given  a three-month suspended sentence by a Paris correctional court for denying the Holocaust on an Iranian television channel.</p>  </bioghist>
+  <prefercite id="aspace_a053e33774d87a9510a8b5a090e929b4">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_7e3f6105b3b68d6babc4ce6fd3d3bd98">
+    <head>Scope and Content Note</head>
+<p>This collection includes material donated by three professors who corresponded with Noam Chomsky on the Faurisson affair.  Copies of articles from the Australian magazine, <emph render="italic">Quadrant</emph>, include "Chomsky and the Neo-Nazis," written by W. D. Rubinstein; Chomsky's response, "Rubinstein on Neo-Nazism"; and a response by Rubinstein.  A chapter from the book <emph render="italic">Droit et Histoire</emph> further describes the Faurisson affair. (There is also a short article by Robert Manne attacking pieces written by Chomsky concerning Pol Pot and the Khmer Rouge).  </p><p>The remainder of the collection consists of copies of correspondence between Chomsky and each of the three professors -- Werner Cohn, George Glauberman and W. D. Rubinstein.</p>  </scopecontent>
+  <userestrict id="aspace_79c91a4d359ebe3afc319ed7429834e5">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1980-1994, are expected to enter the public domain in 2110.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Articles.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Holocaust, Jewish (1939-1945)</subject>
+    <persname source="naf">Chomsky, Noam</persname>
+    <persname role="dnr" rules="dacs" source="naf">Rubinstein, W. D.</persname>
+    <persname role="dnr" rules="dacs" source="local">Glauberman, George</persname>
+    <persname role="dnr" rules="dacs" source="local">Cohn, Werner</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref3" level="file"><did><unittitle>Articles from <emph render="italic">Quadrant</emph></unittitle><unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6467bca41ee1e006439723f3524127d8" label="Mixed Materials [31142062733699]" type="Box">1</container><container id="aspace_7226969cd0311c56bc82c7e9f6e3d4c7" parent="aspace_6467bca41ee1e006439723f3524127d8" type="Folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Chapter from <emph render="italic">Droit et Histoire</emph>, by Pierre Guillaume</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4fa3500ba1af66919f2afa43b4498dee" label="Mixed Materials [31142062733699]" type="Box">1</container><container id="aspace_239e35afd8121e69959c7ee4abd8e09e" parent="aspace_4fa3500ba1af66919f2afa43b4498dee" type="Folder">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Correspondence: Cohn, Werner and Noam Chomsky</unittitle><unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_da49fb43a6fe476bec142b690871574a" label="Mixed Materials [31142062733699]" type="Box">1</container><container id="aspace_534d5a7e8a642107ebe411f5ccf15670" parent="aspace_da49fb43a6fe476bec142b690871574a" type="Folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Correspondence: Glauberman, George and Noam Chomsky</unittitle><unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2c881dae925e74e5ad6471c39a02cad4" label="Mixed Materials [31142062733699]" type="Box">1</container><container id="aspace_6f0c74a68b177fd5059b2eb9e4e9edd6" parent="aspace_2c881dae925e74e5ad6471c39a02cad4" type="Folder">4</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Correspondence: Rubinstein, W. D. and Noam Chomsky</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2aeaefe8ff67a21a451c7e1010d6e816" label="Mixed Materials [31142062733699]" type="Box">1</container><container id="aspace_ac1749438be9b94a882d006996837945" parent="aspace_2aeaefe8ff67a21a451c7e1010d6e816" type="Folder">5</container></did></c></dsc>
+</archdesc>
+</ead>

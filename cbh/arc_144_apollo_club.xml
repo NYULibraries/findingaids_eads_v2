@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_144_apollo_club/">arc_144_apollo_club</eadid><filedesc><titlestmt><titleproper>Guide to the Apollo Club of Brooklyn programs <num>ARC.144</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>December 15, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:23:55 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Apollo Club of Brooklyn programs</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Apollo Club of Brooklyn (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.144</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.21 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1881/1967" type="inclusive">1881-1967</unitdate>
+    <abstract id="aspace_5da8b34d6b3f194caf7932358c85338b" label="Abstract">The Apollo Club of Brooklyn collection dates from 1881 to 1967 and measures 0.21 linear feet. The collection consists of programs, minutes, constitution and bylaws, treasurer's reports, and clippings. Programs in the collection document Apollo Club concerts held at the Brooklyn Academy of Music. Each program provides a list of musical selections for the concert, current officers, committees, and members. Meeting minutes and treasurer's reports record administrative matters of the club, such as decisions about space rental and conductors' salaries.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Half Manuscript Box Legal" id="aspace_8b93fcacf8841774c21b008ab68663a3" label="Text" type="Box">ARC.144 1 of 1</container>
+  </did>
+  <scopecontent id="aspace_8605e06c7f5859c3b746096107f6a39f">
+    <head>Scope and Contents</head>
+<p>The Apollo Club of Brooklyn collection dates from 1885 to 1967 and measures 0.21 linear feet. The collection consists of programs, minutes, constitution and bylaws, treasurer's reports, and clippings. Programs in the collection document Apollo Club concerts held at the Brooklyn Academy of Music. Each program provides a list of musical selections for the concert, current officers, committees, and members. Meeting minutes and treasurer's reports record administrative matters of the club, such as decisions about space rental and conductors' salaries.</p>  </scopecontent>
+  <accessrestrict id="aspace_bda1d900a6d02faaed8c7d4889565c86">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_ac3632370649f21fbd3fddb9a4e1d099">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Apollo Club of Brooklyn programs, ARC.144, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_8e550b340a458e90d30195d28e0a38c8">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p><p>Material found in repository added to collection by Lena Evers-Hillstrom in October 2018. </p>  </processinfo>
+  <acqinfo id="aspace_f00d7d027d8a49ec3777310b833d12d1">
+    <head>Immediate Source of Acquisition</head>
+<p>Portions of the collection were the gift of David Harrison Sackett, Mrs. E. Haynes, Jr., Philip Benson, C.L. Smith, and Harriet Stryker-Rodda, dates unknown. Source and date of acquisition of remaining items in the collection are unknown.</p>  </acqinfo>
+  <bioghist id="aspace_feb936982a61f8199e24ef0b3821cb3d">
+    <head>Historical note</head>
+<p>The Apollo Club of Brooklyn was organized in June 1878 and incorporated in 1879. The Club's organization brought together male singers from the then-City of Brooklyn who enjoyed choir singing and performance. Despite being a male-only choir, female soloists regularly performed with the Apollo Club and many women joined as subscribing members. The club hosted annual seasons of concerts held at the Brooklyn Academy of Music. The club experienced financial difficulties during the 1960s, and its final concert was held in 1966. In total, the Apollo Club of Brooklyn performed 258 concerts over 88 seasons.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources</head>
+      <item>Apollo Club of Brooklyn Seventy-Fifth Season Program, 1952; Apollo Club of Brooklyn programs, ARC.144, Box 1; Brooklyn Historical Society.</item>
+    </list>
+  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Minutes</genreform>
+    <genreform source="aat">Reports</genreform>
+    <genreform source="aat">Constitutions</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Bylaws (administrative records)</genreform>
+    <subject source="lcsh">Choral societies |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Clubs -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Music |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Concert programs</genreform>
+    <corpname source="local">Apollo Club of Brooklyn (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_154_white/">arms_1978_154_white</eadid><filedesc><titlestmt><titleproper>Guide to the Alfred T. White Tower and Home and Riverside Apartment Buildings records <num>1978.154</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 31, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:42 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Alfred T. White Tower and Home and Riverside Apartment Buildings records</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">White, Alfred Tredway</persname>
+    </origination>
+    <unitid>1978.154</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">10 Linear Feet</extent>
+      <extent altrender="carrier">in 7 flat boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1878/1949" type="inclusive">1878-1949</unitdate>
+    <abstract id="aspace_a5442098a38c8dbcf6631a9009eb98df">This collection spans the period 1878 to 1949 and consists of 15 oversize journals, cash books, and ledgers used by Alfred T. White and his heirs for the management of the low-rent Tower and Home and Riverside Apartment Buildings in Brooklyn.  Alfred T. White (1846-1921) was one of Brooklyn's most prominent philanthropists and a civil engineer by trade.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Medium Flat Box 18" id="aspace_e86e69cddf39357b62d3ac0fa1d6ecb9" label="Text" type="Box">1978.154 3 of 7</container>
+    <container altrender="Medium Flat Box 18" id="aspace_48736f5dbe93fdd45f1b3bbe7bc93167" label="Text" type="Box">1978.154 4 of 7</container>
+    <container altrender="Medium Flat Box 18" id="aspace_e126cd995a8f62bb27049239b882e0a3" label="Text" type="Box">1978.154 1 of 7</container>
+    <container altrender="Medium Flat Box 18" id="aspace_669805418326a5861a4dab1ed0ff4c1b" label="Text" type="Box">1978.154 2 of 7</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_49a8179af90d252afa9af54aa7a3ac7b" label="Text" type="Box">1978.154 7 of 7</container>
+    <container altrender="Medium Flat Box 18" id="aspace_b0607ce80d6ea1b50916a0999c50c0a9" label="Text" type="Box">1978.154 5 of 7</container>
+    <container altrender="Medium Flat Box 18" id="aspace_9947b1ecab8cc9034ad543f1b7dcb0b8" label="Text" type="Box">1978.154 6 of 7</container>
+  </did>
+  <prefercite id="aspace_dcde0ce9828d97309b51ac39a9c01360">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Alfred T. White Tower and Home and Riverside Apartment Buildings records, 1978.154, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_5e549f7817f3e23ceffb2dc69bc962bc">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level by Nicholas Pavlik, August 2011. Collection rehoused in flat boxes by John Zarrillo, February 2015.</p>  </processinfo>
+  <accessrestrict id="aspace_405d50e50297fda43457381e510b872e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_e3b95c4d433b8a5680f08e0a8951039d">
+    <head>Biographical Note</head>
+<p>Alfred T. White (1846-1921) was one of Brooklyn's most prominent philanthropists and a civil engineer by trade.  In 1876, White oversaw the building of the Tower and Home Apartments on Hicks and Baltic Streets, the first low-rent housing project in the United States.  The apartment units, which featured a central garden and exterior iron staircases, were designed by White with the architectural firm William Field &amp; Son.  White also built his own dwellings around the perimeter of the property so that the interior half of his land could be used for gardens and recreational purposes.  Another of White's low-rent housing projects, the Riverside Apartments on Furman, Columbia, and Joralemon Streets, was built in 1890.  Though low in rent, White's housing projects proved to be a great financial success.  In 1935, White's heirs and new owners of the apartments modernized all units, adding bathrooms, a central heating plant, electric lights, gas ranges, and refrigerators.</p>  </bioghist>
+  <scopecontent id="aspace_ddd042bb3253f1ef4675341320b51ec8">
+    <head>Scope and Contents</head>
+<p>This collection spans the period 1878 to 1949 and consists of 15 oversize journals, cash books, and ledgers used by Alfred T. White and his heirs for the management of the low-rent Tower and Home and Riverside Apartment Buildings in Brooklyn.</p>  </scopecontent>
+  <acqinfo id="aspace_e547a71744e42ff83aec4ca73cebaefd">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1978.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Philanthropists |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Public housing |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <genreform source="aat">Journals (accounts)</genreform>
+    <subject source="lcsh">Low-income housing |z New York (State) |z Kings County |x Finance</subject>
+    <subject source="lcsh">Low-income housing |z New York (State) |z Kings County |x Accounting</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Low-income housing |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Cashbooks</genreform>
+    <persname rules="aacr" source="naf">White, Alfred Tredway</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

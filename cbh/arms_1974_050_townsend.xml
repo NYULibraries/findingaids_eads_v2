@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_050_townsend/">arms_1974_050_townsend</eadid><filedesc><titlestmt><titleproper>Guide to the Henry Townsend Oyster Bay land deed <num>1974.050</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 9, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:29 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Henry Townsend Oyster Bay land deed</unittitle>
+    <origination label="Creator">
+      <persname source="local">Townsend, Henry</persname>
+    </origination>
+    <unitid>1974.050</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1661/1661" type="inclusive">1661</unitdate>
+    <abstract id="aspace_e70262e8392bc1d8c506c696fae6e29c">Original land deed, dated 1661, granting land in Oyster Bay, Long Island to Henry Townsend, signed by 18 Oyster Bay inhabitants.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_771de0394c4ae3366b9af14da707af36" label="Text" type="Box">A0012</container>
+  </did>
+  <acqinfo id="aspace_0d350399a19ef412c616dc715bcd72c4">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  The collection was formally accessioned in 1974.</p>  </acqinfo>
+  <accessrestrict id="aspace_4b2465edfaf067888495c14ac4d1b5d2">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <bioghist id="aspace_62cebb23cb1a33eb9a26703ece9b6e3d">
+    <head>Biographical / Historical</head>
+<p>Originally from Norwich, England, Henry Townsend (d. 1695) immigrated with his brothers, John and Richard, to the Dutch settlement of New Amsterdam (later New York) during the mid-17th century.  After settling in the town of Flushing on Long Island, the Townsend brothers relocated to Warwick, R.I. after political and religious altercations with New Amsterdam governor Peter Stuyvesant.  They returned to Long Island in 1656, settling in the town of Jamaica.  In 1657, Henry Townsend was arrested and imprisoned for harboring Quakers in his home.  This incident prompted him and his brothers to relocate to the Long Island town of Oyster Bay, which was out of the jurisdiction of the Dutch government of New Amsterdam.  Henry Townsend resided in Oyster Bay until his death.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Hughes, Thomas Patrick, and Frank Munsell. <emph render="italic">American Ancestry: Giving the Name and Descent, in the Male Line, of Americans Whose Ancestors Settled in the United States Previous to the Declaration of Independence, A.D. 1776</emph>. Albany, N.Y.: Joe Munsell's Sons, 1887.</item>
+    </list>
+  </bioghist>
+  <relatedmaterial id="aspace_3af56cab1dee7b12c0f7dd29b3346574">
+    <head>Related Materials</head>
+<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>1974.021, Townsend family papers, 1658-1809</item>
+    </list>
+  </relatedmaterial>
+  <processinfo id="aspace_40034f8427fd9f2a8696b3bfd88987b0">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <prefercite id="aspace_6782d76c0f3c58f645fcf13eece2deae">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Henry Townsend Oyster Bay land deed, 1974.050, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_b4c4c04619decd1cfb4028c1715eb3c7">
+    <head>Scope and Contents</head>
+<p>Original land deed, dated 1661, granting land in Oyster Bay, Long Island to Henry Townsend, signed by 18 Oyster Bay inhabitants.  The deed grants land on the Mill River to Townsend for the building and maintaining of a mill.  An undated copy of the deed is also included.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Land titles |z New York (State) |z Oyster Bay</subject>
+    <subject source="aat">Deeds</subject>
+    <subject source="lcsh">Mills and mill-work |z New York (State) |z Oyster Bay</subject>
+    <geogname source="lcsh">Oyster Bay (N.Y.)</geogname>
+    <persname source="local">Townsend, Henry</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

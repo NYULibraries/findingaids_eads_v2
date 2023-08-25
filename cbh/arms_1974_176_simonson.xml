@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_176_simonson/">arms_1974_176_simonson</eadid><filedesc><titlestmt><titleproper>Guide to the George L. Simonson application <num>1974.176</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 13, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:08 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>George L. Simonson application</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Simonson, George L.</persname>
+    </origination>
+    <unitid>1974.176</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1879/1879" type="inclusive">1879</unitdate>
+    <abstract id="aspace_e8ae2fbead52d11404093a8677e9106a">A letter of application written by George L. Simonson to Colonel Rodney C. Ward, commander of Brooklyn's 23rd National Guard regiment, for a position as Revenue Officer, dated 1879.  The application is signed on the bottom by 21 individuals in support of Simonson's application.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_8eb7390b5a892f61c0544f26c413eb6b" label="Text" type="Box">A0013</container>
+  </did>
+  <acqinfo id="aspace_d7992b17bddbab69e33ab76467622e15">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Rodney C. Ward, 1938.</p>  </acqinfo>
+  <accessrestrict id="aspace_6009a0e4fe7206bb6e7f3cea15739b91">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_d8ab307bb2951591a55e4446bc2c1dc9">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); George L. Simonson application, 1974.176, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Job applications</genreform>
+    <corpname source="local">New York (State). National Guard. Infantry Regiment, 23rd</corpname>
+    <persname rules="dacs" source="local">Simonson, George L.</persname>
+    <persname role="dnr" rules="dacs" source="local">Ward, Rodney C.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

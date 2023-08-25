@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_055/">photos_055</eadid><filedesc><titlestmt><titleproper>Guide to the Roberta Bobba and Peter Martin Photographs <num>PHOTOS.055</num></titleproper><author>Erika Gottfried</author></titlestmt><editionstmt><p>This version was derived from NP55-Bobba Roberta-Peter Martin Collection-FINAL DRAFT.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1992</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:37:54 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Roberta Bobba and Peter Martin Photographs</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" source="local">Bobba, Roberta</persname>
+    </origination>
+    <unitid>PHOTOS.055</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1908/1959" type="inclusive">circa 1918-1959</unitdate>
+    <abstract id="aspace_9de2c27546183cc146aa8b8c99ee2a9f" label="Abstract">Thirty-two black and white images of Italian immigrant anarchist Carlo Tresca (1879-1943) and labor and radical activist Elizabeth Gurley Flynn (1890-1964) and their relatives and friends.</abstract>
+    <physdesc id="aspace_51eccff5976dc986c7f036d6d889fe57" label="General Physical Description note">32 items; 3x5, 8x10, black and white photographs; postcards.</physdesc>
+    <langmaterial id="aspace_c62949afc213c4141900ec34384bf95f">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_a3f2c9bd6091987caa041d19a9cd5086">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_bdcb534f7049fac9e9870dd94f35f80f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Roberta Bobba in 1992. The accession numbers associated with the donation are NPA.1992.002 and 1950.218.</p>  </acqinfo>
+  <arrangement id="aspace_2db0371e3c8405d838a7396be967f5f4">
+    <head>Arrangement</head>
+<p>Arranged by topic and grouped into one series.</p>  </arrangement>
+  <bioghist id="aspace_28761c0ac3ed49f0759ff1b9a68acc97">
+    <head>Biographical Note</head>
+<p>These images are mostly of comrades and one-time lovers Carlo Tresca (1879-1943) and Elizabeth Gurley Flynn (1890-1964), and their relatives and friends. Tresca, an Italian immigrant anarchist, was active in many radical causes, including the Industrial Workers of the World (I.W.W.)and the anti-fascist movement in the United States. He was assassinated in 1943. Flynn, a key figure in early twentieth-century labor struggles, was an organizer and an orator and served as a leader in a number of labor and radical organizations, including the I.W.W. and the Communist Party of the United States. Flynn and Tresca met in 1912, and had a relationship that lasted for 15 years. Tresca also had a relationship with Flynn's youngest sister, "Bina" (Sabina). Bina Flynn and Tresca had a son, Peter Martin (who grew up to co-found the nationally-known center of beatnik culture, City Lights Bookstore in San Francisco). Bina Flynn later married Romolo Bobba. Bobba was one of the members of the Industrial Workers of the World imprisoned at Fort Leavenworth, Kansas, after the major I.W.W. trial of 1918 (in which most of the I.W.W. leadership, as well as a number of rank and file members, were convicted under the Espionage Act).</p><p>Sources:</p><p><list><item>Camp, Helen C. <title render="italic">Iron in Her Soul: Elizabeth Gurley Flynn and the American Left</title>(1995, Washington State University Press).</item><item>Gallagher, Dorothy. <title render="italic">All the Right Enemies: The Life and Murder of Carlo Tresca</title>(1988, Rutgers University Press)</item></list> </p>  </bioghist>
+  <prefercite id="aspace_da060b4ffb2dfbce4f39ccff4f9134e1">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <relatedmaterial id="aspace_a519b678d472d8ade25a0d01d35f5413">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Elizabeth Gurley Flynn Photographs (Photographs 18)</p><p>General Photographs (Photographs 001--under Flynn, Elizabeth Gurley and Tresca, Carlo)</p>  </relatedmaterial>
+  <scopecontent id="aspace_b5a915223d453c5eb6e480d2b384d196">
+    <head>Scope and Content Note</head>
+<p>The collection contains 32 black and white images of Carlo Tresca and Elizabeth Gurley Flynn, and their friends and family. These include photographs of Flynn family members sisters Elizabeth and Kathie Flynn (but not youngest sister Bina Flynn), and their father, Thomas Flynn, as well as photographs of a painted portrait of Elizabeth Gurley Flynn, and a bronze bust of Tresca (sculpted by Minna Harkavy) installed as a memorial in his home town in Italy, Sulmona, and photo-postcards, and reproductions of drawings.</p><p>There are also a few images of Romolo Bobba, including his mug shot from Leavenworth Prison, as well as portraits of Margaret De Silver (with whom Tresca lived the last decade of his life), but none of Tresca's son, Peter Martin. Other portraits and group photographs include Slater Brown, Hart Crane, Allen Tate (in a group photograph); Tom Mooney, and I.W.W. leader Vincent St. John.</p>  </scopecontent>
+  <userestrict id="aspace_f296089988d23c47bf032490e0ba2ccc">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Roberta Bobba, the donor of this collection, were transferred to New York University in 1992 by Roberta Bobba. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library. </p><p>Copyright for the manuscript of Carlo Tesca's authbiography and Max Nomad's biography of Carlo Tesca are retained by the donor. </p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Drawings (visual works)</genreform>
+    <genreform source="aat">Postcards.</genreform>
+    <subject source="lcsh">Anarchists |z United States |v Portraits.</subject>
+    <subject source="lcsh">Socialists |z United States |v Portraits.</subject>
+    <persname source="naf">Brown, Slater, 1896-1997</persname>
+    <persname source="naf">Crane, Hart, 1899-1932 -- Portraits</persname>
+    <persname source="local">DeSilver, Marguerite -- Portraits</persname>
+    <persname rules="dacs" source="local">Bobba, Romolo</persname>
+    <persname source="naf">Tresca, Carlo, 1879-1943 -- Pictorial works</persname>
+    <persname source="naf">Flynn, Elizabeth Gurley -- Portraits</persname>
+    <persname rules="dacs" source="local">Flynn, Anna Katherine</persname>
+    <persname source="naf">Mooney, Thomas J., 1882-1942</persname>
+    <persname rules="dacs" source="local">Flynn, Thomas -- Portraits</persname>
+    <persname source="naf">Tate, Allen, 1899-1979</persname>
+    <persname source="naf">St. John, Vincent, 1876-1929</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Container list</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Carlo Tresca, family, and friends (18 items)</unittitle><unitdate datechar="creation" normal="1908/1969" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0fbc97c44c8d180d252d58bbbdd1c301" label="Mixed Materials [31142062671212]" type="Box">1</container><container id="aspace_4a073fe7b37c17655698857dce6f2e6f" parent="aspace_0fbc97c44c8d180d252d58bbbdd1c301" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Elizabeth Gurley Flynn, family and friends (10 items)</unittitle><unitdate datechar="creation" normal="1908/1969" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e004b699567fed8e9b02e112c1076c9b" label="Mixed Materials [31142062671212]" type="Box">1</container><container id="aspace_55caaadeef7471a82a58575e9ddb1c55" parent="aspace_e004b699567fed8e9b02e112c1076c9b" type="Folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Romolo Bobba and Others (4 items)</unittitle><unitdate datechar="creation" normal="1908/1969" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8a0b4c69fb716ff15ab088a2a366b08c" label="Mixed Materials [31142062671212]" type="Box">1</container><container id="aspace_9e9f51d456e367edddf40ede31c668aa" parent="aspace_8a0b4c69fb716ff15ab088a2a366b08c" type="Folder">3</container></did></c></c></dsc>
+</archdesc>
+</ead>

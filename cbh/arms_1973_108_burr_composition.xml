@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_108_burr_composition/">arms_1973_108_burr_composition</eadid><filedesc><titlestmt><titleproper>Guide to the Joseph Arthur Burr, Jr. composition book <num>1973.108</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 6, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:34 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Joseph Arthur Burr, Jr. composition book</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Burr, J. Arthur (Joseph Arthur)</persname>
+    </origination>
+    <unitid>1973.108</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1860/1866" type="inclusive">1860-1866</unitdate>
+    <abstract id="aspace_bd4db56caf86a42d74febcbac346c084">Joseph Arthur Burr, Jr. (1850-1915) was a lawyer who served as Corporation Counsel for the City of Brooklyn from 1896 to 1898 and, from 1905 until his death, as a Justice of the New York State Supreme Court. This collection consists of a composition book kept by Burr as a youth attending the Williamsburgh Institute in Brooklyn, N.Y. (1860-1864) and the Wilton Academy in Connecticut (1864-1866). Burr's book includes short descriptions of places and events in and around Brooklyn and New York. Among the subjects of these brief descriptions are the Japanese government's 1860 delegation in New York, Blackwell's Island (now Roosevelt Island), the 1864 Brooklyn and Long Island Sanitary Fair, local menageries, the brickyard at Verplanck's Point on the Hudson River, the launch of the frigate <emph render="italic">Re D'Italia</emph> from the Webb Shipyard, the Morgan Iron Works, and anniversary celebrations of the Williamsburg Sunday School Union. Several entries are influenced by the progression of the Civil War and include reflections on some aspect of it, particularly the closing events of the war and Lincoln's assassination.</abstract>
+    <langmaterial id="aspace_b4690caa1724783d1f96e1797873a09f">Materials in English.</langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ece6e78d90f3b214c3ebc89338f60c32" label="Text" type="Box">A0001</container>
+  </did>
+  <prefercite id="aspace_e1e58221336e4b7b7738cd943d405d71">
+    <head>Preferred Citation</head>
+<p>Joseph Arthur Burr, Jr. composition book, 1973.108, page number; Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_4261a16b88a1fa6ad1ad41c7c4706551">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. M. Pretz, 1958.</p>  </acqinfo>
+  <accessrestrict id="aspace_9f5ba70524d976b65246d73f8cf046ee">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <processinfo id="aspace_f85e04cc7fd3aec3340c79e2b6e958b7">
+    <head>Processing Information</head>
+<p>The collection was processed by Nicholas Pavlik in April 2011.</p>  </processinfo>
+  <userestrict id="aspace_67f280e4e271cd1ae54588df31cab0d8">
+    <head>Conditions Governing Use</head>
+<p>This material is in the public domain.</p>  </userestrict>
+  <arrangement id="aspace_b033812251f9e73c1233273494e6d99f">
+    <head>Arrangement</head>
+<p>The collection consists of one bound item in one folder.</p>  </arrangement>
+  <bioghist id="aspace_facc379cac03dbfd48d99115af4abd98">
+    <head>Biographical Note</head>
+<p>Joseph Arthur Burr, Jr. (1850-1915) was a Brooklyn lawyer.  After being educated at the Williamsburgh Institute in Brooklyn, N.Y., and the Wilton Academy in Wilton, CT, he attended Yale College in New Haven, CT, and Columbia Law School in New York, N.Y.  Burr was a partner at the Brooklyn law firms Burr &amp; Jackson and Burr, Coombs &amp; Watson.  He was appointed Corporation Counsel for the City of Brooklyn from 1896 to 1898, and was President of the Brooklyn Bar Association.  From 1905 until his death, he served as a Justice of the New York State Supreme Court.</p>    <list numeration="arabic" type="ordered">
+      <head>Source:</head>
+      <item>"Justice J.A. Burr of Brooklyn Dead." <emph render="italic">New York Times</emph>, April 20, 1915. Accessed April 6, 2011. http://query.nytimes.com/mem/archive-free/pdf?res=FB0C10FB395B17738DDDA90A94DC405B858DF1D3</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_4c2593c8cd1f10d37ca73ccdfdcb5d66">
+    <head>Scope and Contents</head>
+<p>The collection consists of one composition book kept by Joseph Arthur Burr, Jr. as a youth during the period 1860 to 1866, while he attended the Williamsburgh Institute in Brooklyn, N.Y. (1860-1864), and the Wilton Academy in Wilton, Connecticut (1864-1866). Burr's book includes short essays on a variety of topics, including descriptions of places and events in and around Brooklyn and New York. These include brief descriptions of the Japanese government's 1860 delegation in New York, Blackwell's Island (now Roosevelt Island), the 1864 Brooklyn and Long Island Sanitary Fair, local menageries, the brickyard at Verplanck's Point on the Hudson River, West Point, the launch of the frigate <emph render="italic">Re D'Italia</emph> from the Webb Shipyard, and the Morgan Iron Works. Some entries concern anniversary celebrations of the Williamsburg (i.e., Eastern District) Sunday School Union, one of which includes reference to the participation of an African-American school. Several entries are influenced by the progression of the Civil War and include reflections on some aspect of it; in perhaps the most notable of these entries, dating from Thanksgiving 1865, Burr reflected on the closing events of the war, including Lincoln's assassination. The book also includes pieces of fiction and essays with reflections on more abstract matters, such as perseverance, profanity, inventiveness, republican form of government, and human industry (in part contrasting northern labor against southern slavery).</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Exercise books</genreform>
+    <genreform source="aat">Diaries</genreform>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <geogname source="lcsh">New York (N.Y.) |x Description and travel</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">Wilton (Conn.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Description and travel</geogname>
+    <genreform source="aat">Writings (document genre)</genreform>
+    <subject source="lcsh">Lawyers |z New York (State) |z Kings County</subject>
+    <corpname source="local">Williamsburgh Institute (Brooklyn, New York, N.Y.)</corpname>
+    <persname rules="aacr" source="naf">Burr, J. Arthur (Joseph Arthur)</persname>
+    <corpname source="local">Wilton Academy (Wilton, Conn.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

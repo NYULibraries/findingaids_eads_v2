@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_251_colyer_sons/">arc_251_colyer_sons</eadid><filedesc><titlestmt><titleproper>Guide to the Joseph H. Colyer &amp; Son business records and papers <num>ARC.251</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 17, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:14:18 +0000</date>.</creation><langusage>FInding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Joseph H. Colyer &amp; Son business records and papers</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Joseph H. Colyer &amp; Son (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Colyer, Joseph A.</persname>
+    </origination>
+    <unitid>ARC.251</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+      <extent altrender="carrier">in three oversize volumes and one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1867/1930" type="inclusive">1867-1930</unitdate>
+    <unitdate datechar="creation" normal="1886/1907" type="bulk">1886-1907</unitdate>
+    <abstract id="aspace_a132ba8da02cc3509b1ee9227548464c" label="Abstract">The collection contains business records and personal papers relating to Joseph H. Colyer, dating from 1867 to 1930. It includes three oversize ledgers of Joseph H. Colyer &amp; Son tracking the materials, supplies, and financial transactions involved in the firm's contracts with various clients in Brooklyn and New York City.  The ledgers cover contracts that were active during the period 1893 to 1907. The collection also includes an assortment of other business records and personal papers relating to Colyer and his business.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_9fff4c8a1eda3695fa6658c56250ffb2" label="Mixed Materials" type="Box">A0015</container>
+    <container id="aspace_92a49068db44893d5f48e4c9d529c411" label="Text" type="Oversize">ARC.251 3 of 3</container>
+    <container id="aspace_18b0a8f65caedf9bf6e1e3d511d37b73" label="Text" type="Oversize">ARC.251 1 of 3</container>
+    <container id="aspace_4612f22e1e7806174bc993817366d478" label="Text" type="Oversize">ARC.251 2 of 3</container>
+  </did>
+  <accessrestrict id="aspace_dae37dced20021cb5b4a8f4a3cb2b528">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_16026d435698b00fc19593fcb04cbf73">
+    <head>Scope and Contents</head>
+<p>The collection contains business records and personal papers relating to Joseph H. Colyer, dating from 1867 to 1930.</p><p>The collection includes three oversize ledgers of Joseph H. Colyer &amp; Son tracking the materials, supplies, and financial transactions involved in the firm's contracts with various clients in Brooklyn and New York City.  The ledgers cover contracts that were active during the period 1893 to 1907.  Also included are various receipts and correspondence of Joseph H. Colyer &amp; Son interfiled in the ledgers, an oversize volume containing an index to the ledgers, a 1907 contract between Colyer and the City of New York, and a packet of several documents containing more of the firm's financial records.</p><p>There are two additional items relating to Colyer's business included in the collection, one business card and one receipt dated 1877.</p><p>The collection also includes an assortment of personal papers relating to Colyer. These include: A document regarding the Baptist Rev. Orrin Dodge, 1867; one stock certificate for The Telemeter Company of New York, signed by Charles L. Clarke, 1886; a legal document regarding a "hot blast oven" patent, 1888; a menu for a banquet held at Delmonico's Restaraunt celebrating Ulysses S. Grant, 1888; a menu for a dinner held at the Brooklyn Academy of Music celebrating George Washington, 1889; an indenture transferring property near Eastern Parkway and Rogers Avenue from Charles T. Reynolds ("a lunatic") and Colyer, 1889; two stock certificates for the John W. Wallace Company, signed by Colyer, 1905-1906; and a Brooklyn Daily Eagle clipping on the Brooklyn real estate business in the 1870s featuring an image of Colyer, May 11, 1930.</p>  </scopecontent>
+  <acqinfo id="aspace_fc61a28c009fa2b22e86da024af290a9">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.</p>  </acqinfo>
+  <prefercite id="aspace_300b881ac535167635d8ceeb8e4dfa06">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Joseph H. Colyer &amp; Son business records and papers, ARC.251, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_3963d23b778cc401cdcf853ea32d723e">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level by Nicholas Pavlik on August 17, 2011. An additional folder of business and personal papers were discovered and added to the collection, and the finding aid subsequently expanded, by John Zarrillo in December 2015.</p>  </processinfo>
+  <bioghist id="aspace_2ee6ac0b8024a84d746aff3f80b24482">
+    <head>Biographical note</head>
+<p>Joseph H. Colyer was born circa 1848 in New York to Abram and Bernah Colyer. He was a lifetime resident of Brooklyn, New York. In the 1870s he was involved in the real estate business, working for the Bulkley &amp; Horton Company. According to a receipt found in this collection, by 1877 Colyer became a dealer in coal and wood. He had formerly worked for, and became successor to, J.F. Muchmore's business. That same year he resided at 321 Myrtle Avenue. Colyer's business would later become Joseph H. Colyer &amp; Son by the 1890s, which operated as a contracting firm dealing in masons' building materials, coal, and wood that was in operation during the late 19th and early 20th centuries.  Originally located at the foot Washington Street (with an office at 95 Plymouth Street), the firm later relocated to a yard at Fulton and Front Streets.</p><p>Joseph married Harriet Colyer in 1877. He had one son, also named Joseph H., and two daughters, Hattie and Hazel. He is buried in Green-Wood Cemetery.</p>  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Menus</genreform>
+    <genreform source="aat">Stock certificates</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">Baptists |z New York (State) |z New York</subject>
+    <subject source="lcsh">Charcoal industry |z New York (State) |z Kings County</subject>
+    <geogname source="local">DUMBO (New York, N.Y.)</geogname>
+    <subject source="lcsh">Contracts |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Business cards</genreform>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <genreform source="aat">Indentures</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce</geogname>
+    <genreform source="aat">Patents</genreform>
+    <subject source="lcsh">Merchants |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Contracts</genreform>
+    <subject source="lcsh">Contractors |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Financial records</genreform>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <subject source="lcsh">Lumber trade |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Brick trade |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Concrete construction industry |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Masonry |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Stone industry and trade |z New York (State) |z Kings County</subject>
+    <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
+    <persname rules="aacr" source="naf">Washington, George</persname>
+    <persname rules="dacs" source="local">Dodge, Orrin (-1885)</persname>
+    <corpname rules="dacs" source="naf">Delmonico's Restaurant (New York, N.Y.)</corpname>
+    <persname rules="dacs" source="local">Colyer, Joseph A.</persname>
+    <corpname source="local">Joseph H. Colyer &amp; Son (Brooklyn, New York, N.Y.)</corpname>
+    <persname rules="aacr" source="naf">Grant, Ulysses S. (Ulysses Simpson)</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

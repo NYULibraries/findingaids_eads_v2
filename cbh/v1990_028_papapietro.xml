@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_028_papapietro/">v1990_028_papapietro</eadid><filedesc><titlestmt><titleproper>Guide to the Papapietro family photographs <num>V1990.028</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 6, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:21:39 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Papapietro family photographs</unittitle>
+    <unitid>V1990.028</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">three items housed in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1938/1947" type="inclusive">1938-1947</unitdate>
+    <abstract id="aspace_51d666c814ddedce9659f17c789d41f7" label="Abstract">The Papapietro family photographs contain three photographic prints dating from circa 1938 to 1947. The collection includes one color photographic portrait of Cathy LoBasco as a child, circa 1938; one black-and-white photographic portrait of Anthony LoBasco taken at his brother's wedding in 1947; and one 8 x 10 inch black-and-white group portrait of the Papapietro family outside their Williamsburg home on Victory over Japan Day (commonly known as V-J Day), circa 1947.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_0493205435352f78cd061b39c79ab724" label="Graphic Materials" type="Box">Prints by Accession 56</container>
+  </did>
+  <processinfo id="aspace_0cfae018fff3eaf99a8f3f69f322674d">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <scopecontent id="aspace_8b2b987ca6ae8142ace8b44938e09e86">
+    <head>Scope and Contents</head>
+<p>The Papapietro family photographs contain three photographic prints dating from circa 1938 to 1947. The collection includes one color photographic portrait of Cathy LoBasco as a child, circa 1938; one black-and-white photographic portrait of Anthony LoBasco taken at his brother's wedding in 1947; and one 8 x 10 inch black-and-white group portrait of the Papapietro family outside their Williamsburg home on Victory over Japan Day (commonly known as V-J Day), circa 1947. All of the people shown in the group portrait are identified via handwritten notes on the recto. Included is Cathy LoBasco, her mother, father, and grandmother, as well as aunts, uncles, and a cousin. In the photograph the family home has been decorated for V-J Day.</p>  </scopecontent>
+  <accessrestrict id="aspace_075acbde362a8c2f111babe7db8cb9a4">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ba849bcb5b13e703881705c443ad07e5">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Cathy LoBasco, 1990.</p>  </acqinfo>
+  <userestrict id="aspace_709322ba42ef06e2ac8c0fd2443504e6">
+    <head>Conditions Governing Use</head>
+<p>Copyright for anonymously created items remain in effect for 120 years following the date of creation. Based on the date of the photographs, all items in collection will enter the public domain in 2067. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
+  <otherfindaid id="aspace_2ee09bd9097fbf874bd3dbe5fd527ed9">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <bioghist id="aspace_db23875165f34323923c9bc1a87acf51">
+    <head>Biographical note</head>
+<p>Cathy LoBasco (nee Papapietro) grew up in the Williamsburg neighborhood of Brooklyn. Born in 1936, LoBasco married Anthony LoBasco, nicknamed "Bones" or "Bonesy," and they had seven children. After the birth of their children, Cathy, who's childhood nickname was "Baby Doll," became known as "Big Mamma." The LoBasco family lived at 159 Ainslie Street in Williamsburg. Cathy LoBasco owned a lunch van that was located at Vandervoort and Maspeth Avenues. The Papapietro family home was located at 110 Devoe Street, also in Williamsburg.</p>  </bioghist>
+  <prefercite id="aspace_861a2d5b17dbd78f6fb738ccb49dd9ee">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Papapietro family photographs, V1990.028 Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">World War, 1939-1945 |x Anniversaries, etc.</subject>
+    <subject source="lcsh">Dwellings |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Color prints (photographs)</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Italian Americans |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Group portraits</genreform>
+    <genreform source="aat">Portraits</genreform>
+    <persname rules="dacs" source="local">LoBasco, Anthony</persname>
+    <famname rules="dacs" source="local">Papapietro family</famname>
+    <persname rules="dacs" source="local">LoBasco, Cathy</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
