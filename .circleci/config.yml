@@ -13,7 +13,7 @@ hermes_deploy: &hermes_deploy
   run:
     name: Deploy via Hermes
     command: |
-      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index -namespace=specialcollections-test -concurrent=true
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index -concurrent=true
 
 version: 2
 jobs:
@@ -45,5 +45,5 @@ workflows:
   version: 2
   deploy:
     jobs:
-#      - deploy-prod
-       - deploy-dev
+      - deploy-prod
+      #- deploy-dev
