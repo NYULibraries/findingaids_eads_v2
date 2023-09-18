@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">pr463_wings_trading_cards</eadid><filedesc><titlestmt><titleproper>Guide to the Wings "Friend or Foe" military aircraft trading cards, 1952 <num>PR 463</num></titleproper><author>Joseph Ditta (September 2023)</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>September 2023</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-18 09:34:02 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Wings "Friend or Foe" military aircraft trading cards</unittitle>
+    <origination label="Creator">
+      <corpname source="library_of_congress_subject_heading">Topps Chewing Gum, Inc.</corpname>
+    </origination>
+    <unitid>PR 463</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.209 Linear feet</extent>
+      <extent altrender="carrier">in 1 half-document box (199 color trading cards, each approximately 2.5 x 3.75 inches).</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1952</unitdate>
+    <abstract id="aspace_8ccd164e3b121493f734de11895516dc">Color, illustrated trading cards issued by the Topps Chewing Gum company in 1952, depicting American and foreign military aircraft used during World War II and into the Korea war era, such as bombers, jet fighters, attack planes, flying boats, and transport helicopters.</abstract>
+    <physloc id="aspace_4bb44379af15c4f52d5e52cd2e977f3e">This collection is stored offsite. To arrange to view it, please go to <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</physloc>
+    <langmaterial id="aspace_aaf3262463685b43a628644a63da9611">The documents in the collection are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_5f8d86781be55b4a5ae7573bf3b3d137">
+    <head>Access Restrictions</head>
+<p>This collection is stored offsite. To arrange to view it, please go to <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</p>  </accessrestrict>
+  <acqinfo id="aspace_caec851c5fb9c13a9d5e675ce986570b">
+    <head>Immediate Source of Acquisition</head>
+<p>Accession information is lacking for this collection. It was discovered in 2023 during a project to address unprocessed materials in the New-York Historical Society's library stacks.</p>  </acqinfo>
+  <arrangement id="aspace_0ab1766bb493ecd16e7f21978fb9ceec">
+    <head>Arrangement</head>
+<p>The cards are filed in numerical order in protective sheets that each hold four cards. The sheets are grouped five to a folder.</p>  </arrangement>
+  <prefercite id="aspace_4e1adab56f95841829e199a26769a0e3">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as <emph render="underline">Wings "Friend or Foe" military aircraft trading cards, PR 463, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society</emph>.</p>  </prefercite>
+  <processinfo id="aspace_a2ec8b184bd2a92007ba1157687fbe0c">
+    <head>Processing Information</head>
+<p>Archivist Joseph Ditta arranged and described this collection in September 2023.</p>  </processinfo>
+  <scopecontent id="aspace_82b07fabb2a040661654073f903d4e09">
+    <head>Scope and Contents</head>
+<p>Topp's Wings "Friend or Foe" military aircraft trading cards were issued in 1952 and sold in 1- or 5-cent packs of chewing gum. This was the company's first non-sports themed series of trading cards. A complete set consists of 200 numbered cards. (The present collection lacks 11 cards. See the inventory of this finding aid for details.) The front of each card displays a color image of a plane or other aircraft based on photographs supplied by the New York Herald Tribune. The planes and helicopters were in use during World War II and into the Korean War era by the armed forces of Argentina, Australia, Canada, Czechoslovakia, England, France, Italy, the Netherlands, Russia, Spain, Sweden, and Turkey, with the majority belonging to the United States. The back of each card carries statistics on the aircraft depicted on the front, such as its wing spread, length, ceiling, maximum speed, weight, number of crew, and number of engines. Also appearing on the back of each card is the silhouette of a different aircraft, displayed below the phrase "Name This Plane" and above the question "Friend or Foe?" The quiz answers are revealed on a different card, the number of which follows the question.</p>  </scopecontent>
+  <userestrict id="aspace_c836836d62d1cc208926798c8ff62d8a">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff. Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282. Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/rights-and-reproductions">www.nyhistory.org/rights-and-reproductions</extref>.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Collecting cards.</genreform>
+    <genreform source="aat">Stickers.</genreform>
+    <subject source="lcsh">Military aircraft.</subject>
+    <subject source="lcsh">Trading cards.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Aerial operations -- Pictorial works.</subject>
+    <subject source="lcsh">Korean War, 1950-1953 -- Aerial operations -- Pictorial works.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_1a92116c98ecdbdcea178618c4b6d28f" level="series"><did><unittitle>Wings "Friend or Foe" cards</unittitle></did><scopecontent id="aspace_228e36ad4f666f29f62bcd2ad12d170b"><head>Scope and Contents</head><p>The following 11 cards are lacking from the full set of 200, but are represented by printed, black-and-white substitutions. Color scans can be found on various card collector websites.<lb/>
+<blockquote><p>033. F-84F (U.S. Air Force Jet Fighter-Bomber)<lb/>
+117. Handley-Page 88 (English Jet Plane)<lb/>
+120. MIG-19 (Russian Jet Fighter)<lb/>
+122. F9 F6 Cougar (U.S. Navy Fighter)<lb/>
+131. Swift Supermarine S41 (English Jet Fighter)<lb/>
+134. Short SA 4 (English Jet Bomber)<lb/>
+139. PB M-5 Mariner (U.S. Navy Amphibian)<lb/>
+146. Target Aircraft (Australian Jet)<lb/>
+147. D.H. Sea Hornet (English Air Force)<lb/>
+148. DH 112 Venom (English Bomber)<lb/>
+152. XF-90 Lockheed (U.S. Air Force Fighter)</p></blockquote></p></scopecontent><c id="aspace_9754611af2f704fb66c368d0e2db3da3" level="file"><did><unittitle>Wings "Friend or Foe" cards 001-020</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_ed978803ba8994e6210f02fdb6d591d1" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_26d71b44ee8a6c206405de178c8865f8" parent="aspace_ed978803ba8994e6210f02fdb6d591d1" type="Folder">1</container></did><scopecontent id="aspace_a44db2bf3b4bcfa904b04f073bae021b"><head>Scope and Contents</head><p>001. T-33 (U.S. Air Force Jet Trainer)<lb/>
+002. MIG-15 (Russian Jet Fighter)<lb/>
+003. XC-120 Pack Plane (U.S. Air Force Transport)<lb/>
+004. Lincoln (British Bomber)<lb/>
+005. F-51 Mustang (U.S. Air Force Fighter)<lb/>
+006. AT-7 Navigator (U.S. Air Force Light Transport)<lb/>
+007. PBY Catalina (U.S. Navy Patrol Bomber)<lb/>
+008. B-26 Invader (U.S. Air Force Light Bomber)<lb/>
+009. XF-91 (U.S. Air Force Jet Fighter)<lb/>
+010. F-7U Cutlass (U.S. Navy Jet Fighter)<lb/>
+011. Vampire (British Jet Fighter)<lb/>
+012. B-57 Canberra (British Jet Bomber)<lb/>
+013. Sunderland (British Patrol Flying Boat)<lb/>
+014. PB4Y-2 Privateer (U.S. Navy Patrol Bomber)<lb/>
+015. T-28 (U.S. Air Force Advanced Trainer)<lb/>
+016. Wyvern MK. 2 (British Turbo-Prop Fighter)<lb/>
+017. Balliol T. MK. 2 (British Advanced Trainer)<lb/>
+018. F-47 Thunderbolt (U.S. Air Force Fighter)<lb/>
+019. H U P-1 (U.S. Navy Helicopter)<lb/>
+020. Hermes (British Civil Transport)</p></scopecontent></c><c id="aspace_49cf3ab5b1f2d71fad1ba960fec1c00d" level="file"><did><unittitle>Wings "Friend or Foe" cards 021-040</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_1877227d210ba7ca2a257508b04c7cca" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_446ac3b1f8d9b47458ac466c769219c3" parent="aspace_1877227d210ba7ca2a257508b04c7cca" type="Folder">2</container></did><scopecontent id="aspace_c55b0e7acbc0e4cf57fe7644f3575663"><head>Scope and Contents</head><p>[Lacking 033.]<lb/>
+021. L-17 Navion (U.S. Air Force Liaison Civil Private Plane)<lb/>
+022. F3D Skyknight (U.S. Navy Jet All-Weather Fighter)<lb/>
+023. A M Mauler (U.S. Navy Attack Plane)<lb/>
+024. B-36 (U.S. Air Force Strategic Bomber)<lb/>
+025. F8F Bearcat (U.S. Navy Fighter)<lb/>
+026. F-80 Shooting Star (U.S. Air Force Fighter-Bomber)<lb/>
+027. Sea Attacker (British Navy Jet Fighter)<lb/>
+028. F6F Hellcat (U.S. Navy Fighter)<lb/>
+029. P2V Neptune (U.S. Navy Patrol Bomber)<lb/>
+030. AVRO Jetliner (Canadian Civil Jet Transport) [missing lower right corner]<lb/>
+031. C-121 Constellation (U.S. Air Force Transport)<lb/>
+032. C-74 Globemaster 1 (U.S. Air Force Strategic Transport)<lb/>
+033. F-84F (U.S. Air Force Jet Fighter-Bomber) [LACKING]<lb/>
+034. F4U Corsair (U.S. Navy and Marine Corps Fighter)<lb/>
+035. Firefly (British Navy Fighter)<lb/>
+036. C-125 Raider (U.S. Air Force Assault Transport)<lb/>
+037. C-46 Commando (U.S. Navy R5C)<lb/>
+038. PE-2 (Russian Attack Bomber)<lb/>
+039. AF Guardian (U.S. Navy Attack Plane)<lb/>
+040. C-82 Packet (U.S. Air Force Transport)</p></scopecontent></c><c id="aspace_d2179697c038d2875b0f2b89854be0f4" level="file"><did><unittitle>Wings "Friend or Foe" cards 041-060</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_7b5d2943c0376e16b0d196f2520c6db7" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_d55cf38557e7def51408b4c3f845a32c" parent="aspace_7b5d2943c0376e16b0d196f2520c6db7" type="Folder">3</container></did><scopecontent id="aspace_c40fc6252863dd97f6bcb2e3b42e4075"><head>Scope and Contents</head><p>041. R-60 Constitution (U.S. Navy Strategic Transport)<lb/>
+042. IL-12 (Russian Transport)<lb/>
+043. Hastings (British Military Transport)<lb/>
+044. AJ Savage (U.S. Navy Composite-Powered Attack Bomber)<lb/>
+045. F-82 Twin-Mustang (U.S. Air Force Fighter)<lb/>
+046. XF4D Skyray (U.S. Navy Jet Fighter)<lb/>
+047. T-6 Texan (U.S. Air Force Trainer)<lb/>
+048. C-123 Avitruk (U.S. Air Force Transport)<lb/>
+049. JRM Mars (U.S. Navy Transport)<lb/>
+050. Meteor (British Jet Fighter)<lb/>
+051. B-29 Superfortress (U.S. Air Force Strategic Bomber)<lb/>
+052. IL-10 (Russian Assault Bomber)<lb/>
+053. B-45 Tornado (U.S. Air Force Jet Bomber)<lb/>
+054. LA-5 (Russian Fighter)<lb/>
+055. Comet (British Jet Transport)<lb/>
+056. H-13D (U.S. Air Force and Army Helicopter)<lb/>
+057. PE-8 (Russian Heavy Bomber) [3 copies]<lb/>
+058. C-97 Stratofreighter (U.S. Air Force Strategic Transport)<lb/>
+059. H-21 (U.S. Air Force Transport Helicopter)<lb/>
+060. FH-1 Phantom (U.S. Navy Jet Fighter) [3 copies]</p></scopecontent></c><c id="aspace_59553788854ebc190d84c3cd2afd1d3d" level="file"><did><unittitle>Wings "Friend or Foe" cards 061-080</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_a22dd6f1cc1d4a9ef133188b147ec358" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_cccd0c766e47fa223526c6b49f061a69" parent="aspace_a22dd6f1cc1d4a9ef133188b147ec358" type="Folder">4</container></did><scopecontent id="aspace_2e38a5fd7091bae804fd8dd2898517a7"><head>Scope and Contents</head><p>061. B-47 Stratojet (U.S. Air Force Strategic Jet Bomber) [2 copies]<lb/>
+062. L-20 Beaver (U.S. Air Force Utility-Liaison)<lb/>
+063. F J Fury (U.S. Navy Jet Fighter) [2 copies]<lb/>
+064. F-94 (U.S. Air Force Jet Interceptor Fighter)<lb/>
+065. Shackleton (British Patrol Bomber)<lb/>
+066. S-51 Helicopter (U.S. Air Force)<lb/>
+067. A-20 Havoc (U.S. Air Force—Light Bomber)<lb/>
+068. IL-2 Stormovik (Russian Assault Bomber)<lb/>
+069. C-119 Packet (U.S. Air Force Transport)<lb/>
+070. DC-4 Skymaster (C-54—U.S. Air Force Transport)<lb/>
+071. F-86 Saber (U.S. Air Force Jet Fighter)<lb/>
+072. Venom (British Jet Fighter)<lb/>
+073. H-19 (U.S. Air Force Helicopter)<lb/>
+074. TBM Avenger (U.S. Navy Torpedo Bomber)<lb/>
+075. CF-100 Canuck (Canadian Jet Interceptor)<lb/>
+076. F-84 Thunderjet (U.S. Air Force Fighter-Bomber)<lb/>
+077. F-86D (U.S. Air Force Jet Interceptor)<lb/>
+078. Sea Hawk (British Navy Jet Fighter)<lb/>
+079. SA-16 Albatross (U.S. Navy Utility Amphibian)<lb/>
+080. 202 (Civil Airline Transport)</p></scopecontent></c><c id="aspace_61c0830d89c2f1cfc13385c163d5c4ba" level="file"><did><unittitle>Wings "Friend or Foe" cards 081-100</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_c19d3f626db8dde57eae5440714355d0" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_c72697fff41d104e94c918a58a3d1254" parent="aspace_c19d3f626db8dde57eae5440714355d0" type="Folder">5</container></did><scopecontent id="aspace_6d9bc4ec7f7d2448e3c1dcf8e1dfa7aa"><head>Scope and Contents</head><p>081. B-50 Superbomber (U.S. Air Force Strategic Bomber)<lb/>
+082. Convair 240 (U.S. Air Force Navigation Trainer)<lb/>
+083. Ambassador (British Civil Transport)<lb/>
+084. IL-4 (Russian Medium Bomber)<lb/>
+085. Viscount (British Turbo-Prop Transport)<lb/>
+086. B-25 Mitchell (U.S. Air Force Multi-Engine Trainer)<lb/>
+087. YAK-3 (Russian Fighter)<lb/>
+088. C-47 Skytrain (U.S. Air Force Transport)<lb/>
+089. A-2D Skyhawk (U.S. Navy Attack Plane)<lb/>
+090. F-89 Scorpion (U.S. Air Force Jet Interceptor)<lb/>
+091. IL-18 (Russian Transport)<lb/>
+092. P5M Marlin (U.S. Navy Patrol Bomber)<lb/>
+093. H-12 (U.S. Air Force Helicopter)<lb/>
+094. F7F Tigercat (U.S. Navy &amp; Marine Corps Fighter)<lb/>
+095. F2H Banshee (U.S. Navy Jet Fighter)<lb/>
+096. P4M Mercator (U.S. Navy Composite-Powered Patrol Plane)<lb/>
+097. C-124 Globemaster II (U.S. Air Force Transport)<lb/>
+098. TU-4 (Russian Strategic Bomber)<lb/>
+099. YAK-15 (Russian Jet Fighter)<lb/>
+100. F9F Panther (U.S. Navy Jet Fighter)</p></scopecontent></c><c id="aspace_1aee1575ab2fb9ec1af09b84e2cf9078" level="file"><did><unittitle>Wings "Friend or Foe" cards 101-120</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_0ed70fe0506e677268f073a17fbd0154" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_45583edd964e438bdcf344380083d9a0" parent="aspace_0ed70fe0506e677268f073a17fbd0154" type="Folder">6</container></did><scopecontent id="aspace_153671eadceaa451e9ed8ad6cf0ffe89"><head>Scope and Contents</head><p>[Lacking 117, 120.]<lb/>
+101. AE-27 Pulqui (Argentine Fighter)<lb/>
+102. AE33 Pulqui II (Argentine Jet Plane)<lb/>
+103. O-10 Leduc (French Monoplane)<lb/>
+104. MD-450 Ouragan (French Fighter)<lb/>
+105. SO-6021 Espadan (French Jet Plane)<lb/>
+106. SO-M2 (French Jet)<lb/>
+107. SO-6000 Triton (French Jet Trainer)<lb/>
+108. VG-90 (French Jet Fighter)<lb/>
+109. NORD 1601 (French Research Plane)<lb/>
+110. NORD 2260 (French Jet Plane)<lb/>
+111. 707A Delta Wing (English Jet Plane)<lb/>
+112. AVRO Aston (English Jet Plane)<lb/>
+113. Supermarine 535 (English Jet Plane)<lb/>
+114. Vickers 660 (English Bomber)<lb/>
+115. Hawker P-1081 (English Jet Plane)<lb/>
+116. Short SB-3 (R.A.F. Anti-Submarine Plane)<lb/>
+117. Handley-Page 88 (English Jet Plane) [LACKING]<lb/>
+118. Target Plane (Australian Jet)<lb/>
+119. Fokker S-14 (Netherlands Jet Trainer)<lb/>
+120. MIG-19 (Russian Jet Fighter) [LACKING]</p></scopecontent></c><c id="aspace_4917a7e250cf9a433512ae7f440838c7" level="file"><did><unittitle>Wings "Friend or Foe" cards 121-140</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_1ebcd328ead3adb5950474d65d3b78ba" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_afeb570e24d47d564f6ab8c36605eedb" parent="aspace_1ebcd328ead3adb5950474d65d3b78ba" type="Folder">7</container></did><scopecontent id="aspace_266e88c2364395dc8af6000da75ffbd2"><head>Scope and Contents</head><p>[Lacking 122, 131, 134, 139.]<lb/>
+121. SAAB 29-A (Swedish Jet Fighter)<lb/>
+122. F9 F6 Cougar (U.S. Navy Fighter) [LACKING]<lb/>
+123. YB60 Heavy Bomber (U.S. Air Force Bomber)<lb/>
+124. XF 88A Voodoo (U.S. Air Force Fighter)<lb/>
+125. F-84-G Thunderjet (U.S. Air Force Bomber)<lb/>
+126. XC-99 Cargo Transport (U.S. Air Force Transport)<lb/>
+127. XC-123A Jet Avitruc (U.S. Air Force Jet)<lb/>
+128. X-4 Northrop (U.S. Air Force Research Jet)<lb/>
+129. PO-1W Lockheed (U.S. Navy Plane)<lb/>
+130. S.E. 2415 Gronard II (French Twin-Jet)<lb/>
+131. Swift Supermarine S41 (English Jet Fighter) [LACKING]<lb/>
+132. Gloster GA 5 (English Jet Fighter)<lb/>
+133. SR A-1 (British Jet Flying Boat)<lb/>
+134. Short SA 4 (English Jet Bomber) [LACKING]<lb/>
+135. Unknown (Russian Jet Plane)<lb/>
+136. XA2J1 Savage (U.S. Navy)<lb/>
+137. FJ2 North American (U.S. Navy Jet Bomber)<lb/>
+138. AD-5 Skyraider (U.S. Navy Plane)<lb/>
+139. PB M-5 Mariner (U.S. Navy Amphibian) [LACKING]<lb/>
+140. XP 5Y-1 Vultee (U.S. Air Force)</p></scopecontent></c><c id="aspace_4e27a7eaed15e5facd83be03e96d6030" level="file"><did><unittitle>Wings "Friend or Foe" cards 141-160</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_5f73c636a64ca13a5883c55d4ed03bc2" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_a03ea320f8d9a793f65bac93a6fcdc95" parent="aspace_5f73c636a64ca13a5883c55d4ed03bc2" type="Folder">8</container></did><scopecontent id="aspace_d95805a59b3da2af1403b4f8040e9743"><head>Scope and Contents</head><p>[Lacking 146, 147, 148, 152.]<lb/>
+141. TO-2 Lockheed (U.S. Air Force)<lb/>
+142. XF-92A Vultee (U.S. Air Force Jet Plane)<lb/>
+143. XF 3H-1 Demon (U.S. Air Force Plane)<lb/>
+144. DC 6A Douglas (U.S. Air Force)<lb/>
+145. YRB-49A Flying Wing (U.S. Air Force Jet)<lb/>
+146. Target Aircraft (Australian Jet) [LACKING]<lb/>
+147. D.H. Sea Hornet (English Air Force) [LACKING]<lb/>
+148. DH 112 Venom (English Bomber) [LACKING]<lb/>
+149. XH-26 (U.S. Army Helicopter)<lb/>
+150. G-80 (Italian Air Force)<lb/>
+151. YB1 Blackburn (English Monoplane)<lb/>
+152. XF-90 Lockheed (U.S. Air Force Fighter) [LACKING]<lb/>
+153. Bristol 171 MK-3 (British Freighter)<lb/>
+154. Saro-Cierva Airhorse (British Helicopter)<lb/>
+155. Sikorsky H.C. MK-2 Dragonfly (British Helicopter)<lb/>
+156. S.O. 1120 Ariel III (French Helicopter)<lb/>
+157. Breguet Type III (French Helicopter)<lb/>
+158. LZ 1A (U.S. Air Force Helicopter)<lb/>
+159. G.C.A. Model 2 (U.S. Helicopter)<lb/>
+160. Hiller 360 (U.S. Helicopter)</p></scopecontent></c><c id="aspace_b0795ac9b49eb0217a4d9a6a11615481" level="file"><did><unittitle>Wings "Friend or Foe" cards 161-180</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_a53ebf82f29be06cb0eeddbdde22504a" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_0579c0e505d7ea577c161f8d2acdb661" parent="aspace_a53ebf82f29be06cb0eeddbdde22504a" type="Folder">9</container></did><scopecontent id="aspace_30278ba4eb5867d90935392ce9a374c6"><head>Scope and Contents</head><p>161. MC-4 (American Helicopter)<lb/>
+162. M-14 (American Helicopter)<lb/>
+163. YH-18 (U.S. Air Force Helicopter)<lb/>
+164. HO 4S-1 (U.S. Navy Helicopter)<lb/>
+165. Boulton Paul P-111 (English Jet Plane)<lb/>
+166. Avro Athena T. MK-2 (British Training Ship)<lb/>
+167. T. MK-20 Avro Anson (British Training Plane)<lb/>
+168. Blackburn Firebrand (British Navy Fighter)<lb/>
+169. Bristol 170 MK-31 (British Helicopter)<lb/>
+170. D.H. 104 Dove Light Transport (British Transport Plane)<lb/>
+171. Meteor N.F. MK-11 (British Jet Fighter)<lb/>
+172. Handley Page Marathon (British Transport)<lb/>
+173. Sea Fury MK-II (British Navy Fighter)<lb/>
+174. Percival P.50 Prince Transport (British Transport Plane)<lb/>
+175. Short Sealand (British Amphibian)<lb/>
+176. Sea Gull (British Navy Amphibian)<lb/>
+177. Varsity Aircrew (British Training Plane)<lb/>
+178. Canadair Four (Canadian Transport Plane)<lb/>
+179. DHC-1 Chipmunk (Canadian Trainer)<lb/>
+180. AERO 45 (Czechoslovakian Monoplane)</p></scopecontent></c><c id="aspace_ef01a45361f54947ff720cae92ca5b30" level="file"><did><unittitle>Wings "Friend or Foe" cards 181-200</unittitle><unitdate datechar="creation" type="inclusive">1952</unitdate><container id="aspace_5a3a4749965cf363037abb42da5351d3" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_79cd64c2f0d1b856edc92c4287f7f743" parent="aspace_5a3a4749965cf363037abb42da5351d3" type="Folder">10</container></did><scopecontent id="aspace_0c97e19b955f0271ad323d7f7f8b1623"><head>Scope and Contents</head><p>181. Hiller Hornet (U.S. Helicopter)<lb/>
+182. C.M 88-R Gemeaux (French Research Jet)<lb/>
+183. Breguet 76-1 Provence (French Transport Plane)<lb/>
+184. C.A.S.A. 201 Alcotan (Spanish Monoplane)<lb/>
+185. Douglas Skyrocket (U.S. Research Jet)<lb/>
+186. Fouga C.M. 8-R.13 Sylphe (French Jet)<lb/>
+187. Morane-Saulnier M.S. 703 (French Monoplane)<lb/>
+188. S.O. 30-P Bretagne (French Airliner)<lb/>
+189. SAAB-90 A-2 Scandia (Swedish Airliner)<lb/>
+190. Beechcraft D18S (U.S. Light Transport)<lb/>
+191. "Vautour" (French Jet)<lb/>
+192. C-1 Skimmer (U.S. Amphibian)<lb/>
+193. SAAB-210 Draken (Swedish Research Jet)<lb/>
+194. CF-100 "Canuck" (Canadian Fighter)<lb/>
+195. Mooney M-18L Mite (U.S. Light Monoplane)<lb/>
+196. TE-1 Buckaroo (U.S. Trainer)<lb/>
+197. Saunders-Roe (British Flying Boat)<lb/>
+198. Kaman HTK-1 (U.S. Helicopter)<lb/>
+199. T.H.K. 2 (Turkish Air Force) [5 copies]<lb/>
+200. Fairey "Gyrodene" (British Helicopter) [lower right corner missing]</p></scopecontent></c><c id="aspace_ff115fd5c904cc0f2920e3a16750d42e" level="file"><did><unittitle>Military aircraft stickers</unittitle><unitdate datechar="creation" type="inclusive">[1940s-1950s]</unitdate><container id="aspace_b942be2e5c891c0f818abfb9fd065e55" label="Graphic Materials [1804 00003 6969]" type="Offsite-Box">1</container><container id="aspace_fbf6eabc77bc69456a425482da58dc41" parent="aspace_b942be2e5c891c0f818abfb9fd065e55" type="Folder">11</container></did><scopecontent id="aspace_8753ba437b6588531c3e6d494363a923"><head>Scope and Contents</head><p>This pane of attached, perforated stickers displaying four types of military aircraft was found with the collection:<lb/>
+No. 4. Douglas Havoc A-20<lb/>
+No. 9. Vought-Sikorsky Corsair F4U<lb/>
+No. 21. Vought-Sikorsky Vindicator SB2U<lb/>
+No. 32. Messerschmitt 109F</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>
