@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_378/">mc_378</eadid><filedesc><titlestmt><titleproper>Guide to the Jerry and Sandra Sanders Simelson Collection on New York University <num>MC.378</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>August 2023</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-14 15:39:33 -0400</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Jerry and Sandra Sanders Simelson Collection on New York University</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Simelson, Jerry</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Simelson, Sandra</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Kaplan, Nina</persname>
+    </origination>
+    <unitid>MC.378</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 linear feet</extent>
+      <extent altrender="carrier">in 1 folder in shared housing</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate>
+    <abstract id="aspace_09b8261833f7cb6c3d740d3ab8f57672">Jerry Simelson graduated from New York University's School of Commerce, Accounts, and Finance (now the Stern School of Business) in 1956. Sandra Lee graduated from the School of Commerce, Accounts, and Finance in 1959 and the School of Social Work in 1989. The Jerry and Sandra Sanders Simelson Collection on New York University (dated 1954-1957) consists of photographs, certificates, and ephemera relatied to the tenure of Jerry Simelson and Sandra Lee Simelson at New York University's School of Commerce, Accounts, and Finance (now Stern). The majority of the ephemera documents dances, including the Prom and Varsity Drag, and student organizations the Simelson's participated in, including the Finance Society, the Interclub Council, and Sigma Eta Phi.</abstract>
+    <physloc id="aspace_a4b147d833535a971c79102dbe05e707">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_b48d230ec626cde3455ffd4497b66ae8">Materials are in English</langmaterial>
+  </did>
+  <scopecontent id="aspace_c3f3b454a8ef344300e2b2e17833d3a9">
+    <head>Scope and Contents</head>
+<p>The Jerry and Sandra Sanders Simelson Collection on New York University (dated 1954-1957) consists of photographs, certificates, and ephemera relatied to the tenure of Jerry Simelson and Sandra Lee Simelson at New York University's School of Commerce, Accounts, and Finance (now Stern). The majority of the ephemera documents dances, including the Prom and Varsity Drag, and student organizations the Simelson's participated in, including the Finance Society, the Interclub Council, and Sigma Eta Phi.</p>  </scopecontent>
+  <bioghist id="aspace_5703b88ef4be0a7a3e3afd00f3047e74">
+    <head>Biographical Note</head>
+<p>Jerry Simelson graduated from New York University's School of Commerce, Accounts, and Finance (now the Stern School of Business) in 1956. Sandra Lee graduated from the School of Commerce, Accounts, and Finance in 1959 and the School of Social Work in 1989.</p>  </bioghist>
+  <accessrestrict id="aspace_4ab5396efc138bcdf41fe45656920248">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_c7d34d39547be924dbb757d45f2ae437">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_d5dd50c3f9c7d5b29b5d9303ba9e1fee">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Nina Kaplan, Jerry and Sandra Sanders Simelson's daughter, in April 2023; the accession number associated with this gift is 2023.042.</p>  </acqinfo>
+  <prefercite id="aspace_2284cf8b9169492d5d6970ae3b889927">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jerry and Sandra Sanders Simelson Collection on New York University; MC 378; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_3c85ed6828c86ed26db2c932c68ae838">
+    <head>Processing Information</head>
+<p>At the time of accessioning materials were rehoused in an archival folder and shared box.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College students -- New York (N.Y.)</subject>
+    <subject source="lcsh">Student activities.</subject>
+    <persname role="dnr" rules="dacs" source="local">Kaplan, Nina</persname>
+  </controlaccess>
+  <dsc><c id="aspace_6539674822eaab8f0fe26cad3b572c09" level="file"><did><unittitle>Photographs, Certificates, Ephemera</unittitle><unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_652746fee292076884542fd9bbae4f51" label="Mixed Materials [31142066996433]" type="Box">Shared University Archives 149</container><container id="aspace_3c6f11092ae6ef126fd0e7505d970745" parent="aspace_652746fee292076884542fd9bbae4f51" type="Folder">5</container></did></c></dsc>
+</archdesc>
+</ead>
