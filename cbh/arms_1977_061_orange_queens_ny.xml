@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_061_orange_queens_ny/">arms_1977_061_orange_queens_ny</eadid><filedesc><titlestmt><titleproper>Guide to the Orange County, Queens County, and New York City legal documents <num>1977.061</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:20 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_061_orange_queens_ny/">arms_1977_061_orange_queens_ny</eadid><filedesc><titlestmt><titleproper>Guide to the Orange County, Queens County, and New York City legal documents <num>1977.061</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-20 20:59:15 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -41,11 +41,11 @@
       <extent altrender="carrier">in two folders.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1688/1866" type="inclusive">1688-1866</unitdate>
-    <abstract id="aspace_aa636374e454102f404472ac28a3e6bf">This collection contains a small assortment of legal documents relating to residents of Orange County, Queens County, and New York, N.Y.  Orange County documents include a 1769 release from Harmanus Hoffman to William Dobbs, and two deeds involving Abraham, Hendrick, and Jacobus Wannamaker, dated 1794.  Queens County documents include two deeds from 1688 and 1698 involving Thomas Wigons (also spelled Wigings) of the town of Jamaica.  The one New York City document included in the collection is a deed from 1807 involving Andrew Suffren and merchants William Bayard (1761-1826) and James McEvers.  Also included are two military certificates from 1866 issued to Edward C. Phillips (b. 1854 or 5) of the First Regiment of the California Volunteer Infantry.</abstract>
+    <abstract id="aspace_aa636374e454102f404472ac28a3e6bf">This collection contains a small assortment of legal documents relating to residents of Orange County, Queens County, and New York, N.Y.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_8f9ad0da64fae0054a0898bdf4c0a388" label="Text" type="Box">A0030</container>
+    <container altrender="Large Flat Box" id="aspace_52dabf563f286be184410c7d5a7e96d8" label="Mixed Materials" type="Box">OS-25</container>
   </did>
   <accessrestrict id="aspace_47d824a2c0b80427977c320eb1f5d955">
     <head>Conditions Governing Access</head>
@@ -55,10 +55,16 @@
 <p>Gift of Martha Wentworth Suffren, 1939.</p>  </acqinfo>
   <prefercite id="aspace_fe7feebbf97792ad95d0a4026e923364">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Orange County, Queens County, and New York City legal documents, 1977.061, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Orange County, Queens County, and New York City legal documents, 1977.061, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <processinfo id="aspace_c6bc690d4c98d10379ac801bd4adeaba">
     <head>Processing Information</head>
 <p>Minimally processed to the collection level.</p>  </processinfo>
+  <scopecontent id="aspace_efe60a42b3e042a47e0d6aa718d2957b">
+    <head>Scope and Contents</head>
+<p>This collection contains a small assortment of legal documents relating to residents of Orange County, Queens County, and New York, N.Y. Orange County documents include a 1769 release from Harmanus Hoffman to William Dobbs, and two deeds involving Abraham, Hendrick, and Jacobus Wannamaker, dated 1794. Queens County documents include two deeds from 1688 and 1698 involving Thomas Wigons (also spelled Wigings) of the town of Jamaica. The one New York City document included in the collection is a deed from 1807 involving Andrew Suffren and merchants William Bayard (1761-1826) and James McEvers. Also included are two military certificates from 1866 issued to Edward C. Phillips (b. 1854 or 5) of the First Regiment of the California Volunteer Infantry.</p>  </scopecontent>
+  <userestrict id="aspace_f4fea72d63fe395e8b73253d86acdc27">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Deeds |z New York (State) |z Queens County</subject>
     <geogname source="lcsh">Orange County (N.Y.)</geogname>
