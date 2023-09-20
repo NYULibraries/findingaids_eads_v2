@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_071_clarkson/">arms_1977_071_clarkson</eadid><filedesc><titlestmt><titleproper>Guide to the Clarkson family papers <num>1977.071</num></titleproper><author>Matthew Gorham</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 23, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:39 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_071_clarkson/">arms_1977_071_clarkson</eadid><filedesc><titlestmt><titleproper>Guide to the Clarkson family papers <num>1977.071</num></titleproper><author>Matthew Gorham</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 23, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-20 21:14:06 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -23,31 +23,34 @@
     <unitid>1977.071</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1793/1869" type="inclusive">1793-1869</unitdate>
     <unitdate datechar="creation" normal="1812/1815" type="bulk">1812-1815</unitdate>
-    <abstract id="aspace_2b2eee87fc97f120268767397f208c2f">The Clarkson family papers span the period 1793 to 1869, while the bulk of materials derive from the period 1812 to 1815. The papers consist of correspondence, certificates, and news articles relating to the Clarkson family. 18 letters are from Matthew Clarkson to his son Matthew Clarkson, Jr., 1812-1815. 14 of the letters were received by Matthew Clarkson, Jr. from Bishop Charles P. Mcilvaine, Rev. William A Muhlenberg, and Cyrus Bull, 1833-1870. There are also six newspaper clippings on the death of Matthew Clarkson, Sr.; a petition of Matthew Clarkson, Sr. to the New York State Legislature, 1784; resolutions of the State University of New York regarding Matthew Clarkson, Sr., 1794; and certificates, legal documents, and other ephemera.</abstract>
+    <abstract id="aspace_2b2eee87fc97f120268767397f208c2f">The Clarkson family papers consist of correspondence, certificates, and news articles relating to the Clarkson family, who resided in New York City and Brooklyn in the 18th and 19th centuries.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_ae2a89a2a1e65ed36c04d9f0364b7705" label="Text" type="Box">A0032</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_fcd0340d742a0769b39eb6c4dc1153b2" label="Mixed Materials" type="Box">A0015</container>
   </did>
-  <prefercite id="aspace_b176433846de8701b91c107c67e59f88">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Clarkson family papers, 1977.071, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_3ca4c7af9fa3ebcd489bd1a33a9ea5fa">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_c192886b039392b4614c97c92a79e1c3">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Henry Bergen, 1919.</p>  </acqinfo>
   <bioghist id="aspace_75bb5e90a5e0b7771d3577d070ecc03c">
     <head>Biographical note</head>
 <p>Matthew Clarkson (1758-1825) was an American military officer during the American Revolution and lived in New York City. Matthew Clarkson, Jr. (1796-1883) was a resident of Flatbush. Charles P. McIlvaine (1799-1873) was rector of St. Ann's Church in Brooklyn from 1827 to 1833. William A. Muhlenberg (1796-1877) was an Episcopal minister in Flushing and New York City. Cyrus Bull was secretary of St. Ann's Church.</p>  </bioghist>
+  <prefercite id="aspace_b176433846de8701b91c107c67e59f88">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Clarkson family papers, 1977.071, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <scopecontent id="aspace_e712822d9461fcb156fd5323a790ad4b">
     <head>Scope and Contents</head>
 <p>The Clarkson family papers span the period 1793 to 1869, while the bulk of materials derive from the period 1812 to 1815. The papers consist of correspondence, certificates, and news articles relating to the Clarkson family. 18 letters are from Matthew Clarkson to his son Matthew Clarkson, Jr., 1812-1815. 14 of the letters were received by Matthew Clarkson, Jr. from Bishop Charles P. Mcilvaine, Rev. William A Muhlenberg, and Cyrus Bull, 1833-1870. There are also six newspaper clippings on the death of Matthew Clarkson, Sr.; a petition of Matthew Clarkson, Sr. to the New York State Legislature, 1784; resolutions of the State University of New York regarding Matthew Clarkson, Sr., 1794; and certificates, legal documents, and other ephemera.</p>  </scopecontent>
-  <accessrestrict id="aspace_3ca4c7af9fa3ebcd489bd1a33a9ea5fa">
-    <head>Conditions Governing Access</head>
-<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_efe4b86505b29afbf97262cd701df9fa">
+    <head>Conditions Governing Use</head>
+<p>These materials are in the public domain.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Clippings (information artifacts)</genreform>
     <genreform source="aat">Legal documents</genreform>
