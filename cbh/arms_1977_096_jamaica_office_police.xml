@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_096_jamaica_office_police/">arms_1977_096_jamaica_office_police</eadid><filedesc><titlestmt><titleproper>Guide to the Jamaica Office of Police records <num>1977.096</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 24, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:42 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_096_jamaica_office_police/">arms_1977_096_jamaica_office_police</eadid><filedesc><titlestmt><titleproper>Guide to the Jamaica Office of Police records <num>1977.096</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 24, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-21 13:34:52 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,14 +11,14 @@
     <unitid>1977.096</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1780/1782" type="inclusive">1780-1782</unitdate>
-    <abstract id="aspace_6636732ee1715fef39a83c272085768d">The Jamaica Office of Police records span the period 1780 to 1782 and consist of three handwritten documents. Two of the documents concern the repair of highways in Queens County and Kings County, New York, while the third document states that Aaron Von Nostrant, Marshall of the Jamaica Office of Police, is empowered to inspect the weight and quality of bread sold in Jamaica.</abstract>
+    <abstract id="aspace_6636732ee1715fef39a83c272085768d">The Jamaica Office of Police records span the period 1780 to 1782 and consist of three handwritten documents.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_f5db386f27877b995e1d06d29b074510" label="Text" type="Box">A0033</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_0b315d242e8348a92e29173b02858854" label="Text" type="Box">A0016</container>
   </did>
   <accessrestrict id="aspace_b58f09f97044f293c129382af6f3bbe6">
     <head>Conditions Governing Access</head>
@@ -28,7 +28,13 @@
 <p>Source and date of acquisition unknown. The records were formally accessioned in 1977.</p>  </acqinfo>
   <prefercite id="aspace_ddf3f3011830cb1926cf4cd6a4568afb">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Jamaica Office of Police records, 1977.096, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Jamaica Office of Police records, 1977.096, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <scopecontent id="aspace_6b566d6537bfa23deae59e06a8965475">
+    <head>Scope and Contents</head>
+<p>The Jamaica Office of Police records span the period 1780 to 1782 and consist of three handwritten documents. Two of the documents concern the repair of highways in Queens County and Kings County, New York, while the third document states that Aaron Von Nostrant, Marshall of the Jamaica Office of Police, is empowered to inspect the weight and quality of bread sold in Jamaica.</p>  </scopecontent>
+  <userestrict id="aspace_15fe9ca8b91969d3516f1353defe453a">
+    <head>Conditions Governing Use</head>
+<p>This material is in the public domain.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Roads |z New York (State) |z Queens County</subject>
     <subject source="lcsh">Roads |z New York (State) |z Kings County</subject>
