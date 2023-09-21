@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_083_foreign_missions/">arms_1977_083_foreign_missions</eadid><filedesc><titlestmt><titleproper>Guide to the American Board of Commissioners of Foreign Missions annual meeting book <num>1977.083</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 14, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:23 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_083_foreign_missions/">arms_1977_083_foreign_missions</eadid><filedesc><titlestmt><titleproper>Guide to the American Board of Commissioners of Foreign Missions annual meeting book <num>1977.083</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 14, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-21 13:21:57 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,38 +11,41 @@
     <unitid>1977.083</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder and one oversize folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1870/1870" type="inclusive">1870</unitdate>
+    <unitdate datechar="creation" normal="1870/1870">1870</unitdate>
     <abstract id="aspace_abb808e2392347643548cdf7785e2b7c">Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees' states of residence and who they stayed with while in Brooklyn.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_06ed1815b42de872d2f677f2009ee2e4" label="Text" type="Box">A0070</container>
-    <container altrender="Large Flat Box" id="aspace_dab66189aad3443d9ffda861e6fd2e80" label="Mixed Materials" type="Oversize">OS-21</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_52c20a300a83709ed99dc261c9e4b062" label="Mixed Materials" type="Box">A0016</container>
+    <container altrender="Large Flat Box" id="aspace_b23dd9c5c0e4b06a7125e7f419dbad83" label="Mixed Materials" type="Oversize">OS-21</container>
   </did>
-  <bioghist id="aspace_d5b81f997dfbac3af6f5b45f102c6cd4">
-    <head>Historical Note</head>
-<p>The American Board of Commissioners of Foreign Missions was founded in 1810 to support foreign missionary efforts. The 61st annual meeting of the Board was held in Brooklyn, N.Y. in October of 1870.</p>  </bioghist>
-  <prefercite id="aspace_e63b5c77d58277b5905ab1382acb81e1">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); American Board of Commissioners of Foreign Missions annual meeting book, 1977.083, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <scopecontent id="aspace_ce409aa535e41c9ecc03e29a106df365">
-    <head>Scope and Contents</head>
-<p>Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees' states of residence and who they stayed with while in Brooklyn.</p>  </scopecontent>
   <accessrestrict id="aspace_4b8d7508211f3c9b7d71f8901314c488">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_ba45d96a61e81a1c3bbfc0f00af12fb4">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of H.H. McFarland, 1872.  Formally accessioned in 1977.</p>  </acqinfo>
+  <bioghist id="aspace_d5b81f997dfbac3af6f5b45f102c6cd4">
+    <head>Historical note</head>
+<p>The American Board of Commissioners of Foreign Missions was founded in 1810 to support foreign missionary efforts. The 61st annual meeting of the Board was held in Brooklyn, N.Y. in October of 1870.</p>  </bioghist>
+  <prefercite id="aspace_e63b5c77d58277b5905ab1382acb81e1">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); American Board of Commissioners of Foreign Missions annual meeting book, 1977.083, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <scopecontent id="aspace_ce409aa535e41c9ecc03e29a106df365">
+    <head>Scope and Contents</head>
+<p>Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees' states of residence and who they stayed with while in Brooklyn.</p>  </scopecontent>
+  <userestrict id="aspace_f85f9a5edb7ae5e9bac20a0b13330571">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Religious institutions |z United States</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <subject source="lcsh">Missionaries |z United States</subject>
     <genreform source="aat">Attendance lists</genreform>
     <genreform source="aat">Membership lists</genreform>
-    <subject source="lcsh">Missions |v Congresses</subject>
+    <subject source="lcsh">Missions -- Congresses</subject>
     <subject source="lcsh">Congresses and conventions |z New York (State) |z Kings County</subject>
     <corpname rules="aacr" source="naf">American Board of Commissioners for Foreign Missions</corpname>
   </controlaccess>
