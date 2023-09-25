@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_384/">mc_384</eadid><filedesc><titlestmt><titleproper>Guide to the K.O. Friedrichs Collection on Richard Courant <num>MC.384</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>September 2023</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-22 13:47:05 -0400</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>K.O. Friedrichs Collection on Richard Courant</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Friedrichs, K. O. (Kurt Otto), 1901-1983</persname>
+    </origination>
+    <origination label="source">
+      <corpname authfilenumber="(lccn)n50017637" role="dnr" source="naf">Courant Institute of Mathematical Sciences</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Friedrichs, Martin</persname>
+    </origination>
+    <unitid>MC.384</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.5 linear feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/1980" type="inclusive">1920-1980</unitdate>
+    <abstract id="aspace_7a91c60ed1f59dfa398b93346051de98">K.O. (Kurt Otto) Friedrichs was a German American mathematician who co-founded the Courant Institute of Mathematical Sciences at New York University. The K.O. Friedrichs Collection on Richard Courant (dated 1920-1980) consists of materials collected by Friedrichs documenting the life and career of Richard Courant. Materials include correspondence, speeches given in Courant's honor (including his memorial), reprints of conference proceedings and articles written by Courant (many in German), publications by other mathematicians, and summaries of visits to Germany.</abstract>
+    <physloc id="aspace_22e8822269939a66ac1dc2ed33771ac2">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_7de32a090c3643128f922aa041405797">Materials are in English and German.</langmaterial>
+  </did>
+  <scopecontent id="aspace_f1dca5c4c5ec99728c909e1f00081412">
+    <head>Scope and Contents</head>
+<p>The K.O. Friedrichs Collection on Richard Courant (dated 1920-1980) consists of materials collected by Friedrichs documenting the life and career of Richard Courant. Materials include correspondence, speeches given in Courant's honor (including his memorial), reprints of conference proceedings and articles written by Courant (many in German), publications by other mathematicians, and summaries of visits to Germany.</p>  </scopecontent>
+  <arrangement id="aspace_888e2e84a82e10b3572417b0fbb83fcf">
+    <head>Arrangement</head>
+<p>Materials are arranged alphabetically.</p>  </arrangement>
+  <accessrestrict id="aspace_bb32793783731f704d390698d5a187ff">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_9cd0f36d05df3acf30cc84176dcdcef6">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_cd3bc65106d5e2320d3fd3a162544bfd">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was treated as an administrative transfer to the New York University Archives from the Courant Institute in the summer of 2023 when the Courant Institute Library closed. The accession number associated with this transfer is 2023.044.</p>  </acqinfo>
+  <prefercite id="aspace_4aec0c9a61ae49fc3c98df942925e52b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; K.O. Friedrichs Collection on Richard Courant; MC 384; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_c8d0c8d09b2af090fb7a1d146f71ec7e">
+    <head>Processing Information</head>
+<p>Descisions concerning the arrangement, description, and physical interventions taken on this collection prior to 2023 are unknown. In 2023, the collection was physically rehoused in archival boxes and folders, arranged alphabetically, described on the collection-level, and inventoried at the folder-level.</p>  </processinfo>
+  <bioghist id="aspace_887d596ef5240b61376260cc4701016c">
+    <head>Biographical Note</head>
+<p>K.O. (Kurt Otto) Friedrichs was a German American mathematician who co-founded the Courant Institute of Mathematical Sciences at New York University.</p>  </bioghist>
+  <custodhist id="aspace_f7cfd3f83287dff740579b0e415bd1cc">
+    <head>Custodial History</head>
+<p>Given to the Courant Institute Library by Martin Friedrichs, year unknown.</p>  </custodhist>
+  <controlaccess>
+    <subject source="lcsh">Mathematicians</subject>
+    <subject source="lcsh">Mathematicians, German</subject>
+    <subject source="lcsh">Applied mathematics.</subject>
+    <subject source="lcsh">Mathematics |x Study and teaching.</subject>
+    <persname rules="dacs" source="naf">Courant, Richard, 1888-1972</persname>
+    <corpname authfilenumber="(lccn)n50017637" role="dnr" source="naf">Courant Institute of Mathematical Sciences</corpname>
+    <persname role="dnr" rules="dacs" source="local">Friedrichs, Martin</persname>
+  </controlaccess>
+  <dsc><c id="aspace_5038e7d53f8c7771d3542d704d5d1cc1" level="file"><did><unittitle>American Institute of Physics</unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_e266ceaa764d01702c4ccd1886dc13c9" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_13a89fb06de97555e11b90b457c279fd" parent="aspace_e266ceaa764d01702c4ccd1886dc13c9" type="Folder">1</container></did></c><c id="aspace_8d19ed8393cb74dd2cde27d221654c82" level="file"><did><unittitle>Bibliography</unittitle><unitdate datechar="creation" normal="1962/1962">circa 1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_fc09387090d326fb1a61f59b475a9738" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_ea94f0b5ffe1d0aadf2514bd9ffa16f7" parent="aspace_fc09387090d326fb1a61f59b475a9738" type="Folder">2</container></did></c><c id="aspace_8522db6f5e8ed10f2fcd89c689d7e9cb" level="file"><did><unittitle>Birthdays</unittitle><unitdate datechar="creation" normal="1948/1963" type="inclusive">1948-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_c1060a7a15980205666ee8c702ae6a26" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_42f46585baf880065c960664aa46c051" parent="aspace_c1060a7a15980205666ee8c702ae6a26" type="Folder">3</container></did></c><c id="aspace_43f99b23e01e172bb7777b7b58750f0f" level="file"><did><unittitle>Constance Reid</unittitle><unitdate datechar="creation" normal="1968/1977" type="inclusive">1968-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_8af702cac31aadefbfee56f541196888" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_09df4edb1a8bd4acdab6eb02847cd613" parent="aspace_8af702cac31aadefbfee56f541196888" type="Folder">4</container></did></c><c id="aspace_a2f93d543ce36aea25884ab07c523fde" level="file"><did><unittitle>Correspondence with Herman Weyl</unittitle><unitdate datechar="creation" normal="1938/1946" type="inclusive">1938-1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_85a0ec66ac1f674b2b6828c15caf76e2" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_f85d8b975a85c92ec296f36d6c8cd694" parent="aspace_85a0ec66ac1f674b2b6828c15caf76e2" type="Folder">5</container></did></c><c id="aspace_7c15430fd0076ebd7b01b2d933312ee1" level="file"><did><unittitle>Courant Memorial Lectures</unittitle><unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_4e939f96db3e8b50be6b1ca7621ba554" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_dea2f0fefb8ca7b0543c8c37f08dc450" parent="aspace_4e939f96db3e8b50be6b1ca7621ba554" type="Folder">6</container></did></c><c id="aspace_0e63f0932e48c43a3eb068ddaa053a98" level="file"><did><unittitle>Lemma</unittitle><unitdate datechar="creation" normal="1958/1963" type="inclusive">1958-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_5f76eb14896a6210bf6e92b538f2cce3" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_5a30560c14fa8e9d9175c29bd3b651d1" parent="aspace_5f76eb14896a6210bf6e92b538f2cce3" type="Folder">7</container></did></c><c id="aspace_5188acf06907d2a5ca82e5128b5b6cd3" level="file"><did><unittitle>Science in Germany</unittitle><unitdate datechar="creation" normal="1947/1980" type="inclusive">1947-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_a439589121c3fc23ce915b0042b95e75" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_0782f7cb8f7e6e13d5db9564197390bc" parent="aspace_a439589121c3fc23ce915b0042b95e75" type="Folder">8</container></did></c><c id="aspace_4c84eb173697c044ebcb98ebfe6b89d3" level="file"><did><unittitle>Stifungs Lehrstul Speech</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_b73f72ce698f9915b73a29b5465d15ac" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_8188fb533798d6d863083ef8eecc3f28" parent="aspace_b73f72ce698f9915b73a29b5465d15ac" type="Folder">9</container></did></c><c id="aspace_cb1c377a3366d8446de823395995785a" level="file"><did><unittitle>Reprints</unittitle><unitdate datechar="creation" normal="1920/1928" type="inclusive">1920-1928</unitdate><container altrender="Manuscript box - Legal" id="aspace_bcc63b695859f77775391cdcce463f7b" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_25cbb63a559d9e62d6b08d6a396eb955" parent="aspace_bcc63b695859f77775391cdcce463f7b" type="Folder">10-11</container></did></c><c id="aspace_a46b01560bb5bf18b423c951df6c0236" level="file"><did><unittitle>Reprints</unittitle><unitdate datechar="creation" normal="1925/1926" type="inclusive">1925-1926</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd13bc9691979147291714ca9c1dd677" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_d51fbed5c7ecd3884eb2ea50ec9fbbbf" parent="aspace_fd13bc9691979147291714ca9c1dd677" type="Folder">12</container></did></c><c id="aspace_e012f96e2d6e3f17029adf3c05a00029" level="file"><did><unittitle>Reprints</unittitle><unitdate datechar="creation" normal="1936/1956" type="inclusive">1936-1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_11e1e86e43b64947d6b4a902ec2c632c" label="Mixed Materials [31142066998660]" type="Box">1</container><container id="aspace_acf0efd81971480f9709659adeeab115" parent="aspace_11e1e86e43b64947d6b4a902ec2c632c" type="Folder">13-14</container></did></c></dsc>
+</archdesc>
+</ead>
