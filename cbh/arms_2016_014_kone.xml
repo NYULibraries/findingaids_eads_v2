@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_014_kone/">arms_2016_014_kone</eadid><filedesc><titlestmt><titleproper>Guide to the Allen J. Kone collection of Brooklyn postcards <num>2016.014</num></titleproper><author>Katherine Palm</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:29 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_014_kone/">arms_2016_014_kone</eadid><filedesc><titlestmt><titleproper>Guide to the Allen J. Kone collection of Brooklyn postcards <num>2016.014</num></titleproper><author>Katherine Palm</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 2016</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-25 20:06:23 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,44 +10,49 @@
     </origination>
     <unitid>2016.014</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.52 Linear Feet</extent>
-      <extent altrender="carrier">in one box</extent>
+      <extent altrender="materialtype spaceoccupied">1.1 Linear Feet</extent>
+      <extent altrender="carrier">in two boxes.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1899/1952" type="inclusive">1899-1952</unitdate>
     <unitdate datechar="creation" normal="1904/1935" type="bulk">1904-1935</unitdate>
-    <abstract id="aspace_f56d11014090c5c9ecdea7d506cd5489">The collection comprises approximately 840 photographic and picture postcards collected by Allen J. Kone that relate to Brooklyn, chiefly documenting the Brooklyn Bridge and the Downtown Brooklyn, Brooklyn Heights, Cobble Hill, and Fort Greene neighborhoods of Brooklyn.  Within these neighborhoods institutions such as charities, schools, civic buildings, and churches are represented, as well as businesses and leisure locations such as clubs, restaurants, and theaters.  The bulk of the collection dates from the early twentieth century.  Some cards are postmarked and/or stamped and have handwritten messages.</abstract>
+    <abstract id="aspace_f56d11014090c5c9ecdea7d506cd5489">A collection of photographic and picture postcards collected by Allen J. Kone that relate to Brooklyn, chiefly documenting the Brooklyn Bridge and the neighborhoods of Downtown Brooklyn, Brooklyn Heights, Cobble Hill, and Fort Greene.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Shoe Box 6" id="aspace_b23c9f17dd45ab341f6331b2f1d70856" label="Graphic Materials" type="Box">1 of 1</container>
   </did>
-  <processinfo id="aspace_846dbb55ca99474d99bb3028e0a79062">
-    <head>Processing Information</head>
-<p>The postcards were removed from two binders that originally housed the collection and placed in an archival box.</p>  </processinfo>
-  <arrangement id="aspace_5870be45f989cbdd2fe8c3ee465e426c">
-    <head>Arrangement</head>
-<p>The collection's organization reflects Kone's system of arrangement.  One section is dedicated to postcards relating to the Brooklyn Bridge and the rest of the collection is loosely arranged by geographical location.</p>  </arrangement>
-  <scopecontent id="aspace_d4289c2a383ed77fc91ca1310ccb999e">
-    <head>Scope and Contents</head>
-<p>The collection comprises approximately 840 photographic and picture postcards collected by Allen J. Kone that relate to Brooklyn, chiefly documenting the Downtown Brooklyn, Brooklyn Heights, Cobble Hill, and Fort Greene neighborhoods of Brooklyn.  Within these neighborhoods institutions such as charities, schools, civic buildings, and churches are represented, as well as businesses and leisure locations such as clubs, restaurants, and theaters.  Approximately one fifth of the collection consists of postcards relating to the Brooklyn Bridge.  The collection also contains many postcards of various buildings in the Borough Hall area.  Other highlights of the collection include many postcards of the Hotel St. George, the Hotel Bossert, and postcards of the Young Men's Christian Association and Young Women's Christian Association.  The bulk of the collection dates from the early twentieth century.  Some cards are postmarked and/or stamped and have handwritten messages.</p>  </scopecontent>
   <accessrestrict id="aspace_8961b17945e911353c14c5f844469397">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <userestrict id="aspace_4b642db6ddc80848182a2b0b1cc3abb1">
-    <head>Conditions Governing Use</head>
-<p>The copyright status of this collection has not been evaluated.  Please consult library staff for more information.</p>  </userestrict>
-  <processinfo id="aspace_3b1d48bc9f81e042ff179d53ff8c7b76">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
   <acqinfo id="aspace_d6e6fb8a9376dbd938590c49c7e76666">
     <head>Immediate Source of Acquisition</head>
-<p>Gift of Allen J. Kone, 2016.</p>  </acqinfo>
+<p>Gift of Allen J. Kone, 2016 and 2019.</p>  </acqinfo>
+  <arrangement id="aspace_5870be45f989cbdd2fe8c3ee465e426c">
+    <head>Arrangement</head>
+<p>The collection is arranged alphabetically by subject, with the exception of the Brooklyn Eagle postcards which are arranged in number order.</p>  </arrangement>
+  <bioghist id="aspace_77cc9e5b619e52944b84061851dafef1">
+    <head>Biographical note</head>
+<p>Allen J. Kone is a retired attorney and longtime resident of Brooklyn, New York who collected Brooklyn view cards and post cards for over 30 years. His chief collecting interests were in the Brooklyn Bridge and Downtown Brooklyn, including the surrounding "brownstone neighborhoods" such as Brooklyn Heights, Cobble Hill, and Fort Greene.</p>  </bioghist>
+  <phystech id="aspace_8af3d61dfb3ab7b97aec5645142b20c2">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
   <prefercite id="aspace_867729a0b2f7a3ab1202277bfcb77a34">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Allen J. Kone collection of Brooklyn postcards, 2016.014, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <bioghist id="aspace_77cc9e5b619e52944b84061851dafef1">
-    <head>Biographical / Historical</head>
-<p>Allen J. Kone is a retired attorney and longtime resident of Brooklyn, New York who collected Brooklyn view cards and post cards for over 30 years.  His chief collecting interests were in the Brooklyn Bridge and Downtown Brooklyn, including the surrounding "brownstone neighborhoods" such as the Brooklyn Heights, Cobble Hill, and Fort Greene neighborhoods of Brooklyn.</p>  </bioghist>
+<p>Identification of item, date (if known); Allen J. Kone collection of Brooklyn postcards, 2016.014, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_846dbb55ca99474d99bb3028e0a79062">
+    <head>Processing Information</head>
+<p>This collection was received in two batches, one in 2016 and one in 2019. The postcards from the original accession were removed from two binders that originally housed the collection and placed in an archival box. The postcards from the accrual were removed from a non-archival box and placed in an archival box. The donor's original arrangement was loosely geographic. The archivist reorganized the collection into a more accessible and searchable subject arrangement.</p>  </processinfo>
+  <processinfo id="aspace_3b1d48bc9f81e042ff179d53ff8c7b76">
+    <head>Processing Information</head>
+<p>Originally minimally processed to the collection level, this collection was processed to the file level by Dee Bowers in September 2023 as part of incorporating an accrual deposited by the donor in 2019.</p>  </processinfo>
+  <relatedmaterial id="aspace_00875cc1308b1a399495b9b9f6319999">
+    <head>Related Materials</head>
+<p>Brooklyn postcards collection (BCMS.0060)</p><p>Fred Snitzer collection of Kings County Postal ephemera (2013.003)</p><p>Brooklyn Daily Eagle postcard albums (1977.257)</p><p>Brooklyn Eagle postcards collection (BCMS.0090)</p><p>Collection of Flatbush postcards (V1991.067)</p><p>Brooklyn Bridge postcard collection (BCMS.0010)</p><p>Early 20th century Brooklyn postcard collection (V1988.054)</p><p>Early 20th century photographic postcards of Brooklyn (V1990.066)</p><p>Art Seidenberg collection of Prospect Park and Erasmus Hall High School postcards (2017.013)</p>  </relatedmaterial>
+  <scopecontent id="aspace_d4289c2a383ed77fc91ca1310ccb999e">
+    <head>Scope and Contents</head>
+<p>The collection comprises approximately 840 photographic and picture postcards collected by Allen J. Kone that relate to Brooklyn, chiefly documenting the Downtown Brooklyn, Brooklyn Heights, Cobble Hill, and Fort Greene neighborhoods of Brooklyn. Within these neighborhoods institutions such as charities, schools, civic buildings, and churches are represented, as well as businesses and leisure locations such as clubs, restaurants, and theaters. Approximately one sixth of the collection consists of postcards relating to the Brooklyn Bridge. The collection also contains many postcards of various buildings in the Borough Hall area. Other highlights of the collection include many postcards of the Hotel St. George, the Hotel Bossert, and postcards of the Young Men's Christian Association and Young Women's Christian Association. The bulk of the collection dates from the early twentieth century. Some cards are postmarked and/or stamped and have handwritten messages.</p>  </scopecontent>
+  <userestrict id="aspace_4b642db6ddc80848182a2b0b1cc3abb1">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Hotels |z New York (State) |z Kings County</subject>
     <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
@@ -69,32 +74,21 @@
     <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
     <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
     <genreform source="aat">Correspondence</genreform>
-    <corpname rules="dacs" source="local">Pacific Baths (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="local">P.S. 78 (Brooklyn, New York, N.Y.)</corpname>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
     <corpname rules="dacs" source="local">St. Peter's Church (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="naf">South Brooklyn Savings Bank</corpname>
-    <corpname rules="dacs" source="naf">Congregation Baith Israel Anshei Emes (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="aacr" source="naf">St. Francis College (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">Christ Church (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">Long Island College Hospital</corpname>
     <corpname rules="dacs" source="local">Towers Hotel (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="dacs" source="local">Westminster-Bethany United Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="local">P.S. 46 (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="dacs" source="local">Hotel Pierrepont (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">Plymouth Church (Brooklyn, New York, N.Y.)</corpname>
     <corpname source="local">Plymouth Church of the Pilgrims (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="dacs" source="local">Hotel Margaret (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="local">P.S. 32 (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="dacs" source="naf">St. Agnes Church (Brooklyn, New York, N.Y.)</corpname>
     <corpname source="local">Evangelical Lutheran Church (Brooklyn, New York, N.Y.)</corpname>
     <corpname source="local">Mansion House (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="dacs" source="local">St. Paul's Episcopal Church (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="local">P.S. 13 (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="local">P.S. 142 (Brooklyn, New York, N.Y.)</corpname>
-    <corpname source="local">Tabernacle Baptist Church (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="dacs" source="local">Trinity Baptist Church (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="aacr" source="naf">St. Ann's Church (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="local">St. Charles Borromeo Church (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">Hamilton Club (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">Brooklyn Engineers' Club</corpname>
     <corpname source="naf">Brooklyn Borough Hall (New York, N.Y.)</corpname>
@@ -102,7 +96,6 @@
     <corpname source="local">Brooklyn Young Men's Christian Association. Central Branch</corpname>
     <corpname rules="aacr" source="naf">Montauk Theatre (Organization : Brooklyn (New York, N.Y.))</corpname>
     <corpname rules="dacs" source="local">Hotel Palm (Brooklyn, New York, N.Y.)</corpname>
-    <corpname rules="dacs" source="naf">Franklin Trust Company (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">Crescent Athletic Club (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">First Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
     <corpname source="local">Brooklyn Savings Bank</corpname>
@@ -111,6 +104,6 @@
     <corpname rules="dacs" source="naf">Hotel St. George (Brooklyn, New York, N.Y.)</corpname>
     <persname role="dnr" rules="dacs" source="local">Kone, Allen J.</persname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_4157dee67c056a4fabcedf1549a9b48d" level="file"><did><unittitle>Advertising and trade cards</unittitle><container altrender="Shoe Box 6" id="aspace_3554300412c3a114a177d02afd048c16" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_ea56cd300b8b261293f1bc8ac07a7f09" level="file"><did><unittitle>Banks</unittitle><container altrender="Shoe Box 6" id="aspace_069bf13028d96283d74002358eb90dc5" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_120d52be29776a9d3a53bda04962b9ab"><head>Scope and Contents</head><p>Brooklyn Savings Bank, Dime Savings Bank, Eagle Savings and Loan Co., Peoples Trust Co., Williamsburgh Savings Bank.</p></scopecontent></c><c id="aspace_eb618ec9a160d48d3d1b687a5a4b1d1d" level="file"><did><unittitle>Bridges</unittitle><container altrender="Shoe Box 6" id="aspace_78bc05feef3e19966cd7e0c55e24fd11" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_96006192dc002e61873c68d8e0810cb1"><head>Scope and Contents</head><p>Brooklyn, Manhattan and Williamsburg.</p></scopecontent></c><c id="aspace_ec92269267d05aef82b58b8f08d9ca88" level="file"><did><unittitle>Buildings</unittitle><container altrender="Shoe Box 6" id="aspace_4581b0b2168b533d54649531d5d8cd44" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_2cc5b41b07e3205d365d7cd134246ca9"><head>Scope and Contents</head><p>Includes Borough Hall, Brooklyn Academy of Music, Brooklyn Museum, main post office, and the Temple Bar building, as well as armories, court houses, clubs, Eagle building (and one postcard of the Eagle Paris Bureau), factories, and civic buildings.</p></scopecontent></c><c id="aspace_ee05c58809ab07f563413d3dca6410cd" level="file"><did><unittitle>Churches</unittitle><container altrender="Shoe Box 6" id="aspace_f59d9e75f7eb617ca0ee2484fb9dfa58" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_3edb2cd892b31d7b4c425841f585885a"><head>Scope and Contents</head><p>Baptist Temple, Christ Church, First Presbyterian, Greene Avenue Presbyterian, Hanson Place Baptist, Hanson Place M.E., LaFayette Avenue Presbyterian, New York Avenue M.E., Plymouth Church, St. Agnes, St. Francis Xavier, St. James, St. Paul's, St. Peter's, Svenska Ev. Lutherska Bethlehem-Kyrkan, Trinity Church, Westminster Presbyterian, Ye Olde St. Mary's.</p></scopecontent></c><c id="aspace_c7d6e1d9b922be5875e1be509042976b" level="file"><did><unittitle>Eagle postcards</unittitle><container altrender="Shoe Box 6" id="aspace_0ac0ef191c93d34305fa5e9b1fb9f3bd" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_df24c4ff4ff6408ca134174901446d26"><head>Scope and Contents</head><p>In number order. Not a complete set.</p></scopecontent></c><c id="aspace_6e040cdb2455ddf5ad9bbfb4389c9c47" level="file"><did><unittitle>General</unittitle><container altrender="Shoe Box 6" id="aspace_f73bfb82084f82e6802aa018d2acec83" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_8b576bce9c57452ef07faee92b58348f"><head>Scope and Contents</head><p>"Greetings from Brooklyn" and other souvenir postcards with multiple images.</p></scopecontent></c><c id="aspace_171f35736fc1531b3ff2705c30cf659e" level="file"><did><unittitle>Grand Army Plaza</unittitle><container altrender="Shoe Box 6" id="aspace_3ff789b2b3fad521a04a1a57fac532dd" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_5c495a27dbed1ad09036d13953c3604e"><head>Scope and Contents</head><p>Includes the Sailors and Soldiers Memorial arch, entrance to Prospect Park, and Mount Prospect water tower.</p></scopecontent></c><c id="aspace_628ea5b392ae35f47ba8f3b169cb4e5d" level="file"><did><unittitle>Hospitals</unittitle><container altrender="Shoe Box 4" id="aspace_2af80c5b866174d0aa53e5f4c1f23dfc" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_cd285c57c51363ebff80024351a434ff"><head>Scope and Contents</head><p>Brooklyn Hospital, Long Island College Hospital, Methodist Episcopal Hospital, Seney Hospital, Tillary Street Maternity Center.</p></scopecontent></c><c id="aspace_8314f433c55263318f190815fb59fb36" level="file"><did><unittitle>Hotels</unittitle><container altrender="Shoe Box 4" id="aspace_9c9ca5f822104e46564fadda998dbfa9" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_29a473537af1e83fbcade340fc86c3a7"><head>Scope and Contents</head><p>Bossert, Clarendon, Franklin Arms, Granada, Mansion House, Montague, Margaret, Mohawk, Palm, Pierrepont, Plaza, St. George, Times Plaza, Touraine, Towers.</p></scopecontent></c><c id="aspace_3600f9d1bba8356fd07e8e9bc7e95f3c" level="file"><did><unittitle>Monuments and statues</unittitle><container altrender="Shoe Box 4" id="aspace_6849b6e88f0abdffe72ce8a72685be90" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_9d0785c96a2dee785da70a2af45963fc"><head>Scope and Contents</head><p>Includes Henry Ward Beecher statues and Prison Ship Martyrs' Monument.</p></scopecontent></c><c id="aspace_0c93b973640076ca5b569dffaa21f7ad" level="file"><did><unittitle>Navy Yard</unittitle><container altrender="Shoe Box 4" id="aspace_2f357dafa05f23b6199ebcb4d62a964a" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_42716afc5d96b81f3c546ee0ec83fce1"><head>Scope and Contents</head><p>Includes Wallabout Market.</p></scopecontent></c><c id="aspace_168c0b8b5abc1307a69b4f405820d9e7" level="file"><did><unittitle>Neighborhoods</unittitle><container altrender="Shoe Box 4" id="aspace_7d02bafad8c589dff661fda1dfcec4ae" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_9e67274fe7216c17925c9920a2831945"><head>Scope and Contents</head><p>Cobble Hill and Coney Island.</p></scopecontent></c><c id="aspace_289981c73f5767ecaf23db38df6bd010" level="file"><did><unittitle>Parks</unittitle><container altrender="Shoe Box 4" id="aspace_2c1f1faecde05db704b17b98d42d8d9d" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_0ce8243b34dcaffa5922859ccefc19d0"><head>Scope and Contents</head><p>Includes Prospect Park and Fort Greene Park.</p></scopecontent></c><c id="aspace_83136fdbf2cf607f7bc1c0402582eccc" level="file"><did><unittitle>Restaurants</unittitle><container altrender="Shoe Box 4" id="aspace_68fa23fe8fca45576655b28634fc84a5" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_c202930b6032585ab3e7ffea36c1e470" level="file"><did><unittitle>Schools</unittitle><container altrender="Shoe Box 4" id="aspace_56ee32d78cd9df08879be02223d6f7a7" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_8579c2977b0e6a3d8441289c2f3347e6"><head>Scope and Contents</head><p>Includes Adelphi, Packer Collegiate Institute, Polytechnic, and Pratt.</p></scopecontent></c><c id="aspace_7e9d2cc0d2d7b4fb37057368fed006f3" level="file"><did><unittitle>Stores</unittitle><container altrender="Shoe Box 4" id="aspace_510b0a1887dafa3a671d587a6f996e64" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_e38561217ab9aa3e8db0d423edd306e3"><head>Scope and Contents</head><p>Includes Namm's, Loeser's, and Abraham and Straus.</p></scopecontent></c><c id="aspace_4dba872051c1f6d7f26d1c095f7c25fb" level="file"><did><unittitle>Streets</unittitle><container altrender="Shoe Box 4" id="aspace_1b408cdbc266dfea3b1fd4f1151367c5" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_9734d65c2be8f41471f3ab5b459f7e50"><head>Scope and Contents</head><p>Bergen Street, Clinton Avenue, Columbia Heights, Court Street (including City Hall Square), Eastern Parkway, Flatbush Avenue, Fourth Avenue, Fulton Street, Greene Avenue, Hanson Place, Lafayette Avenue, Montague Street, Myrtle Avenue, Park Place, Pierrepont Street, Prospect Park West, St. Mark's Avenue, Union Street, Washington Avenue.</p></scopecontent></c><c id="aspace_df642e0cd85bc5523f01e4806b45b5c7" level="file"><did><unittitle>Theaters</unittitle><container altrender="Shoe Box 4" id="aspace_3b3f18f06d54e6145c9570720cd271c0" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_4a8848acca96703a5e8a1ba5ddc8b11c"><head>Scope and Contents</head><p>Albee, Grand Opera House, Fox, Fulton, New Montauk, Orpheum, Paramount, Prospect, Strand.</p></scopecontent></c><c id="aspace_93beb2d0902bfbd1b1729b6879e5587c" level="file"><did><unittitle>Transportation</unittitle><container altrender="Shoe Box 4" id="aspace_596d680afb2e20a04552cb39d7c7fe6b" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_c4bbd1d5ee8f2a66a34fb1eef68f28d0"><head>Scope and Contents</head><p>Includes L.I.R.R. depot, Fulton Street elevated, and Borough Hall station.</p></scopecontent></c><c id="aspace_a8e0784bdd64b29708270dd86f0d689e" level="file"><did><unittitle>Views and waterfront</unittitle><container altrender="Shoe Box 4" id="aspace_e2dfce6eb31db258e9247bdf88ea92b1" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_90e7f42c3644ef9448cc38cb27516e5b" level="file"><did><unittitle>YMCA and YWCA</unittitle><container altrender="Shoe Box 4" id="aspace_9635ff9e684be5e109d2c93a94a5f411" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_e7686f0cbe6ad2ef30170d771e8836c2"><head>Scope and Contents</head><p>Includes both Central and Naval YMCA.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
