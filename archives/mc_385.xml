@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_385/">mc_385</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Courant Institute of Mathematical Sciences Ultracomputer <num>MC.385</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>August 2023</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-25 13:50:50 -0400</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of the Courant Institute of Mathematical Sciences Ultracomputer</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n50017637" source="naf">Courant Institute of Mathematical Sciences</corpname>
+    </origination>
+    <origination label="source">
+      <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+    </origination>
+    <unitid>MC.385</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.67 linear feet</extent>
+      <extent altrender="carrier">in 1 oversize flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+    <abstract id="aspace_d804717ea60943db39661f584480bc6e">The New York University Ultracomputer was developed in the 1980s at Computer Science department of the Courant Institute of Mathematical Sciences. Much of the original concept was developed by mathematician, computer scientist, and professor Jacob T. Schwartz. The Records of the Courant Institute of Mathematical Sciences Ultracomputer consist of schematics and logs of Ultracomputer II and Ultracomputer III from 1987.</abstract>
+    <physloc id="aspace_1c44279d03d62dc6f6e706e3a7854361">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_f82115742460c293ff90f939539b0424">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_7dd0a292946c3b16ab3816a8186db6fe">
+    <head>Scope and Contents</head>
+<p>The Records of the Courant Institute of Mathematical Sciences Ultracomputer consist of schematics and logs of Ultracomputer II and Ultracomputer III from 1987.</p>  </scopecontent>
+  <arrangement id="aspace_3014c828e8bb57974ce0eba20d1ffbf2">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <accessrestrict id="aspace_bff4c05937f3876198dc7bf730a9b0bf">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_71e3554e013ac44c2e54aaae62afa7bd">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Courant Institute of Mathematical Sciences are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact New York University Archives, special.collections@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <acqinfo id="aspace_aa456fbcc625849dbe0edbf68bc6f867">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was treated as an administrative transfer to the New York University Archives from the Courant Institute in the summer of 2023 when the Courant Institute Library closed. Original provenance is unknown. The accession number associated with this transfer is 2023.040.</p>  </acqinfo>
+  <prefercite id="aspace_0b5a92d6bdc520ccd7e752fda2564b88">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Records of the Courant Institute of Mathematical Sciences Ultracomputer; MC 385; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_e1511246f6bb75a4cd3b5d2f09f5b5ea">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were removed from original binders and rehoused in archival boxes and folders.</p>  </processinfo>
+  <bioghist id="aspace_69cd4c3720acf2a0e441488aca096045">
+    <head>Historical Note</head>
+<p>The New York University Ultracomputer was developed in the 1980s at Computer Science department of the Courant Institute of Mathematical Sciences. Much of the original concept was developed by mathematician, computer scientist, and professor Jacob T. Schwartz.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Supercomputers</subject>
+    <subject source="lcsh">Computer science.</subject>
+    <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_fdff26d7116949da3ab1ec43b7ad50ae" level="file"><did><unittitle>Logs and Schematics</unittitle><unitdate datechar="creation" normal="1987/1987">1987</unitdate><container altrender="Flat OS Box 17" id="aspace_1fef2a898583198062538acbfb7c2b76" label="Mixed Materials [31142066998587]" type="Box">1</container><container id="aspace_a1be9b27113c28d600fcbdc483326350" parent="aspace_1fef2a898583198062538acbfb7c2b76" type="Folder">1-5</container></did></c></dsc>
+</archdesc>
+</ead>
