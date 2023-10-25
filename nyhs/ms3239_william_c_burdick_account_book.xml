@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms3239_william_c_burdick_account_book</eadid><filedesc><titlestmt><titleproper>Guide to the William Clarke Burdick account book<lb/>1862-1876<lb/> <num>MS 3239</num></titleproper><author>Marybeth Kavanagh</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>October 2023</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-10-11 12:30:47 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>William Clarke Burdick account book</unittitle>
+    <origination label="Creator">
+      <persname>Burdick, William Clarke, 1829-1902</persname>
+    </origination>
+    <unitid>MS 3239</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 Linear feet</extent>
+      <extent altrender="carrier">1 volume</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1862-1876</unitdate>
+    <abstract id="aspace_38ac6fdf93af15a4e311b817158fa00d">Account book of William Clarke Burdick (1829-1902), a cheese dealer from Allegany County, New York. The volume documents customer accounts from 1862 to 1865, and inventories of Burdick's assets from 1868-1876.</abstract>
+    <physloc id="aspace_7642fe65f6124bcbabcc236cfd08e135">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_6527dce536b3be6cd11d0cff3dff4c02">The documents in the collection are in English.</langmaterial>
+  </did>
+  <bioghist id="aspace_75a471e51c690a6be3cac04142457ffa">
+    <head>Biographical / Historical</head>
+<p>William Clarke Burdick (1829-1902) was the son of Amos and Anstis Clarke Burdick, born in Alfred, Allegany County, New York on November 26, 1829.  He founded the Allegany Cheese Company, a wholesale cheese distributor, in the mid-19th century. In 1886, the business was re-organized under the firm name of William. C. Burdick and Company. Burdick served as Alfred's town supervisor  from 1874-1875, and was a trustee of Alfred University from 1857 until his death on January 28, 1902.</p>  </bioghist>
+  <accessrestrict id="aspace_e641e3f3bbe461dee44161a984f5492a">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_e82bf19013034b372c5c166e8721ebac">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <acqinfo id="aspace_9710c0da39db5d434427e429b8a6f865">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchase, 2016.</p>  </acqinfo>
+  <prefercite id="aspace_4568eef2273a5c002ef40722d12b0951">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: William Clarke Burdick account book, MS 3239, New-York Historical Society Library.</p>  </prefercite>
+  <processinfo id="aspace_e7012ca15ad8b821e54e05ebb7542ecf">
+    <head>Processing Information</head>
+<p>Collection processed by archivist Marybeth Kavanagh, October 2023.</p>  </processinfo>
+  <scopecontent id="aspace_8e529b00f493c892e10b9f638931a3aa">
+    <head>Scope and Contents</head>
+<p>Account book kept by cheese merchant William Clarke Burdick (1829-1902), founder of the Allegany Cheese Company in Alfred, New York.  Entries from 1862-1865 record the purchase and sale of cheese to customers in New York, Rhode Island and Pennsylvania. An index to customer names is included. Later entries list inventories of Burdick's assets from 1868-1876. Volume also contains four pages with cut-out images pasted on them, which obscures some writing.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Allegany County (N.Y.)</geogname>
+    <subject source="lcsh">Cheese industry</subject>
+    <subject source="lcsh">Distributors (Commerce)</subject>
+    <genreform source="aat">Account books.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_d8a7c9774105f5b380583f41617a84c2" level="file"><did><unittitle>William Clarke Burdick account book</unittitle><unitdate datechar="creation" type="inclusive">1862-1876</unitdate><container id="aspace_6dfdf3b443ce86b1fe8b25b5b63ce8df" label="Mixed Materials" type="Offsite-Box">1</container><container id="aspace_dd9974945f875a892b8b8539cbeba299" parent="aspace_6dfdf3b443ce86b1fe8b25b5b63ce8df" type="Folder">1</container></did></c></dsc>
+</archdesc>
+</ead>
