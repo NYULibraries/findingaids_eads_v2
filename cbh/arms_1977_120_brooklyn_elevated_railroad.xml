@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_120_brooklyn_elevated_railroad/">arms_1977_120_brooklyn_elevated_railroad</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Elevated Railroad Company records <num>1977.120</num></titleproper><author>Marilyn H. Pettit</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 2006</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:38 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_120_brooklyn_elevated_railroad/">arms_1977_120_brooklyn_elevated_railroad</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Elevated Railroad Company records <num>1977.120</num></titleproper><author>Marilyn H. Pettit</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 2006</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-02 13:56:23 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,23 +10,28 @@
     </origination>
     <unitid>1977.120</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
-      <extent altrender="carrier">in eight folders.</extent>
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one box.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1875/1897" type="inclusive">1875-1897</unitdate>
-    <abstract id="aspace_87e33bc7973c0ba7d3255f8716ad06c0">Items dating from 1875 to 1897 include correspondence among the trustees of the Company, operations reports, contracts, memorandums, articles of incorporation, and minutes.  Substantial portions of the collection include letters addressed to Henry W. Putnam, president of the Railroad, and letters from Frederick Uhlmann, a New York City hops merchant who was chairman of the Executive Committee.</abstract>
+    <abstract id="aspace_87e33bc7973c0ba7d3255f8716ad06c0">This collection includes administrative, business, and financial records of the Brooklyn Elevated Railroad Company spanning the period 1875 to 1897.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_55c9ac59754838d85351ea5e7ef44d0a" label="Text" type="Box">A0035</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_98846343002b5bdab1fdff51c7b77f9b" label="Mixed Materials" type="Box">1</container>
   </did>
+  <accessrestrict id="aspace_8ab74b76b5704788a7da39f255a12812">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_655ef8fb19a76fede6c4d9267625cbe9">
     <head>Immediate Source of Acquisition</head>
 <p>Purchased from James B. Stewart, 1940.</p>  </acqinfo>
+  <arrangement id="aspace_8f57f7f95988d3b4a4f3a7abf8dcc0cd">
+    <head>Arrangement</head>
+<p>The collection is arranged by document type.</p>  </arrangement>
   <bioghist id="aspace_2f2ebc985e211a65d6b57b3f495980f7">
-    <head>Historical Note</head>
-<p>The Brooklyn Elevated Railroad Company was incorporated in 1874 and became an extensive elevated railroad in Brooklyn and, after the consolidation of 1898, New York City.  The first rail was laid in 1883, and the railroad opened to the public in May of 1885.  W. Fontaine Bruff was president of the company until circa 1883, when Henry W. Putnam became president.  Putnam was succeeded by Adolf Ladenburg in 1892.</p><p>The original elevated line ran from Washington and York streets along Flushing Avenue to Grand Avenue and then Myrtle Avenue.  It was taken out of service in 1889 and replaced by 1890 with four main lines:</p>    <list numeration="arabic" type="ordered">
-      <head>Missing Title</head>
+    <head>Historical note</head>
+<p>The Brooklyn Elevated Railroad Company was incorporated in 1874 and became an extensive elevated railroad in Brooklyn and, after the consolidation of 1898, New York City. The first rail was laid in 1883, and the railroad opened to the public in May of 1885.  W. Fontaine Bruff was president of the company until circa 1883, when Henry W. Putnam became president. Putnam was succeeded by Adolf Ladenburg in 1892.</p><p>The original elevated line ran from Washington and York streets along Flushing Avenue to Grand Avenue and then Myrtle Avenue. It was taken out of service in 1889 and replaced by 1890 with four main lines:</p>    <list numeration="arabic" type="ordered">
       <item>The Broadway line, running from the Broadway Ferry in the neighborhood of Williamsburg to Van Sicklen Avenue in the neighborhood of East New York</item>
       <item>The Lexington line, running from the Brooklyn Bridge to Van Sicklen Avenue in East New York</item>
       <item>The Myrtle Avenue line, running from the Fulton Ferry to Wyckoff Avenue in the neighborhood of Ridgewood</item>
@@ -39,25 +44,24 @@
       <item>Howard, Henry W.B., ed. <emph render="italic">The Eagle and Brooklyn</emph>. Brooklyn, N.Y.: The Brooklyn Daily Eagle, 1893.</item>
     </list>
   </bioghist>
-  <accessrestrict id="aspace_8ab74b76b5704788a7da39f255a12812">
-    <head>Conditions Governing Access</head>
-<p>Open to users without restriction.</p>  </accessrestrict>
-  <relatedmaterial id="aspace_793bb3fc97eeb6e8ee73896b6e779ccc">
-    <head>Related Materials</head>
-<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
-      <head>Missing Title</head>
-      <item>ARC.152, Brooklyn railroad and subway collection, 1853-1958</item>
-    </list>
-  </relatedmaterial>
-  <scopecontent id="aspace_a27488b5fd5bc121e9d4b451f8d01040">
-    <head>Scope and Contents</head>
-<p>This collection includes administrative, business, and financial records of the Brooklyn Elevated Railroad Company spanning the period 1875 to 1897.  Items include correspondence among the trustees of the Company, operations reports, contracts, memorandums, articles of incorporation, and minutes.  The records indicate the financial arrangements and operations of a growing transportation system in the 1880s, including plans for property use, employment and labor needs, pay rates, construction expenses, and passenger statistics.  Substantial portions of the collection include letters addressed to Henry W. Putnam, president of the Railroad, and letters from Frederick Uhlmann, a New York City hops merchant who was chairman of the Executive Committee.</p>  </scopecontent>
   <prefercite id="aspace_1045c9d03f3042775d69ef29a9a0a9c1">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Brooklyn Elevated Railroad Company records, 1977.120, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Brooklyn Elevated Railroad Company records, 1977.120, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <processinfo id="aspace_bce14df7fd14274738815b159e655a52">
     <head>Processing Information</head>
 <p>Minimally processed to the collection level.</p>  </processinfo>
+  <processinfo id="aspace_1ee645e72400e75e32ac3b20b83cb1cd">
+    <head>Processing Information</head>
+<p>This collection was rehoused from a shared box into its own box by Dee Bowers in 2023.</p>  </processinfo>
+  <relatedmaterial id="aspace_793bb3fc97eeb6e8ee73896b6e779ccc">
+    <head>Related Materials</head>
+<p>Brooklyn railroad and subway collection (ARC.152)</p>  </relatedmaterial>
+  <scopecontent id="aspace_a27488b5fd5bc121e9d4b451f8d01040">
+    <head>Scope and Contents</head>
+<p>This collection includes administrative, business, and financial records of the Brooklyn Elevated Railroad Company spanning the period 1875 to 1897. Items include correspondence among the trustees of the Company, operations reports, contracts, memorandums, articles of incorporation, and minutes. The records indicate the financial arrangements and operations of a growing transportation system in the 1880s, including plans for property use, employment and labor needs, pay rates, construction expenses, and passenger statistics. Substantial portions of the collection include letters addressed to Henry W. Putnam, president of the Railroad, and letters from Frederick Uhlmann, a New York City hops merchant who was chairman of the Executive Committee.</p>  </scopecontent>
+  <userestrict id="aspace_08561b14a210a5695148a151a7c344a3">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Railroads, Elevated |z New York (State) |z Kings County</subject>
     <subject source="lcsh">Railroad companies |z New York (State) |z Kings County</subject>
