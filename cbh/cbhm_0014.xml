@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0014/">cbhm_0014</eadid><filedesc><titlestmt><titleproper>Checks and receipts from Brooklyn businesses and institutions collection <num>CBHM.0014</num></titleproper><author>Alice Griffin</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>November 2023</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-01 20:11:49 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Checks and receipts from Brooklyn businesses and institutions collection</unittitle>
+    <unitid>CBHM.0014</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.08 Linear Feet</extent>
+      <extent altrender="carrier">in one small flat box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1809/1931" type="inclusive">1809-1931</unitdate>
+    <abstract id="aspace_3a83ef6754b0296e133902a254005bbe">This collection includes sixty-three checks and receipts from Booklyn businesses, institutions, and individuals for goods and services, charitable donations, cemetery burials, real estate, and boarding children.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_c27d8d7cca8b3662a378214bcfd26f1c">
+    <head>Scope and Contents</head>
+<p>A collection of checks and receipts from Brooklyn businesses and institutions. Some items are on official letterhead and some were written on lined writing paper. The checks and receipts represent payment for railroad and stagecoach freight services, insurance companies, newspaper advertising, church fees, house repairs, beer, coal, wood, hay, milk, charitable donations, directory subscription, books, cemetery interment, boarding children, piano rental, clothing, and real estate.</p><p>Companies and organizations represented in te collection are Atlantic Bank, Bergin Farm, The Newtown Stage Line, Lafayette Fire Insurance Company, Journal of Commerce, National Express Company, Deutsch Evangelisch Lutherische Zions Gemeinde, Brooklyn Daily Eagle, Brooklyn Daily Union, Bank of New-York, J. A. Oxley and Company, Talmage and Company, Samuel Thompson's Nephew, J. Carhart, Thomas Houseworth, Brooklyn Daily Times, Long Island Milk Dairy, Original City and County Scales, Kings County Fire Insurance Company, Brooklyn Library Building Find Association, Long Island Bank, Mechanics Bank, George H. Berns Wholesale and Retail Dealer in Housatonic Valley Milk, Dime Savings Bank of Brooklyn, Williamsburgh Savings Bank, East Brooklyn Savings Bank, the Nassau Gas Light Company, Mechanics and Traders Bank of Brooklyn, Mechanics and Traders Exchange, Rand's New York City Business Directory, International Publishing Company, Ridgewood Ice Company, Cypress Hills' Cemetery, Williamsburg Coke Office, J. Groppe, Dealer in Coal and Wood, German Savings Bank of Brooklyn, Williamsburgh Gas Light Company, The Peoples Gas Light Company, H. F. Burroughs and Company, New York and New Jersey Telephone Company, Richard B. Treacy's Piano and Organ Warerooms, Hamilton Bank of Brooklyn, Von Glahn Brothers, Hitchcock Realty Company, A. D. Matthews' Sons, and The Evergreens Cemetery. </p>  </scopecontent>
+  <arrangement id="aspace_b3ca4f3af617a08380d89fb77ecb0eb4">
+    <head>Arrangement</head>
+<p>The collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_b33afd33e8bc2c1a481e029cf0443ea4">
+    <head>Historical note</head>
+<p>Checks are a written order to a bank by an account holder authorizing the bank to make a payment from their account to a payee. Checks as a form of payment originated in the eastern Mediterranean and eventually were widely used in Europe. Using checks in the United States became more common after the National Banking Acts in the 1860s, which limited banks' ability to produce bank notes. Other requirements in these Acts encouraged banks to develop relationships with other institutions in large cities and better transportation made shipping physical currency easier between banks. Bank clearinghouses, established for the purposes of settling checks, also started opening in the U.S. in the 1850s. The Federal Reserve Act of 1913 allowed the Federal Reserve to set up a national check clearinghouse that all members of the Federal Reserve had to use. Check clearing became faster and more reliable throughout the 20th century due to automation and computerization. Check use post-1995 dropped dranatically as consumers began to rely more on electronic forms of payment.</p><p>Source: The Evolution of the Check as a Means of Payment: A Historical Survey, Stephen Quinn and William Roberds (2008)</p>  </bioghist>
+  <accessrestrict id="aspace_ca3deb2da0cc04858815855fb2ab2bc3">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_db43e69c309a902b591192403663f6c9">
+    <head>Conditions Governing Use</head>
+<p>Material in this collection is in the public domain.</p>  </userestrict>
+  <acqinfo id="aspace_0a34735c15ff2bc6d696b5753e944e88">
+    <head>Immediate Source of Acquisition</head>
+<p>Immediate source of acquisition unknown. Formally accessioned in 2022.</p>  </acqinfo>
+  <phystech id="aspace_7c4d06c6e517b07811d4cdd0b4bcf5f2">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_c0160d4c9f4518b902b4de317ab0f878">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Checks and receipts from Brooklyn businesses and institutions collection, CBHM.0014, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_0118baa22eed0189bdfecf19f73067e2">
+    <head>Processing Information</head>
+<p>The records were processed and arranged by Alice Griffin in 2023.</p>  </processinfo>
+  <relatedmaterial id="aspace_b95b004efe159a526d50e6798769a862">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related collections:</p><p>- United States, Confederate States, and foreign currency collection, 1690-1904 (1974.120)</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform authfilenumber="300191339" source="aat">checks (bank checks)</genreform>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <subject source="lcsh">Insurance |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Business</subject>
+    <subject source="lcsh">Banks and banking</subject>
+    <subject source="lcsh">Beer</subject>
+    <subject source="lcsh">Real estate business -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Cemeteries |z New York (State)</subject>
+    <subject source="lcsh">Charitable giving</subject>
+    <corpname rules="aacr" source="naf">Brooklyn Daily Eagle (Firm)</corpname>
+    <corpname rules="dacs" source="local">Kings County Fire Insurance Company</corpname>
+    <corpname rules="aacr" source="naf">Long Island Bank</corpname>
+    <corpname source="local">Dime Savings Bank of Brooklyn</corpname>
+    <corpname rules="aacr" source="naf">Williamsburgh Savings Bank</corpname>
+    <corpname rules="aacr" source="naf">Cypress Hills Cemetery (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="naf">New York and New Jersey Telephone Company</corpname>
+    <corpname rules="aacr" source="naf">Cemetery of the Evergreens (New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
