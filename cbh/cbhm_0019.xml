@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0019">cbhm_0019</eadid><filedesc><titlestmt><titleproper>Guide to the Laura Fitzpatrick photograph collection <num>CBHM.0019</num></titleproper><author>Alice Griffin</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>November 2023</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-07 19:51:15 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Laura Fitzpatrick photograph collection</unittitle>
+    <origination label="Creator">
+      <persname source="local">Fitzpatrick, Laura</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="local">Evans, Daniel S.</persname>
+    </origination>
+    <unitid>CBHM.0019</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7.12 Gigabytes</extent>
+      <extent altrender="carrier">in 409 files.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1938/1948" type="inclusive">1938-1948</unitdate>
+    <abstract id="aspace_e1af565d68459e18a0deb371264fd5df">The Laura Fitzpatrick photograph collection includes digital surrogates of photographs taken by Laura Fitzpatrick of her family, friends and neighbors outdoors on the streets, rooftops, beaches, and parks of Brooklyn, spanning the years 1938-1948. The original album is held by the Smithsonian National Museum of African American History and Culture.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_99b5cf94992929f0f8910a97b08e9d5c">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_c01a4795ef21b1a7e744c3ad0595e3da">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Daniel S. Evans, 2022.</p>  </acqinfo>
+  <arrangement id="aspace_f3600d02d9fee263acb6884ef9bbc77c">
+    <head>Arrangement</head>
+<p>The files have been assigned call numbers according to chronological order.</p>  </arrangement>
+  <bioghist id="aspace_89040cedc61b324782d89dcd73931391">
+    <head>Biographical Note</head>
+<p>Laura Fitzpatrick was born on October 25, 1927 in Mount Meigs, Alabama. Her family moved to New York when she was ten years old and she started taking photographs with an Agfa Billy camera soon after. Fitzpatrick turned the rooftop of her apartment building at 635 Broadway in Williamsburg into a photo studio. She married Ernest Evans in 1951 and they had four children, including the donor of this collection, Daniel Evans.</p><p>Fitzpatrick received her nursing degree from the Young Women's Christian Association (YWCA) School of Practical Nursing at 30 Third Avenue in Brooklyn and she worked at Brookdale Hospital for 33 years. She went back to school in the 1970s for her Registered Nursing (RN) degree.</p><p>In her personal time, Fitzpatrick frequented the Apollo Theater and the Fox Theatre for musical concerts and Broadway theaters. 
+ 
+Fitzpatrick moved to Fayetteville, North Carolina in retirement. She died on March 22, 1987.</p>  </bioghist>
+  <originalsloc id="aspace_3e92de8aaf49f6a4a50cf1e29bbfb965">
+    <head>Existence and Location of Originals</head>
+<p>The original camera and scrapbook containing the original photographs are held by the Smithsonian Institution's National Museum of African American History and Culture (NMAAHC) in Washington, DC.</p>  </originalsloc>
+  <phystech id="aspace_c76167657f38a61b1eab5c39b20b52da">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This is a digital-only collection and is available on our digital collections portal under the call number prefix FITZ.</p>  </phystech>
+  <prefercite id="aspace_367879b613a897120285773eb032389e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Laura Fitzpatrick photograph collection, CBHM.0019, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_449c9c16e508fe1342ab716b9ec84235">
+    <head>Processing Information</head>
+<p>The digital files were cataloged by Special Collections Cataloger, Deborah Tint, and the finding aid was written by Archivist, Alice Griffin.</p>  </processinfo>
+  <scopecontent id="aspace_a0c5c6ce4fb71ad44ef74fed62b11f45">
+    <head>Scope and Contents</head>
+<p>The collection is made up of 409 scanned digital images of original photographs taken by Laura Fitzpatrick from the ages of 11 to 21 (1938-1948). Fitzpatrick's photographs document her family, friends, and neighbors, Black families who were part of the Great Migration from the American South who had recently arrived in Brooklyn. The photographs were taken in Prospect Park, Coney Island, Williamsburg, and Bedford-Stuyvesant as well as some other locations in New York and Washington, DC. The majority of the photographs are black-and-white, with a few hand-colored examples.</p><p>The original camera, an Afga Billy, and scrapbook containing the original photographs were donated to the Smithsonian Institution's National Museum of African American History and Culture (NMAAHC) in Washington, DC. They were a part of the museum's inaugural exhibition, "Everyday Beauty: Photographs and Films from the Permanent Collection."</p>  </scopecontent>
+  <userestrict id="aspace_30cef83b2d68e537c60a855ef1ef8eec">
+    <head>Conditions Governing Use</head>
+<p>Copyright retained by the owner. Please consult library staff for further details and assistance.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">East New York (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <subject source="lcsh">Childhood and youth</subject>
+    <genreform source="aat">Portraits</genreform>
+    <subject source="lcsh">African Americans</subject>
+    <subject authfilenumber="sh 87006824" source="lcsh">Teenagers</subject>
+    <subject source="lcsh">Children -- New York (State) -- Kings County</subject>
+    <persname role="dnr" source="local">Evans, Daniel S.</persname>
+    <persname source="local">Fitzpatrick, Laura</persname>
+    <corpname rules="dacs" source="local">Young Women's Christian Association (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
