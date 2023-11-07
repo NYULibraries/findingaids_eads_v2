@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_425_friel/">arms_1977_425_friel</eadid><filedesc><titlestmt><titleproper>Guide to the Daniel and Hugh Friel letters <num>1977.425</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 8, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:00 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_425_friel/">arms_1977_425_friel</eadid><filedesc><titlestmt><titleproper>Guide to the Daniel and Hugh Friel letters <num>1977.425</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 8, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-07 15:45:09 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -14,37 +14,48 @@
     <unitid>1977.425</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.06 Linear Feet</extent>
-      <extent altrender="carrier">in one folder.</extent>
+      <extent altrender="carrier">in five folders.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1858/1866" type="inclusive">1858-1866</unitdate>
-    <abstract id="aspace_99a07f6428b8731442810fa042d231d0">This collection includes letters from Daniel and Hugh Friel to their family, in which they address business affairs, personal matters, and their experiences fighting in the Civil War.  The collection includes the original letters along with typed transcriptions.  The letters span 1858 to 1866.  Daniel and Hugh Friel immigrated to Brooklyn from Ireland and lived on the corner of Classon and Lafayette Streets.</abstract>
+    <abstract id="aspace_99a07f6428b8731442810fa042d231d0">This collection primarily consists of letters from Daniel and Hugh Friel to their family, in which they address business affairs, personal matters, and their experiences fighting in the Civil War.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_990548d0ae4e234eb77696a7b11973f1" label="Text" type="Box">A0069</container>
   </did>
-  <processinfo id="aspace_b1b7adf9b23b9dad5679f0e5044e2bc6">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
-  <prefercite id="aspace_e019773f61f5451fd8b2f77e99975ebb">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Daniel and Hugh Friel letters, 1977.425, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <bioghist id="aspace_db5f3de2531d8a667ad31802763c7828">
-    <head>Biographical Note</head>
-<p>Daniel and Hugh Friel immigrated to Brooklyn from Ireland and lived on the corner of Classon and Lafayette Streets.  Daniel, the eldest brother, had served in the U.S. Navy on the Frigate <emph render="italic">Wabash</emph> before serving in the Civil War as Second Lieutenant in the 47th New York Volunteers.  After the War, he returned to Brooklyn and became a fireman.  Hugh also served in the Civil War, enlisting in the 158th New York Volunteers as a drummer boy.  He later resided at the Old Soldiers Home in Bath, N.Y., where he died at an advanced age.</p>  </bioghist>
-  <scopecontent id="aspace_e3f4c593c4b8407f41aa0f5ee9bf05e3">
-    <head>Scope and Contents</head>
-<p>This collection includes letters from Daniel and Hugh Friel to their family, in which they address business affairs, personal matters, and their experiences fighting in the Civil War.  The collection includes the original letters along with typed transcriptions.  The letters span 1858 to 1866.</p>  </scopecontent>
   <accessrestrict id="aspace_821b22d30bdf8e29d17b490c324616fe">
     <head>Conditions Governing Access</head>
-<p>Open to users without restriction.</p>  </accessrestrict>
+<p>The two folders of original letters are restricted due to their fragile condition.</p>  </accessrestrict>
   <acqinfo id="aspace_dfa9d0be8c94d37ca07a93d59063690d">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Mrs. Meyers and Mrs. George Blanthorn, 1965.</p>  </acqinfo>
+  <arrangement id="aspace_7501bf4e9cf7aadbe91afe7c63c3f89a">
+    <head>Arrangement</head>
+<p>The letters are arranged by sender and the originals are foldered separately from the typescript copies.</p>  </arrangement>
+  <bioghist id="aspace_db5f3de2531d8a667ad31802763c7828">
+    <head>Biographical note</head>
+<p>Daniel and Hugh Friel immigrated to Brooklyn from Ireland and lived on the corner of Classon and Lafayette Streets. Daniel, the eldest brother, had served in the U.S. Navy on the Frigate <emph render="italic">Wabash</emph> before serving in the Civil War as Second Lieutenant in the 47th New York Volunteers. After the War, he returned to Brooklyn and became a fireman. Hugh also served in the Civil War, enlisting in the 158th New York Volunteers as a drummer boy. He later resided at the Old Soldiers Home in Bath, N.Y., where he died at an advanced age.</p>  </bioghist>
+  <phystech id="aspace_f71d6a620b3de0eb3a05697bcfafb64f">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Due to the fragility of the original letters, researchers should use the typescript copies in their stead whenever possible.</p>  </phystech>
+  <prefercite id="aspace_e019773f61f5451fd8b2f77e99975ebb">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Daniel and Hugh Friel letters, 1977.425, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_b1b7adf9b23b9dad5679f0e5044e2bc6">
+    <head>Processing Information</head>
+<p>Originally minimally processed to the collection level, the collection was rehoused and the finding aid revised by Dee Bowers in November 2023.</p>  </processinfo>
+  <relatedmaterial id="aspace_320db52f388c067c1266a88c8cdaadfd">
+    <head>Related Materials</head>
+<p>Robert Lamb Civil War letters (1977.401)</p><p>Batt Jones and Edward R. Squibb Civil War letter (1977.535)</p><p>Letters of James W. Vanderhoef (BCMS.0021)</p><p>John Vliet Civil War correspondence (1974.109a)</p><p>Daniel I. Underhill Civil War correspondence (1980.010)</p><p>Bennett family collection of Civil War correspondence and other material (2009.012)</p><p>Tilley family papers (1986.057)</p><p>Frank R. Oakley Civil War papers (1974.135)</p><p>H. Joseph Murray family papers (1977.391)</p>  </relatedmaterial>
+  <scopecontent id="aspace_e3f4c593c4b8407f41aa0f5ee9bf05e3">
+    <head>Scope and Contents</head>
+<p>This collection includes letters from Daniel and Hugh Friel to their family, in which they address business affairs, personal matters, and their experiences fighting in the Civil War. The collection includes the original letters along with typed transcriptions. The collection also includes typescript copies of letters from William Davis and "Father" Friel as well as an original 1866 letter from W.E. (William Erigena) Robinson (1814-1892) recommending Daniel Friel for employment. The letters span 1858 to 1866.</p>  </scopecontent>
+  <userestrict id="aspace_4987df33cf0e0305bf4cc89775c72876">
+    <head>Conditions Governing Use</head>
+<p>These materials are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Fire fighters |z New York (State) |z Kings County</subject>
     <subject source="lcsh">Soldiers |z New York (State) |z Kings County</subject>
-    <geogname source="lcsh">New York (State) |x History |y Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">New York (State) -- History -- Civil War, 1861-1865</geogname>
     <genreform source="aat">Correspondence</genreform>
     <subject source="lcsh">Soldiers |x Family relationships |z New York (State) |z Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
@@ -52,6 +63,6 @@
     <persname source="local">Friel, Daniel</persname>
     <famname source="naf">Friel family</famname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_1c8044fa7ed38bdb2a7f7cf91c35c439" level="file"><did><unittitle>Daniel Friel letters - originals</unittitle><container altrender="Full Manuscript Box Legal" id="aspace_5e411740653c69cc5f1f71f1255f965e" label="Text" type="Box">A0026</container><container id="aspace_9977c572c5d5b1427b8967338a8f5d20" parent="aspace_5e411740653c69cc5f1f71f1255f965e" type="Folder">1</container></did><phystech id="aspace_7e724a6fb17c10a9df640617c3457a06"><head>Physical Characteristics and Technical Requirements</head><p>The researcher should use the typescript copies instead of these originals whenever possible.</p></phystech><accessrestrict id="aspace_c3fe24cc2dd599e2ca790bbaf7aed29f"><head>Conditions Governing Access</head><p>The original letters are fragile and as there are typescript copies the originals should only be handled when absolutely necessary.</p></accessrestrict></c><c id="aspace_2de69456cfdbf89ab873303d7456fc00" level="file"><did><unittitle>Daniel Friel letters - typescript copies</unittitle><container altrender="Full Manuscript Box Legal" id="aspace_7946d06094022a9746286fd585d5df89" label="Text" type="Box">A0026</container><container id="aspace_ccbf09954e75ddb65b325f7368ca8442" parent="aspace_7946d06094022a9746286fd585d5df89" type="Folder">2</container></did></c><c id="aspace_3e6632b2c8d612a6f308ee00a5a7889a" level="file"><did><unittitle>Hugh Friel letters - originals</unittitle><container altrender="Full Manuscript Box Legal" id="aspace_d228a529367072bc587455b068059fd1" label="Text" type="Box">A0026</container><container id="aspace_38f37a0279a046408b2e1f36df9721a8" parent="aspace_d228a529367072bc587455b068059fd1" type="Folder">3</container></did><accessrestrict id="aspace_6cdcf86c8f3ff18fb932c36361c6745f"><head>Conditions Governing Access</head><p>The original letters are fragile and as there are typescript copies the originals should only be handled when absolutely necessary.</p></accessrestrict><phystech id="aspace_4d2854e3fa9ad3a9fb44cb249ec04124"><head>Physical Characteristics and Technical Requirements</head><p>The researcher should use the typescript copies instead of these originals whenever possible.</p></phystech></c><c id="aspace_96338df1741950f96344b8288c1714db" level="file"><did><unittitle>Hugh Friel letters - typescript copies</unittitle><container altrender="Full Manuscript Box Legal" id="aspace_b001c2e8ad5613a448274bdc89b99830" label="Text" type="Box">A0026</container><container id="aspace_58d69bd999fef3252c21337ee27b9f03" parent="aspace_b001c2e8ad5613a448274bdc89b99830" type="Folder">4</container></did></c><c id="aspace_f4cc0bfb6d928028c4a22fbcdfb05023" level="file"><did><unittitle>Other letters</unittitle><container altrender="Full Manuscript Box Legal" id="aspace_b3445ed4714744e54cb778c9b5e568f8" label="Text" type="Box">A0026</container><container id="aspace_ebf35a14a791152a41594e8933d95210" parent="aspace_b3445ed4714744e54cb778c9b5e568f8" type="Folder">5</container></did><scopecontent id="aspace_2437ab557cd60f07eb7854f2914dcbdf"><head>Scope and Contents</head><p>Includes typescript copies of letters from William Davis and "Father" Friel as well as an original 1866 letter from W.E. (William Erigena) Robinson (1814-1892) recommending Daniel Friel for employment.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
