@@ -1,37 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/1974_065/">1974_065</eadid><filedesc><titlestmt><titleproper>Guide to the Jeremiah Johnson manuscript <num>1974.065</num></titleproper><author>Maggie Schreiner and Lena Evers-Hillstrom</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 2018</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:00 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/1974_065/">1974_065</eadid><filedesc><titlestmt><titleproper>Guide to the Jeremiah Johnson manuscript <num>1974.065</num></titleproper><author>Maggie Schreiner and Lena Evers-Hillstrom</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 2018</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-17 15:25:28 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2023</date><item>Revised by Dee Bowers.</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Jeremiah Johnson manuscript</unittitle>
     <origination label="Creator">
-      <persname rules="dacs" source="naf">Field, Thomas W.</persname>
+      <persname role="edt" rules="dacs" source="naf">Field, Thomas W.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="aut" rules="dacs" source="local">Johnson, Jeremiah</persname>
     </origination>
     <unitid>1974.065</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 item</extent>
-      <extent altrender="carrier">1 folder in box A0043</extent>
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one volume and one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1850/1850">1850</unitdate>
-    <abstract id="aspace_6ea674c32c3cf3651a51d91ce783edc8">A manuscript titled, "Recollections of Incidences of the Revolution of the Colonies Occurring in Brooklyn, Collated from the Manuscripts and Conversations of General Jeremiah Johnson, Descriptive of Scenes Which he Personally Witnessed."  Arranged and edited by Thomas W. Field in one volume. Follows the history of churches in Flatbush and the Flatlands in the late 18th and early 19th century, as well as the relationship between clergymen and politicians. Book has binding of Kings County Reformed Dutch Church on side.</abstract>
+    <abstract id="aspace_6ea674c32c3cf3651a51d91ce783edc8">A handwritten volume titled "Recollections of Incidences of the Revolution of the Colonies Occurring in Brooklyn, Collated from the Manuscripts and Conversations of General Jeremiah Johnson, Descriptive of Scenes Which he Personally Witnessed." Edited and arranged by Thomas W. Field.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_c0ce425186a0c89ee896be24d1ff2d53" label="Mixed Materials" type="Box">A0043</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_56f16c2d2ae736b7d386ac9cf705dd0b" label="Mixed Materials" type="Box">A0012</container>
   </did>
   <accessrestrict id="aspace_3322251f30803acc054942e8ae9eef1d">
     <head>Conditions Governing Access</head>
-<p>This collection is availalble for research with no restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_c0c572df5828eab54c15aed0603150af">
-    <head>Conditions Governing Use</head>
-<p>This collection is in the public domain.</p>  </userestrict>
-  <prefercite id="aspace_6b229533867ebadabf8ee26175597b14">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Jeremiah Johnson manuscript, 1974.065, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_c26b3002bf866f7e0231b242b7e0b991">
     <head>Immediate Source of Acquisition</head>
 <p>This item was found in the repository.</p>  </acqinfo>
+  <arrangement id="aspace_6af020c3279904ade336194ed2d01801">
+    <head>Arrangement</head>
+<p>The handwritten volume is housed separately from the related loose papers, which are foldered. The chapters of the volume are in roughly chronological order.</p>  </arrangement>
+  <bioghist id="aspace_41352779a2cd234e6b16f31ac9d0e676">
+    <head>Biographical note</head>
+<p>Jeremiah Johnson (1766-1852) was a Brooklyn farmer, politician and writer. From 1796-1816 he was Trustee of the Town of Brooklyn; 1800-1840 he was Supervisor of Brooklyn; 1837-1839 he was Mayor of Brooklyn. He was a General in the War of 1812.</p>  </bioghist>
+  <prefercite id="aspace_6b229533867ebadabf8ee26175597b14">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Jeremiah Johnson manuscript, 1974.065, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_8f0d5e150efa00881575ff28a2af73b9">
+    <head>Processing Information</head>
+<p>This collection's original finding aid referred to historical information regarding churches in Flatbush and Flatlands. It was determined that there had likely been confusion between this collection and the Jeremiah Johnson manuscript on the Flatbush Dutch Reformed Church (1973.128). This finding aid was revised accordingly and the collection rehoused by Dee Bowers in 2023.</p>  </processinfo>
+  <relatedmaterial id="aspace_ebdee4456febb82da5224bddce0f9e94">
+    <head>Related Materials</head>
+<p>Jeremiah Johnson manuscript on the Flatbush Dutch Reformed Church 1973.128</p><p>New York State Militia, 22nd Brigade general order books 1977.191</p><p>William Remsen Mulford papers 1993.006</p><p>Commissioners' report on Wallabout Road construction damages 1974.151</p><p>Peter Wyckoff historical notes 1977.582</p><p>Timothy Townsend Cortelyou papers ARC.026</p>  </relatedmaterial>
+  <scopecontent id="aspace_3106ec77f3248967242cb28e5c88a940">
+    <head>Scope and Contents</head>
+<p>A manuscript titled "Recollections of Incidences of the Revolution of the Colonies Occurring in Brooklyn, Collated from the Manuscripts and Conversations of General Jeremiah Johnson, Descriptive of Scenes Which he Personally Witnessed." Arranged and edited by Thomas W. Field in one handwritten volume. The collection also includes some loose papers with portions of the text written out.</p><p>To compose this narrative, the editor Thomas W. Field used Johnson's journals, manuscripts of lectures he delivered, manuscript statements used in evidence for establishing titles to real estate, letters, notes, "printed communications published in journals," and correspondence between Johnson and both Field and others.</p>    <list type="ordered">
+      <head>Chapters</head>
+      <item>Invasion of Long Island by the British</item>
+      <item>British Prisons and American Prisoners</item>
+      <item>Prison Ships in the Wallabout Bay</item>
+      <item>Whaleboat Exploits. Captain Warriner and Captain Hyle's Adventures</item>
+      <item>Crimes and Courts on Long Island during the Revolution</item>
+      <item>British Spies and Guides in Brooklyn</item>
+      <item>Incidents of the Hessians on Long Island</item>
+      <item>The Spies and Secret Service of the Americans on Long Island</item>
+      <item>Loyalist Families. Colonel Nicholas Cowenhoven and John Rapalye [Rapalje]</item>
+      <item>Personal Adventures and Evacuation of the Island</item>
+      <item>Wallabout Settlement</item>
+      <item>[Transcriptions of documents and correspondence of Jeremiah Johnson]</item>
+      <item>Confiscation of Rapalyea Estate - Public Records of Brooklyn Stolen</item>
+      <item>Introduction [by the editor]</item>
+    </list>
+  </scopecontent>
+  <userestrict id="aspace_c0c572df5828eab54c15aed0603150af">
+    <head>Conditions Governing Use</head>
+<p>This collection is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History -- Revolution, 1775-1783</geogname>
+    <geogname source="lcsh">Kings County (N.Y.) -- History -- Revolution, 1775-1783</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.) -- History</geogname>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <subject source="lcsh">Brooklyn (New York, N.Y.) -- Church history</subject>
+  </controlaccess>
   <dsc/>
 </archdesc>
 </ead>
