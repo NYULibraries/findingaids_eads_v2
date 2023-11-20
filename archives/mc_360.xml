@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_360">mc_360</eadid><filedesc><titlestmt><titleproper>Guide to the Beryl Cobham Collection on New York University <num>MC.360</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>October 2023</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-10 11:53:53 -0500</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Beryl Cobham Collection on New York University</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Cobham, Beryl</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Bryant-Hollins, Pamela</persname>
+    </origination>
+    <unitid>MC.360</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3470</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 linear feet</extent>
+      <extent altrender="carrier">in 1 half manuscript box, 1 flat box, and 1 folder in shared housing</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1940/1984" type="inclusive">1940-1984</unitdate>
+    <unitdate datechar="creation" normal="1935/1945" type="bulk">circa 1940</unitdate>
+    <abstract id="aspace_b7d06f0b5970d8a5ad26ba260a593584">Beryl Cobham was born in Panama and came to the United States around the year 1920. Cobham paid for her college tuition herself, and graduated from the New York University School of Education in 1940. After graduation Cobham entered the social work field and later worked for the Board of Education. The Beryl Cobham Collection on New York University consists of materials created and collected by Cobham documenting her experiences as an undergraduate student at NYU in the late 1930s and early 1940s. Materials include a 1940 School of Education yearbook from Cobham's senior year, a book inscribed to her from a classmate (given after graduation), an NYU sweater, a transcript and notes on Cobham's graduate school coursework at City College, a photograph of a friend, and pages of a scrapbook with black-and-white photographs of Cobham and her college friends (many of whom are Black students) in various locations, including Bear Mountain and Washington Square Park.</abstract>
+    <physloc id="aspace_c55e687f5f6a94e3340e675367bfbef6">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_182aedc8ba4b211fa8a8a5ed5dcdd129">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_222982b26b126f91fd79700b862fb281">
+    <head>Scope and Contents</head>
+<p>The Beryl Cobham Collection on New York University consists of materials created and collected by Cobham documenting her experiences as an undergraduate student at New York University in the late 1930s and early 1940s. Materials include a 1940 School of Education yearbook from Cobham's senior year, a book inscribed to her from a classmate (given after graduation), an NYU sweater, a transcript and notes on Cobham's graduate school coursework at City College, a photograph of a friend, and pages of a scrapbook with black-and-white photographs of Cobham and her college friends (many of whom are Black students) in various locations, including Bear Mountain and Washington Square Park.</p>  </scopecontent>
+  <arrangement id="aspace_cd9724bd972a765e83728119e9a91a74">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <accessrestrict id="aspace_10602fab7a3af9979dfad5fc68567409">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_fa9d0457ccfd15208f019395facbf56f">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_1c4484d4faf48301979de5e7971de9bd">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Pam Bryant-Hollins, Beryl Cobham's daughter, in July 2023; the accession number associated with this gift is 2023.050.</p>  </acqinfo>
+  <prefercite id="aspace_a0604ca573a9626aaf2b72494db5d0e0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Beryl Cobham Collection on New York University; MC 360; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_df9c41def857db49559036416f4793e3">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival boxes and folders. Loose scrapbook pages and a sweater were rehoused by conservators. Materials were described on the collection-level with a folder-level inventory.</p>  </processinfo>
+  <bioghist id="aspace_1d064e1d2485f85a3af11215b0bce2a7">
+    <head>Biographical Note</head>
+<p>Beryl Cobham was born in Panama and came to the United States around the year 1920. Cobham paid for her college tuition herself, and graduated from New York University School of Education in 1940. After graduation Cobham entered the social work field and later worked for the Board of Education.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">African American college students</subject>
+    <subject source="lcsh">College students -- New York (N.Y.)</subject>
+    <subject source="lcsh">Women college students</subject>
+    <subject source="lcsh">Student activities.</subject>
+    <persname role="dnr" rules="dacs" source="local">Bryant-Hollins, Pamela</persname>
+    <corpname authfilenumber="(lccn)n80079860" source="naf">New York University. School of Education</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_c97d46a8b9f063340f1f67fbfe57a2e3" level="file"><did><unittitle>"The Master Light," Herman H. Horne</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981175</unitid><unitdate datechar="creation" normal="1942/1942">1942</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5928615382aa7eff6c9d769e61856d3d" label="Mixed Materials [31142066766935]" type="Box">1</container><container id="aspace_fc081e7a0e658b094a8754a36249c4a3" parent="aspace_5928615382aa7eff6c9d769e61856d3d" type="Folder">1</container></did></c><c id="aspace_92fb3f43ac18fb8ab0e501dcfd2820cb" level="file"><did><unittitle>Photograph of a Friend</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981176</unitid><unitdate datechar="creation" normal="1935/1935">circa 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_888cdc062b480b0fbea6ae521b3efa92" label="Mixed Materials [31142066766935]" type="Box">1</container><container id="aspace_75833419d691ff4c7f2a51e53f4d85c9" parent="aspace_888cdc062b480b0fbea6ae521b3efa92" type="Folder">2</container></did></c><c id="aspace_9f7a85fbce8b83d8115a88b0e933ff45" level="file"><did><unittitle>Transcript</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981177</unitid><unitdate datechar="creation" normal="1940/1940">1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_14e802d1068c1ac7976a13d93e26fb22" label="Mixed Materials [31142066766935]" type="Box">1</container><container id="aspace_b6e608649fe7ae3fa860a92000b3d32e" parent="aspace_14e802d1068c1ac7976a13d93e26fb22" type="Folder">3</container></did></c><c id="aspace_30cac5b0ae0b0ad84771f4b6cb01af02" level="file"><did><unittitle>School of Education Yearbook</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981178</unitid><unitdate datechar="creation" normal="1940/1940">1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7ea04791ee85289f30dfbce23d0ca3f9" label="Mixed Materials [31142066766935]" type="Box">1</container><container id="aspace_5312ea75e6b5f8a415afd582dc81d07f" parent="aspace_7ea04791ee85289f30dfbce23d0ca3f9" type="Folder">4</container></did></c><c id="aspace_6807cfd36ebafa3afc7e482a1caff1b9" level="file"><did><unittitle>Book Inscribed by Classmate</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981179</unitid><unitdate datechar="creation" normal="1979/1979">circa 1984</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f20fd92b8c6a72231e546037ea65fb4e" label="Mixed Materials [31142066766935]" type="Box">1</container><container id="aspace_b37029917bebc1c7a9501b18932fe497" parent="aspace_f20fd92b8c6a72231e546037ea65fb4e" type="Folder">5</container></did></c><c id="aspace_8fa15ea8f3380994a1321119b962e229" level="file"><did><unittitle>Scrapbook Pages</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981180</unitid><unitdate datechar="creation" normal="1935/1935">circa 1940</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_42ad7da6a37f0eb9786846f618ddea36" label="Mixed Materials [31142067000474]" type="Box">Shared University Archives 152</container><container id="aspace_eeeed05f33f927c37dadb9a6fc2e8cd4" parent="aspace_42ad7da6a37f0eb9786846f618ddea36" type="Folder">1</container></did></c><c id="aspace_9f983b2651a962eb1e771b8f05c8b748" level="file"><did><unittitle>NYU Sweater</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981181</unitid><unitdate datechar="creation" normal="1935/1935">circa 1940</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_f964a2e21713a9814c3e699b843e4cd2" label="Mixed Materials [31142067000375]" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>
