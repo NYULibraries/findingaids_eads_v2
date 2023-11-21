@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_143_brooklyn_historical_pageant/">arms_1977_143_brooklyn_historical_pageant</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Historical Pageant records <num>1977.143</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 31, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-21 13:50:58 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_143_brooklyn_historical_pageant/">arms_1977_143_brooklyn_historical_pageant</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Historical Pageant records <num>1977.143</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 31, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-21 20:28:50 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -18,8 +18,8 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_e19c6f7626a45142c6d8f298683e57ac" label="Mixed Materials" type="Box">A0017</container>
-    <container altrender="Large Flat Box" id="aspace_f775503c9902bb7190350142dd9b1fb9" label="Mixed Materials" type="Box">OS-25</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c0ed014f4b9eb3c5e96761f2fe0e0353" label="Mixed Materials" type="Box">A0017</container>
+    <container altrender="Medium Flat Box 3" id="aspace_1cd5fe9045405816a7fe3a90fb77b36a" label="Mixed Materials" type="Box">OS-33</container>
   </did>
   <accessrestrict id="aspace_499965b05616767b2b833ebc6553e930">
     <head>Conditions Governing Access</head>
@@ -27,12 +27,18 @@
   <acqinfo id="aspace_eb6c8d2dc8394220af592e393f846580">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of the Kings County Historical Society, date unknown.</p>  </acqinfo>
+  <arrangement id="aspace_41da65cdc26524df53a79812de7f01f2">
+    <head>Arrangement</head>
+<p>The materials are arranged in two folders by size.</p>  </arrangement>
   <bioghist id="aspace_77ac80cf1cb804a3e322495a5debc487">
     <head>Historical note</head>
 <p>The Brooklyn Historical Pageant, sponsored by a private committee of Brooklyn residents, was held at the 23rd Regiment Armory in Brooklyn on May 21 and 22, 1915. The pageant featured costumed performances and presentations that celebrated 300 years of historical people, events and places in Brooklyn. Over 3000 people took part in the pageant.</p>  </bioghist>
   <prefercite id="aspace_f42c999a88daefd9ce7b9efa9e4ea35d">
     <head>Preferred Citation</head>
 <p>Identification of item, date (if known); Brooklyn Historical Pageant records, 1977.143, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_b175b4b230888345ecdef15f8330fa0b">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. Rehoused and finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
   <scopecontent id="aspace_917c63a4ee59e2fa3e20735bfbbfe161">
     <head>Scope and Contents</head>
 <p>The Brooklyn Historical Pageant records span the period 1914 to 1915 and measure 0.2 linear feet. The records primarily document the planning of the pageant, mostly during 1914, and include minutes of regular planning meetings and special meetings of the Brooklyn Historical Pageant; correspondence; news clippings; memos; lists and notes of the planning committee; programs, and drafts of scripts.</p>  </scopecontent>
