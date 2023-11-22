@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_348_school_compositions_diaries/">arms_1977_348_school_compositions_diaries</eadid><filedesc><titlestmt><titleproper>Guide to the Maude DeForest Winder Rawlins composition and account books <num>1977.348</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:23 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2023</date><item>Revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_348_school_compositions_diaries/">arms_1977_348_school_compositions_diaries</eadid><filedesc><titlestmt><titleproper>Guide to the Maude DeForest Winder Rawlins composition and account books <num>1977.348</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-22 20:07:18 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2023</date><item>Revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -21,7 +21,7 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_68cbef9f849ac5cc8cb44771ca91675e" label="Text" type="Box">A0067</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_8d4f3d927ad090665bd4276881656f51" label="Mixed Materials" type="Box">A0026</container>
   </did>
   <accessrestrict id="aspace_3cef9b9ee86c45c54bdf3d2b34dc046a">
     <head>Conditions Governing Access</head>
@@ -29,30 +29,30 @@
   <acqinfo id="aspace_d5788131ed04a26a4f7dd44c0df34bd1">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Elaine Rawlins Herne, 1966.</p>  </acqinfo>
-  <prefercite id="aspace_74c42174a8eba4c3315f1909372d1b04">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Maude DeForest Winder Rawlins composition and account books, 1977.348, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
-  <processinfo id="aspace_8667a67cb460c70c515c79b64b378eac">
-    <head>Processing Information</head>
-<p>Originally minimally processed to the collection level. In April 2023, two folders from this collection (containing material by Maggie E. Briggs and Kate St. John Reynolds) were removed to the Bretz family papers (ARC.321). The W.H. Condit mathematics exercise book (erroneously credited to H.W. Condit) was removed to the Blackburne, Woodward, and Ottaway family papers (2013.006). The L.P. Nostrand diary was removed to the Anderson and Nostrand family papers (ARC.199). Subsequently, the collection was renamed and described to better reflect its altered contents.</p>  </processinfo>
   <arrangement id="aspace_a39ddb399664938bb325c08c62662fb5">
     <head>Arrangement</head>
 <p>The collection is arranged chronologically.</p>  </arrangement>
   <bioghist id="aspace_97215c2a0be5b1f51bb5922f371baca2">
     <head>Biographical note</head>
 <p>Maude DeForest Winder was born on March 6, 1866 in New York to William Guthrie Winder and Julia Augusta DeForest Winder. The family lived in Brooklyn, where Maude attended P.S. 4. In 1884 she married William E. Rawlins. According to census records, they both worked as masseurs. Their children included Elaine Rawlins Herne, Marion A. Rawlins, Hugh S. Rawlins, Gertrude E. Rawlins Ferguson, Gerald C. Rawlins and Richard G. Rawlins. Maude passed away on October 21, 1958 and is buried in the Cemetery of the Evergreens in Brooklyn.</p>  </bioghist>
+  <prefercite id="aspace_74c42174a8eba4c3315f1909372d1b04">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Maude DeForest Winder Rawlins composition and account books, 1977.348, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_8667a67cb460c70c515c79b64b378eac">
+    <head>Processing Information</head>
+<p>Originally minimally processed to the collection level. In April 2023, two folders from this collection (containing material by Maggie E. Briggs and Kate St. John Reynolds) were removed to the Bretz family papers (ARC.321). The W.H. Condit mathematics exercise book (erroneously credited to H.W. Condit) was removed to the Blackburne, Woodward, and Ottaway family papers (2013.006). The L.P. Nostrand diary was removed to the Anderson and Nostrand family papers (ARC.199). Subsequently, the collection was renamed and described to better reflect its altered contents.</p>  </processinfo>
+  <relatedmaterial id="aspace_d9ae1e7ee55fc2f2c5ff7fb4dad08fea">
+    <head>Related Materials</head>
+<p>Brooklyn schools collection (CBHM.0006)</p>  </relatedmaterial>
   <scopecontent id="aspace_8d08e2580becee1239fbe9bd377c1d86">
     <head>Scope and Contents</head>
 <p>The collection includes a school homework book from May 1880, a school composition book from P.S. 4 dated 1881-1882, and a housekeeping account book from 1901.</p>  </scopecontent>
   <userestrict id="aspace_aba8fd35416befe8e2b256be72531f4b">
     <head>Conditions Governing Use</head>
 <p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
-  <relatedmaterial id="aspace_d9ae1e7ee55fc2f2c5ff7fb4dad08fea">
-    <head>Related Materials</head>
-<p>Brooklyn schools collection (CBHM.0006)</p>  </relatedmaterial>
   <controlaccess>
-    <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Students -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Schools -- New York (State) -- Kings County</subject>
     <genreform source="aat">Diaries</genreform>
     <genreform source="aat">Clippings (information artifacts)</genreform>
     <genreform source="aat">Account books</genreform>
@@ -60,6 +60,6 @@
     <genreform source="aat">Exercise books</genreform>
     <persname role="fmo" source="local">Herne, Elaine Rawlins, 1889-1969</persname>
   </controlaccess>
-  <dsc><c id="aspace_7394dd160a1c4f576cf9a6b5e1eea6c7" level="file"><did><unittitle>School homework book</unittitle><unitdate datechar="creation" normal="1880-05/1880-05">1880 May</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_381f5ab2381676661519f1550cf08164" label="Mixed Materials" type="Box">A0067</container><container id="aspace_14c8ebb5ed604a6fd9398a8df2287861" parent="aspace_381f5ab2381676661519f1550cf08164" type="Folder">1</container></did></c><c id="aspace_71d648714bb4900755a91953e8528c19" level="file"><did><unittitle>School composition book, P.S. 4</unittitle><unitdate datechar="creation" normal="1881/1882" type="inclusive">1881-1882</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_67e96a9b599ebbc495cedbcca209d71c" label="Mixed Materials" type="Box">A0067</container><container id="aspace_95a2ab31cffd79d29654af3b4ff3a37a" parent="aspace_67e96a9b599ebbc495cedbcca209d71c" type="Folder">2</container></did></c><c id="aspace_28a24ee7daffc2e9c35dd204dc0c7f37" level="file"><did><unittitle>Housekeeping account book</unittitle><unitdate datechar="creation" normal="1901/1901">1901</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_0ad305c0864bd216dd3f5e409d6a5555" label="Mixed Materials" type="Box">A0067</container><container id="aspace_2fe412ddd941a94bf85adeefcc6c48df" parent="aspace_0ad305c0864bd216dd3f5e409d6a5555" type="Folder">3</container></did><scopecontent id="aspace_0635c0bb9525d209b59d0c5d9c10959a"><head>Scope and Contents</head><p>Titled "The Housekeepers Handy Account Book." Title embossed on cover in gold. Bound; 52+ pages. Household expense items printed on each page by its classification with entries in ink for the costs of various items.</p></scopecontent></c></dsc>
+  <dsc><c id="aspace_7394dd160a1c4f576cf9a6b5e1eea6c7" level="file"><did><unittitle>School homework book</unittitle><unitdate datechar="creation" normal="1880-05/1880-05">1880 May</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2203757ab776b17f53feec357eb33f46" label="Mixed Materials" type="Box">A0026</container><container id="aspace_a57e3d5b2a57a303928e471e299edd81" parent="aspace_2203757ab776b17f53feec357eb33f46" type="Folder">1</container></did></c><c id="aspace_71d648714bb4900755a91953e8528c19" level="file"><did><unittitle>School composition book, P.S. 4</unittitle><unitdate datechar="creation" normal="1881/1882" type="inclusive">1881-1882</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7c0244f12391f6c611a75a4533206a96" label="Mixed Materials" type="Box">A0026</container><container id="aspace_d95171044ae42dc3efc2062e07fddafc" parent="aspace_7c0244f12391f6c611a75a4533206a96" type="Folder">2</container></did></c><c id="aspace_28a24ee7daffc2e9c35dd204dc0c7f37" level="file"><did><unittitle>Housekeeping account book</unittitle><unitdate datechar="creation" normal="1901/1901">1901</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_a8e14ecfdfa477f7171caba5c161ac8e" label="Mixed Materials" type="Box">A0026</container><container id="aspace_ce11e8744a84184b47f5044b8cf4ad5d" parent="aspace_a8e14ecfdfa477f7171caba5c161ac8e" type="Folder">3</container></did><scopecontent id="aspace_0635c0bb9525d209b59d0c5d9c10959a"><head>Scope and Contents</head><p>Titled "The Housekeepers Handy Account Book." Title embossed on cover in gold. Bound; 52+ pages. Household expense items printed on each page by its classification with entries in ink for the costs of various items.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
