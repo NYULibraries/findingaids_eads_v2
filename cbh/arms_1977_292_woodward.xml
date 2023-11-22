@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_292_woodward/">arms_1977_292_woodward</eadid><filedesc><titlestmt><titleproper>Guide to the May B. Woodward scrapbook <num>1977.292</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:18:35 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_292_woodward/">arms_1977_292_woodward</eadid><filedesc><titlestmt><titleproper>Guide to the May B. Woodward scrapbook <num>1977.292</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-22 19:08:31 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -19,32 +19,44 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_78d64d0c126f0f23871993767b2ddfc9" label="Text" type="Box">A0059</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ab27c0a48da021928b50e10667b618d7" label="Mixed Materials" type="Box">A0023</container>
   </did>
-  <bioghist id="aspace_e4ab8c916325559091876d944cba2143">
-    <head>Biographical Note</head>
-<p>May (or Mae) B. Woodward was the daughter of John B. Woodward (1835-1896), a well-respected Brooklyn businessman involved in the import-export trade in South America.  John B. Woodward also served in the Brooklyn-based 13th Regiment of the New York National Guard, was Adjutant General of New York State, and was a mayoral candidate in Brooklyn in 1885.</p>  </bioghist>
-  <scopecontent id="aspace_98d3e6571e58619b5326818f7576cc94">
-    <head>Scope and Contents</head>
-<p>One scrapbook compiled by May B. Woodward and containing programs and other ephemera from various Brooklyn social organizations, sports and recreational clubs, charities, and theatrical productions.  Included are materials from the Brooklyn Athletic Association, the Apollo Club, the Brooklyn Academy of Music, the Park Theatre (also known as the New Park Theatre or Colonel Sinn's New Park Theatre), and the Lyceum Theatre.  Items span 1884 to 1896, though most date from 1886 and 1887.</p>  </scopecontent>
-  <acqinfo id="aspace_9c62e07e648183ad07c15927d3c46ff9">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
-  <prefercite id="aspace_4eb1bba94d9c579f4da858f13fa74a4d">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); May B. Woodward scrapbook, 1977.292, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_a61c7abcd83f833a132c03e3bce89b56">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_9c62e07e648183ad07c15927d3c46ff9">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_e3e4d9151767461ef7c3530ccf51d083">
+    <head>Arrangement</head>
+<p>The scrapbook pages are arranged in the order in which they appeared in the original scrapbook.</p>  </arrangement>
+  <bioghist id="aspace_e4ab8c916325559091876d944cba2143">
+    <head>Biographical note</head>
+<p>May (or Mae) B. Woodward was the daughter of John B. Woodward (1835-1896), a Brooklyn businessman involved in the import-export trade in South America. John B. Woodward also served in the Brooklyn-based 13th Regiment of the New York National Guard, was Adjutant General of New York State, and was a mayoral candidate in Brooklyn in 1885.</p>  </bioghist>
+  <prefercite id="aspace_4eb1bba94d9c579f4da858f13fa74a4d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); May B. Woodward scrapbook, 1977.292, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_0b6cf4d8c7ce178feec4dafa3a0dccbf">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023. The majority of the scrapbook pages and its covers were blank and the spine missing. The paper of the pages is acidic and deteriorating badly. For these reasons, the archivist discarded the blank pages and covers and kept only the pages with material affixed.</p>  </processinfo>
+  <relatedmaterial id="aspace_4e87823571f25a490a02e3f4bef2e416">
+    <head>Related Materials</head>
+<p>Montgomery Queen scrapbook (1973.282)</p><p>Frederick Aldridge scrapbooks (1977.173)</p><p>Theater programs scrapbook (1987.003)</p><p>Brooklyn scrapbooks collection (ARC.247)</p><p>Frederick and Hetty Marquand scrapbook (1977.219)</p>  </relatedmaterial>
+  <scopecontent id="aspace_98d3e6571e58619b5326818f7576cc94">
+    <head>Scope and Contents</head>
+<p>One scrapbook compiled by May B. Woodward and containing programs and other ephemera from various Brooklyn social organizations, sports and recreational clubs, charities, and theatrical productions. Included are materials from the Brooklyn Athletic Association, the Apollo Club, the Brooklyn Academy of Music, the Park Theatre (also known as the New Park Theatre or Colonel Sinn's New Park Theatre), and the Lyceum Theatre. Items span 1884 to 1896, though most date from 1886 and 1887.</p>  </scopecontent>
+  <userestrict id="aspace_6cef3667e347117fba062707650829fa">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Intellectual life</geogname>
     <subject source="lcsh">Clubs -- New York (State) -- Kings County</subject>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social conditions</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social conditions</geogname>
     <genreform source="aat">Programs (documents)</genreform>
-    <subject source="lcsh">Recreation |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Theaters |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Charities |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Recreation -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Theaters -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Charities -- New York (State) -- Kings County</subject>
     <genreform source="aat">Scrapbooks</genreform>
     <genreform source="aat">Printed ephemera</genreform>
     <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
