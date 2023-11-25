@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_379_hale_memorial/">arms_1977_379_hale_memorial</eadid><filedesc><titlestmt><titleproper>Guide to the Nathan Hale Memorial Association certificate <num>1977.379</num></titleproper><author>Matthew Gorham and Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:47 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_379_hale_memorial/">arms_1977_379_hale_memorial</eadid><filedesc><titlestmt><titleproper>Guide to the Nathan Hale Memorial Association certificate <num>1977.379</num></titleproper><author>Matthew Gorham and Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-25 15:44:12 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,32 +13,41 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1894/1894" type="inclusive">1894</unitdate>
-    <abstract id="aspace_19bfa2de19e4fda0060450eb4ace80d4">One certificate, dated May 17, 1894, stating that Morris Patterson Harris has contributed five dollars toward the erection of the Nathan Hale Memorial in Huntington, Long Island.</abstract>
+    <unitdate datechar="creation" normal="1894/1894">1894</unitdate>
+    <abstract id="aspace_19bfa2de19e4fda0060450eb4ace80d4">One 1894 certificate stating that Morris Patterson Harris has contributed five dollars toward the erection of the Nathan Hale Memorial in Huntington, Long Island.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_b2ec5df0272c19aebfbe6f1f2d4bb835" label="Text" type="Box">A0068</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_a7471574c5d37f4ccf664b0e53c9c83f" label="Text" type="Box">A0026</container>
   </did>
-  <prefercite id="aspace_86aa5cc7d1c3a811a3235aa4b145f0f2">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Nathan Hale Memorial Association certificate, 1977.379, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <scopecontent id="aspace_3a179a2891762c08565c0aa262a29b02">
-    <head>Scope and Contents</head>
-<p>One certificate, dated May 17, 1894, stating that Morris Patterson Harris has contributed five dollars toward the erection of the Nathan Hale Memorial in Huntington, Long Island.</p>  </scopecontent>
   <accessrestrict id="aspace_5c59736178f453964547217f4692b597">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_b32ec5965a348a0a5cca58f0e6e224fb">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Mrs. A. Lloyd Lott, 1952.</p>  </acqinfo>
+  <arrangement id="aspace_7642f93ca0801170358cfb8563d78c29">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
   <bioghist id="aspace_8fabd196557a4ca5d5ab3a7e77008167">
-    <head>Historical Note</head>
+    <head>Historical note</head>
 <p>In 1894, the Town of Huntington, Long Island, New York erected a granite monument in memory of Captain Nathan Hale, who had landed at Huntington in 1776 on an intelligence-gathering mission for the Continental Army that ultimately resulted in his capture and execution by the British Army.</p>  </bioghist>
+  <prefercite id="aspace_86aa5cc7d1c3a811a3235aa4b145f0f2">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Nathan Hale Memorial Association certificate, 1977.379, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_9d76b57de4d9aea4515934ea6efb5ec2">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_3a179a2891762c08565c0aa262a29b02">
+    <head>Scope and Contents</head>
+<p>One certificate, dated May 17, 1894, stating that Morris Patterson Harris has contributed five dollars toward the erection of the Nathan Hale Memorial in Huntington, Long Island.</p>  </scopecontent>
+  <userestrict id="aspace_932dd4386585f145e27e30de429dc610">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">War memorials |z New York (State) |z Huntington</subject>
+    <subject source="lcsh">War memorials -- New York (State) -- Huntington</subject>
     <geogname source="lcsh">Huntington (N.Y.)</geogname>
-    <subject source="lcsh">Citizens' associations |z New York (State) |z Huntington</subject>
+    <subject source="lcsh">Citizens' associations -- New York (State) -- Huntington</subject>
     <geogname source="lcsh">Long Island (N.Y.) -- History -- Revolution, 1775-1783</geogname>
     <genreform source="aat">Certificates</genreform>
     <persname rules="aacr" source="naf">Hale, Nathan</persname>
