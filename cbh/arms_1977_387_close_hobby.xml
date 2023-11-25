@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_387_close_hobby/">arms_1977_387_close_hobby</eadid><filedesc><titlestmt><titleproper>Guide to the Thomas Close letter to Jemima Hobby <num>1977.387</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 5, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:53 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_387_close_hobby/">arms_1977_387_close_hobby</eadid><filedesc><titlestmt><titleproper>Guide to the Thomas Close letter to Jemima Hobby <num>1977.387</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 5, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-25 16:06:52 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,22 +13,34 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1806/1806" type="inclusive">1806</unitdate>
-    <abstract id="aspace_d848bf4c3821c446874d2e8734de6b8c">One letter from Thomas Close of New York to Jemima Hobby containing a love poem, dated January 14, 1806.</abstract>
+    <unitdate datechar="creation" normal="1806/1806">1806</unitdate>
+    <abstract id="aspace_d848bf4c3821c446874d2e8734de6b8c">One 1806 letter from Thomas Close of New York to Jemima Hobby containing a love poem.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_dcb7b808fb2fafb447d2c51d5919033c" label="Text" type="Box">A0068</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_60a3157c6214244c1674637518763459" label="Text" type="Box">A0026</container>
   </did>
-  <prefercite id="aspace_7bf50a836f1f10b01326a9e00c2e2c4e">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Thomas Close letter to Jemima Hobby, 1977.387, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_34d525b15cf42f45c6850301edb8bb01">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_c5944d443b5ca6a4d0bb58dcece44cee">
     <head>Immediate Source of Acquisition</head>
 <p>Purchased from the Hobby Shop, 1952.</p>  </acqinfo>
+  <arrangement id="aspace_74b70cdbe32405c32637c5d3daa29ec9">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
+  <prefercite id="aspace_7bf50a836f1f10b01326a9e00c2e2c4e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Thomas Close letter to Jemima Hobby, 1977.387, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_907a280c59814d970e0f20da067808de">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_237c6a8fabf9a4abd7b391269a2f55fa">
+    <head>Scope and Contents</head>
+<p>One letter from Thomas Close of New York to Jemima Hobby containing a love poem, dated January 14, 1806.</p>  </scopecontent>
+  <userestrict id="aspace_04331b4aac3c758e779d826f67a1288a">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Poetry</subject>
     <geogname source="lcsh">New York (N.Y.)</geogname>
