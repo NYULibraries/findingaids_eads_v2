@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_397_cowenhoven_brant/">arms_1977_397_cowenhoven_brant</eadid><filedesc><titlestmt><titleproper>Rem Cowenhoven and Hendrick Brant bill of sale <num>1977.397</num></titleproper><author>Matthew Gorham and Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 6, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:05 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_397_cowenhoven_brant/">arms_1977_397_cowenhoven_brant</eadid><filedesc><titlestmt><titleproper>Guide to the Rem Cowenhoven and Hendrick Brant bill of sale <num>1977.397</num></titleproper><author>Matthew Gorham and Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 6, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-28 14:47:55 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -16,42 +16,45 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1775/1775" type="inclusive">1775</unitdate>
-    <abstract id="aspace_588c8a5b54d1339ceb1af737546c8fb2">One bill of sale for a canoe (spelled "cnoow" in the document) between Rem Cowenhoven of Brooklyn and Hendrick Brant of New York City.  It is dated June 1, 1775.</abstract>
+    <unitdate datechar="creation" normal="1775/1775">1775</unitdate>
+    <abstract id="aspace_588c8a5b54d1339ceb1af737546c8fb2">One 1775 bill of sale for a canoe between Rem Cowenhoven of Brooklyn and Hendrick Brant of New York City.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_977dcf2650c87f569bd43057752f088d" label="Text" type="Box">A0068</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_0a51e6f638416db58e056b42cdff0acf" label="Text" type="Box">A0026</container>
   </did>
-  <acqinfo id="aspace_c242d51eed9d8fb7319436a5fd351a8e">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
-  <scopecontent id="aspace_e51ecb79681a6ae4cc2b7b1b65ca22d8">
-    <head>Scope and Contents</head>
-<p>One bill of sale for a canoe (spelled "cnoow" in the document) between Rem Cowenhoven of Brooklyn and Hendrick Brant of New York City.  It is dated June 1, 1775.</p>  </scopecontent>
   <accessrestrict id="aspace_9f6951e0bcb7b3981cfc4619b534bf28">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_c242d51eed9d8fb7319436a5fd351a8e">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_c12518eaf657bf03be90789d252c7e65">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
   <bioghist id="aspace_a4b9f98ec6d68a2454b227450ce5a09a">
-    <head>Biographical Note</head>
-<p>Rem Cowenhoven was a resident of Brooklyn and a member of Brooklyn's prominent Cowenhoven family (alternate spellings include Couwenhoven, Kouwenhoven, and Covenhoven), whose common ancestor, Wolphert Gerritson Van Kouwenhoven, emigrated from the Netherlands to the town of New Utrecht in the Dutch colony of New Netherland (later New York) in the 17th century.  Rem Cowenhoven was among the loyalists who signed an oath of loyalty to the British Crown in December 1776.</p>  </bioghist>
+    <head>Biographical note</head>
+<p>Rem Cowenhoven was a resident of Brooklyn and a member of Brooklyn's prominent Cowenhoven family (alternate spellings include Couwenhoven, Kouwenhoven, and Covenhoven), whose common ancestor, Wolphert Gerritson Van Kouwenhoven, emigrated from the Netherlands to the town of New Utrecht in the Dutch colony of New Netherland (later New York) in the 17th century. Rem Cowenhoven was among the loyalists who signed an oath of loyalty to the British Crown in December 1776.</p>  </bioghist>
   <prefercite id="aspace_344020d5facc072b8ed18f05ea1750ec">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Rem Cowenhoven and Hendrick Brant bill of sale, 1977.397, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Rem Cowenhoven and Hendrick Brant bill of sale, 1977.397, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_759785cad9aa4b83a594a57f580436d1">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
   <relatedmaterial id="aspace_52ec930e59fc2098b40cdc671d923cb4">
     <head>Related Materials</head>
-<p>The Brooklyn Historical Society holds the following archival collections with materials relating to the Cowenhoven family:</p>    <list numeration="arabic" type="ordered">
-      <head>Missing Title</head>
-      <item>1973.167, John R. Couwenhoven papers, 1783-1820</item>
-      <item>1974.141, Conover and Cowenhoven family papers, 1801-1836</item>
-      <item>ARC.006, Teunis G. Bergen and Bergen Family collection, 1639-1893</item>
-    </list>
-  </relatedmaterial>
+<p>John R. Couwenhoven papers, 1783-1820 (1973.167)</p><p>Conover and Cowenhoven family papers, 1801-1836 (1974.141)</p><p>Teunis G. Bergen and Bergen Family collection, 1639-1893 (ARC.006)</p>  </relatedmaterial>
+  <scopecontent id="aspace_e51ecb79681a6ae4cc2b7b1b65ca22d8">
+    <head>Scope and Contents</head>
+<p>One bill of sale for a canoe (spelled "cnoow" in the document) between Rem Cowenhoven of Brooklyn and Hendrick Brant of New York City. It is dated June 1, 1775.</p>  </scopecontent>
+  <userestrict id="aspace_0a5f1a8247a235ba214edf38caea7bb6">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Bills of sale</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <subject source="lcsh">Transportation -- New York (State) -- Kings County</subject>
-    <subject source="lcsh">Canoes and canoeing |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Canoes and canoeing -- New York (State) -- Kings County</subject>
     <persname source="local">Brant, Hendrick</persname>
     <persname rules="dacs" source="local">Cowenhoven, Rem</persname>
   </controlaccess>
