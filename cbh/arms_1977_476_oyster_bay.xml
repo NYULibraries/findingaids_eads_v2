@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_476_oyster_bay/">arms_1977_476_oyster_bay</eadid><filedesc><titlestmt><titleproper>Guide to the Oyster Bay deed <num>1977.476</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 10, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:20 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_476_oyster_bay/">arms_1977_476_oyster_bay</eadid><filedesc><titlestmt><titleproper>Guide to the Oyster Bay deed <num>1977.476</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 10, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-29 21:47:35 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -8,28 +8,40 @@
     <unitid>1977.476</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
-      <extent altrender="carrier">in one folder.</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1733/1733" type="inclusive">1733</unitdate>
-    <abstract id="aspace_4f26dae2f295a62a2a395b71c9271ad6">One deed for land in the town of Oyster Bay, Queens County, N.Y., dated April 3, 1733.  Damage to the top portion of the deed has obscured the names of the individuals involved in the transaction, but internal documentation concerning the deed suggests it may be between Samuel Underhill and Daniel Seamans.</abstract>
+    <unitdate datechar="creation" normal="1733/1733">1733</unitdate>
+    <abstract id="aspace_4f26dae2f295a62a2a395b71c9271ad6">One 1733 deed for land in the town of Oyster Bay, Queens County, N.Y., possibly between Samuel Underhill and Daniel Seamans.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_99803a7302efed2e2246741e5b41a5fe" label="Text" type="Box">A0071</container>
+    <container altrender="Large Flat Box" id="aspace_870bb48b2b9bdf5826b2a63e61cf1ea6" label="Text" type="Box">OS-22</container>
   </did>
   <accessrestrict id="aspace_992222b541d82f525c04200c893624e0">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <prefercite id="aspace_6ece3a34f1c3ee285ccb738cc8e3bc19">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Oyster Bay deed, 1977.476, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <acqinfo id="aspace_145790518c45b271bd51b077380150f2">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Mrs. D. Irving Mead, 1957.</p>  </acqinfo>
+  <arrangement id="aspace_13c82df859dcc49f91595b13c133a9e1">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <prefercite id="aspace_6ece3a34f1c3ee285ccb738cc8e3bc19">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Oyster Bay deed, 1977.476, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_897d28dd196390467288f118623003d0">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_85e8a2dc4ac18884f35920dee25460f0">
+    <head>Scope and Contents</head>
+<p>One deed for land in the town of Oyster Bay, Queens County, N.Y., dated April 3, 1733. Damage to the top portion of the deed has obscured the names of the individuals involved in the transaction, but internal documentation concerning the deed suggests it may be between Samuel Underhill and Daniel Seamans.</p>  </scopecontent>
+  <userestrict id="aspace_e8c2a78d367052e75ae15ed593fe3211">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Landowners |z New York (State) |z Oyster Bay</subject>
+    <subject source="lcsh">Landowners -- New York (State) -- Oyster Bay</subject>
     <geogname source="lcsh">Queens County (N.Y.)</geogname>
-    <subject source="lcsh">Land titles |z New York (State) |z Oyster Bay</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- Oyster Bay</subject>
     <geogname source="lcsh">Oyster Bay (N.Y.)</geogname>
     <subject source="aat">Deeds</subject>
   </controlaccess>
