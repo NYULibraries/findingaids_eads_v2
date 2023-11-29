@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_437_new_york_property/">arms_1977_437_new_york_property</eadid><filedesc><titlestmt><titleproper>Guide to the New York State property records <num>1977.437</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 11, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:21 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_437_new_york_property/">arms_1977_437_new_york_property</eadid><filedesc><titlestmt><titleproper>Guide to the New York State property records <num>1977.437</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 11, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-29 18:00:30 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -17,14 +17,14 @@
     <unitid>1977.437</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1745/1778" type="inclusive">1745-1778</unitdate>
-    <abstract id="aspace_d0a6eff1218baf2c57f4cf2b81adb30e">The collection contains a deed between John Tenbruck, of Poughkeepsie, New York, and Peter Gallatian, of New York City, for a lot of land on Duke Street in New York City. It also contains a letter of administration for the estate of Garret Miller, naming his widow the executrix and Nathanial Seeley the executor.</abstract>
+    <abstract id="aspace_d0a6eff1218baf2c57f4cf2b81adb30e">The collection contains a deed between John Tenbruck and Peter Gallatian for a lot of land on Duke Street in New York City as well as a letter of administration for the estate of Garret Miller.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_17faa220cc5f83b79bef8c22914c58ea" label="Text" type="Box">A0070</container>
+    <container altrender="Large Flat Box" id="aspace_ab9c4d4da6f523f072078ec00ba9d318" label="Text" type="Box">OS-22</container>
   </did>
   <accessrestrict id="aspace_fba75eae62841951026b57ab9d436df2">
     <head>Conditions Governing Access</head>
@@ -32,9 +32,21 @@
   <acqinfo id="aspace_a5b51ed85e82ac7475ad9aa2860cdbac">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown. The collection was formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_f2e41eb8acc8b5c16ca9d5a675d8e5b9">
+    <head>Arrangement</head>
+<p>The two documents in this collection are housed in a single oversize folder with no particular arrangement.</p>  </arrangement>
   <prefercite id="aspace_b6602580cb4a2932443d48b473dffbd4">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); New York State property and estate records, 1977.437, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); New York State property and estate records, 1977.437, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_1ab05d8513083eaaddfdc7ef7c3c612c">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_10f5847d1db0f3b71718ee093a7c541f">
+    <head>Scope and Contents</head>
+<p>The collection contains a deed between John Tenbruck, of Poughkeepsie, New York, and Peter Gallatian, of New York City, for a lot of land on Duke Street in New York City. It also contains a letter of administration for the estate of Garret Miller, naming his widow the executrix and Nathanial Seeley the executor.</p>  </scopecontent>
+  <userestrict id="aspace_0779953664449fd58f540bcc52fd32c9">
+    <head>Conditions Governing Use</head>
+<p>The material in this collection is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Estate records</genreform>
     <subject source="aat">Deeds</subject>
