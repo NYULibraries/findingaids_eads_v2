@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_481_flatbush_proclamation/">arms_1977_481_flatbush_proclamation</eadid><filedesc><titlestmt><titleproper>Guide to the 300th anniversary of Flatbush proclamation  <num>1977.481</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 12, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:35 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_481_flatbush_proclamation/">arms_1977_481_flatbush_proclamation</eadid><filedesc><titlestmt><titleproper>Guide to the 300th anniversary of Flatbush proclamation  <num>1977.481</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 12, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-30 21:17:41 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,39 +13,48 @@
     </origination>
     <unitid>1977.481</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
-      <extent altrender="carrier">in one folder.</extent>
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
-    <abstract id="aspace_e90cfd014597eb9cd5baf747d60b7af4">A proclamation, issued April 24, 1952, designating May 27, 1952 as the 300th anniversary of the official establishment of the Town of Flatbush.  The proclamation is signed by Brooklyn Borough President John Cashmore.</abstract>
+    <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+    <abstract id="aspace_e90cfd014597eb9cd5baf747d60b7af4">A proclamation, issued April 24, 1952, designating May 27, 1952 as the 300th anniversary of the official establishment of the Town of Flatbush.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_1e40e4f24f229e542861ff45fd6d4112" label="Text" type="Box">A0071</container>
+    <container altrender="Medium Flat Box 3" id="aspace_bf95a1a0cbd5e0955314aa14270985e8" label="Text" type="Box">OS-33</container>
   </did>
-  <scopecontent id="aspace_1070dacc1b81cf10d76c98186f4917f3">
-    <head>Scope and Contents</head>
-<p>A proclamation, issued April 24, 1952, designating May 27, 1952 as the 300th anniversary of the official establishment of the Town of Flatbush.  The proclamation is signed by Brooklyn Borough President John Cashmore.</p>  </scopecontent>
-  <prefercite id="aspace_868c94717696483bfdf201843c8b0b34">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); 300th anniversary of Flatbush proclamation , 1977.481, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_437da0bdc8dbdbd1caf60529da927bee">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <bioghist id="aspace_bd2c7ecd9ef71d931c3ceb65675382a1">
-    <head>Historical Note</head>
-<p>The Town of Flatbush was founded in 1636 when Dutch settlers purchased land from the Native Americans of the region, known as the <emph render="italic">Lenape</emph> (people), and began to populate what they designated as <emph render="italic">Vlacke Bos</emph> ("flatlands covered with bushes").  In 1652, the governor of New Amsterdam (later New York), Peter Stuyvesant, granted the inhabitants of <emph render="italic">Vlacke Bos</emph> a patent, and the town was officially chartered, becoming one of the original six villages to comprise what would eventually become the borough of Brooklyn, along with Brooklyn, Flatlands, New Utrecht, Bushwick, and Gravesend.  In little time, <emph render="italic">Vlacke Bos</emph> began flourishing as a farming community.  When the British wrestled long-term control over New Amsterdam from the Dutch in 1674 and renamed the island New York, they also Anglicized the names of the surrounding area's smaller towns and villages; hence, <emph render="italic">Vlacke Bos</emph> became Flatbush.  Later in 1683, when the English consolidated the six original towns of Brooklyn under the jurisdiction of Kings County, they designated Flatbush as the county's judicial center, a designation it held for the next 150 years.  Still, very little else in Flatbush changed; despite a period of hardship during the Revolutionary War, it largely remained a prosperous rural farming community well into the nineteenth century.  Only in the latter half of the nineteenth century, with the advent of a system of roads and advances in transportation, did Flatbush begin to expand and show signs of commercial influence. With the completion of the Brooklyn Bridge in 1883 and Brooklyn's consolidation as a borough of New York City in 1898, the character of Flatbush changed profoundly as waves of New York residents and new immigrants came flooding in to settle in the developing area, transforming it into a thriving suburb.  As of 2010, Flatbush is one of the most multicultural neighborhoods of the borough of Brooklyn.</p>    <list numeration="arabic" type="ordered">
-      <head>Sources:</head>
-      <item>Back, Adina, and Morrone, Francis. <emph render="italic">Flatbush: Neighborhood History Guide</emph>. Brooklyn, NY: Brooklyn Historical Society, 2008.</item>
-    </list>
-  </bioghist>
   <acqinfo id="aspace_9437b9add60c52f97ca1bbb3165c7d91">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_061828dba288f32805998ce28eeb1bd3">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
+  <bioghist id="aspace_bd2c7ecd9ef71d931c3ceb65675382a1">
+    <head>Historical note</head>
+<p>The Town of Flatbush was founded in 1636 when Dutch settlers purchased land from the Native Americans of the region, known as the Lenape (people), and began to populate what they designated as Vlacke Bos ("flatlands covered with bushes"). In 1652, the governor of New Amsterdam (later New York), Peter Stuyvesant, granted the inhabitants of Vlacke Bos a patent, and the town was officially chartered, becoming one of the original six villages to comprise what would eventually become the borough of Brooklyn, along with Brooklyn, Flatlands, New Utrecht, Bushwick, and Gravesend. In little time, Vlacke Bos began flourishing as a farming community. When the British took long-term control over New Amsterdam from the Dutch in 1674 and renamed the island New York, they also Anglicized the names of the surrounding area's smaller towns and villages; hence, Vlacke Bos became Flatbush. Later in 1683, when the English consolidated the six original towns of Brooklyn under the jurisdiction of Kings County, they designated Flatbush as the county's judicial center, a designation it held for the next 150 years. Still, very little else in Flatbush changed; despite a period of hardship during the Revolutionary War, it largely remained a prosperous rural farming community well into the nineteenth century. Only in the latter half of the nineteenth century, with the advent of a system of roads and advances in transportation, did Flatbush begin to expand and show signs of commercial influence. With the completion of the Brooklyn Bridge in 1883 and Brooklyn's consolidation as a borough of New York City in 1898, the character of Flatbush changed profoundly as waves of New York residents and new immigrants came flooding in to settle in the developing area, transforming it into a thriving suburb. As of 2010, Flatbush is one of the most multicultural neighborhoods of the borough of Brooklyn.</p>    <list numeration="arabic" type="ordered">
+      <head>Source</head>
+      <item>Back, Adina, and Morrone, Francis. <emph render="italic">Flatbush: Neighborhood History Guide</emph>. Brooklyn, NY: Brooklyn Historical Society, 2008.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_868c94717696483bfdf201843c8b0b34">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); 300th anniversary of Flatbush proclamation , 1977.481, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_9f673c267e91b19f65756c5b3c1c8623">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_1070dacc1b81cf10d76c98186f4917f3">
+    <head>Scope and Contents</head>
+<p>A proclamation, issued April 24, 1952, designating May 27, 1952 as the 300th anniversary of the official establishment of the Town of Flatbush. The proclamation is signed by Brooklyn Borough President John Cashmore.</p>  </scopecontent>
+  <userestrict id="aspace_69c6449080305d02e4e5d42c74cc25a2">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Proclamations</genreform>
     <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
-    <geogname source="lcsh">Flatbush (New York, N.Y.) |x Anniversaries, etc.</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.) -- Anniversaries, etc.</geogname>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
   </controlaccess>
   <dsc/>
