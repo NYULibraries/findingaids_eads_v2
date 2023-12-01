@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_510_reformed_dutch_church_flatbush/">arms_1977_510_reformed_dutch_church_flatbush</eadid><filedesc><titlestmt><titleproper>Guide to the Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush <num>1977.510</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:02 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_510_reformed_dutch_church_flatbush/">arms_1977_510_reformed_dutch_church_flatbush</eadid><filedesc><titlestmt><titleproper>Guide to the Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush <num>1977.510</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-01 19:25:09 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,35 +13,41 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1848/1848" type="inclusive">1848</unitdate>
-    <abstract id="aspace_053c8ec3d489d66f6e6908903008fecd">Lease between the Protestant Reformed Dutch Church of Flatbush and the Trustees of the Town of Flatbush, providing for the building and continued use of a common school on church-owned land in Flatbush School District No. 1.  The document is dated January 1, 1848.</abstract>
+    <unitdate datechar="creation" normal="1848/1848">1848</unitdate>
+    <abstract id="aspace_053c8ec3d489d66f6e6908903008fecd">One 1848 lease between the Protestant Reformed Dutch Church of Flatbush and the Trustees of the Town of Flatbush, providing for the building and continued use of a common school on church-owned land in Flatbush School District No. 1.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_654395b42761134c79a3cb1743397111" label="Text" type="Box">A0071</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d66f86a9a82852d96ac6b0d282c848f6" label="Text" type="Box">A0027</container>
   </did>
-  <acqinfo id="aspace_47055cfc26eac03b4976afe276c9830d">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of J. Duffield Prince, 1953.</p>  </acqinfo>
   <accessrestrict id="aspace_c908ce0a0be43d91f1c348adf50185f2">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_47055cfc26eac03b4976afe276c9830d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of J. Duffield Prince, 1953.</p>  </acqinfo>
+  <arrangement id="aspace_1ddca875d35d03cfffc6148d0d68d7b6">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
   <prefercite id="aspace_ea1f18d5b47f3222f1cd933243fb0b33">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush, 1977.510, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush, 1848, 1977.510, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_82df68bd6725290dc72a0ef47648f227">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
   <relatedmaterial id="aspace_ba6b48902677584c8e1a119ad503a32d">
     <head>Related Materials</head>
-<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
-      <head>Missing Title</head>
-      <item>1973.106, Flatlands Dutch Reformed Church collection, circa 1680-1930</item>
-      <item>1986.022, Dutch Reformed churches of Brooklyn collection, 1856-1971</item>
-      <item>1986.055, Frances Donin collection on the Dutch Reformed Church, Flatbush and Flatlands, 1820-1964</item>
-    </list>
-  </relatedmaterial>
+<p>Flatlands Dutch Reformed Church collection, circa 1680-1930 (1973.106)</p><p>Dutch Reformed churches of Brooklyn collection, 1856-1971 (1986.022)</p><p>Frances Donin collection on the Dutch Reformed Church, Flatbush and Flatlands, 1820-1964 (1986.055)</p>  </relatedmaterial>
+  <scopecontent id="aspace_a6d31f4a7aa1f72c5b2c8ae5a4ff809b">
+    <head>Scope and Contents</head>
+<p>Lease between the Protestant Reformed Dutch Church of Flatbush and the Trustees of the Town of Flatbush, providing for the building and continued use of a common school on church-owned land in Flatbush School District No. 1. The document is dated January 1, 1848.</p>  </scopecontent>
+  <userestrict id="aspace_ecc7a677ee607c9ca7cc1051f2c5a8c8">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Leases |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Church property |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Leases -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Public Schools -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Church property -- New York (State) -- Kings County</subject>
     <subject source="lcsh">Education -- New York (State) -- Kings County</subject>
     <genreform source="aat">Leases</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
