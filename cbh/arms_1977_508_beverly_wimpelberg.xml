@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_508_beverly_wimpelberg/">arms_1977_508_beverly_wimpelberg</eadid><filedesc><titlestmt><titleproper>Guide to the Richard Beverly and Louis Wimpelberg power of attorney document <num>1977.508</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:57 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_508_beverly_wimpelberg/">arms_1977_508_beverly_wimpelberg</eadid><filedesc><titlestmt><titleproper>Guide to the Richard Beverly and Louis Wimpelberg power of attorney document <num>1977.508</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-01 19:18:06 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,12 +13,12 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1866/1866" type="inclusive">1866</unitdate>
-    <abstract id="aspace_a3279a8781588408afaeb9cb38dd67e3">Power of attorney document appointing Louis Wimpelberg the attorney of Richard Beverly, and granting Wimpelberg the power in Beverly's stead to collect from Reuben Case of Brooklyn, N.Y. all money that may be due Beverly for the taking of the "Mobile" (meaning Mobile Bay, AL) by the U.S.S. Lackawanna during the Civil War.  The document is dated January 4, 1866.</abstract>
+    <unitdate datechar="creation" normal="1866/1866">1866</unitdate>
+    <abstract id="aspace_a3279a8781588408afaeb9cb38dd67e3">One 1866 power of attorney document appointing Louis Wimpelberg the attorney of Richard Beverly, and granting Wimpelberg the power in Beverly's stead to collect from Reuben Case of Brooklyn, N.Y. all money that may be due Beverly.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_12dbb0baf62d83ce9e11993b5b5fb3fa" label="Text" type="Box">A0071</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_49d37b791d607ec8ed1973474016cfc1" label="Text" type="Box">A0027</container>
   </did>
   <accessrestrict id="aspace_1f993517e139d2b0700cec8a0f8900b0">
     <head>Conditions Governing Access</head>
@@ -26,14 +26,28 @@
   <acqinfo id="aspace_bbd6c1134e718a80ddf8b20395550c61">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Ralph K. Jacobs, 1950.</p>  </acqinfo>
+  <arrangement id="aspace_7688193526e5ea951ca8101d839af355">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
   <prefercite id="aspace_129a49a41fe4f0b99224faeb80ddace3">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Richard Beverly and Louis Wimpelberg power of attorney document, 1977.508, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Richard Beverly and Louis Wimpelberg power of attorney document, 1866, 1977.508, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_86bed3795a02ca76576893d3d0d35df0">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_93e41b70d5c269267d998793f85b17d4">
+    <head>Scope and Contents</head>
+<p>Power of attorney document appointing Louis Wimpelberg the attorney of Richard Beverly, and granting Wimpelberg the power in Beverly's stead to collect from Reuben Case of Brooklyn, N.Y. all money that may be due Beverly for the taking of the "Mobile" (meaning Mobile Bay, AL) by the U.S.S. Lackawanna during the Civil War. The document is dated January 4, 1866.</p>  </scopecontent>
+  <userestrict id="aspace_44cf274541dfcc57e1a9f8233b818c33">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Power of attorney |z New York (State) |z Kings County</subject>
-    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865 |x Naval operations</geogname>
+    <subject source="lcsh">Power of attorney -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865 -- Naval operations</geogname>
     <geogname source="lcsh">Mobile Bay (Ala.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History -- Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
     <persname source="local">Wimpelberg, Louis</persname>
     <persname source="local">Beverly, Richard</persname>
     <persname source="local">Case, Reuben</persname>
