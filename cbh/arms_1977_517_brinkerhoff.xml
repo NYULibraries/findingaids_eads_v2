@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_517_brinkerhoff/">arms_1977_517_brinkerhoff</eadid><filedesc><titlestmt><titleproper>Guide to the George R. Brinkerhoff deed <num>1977.517</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:26 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_517_brinkerhoff/">arms_1977_517_brinkerhoff</eadid><filedesc><titlestmt><titleproper>Guide to the George R. Brinkerhoff deed <num>1977.517</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-06 20:02:29 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -17,29 +17,41 @@
     <unitid>1977.517</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
-      <extent altrender="carrier">in one folder.</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1859/1859" type="inclusive">1859</unitdate>
-    <abstract id="aspace_ee266f13684a794952453dca15d2e77f">Deed for land in Newtown, Queens County owned by George R. and Sarah Ann Brinkerhoff and sold to James Wallace.  It is dated January 29, 1859.  The Brinkerhoff property was called Mount Prospect.</abstract>
+    <unitdate datechar="creation" normal="1859/1859">1859</unitdate>
+    <abstract id="aspace_ee266f13684a794952453dca15d2e77f">One 1859 deed for land in Newtown, Queens County owned by George R. and Sarah Ann Brinkerhoff and sold to James Wallace.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_44e7978a5d31f57a9ce59a6fb52c7721" label="Text" type="Box">A0071</container>
+    <container altrender="Large Flat Box" id="aspace_9ec7a43e635860a7595e610e60c843a5" label="Text" type="Box">OS-22</container>
   </did>
   <accessrestrict id="aspace_1004f83353bce432737d93bfa21de5ed">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <prefercite id="aspace_caee4fd277a7ecaefed02a07a6ff7a04">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); George R. Brinkerhoff deed, 1977.517, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <acqinfo id="aspace_7994f6f141402d0aa23a111412e96368">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Andrew C. Jones, 1953.</p>  </acqinfo>
+  <arrangement id="aspace_ee23b31d8bb72448d63edb82f9b068a7">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <prefercite id="aspace_caee4fd277a7ecaefed02a07a6ff7a04">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); George R. Brinkerhoff deed, 1977.517, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_9420faac8774a51ce692fabace07f197">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_171b4dc91cb82da0bed69768c9b4a1c1">
+    <head>Scope and Contents</head>
+<p>Deed for land in Newtown, Queens County owned by George R. and Sarah Ann Brinkerhoff and sold to James Wallace. It is dated January 29, 1859. The Brinkerhoff property was called Mount Prospect.</p>  </scopecontent>
+  <userestrict id="aspace_29443f8931247cef38e2f2baeccdf588">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Land titles |z New York (State) |z Queens County</subject>
-    <subject source="lcsh">Real property |z New York (State) |z Queens County</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- Queens County</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Queens County</subject>
     <subject source="aat">Deeds</subject>
-    <subject source="lcsh">Landowners |z New York (State) |z Queens County</subject>
+    <subject source="lcsh">Landowners -- New York (State) -- Queens County</subject>
     <persname source="local">Brinkerhoff, Sarah Ann</persname>
     <persname source="local">Brinkerhoff, George R.</persname>
     <persname source="local">Wallace, James</persname>
