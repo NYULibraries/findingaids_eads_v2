@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/rg_37_2">rg_37_2</eadid><filedesc><titlestmt><titleproper>Guide to the Records of La Maison Française <num>RG.37.2</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>December 2023</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-07 14:30:19 -0500</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of La Maison Française</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">New York University. La Maison Française</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Goldenhar, Francine</persname>
+    </origination>
+    <unitid>RG.37.2</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3484</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.33 linear feet</extent>
+      <extent altrender="carrier">in 2 oversize flat boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate>
+    <abstract id="aspace_ebc5176238e3d6ce5e48625e83264466">La Maison Française is an academic center devoted to programming that encourages cultural exchange with French-speaking communities. It is part of a network grouped with the Center for French Civilization and Culture that promotes academic and cultural activity of New York University's four major spheres of French Studies: La Maison Française, the Institute of French Studies, NYU-Paris, and the Department of French Literature, Thought and Culture. La Maison Française was founded in 1957, and its programming to promote cultural exchange with French-speaking populations includes lectures, performances, exhibitions, symposia, festivals, and podcasts. The Records of La Maison Française (dated 1962-1963) consist of two scrapbooks documenting the 1962 and 1963 Carnaval de Paris, a gala benefitting the center. Scrapbooks include photographic prints and newspaper clippings of the events.</abstract>
+    <physloc id="aspace_e84bf94730ba08ac3a94923bdd91d996">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_32d9e9e33d8ce62a59612d0bce747d1d">Materials are in English and French.</langmaterial>
+  </did>
+  <scopecontent id="aspace_8ad6b301c8df206ca48590c47db8dde7">
+    <head>Scope and Contents</head>
+<p>The Records of La Maison Française (dated 1962-1963) consist of two scrapbooks documenting the 1962 and 1963 Carnaval de Paris, a gala benefitting the center. Scrapbooks include photographic prints and newspaper clippings of the events.</p>  </scopecontent>
+  <arrangement id="aspace_cc80a6b83fb395756938cc13a85265ae">
+    <head>Arrangement</head>
+<p>Materials are arranged chonologically.</p>  </arrangement>
+  <accessrestrict id="aspace_cdbb24cc576a0818d18c9c43be49524f">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_c0cf397cf5d4a736f775bcf322980cca">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by La Maison Française are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact New York University Archives, special.collections@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <acqinfo id="aspace_8fe3683537059bfa9a562b51a4ebab67">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred by Francine Goldenhar in September 2023; the accession number with this transfer is 2023.060.</p>  </acqinfo>
+  <prefercite id="aspace_8030314badbbc48358429ec308e3c92e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Records of La Maison Française; RG 37.2; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_5f7b8477397ffcf627a54b34d0eac905">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival boxes, and described on the collection-level with a box-level inventory.</p>  </processinfo>
+  <bioghist id="aspace_e7424018afddf85772f61db99dafa632">
+    <head>Historical Note</head>
+<p>La Maison Française is an academic center devoted to programming that encourages cultural exchange with French-speaking communities. It is part of a network grouped with the Center for French Civilization and Culture that promotes academic and cultural activity of New York University's four major spheres of French Studies: La Maison Française, the Institute of French Studies, NYU-Paris, and the Department of French Literature, Thought and Culture. La Maison Française was founded in 1957, and its programming to promote cultural exchange with French-speaking populations includes lectures, performances, exhibitions, symposia, festivals, and podcasts.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">French literature</subject>
+    <subject source="lcsh">French language</subject>
+    <subject source="lcsh">Education, Higher -- New York (N.Y.)</subject>
+    <persname role="dnr" rules="dacs" source="local">Goldenhar, Francine</persname>
+    <corpname rules="dacs" source="local">New York University. Department of French Literature, Thought and Culture</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_a370065b0bc20a8731fb4122a789b9bc" level="file"><did><unittitle>Carnaval de Paris Scrapbook</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/988866</unitid><unitdate datechar="creation" normal="1962-05-23/1962-05-23">1962-05-23</unitdate><container altrender="Flat OS Box 17" id="aspace_2263c512f6852883c1847cb0d7e022d5" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_0f5bba8a0064ae4c7c843816fe871879" level="file"><did><unittitle>Carnaval de Paris Scrapbook</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/988867</unitid><unitdate datechar="creation" normal="1963-05-21/1963-05-21">1963-05-21</unitdate><container altrender="Flat OS Box 17" id="aspace_677b06928873b2afc8ba9cf7b52734d7" label="Mixed Materials" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>
