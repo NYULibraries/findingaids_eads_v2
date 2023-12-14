@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0020">cbhm_0020</eadid><filedesc><titlestmt><titleproper>Guide to the Alan Maisel collection of political campaign materials <num>CBHM.0020</num></titleproper><author>Alice Griffin</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>December 2023</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-14 20:35:45 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Alan Maisel collection of political campaign materials</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Maisel, Alan N.</persname>
+    </origination>
+    <unitid>CBHM.0020</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.15 Linear feet</extent>
+      <extent altrender="carrier">in one half manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2006/2021" type="inclusive">2006-2021</unitdate>
+    <abstract id="aspace_a6748a20e89f06bb1bfd200b25fb4bf3">The Alan Maisel collection of political campaign materials, 2006-2021, consists of political campaign flyers from local and state elections, mostly representing Brooklyn-based politicians, collected by former New York State Assemblyman and Councilmember Alan Maisel.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_89012595b50e51a306ee05182deb23f4">
+    <head>Scope and Contents</head>
+<p>The Alan Maisel collection of political campaign materials, 2006-2021, includes political campaign flyers, mailers and local newspaper endorsements from local and state elections. These materials were collected by former New York State Assemblymember and Councilmember Alan Maisel. The bulk of the materials are from the 2021 democratic primary election and represent Brooklyn-based politicians.</p>  </scopecontent>
+  <arrangement id="aspace_e0be487b245756db1e463a3a3a237007">
+    <head>Arrangement</head>
+<p>The collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_f0c706e60bd5e0ebe0e09ed8baeb0781">
+    <head>Biographical Note</head>
+<p>Alan N. Maisel was born on July 25, 1946 in Brooklyn. </p><p>Alan Maisel served as Chief of Staff to Congressman Charles Schumer and was Chief of Staff to Assemblyman Frank R. Seddio, his predecessor in the State Assembly. He was elected to the New York State Assembly in 2006 and served until December 2013, when he left to become the City Council member representing the 46th District, encompassing parts of Mill Basin, Canarsie, Marine Park, and the Flatlands. Maisel retired from the New York City Council in 2021.</p><p>Maisel is a member of the District #1 Regional Board of B'nai B'rith, a two term chairman of the District 22 Community School Board, and a long-time member of Community Board 18 which encompasses most of the 46th Council District. </p>  </bioghist>
+  <accessrestrict id="aspace_9cf9916ebd68cc0678345300bd2e4c08">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_ecceb716e36939364267c1b9bc0eee26">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <acqinfo id="aspace_b9fd446b77e8e5bdba00d80b5230e49e">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Alan Maisel, 2023.</p>  </acqinfo>
+  <prefercite id="aspace_3650005f65e493bb38055b9d9cb9e69e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Alan Maisel collection of political campaign materials, CBHM.0020, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <relatedmaterial id="aspace_2f2eca0665b09a1c73ccfb1bec2b6baa">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related collections: </p><p>- Alan Maisel and Bernard Catcher collection on Brooklyn politics, 1953-2014 (2016.001)</p><p>- Joseph R. Lentol papers, 1951-2020 (CBHM.0004)</p>  </relatedmaterial>
+  <processinfo id="aspace_a522c3e057ded158da19c6b607e022d8">
+    <head>Processing Information</head>
+<p>All folder titles supplied by the archivist. The news clippings in this collection were photocopied onto archival paper and the originals discarded.</p>  </processinfo>
+  <appraisal id="aspace_2afd9bc6182deff415b1416473f6c6f4">
+    <head>Appraisal</head>
+<p>Full issues of common newspapers donated with this collection were determined to be out of scope and discarded.</p>  </appraisal>
+  <controlaccess>
+    <genreform source="aat">Flyers (printed matter)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Politics and government</geogname>
+    <geogname source="lcsh">New York (State) -- Politics and government</geogname>
+    <subject source="lcsh">Political campaigns -- New York (State) -- New York</subject>
+    <persname role="dnr" source="local">Maisel, Alan N.</persname>
+    <persname source="local">Maisel, Alan N.</persname>
+    <persname authfilenumber="no2012134352" rules="local" source="naf">Towns, Edolphus, 1934-</persname>
+    <persname rules="local" source="local">Brazela, Gardy</persname>
+    <persname rules="local" source="local">Newton, Judy</persname>
+    <persname>Cornegy, Robert, Jr.</persname>
+    <persname>Cranston, Donald</persname>
+    <persname rules="local" source="local">Iscol, Zach</persname>
+    <persname authfilenumber="no2010034180" rules="local" source="naf">Adams, Eric, 1960-</persname>
+    <persname authfilenumber="n 2002119371" rules="local" source="naf">Stringer, Scott M.</persname>
+    <persname rules="local" source="local">Johnson, Corey (Corey David), 1982-</persname>
+    <persname rules="local" source="local">Paul, Dweynie (Dweynie Esther)</persname>
+    <persname rules="local" source="local">Simon, Jo Anne, 1952-</persname>
+    <persname authfilenumber="no2020049948" rules="local" source="naf">Gounardes, Andrew (Politician)</persname>
+    <persname rules="local" source="local">Paul, Shirley</persname>
+    <persname authfilenumber="nr 97022431" rules="local" source="naf">Garcia, Kathryn</persname>
+    <persname rules="local" source="local">Council, Kim</persname>
+    <persname rules="local" source="local">Yassky, David (David S.)</persname>
+    <persname rules="local" source="local">Thompson, Bill (William Coleridge, Jr.), 1953-</persname>
+    <persname rules="local" source="naf">Green, Mark J.</persname>
+    <persname>Yeger, Kalman, 1974-</persname>
+    <persname rules="local" source="local">Melendez, Consuelo M. (Consuelo Mallafre)</persname>
+    <persname rules="local" source="local">Edwards, Khari</persname>
+    <persname rules="local" source="local">Willabus, R. Dimple</persname>
+    <persname authfilenumber="no2013003004" rules="local" source="naf">Patel, Reshma</persname>
+    <persname authfilenumber="n 2017037262" rules="local" source="naf">McGuire, Raymond J., 1957-</persname>
+    <persname rules="local" source="local">Narcisse, Mercedes</persname>
+    <persname rules="local" source="local">Persaud, Roxanne</persname>
+  </controlaccess>
+  <dsc><c id="aspace_9b7642a98cb1fc115b4c8dbf54b6508f" level="file"><did><unittitle>2006 special election</unittitle><unitdate datechar="creation" normal="2006/2006">2006</unitdate><container id="aspace_106454b1d44dd71c9cef769255196e55" label="Mixed Materials" type="Box">1</container><container id="aspace_63c1bd4f6c07281695e2a066a5b30311" parent="aspace_106454b1d44dd71c9cef769255196e55" type="Folder">1</container></did></c><c id="aspace_98f463b223de7aca7b071afc899125a2" level="file"><did><unittitle>2006 general election</unittitle><unitdate datechar="creation" normal="2006/2006">2006</unitdate><container id="aspace_61ba5bffe5306bc184c78236ad21a0b7" label="Mixed Materials" type="Box">1</container><container id="aspace_0d2d8db3ef8cca81293046c164e79294" parent="aspace_61ba5bffe5306bc184c78236ad21a0b7" type="Folder">2</container></did></c><c id="aspace_a2496d207ecd8631e1a19014b5d222db" level="file"><did><unittitle>2009 Democratic primary election</unittitle><unitdate datechar="creation" normal="2009/2009">2009</unitdate><container id="aspace_6a60135599f8b0444ac5c6e806e38231" label="Mixed Materials" type="Box">1</container><container id="aspace_6b33c3c855761889a21df44d6815c56e" parent="aspace_6a60135599f8b0444ac5c6e806e38231" type="Folder">3</container></did></c><c id="aspace_f55d7254dced117989f1d57d21449885" level="file"><did><unittitle>2012 general election</unittitle><unitdate datechar="creation" normal="2012/2012">2012</unitdate><container id="aspace_f82b09dedd1ac923ed76f232fd703fd5" label="Mixed Materials" type="Box">1</container><container id="aspace_44026d11f88b00f225d5f3ee01af9946" parent="aspace_f82b09dedd1ac923ed76f232fd703fd5" type="Folder">4</container></did></c><c id="aspace_033a12438ff1aee3762afccc75991dbe" level="file"><did><unittitle>2016 Democratic primary election</unittitle><unitdate datechar="creation" normal="2016/2016">2016</unitdate><container id="aspace_0ac0e4be05a50c61ad001f88cb34e30b" label="Mixed Materials" type="Box">1</container><container id="aspace_7eeb35e6826966eef9fd841c749ff4e8" parent="aspace_0ac0e4be05a50c61ad001f88cb34e30b" type="Folder">5</container></did></c><c id="aspace_8940802d14f430e78465deddaf339519" level="file"><did><unittitle>2017 general election</unittitle><unitdate datechar="creation" normal="2017/2017">2017</unitdate><container id="aspace_602e5e3b1c63a8fa9292c029d2e64ce9" label="Mixed Materials" type="Box">1</container><container id="aspace_cfcf37c73ea8c292b372481b6644c8be" parent="aspace_602e5e3b1c63a8fa9292c029d2e64ce9" type="Folder">6</container></did></c><c id="aspace_944edf08525cbcf4ed95fe4bd3479ead" level="file"><did><unittitle>2021 Democratic primary election</unittitle><unitdate datechar="creation" normal="2021/2021">2021</unitdate><container id="aspace_89569b9f77ead692a6a05a1e025a8ee7" label="Mixed Materials" type="Box">1</container><container id="aspace_c8ca8f42bdf4432d27cd31e0715fb234" parent="aspace_89569b9f77ead692a6a05a1e025a8ee7" type="Folder">7-12</container></did></c></dsc>
+</archdesc>
+</ead>
