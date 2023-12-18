@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_603_fanning/">arms_1977_603_fanning</eadid><filedesc><titlestmt><titleproper>Guide to the Richard Fanning shipping certificate <num>1977.603</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:34 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_603_fanning/">arms_1977_603_fanning</eadid><filedesc><titlestmt><titleproper>Guide to the Richard Fanning shipping certificate <num>1977.603</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-18 19:31:11 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,12 +13,12 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1799/1799" type="inclusive">1799</unitdate>
-    <abstract id="aspace_2091798ebfaa7e186c5b682676cbb91d">Document certifying that goods transported on the ship <emph render="italic">Revolution</emph> from New York, N.Y. under shipmaster Richard Fanning have safely arrived in Havana, Cuba.  Dated 1799.</abstract>
+    <unitdate datechar="creation" normal="1799/1799">1799</unitdate>
+    <abstract id="aspace_2091798ebfaa7e186c5b682676cbb91d">One 1799 document certifying that goods transported on the ship Revolution from New York, N.Y. under shipmaster Richard Fanning have safely arrived in Havana, Cuba.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_778cfcc99b057a04aab539aa0f471ea2" label="Text" type="Box">A0072</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_38b05e9a3c7934ea578fb2d64bbe579e" label="Text" type="Box">A0028</container>
   </did>
   <accessrestrict id="aspace_f1247cdee6779634dac01928988cf146">
     <head>Conditions Governing Access</head>
@@ -26,16 +26,28 @@
   <acqinfo id="aspace_43f1f87377e8a18ac37d82f4f9b0390d">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_8e030bbce00ee56d4d85bc2f2f961cad">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
   <prefercite id="aspace_e573ff64b0761c5fc1671167ae5eee5a">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Richard Fanning shipping certificate, 1977.603, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Richard Fanning shipping certificate, 1799, 1977.603, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_6358361af0b623dbc743a40cdcd54ef1">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_52626bfca080fced422c96df0b535dc5">
+    <head>Scope and Contents</head>
+<p>One 1799 document certifying that goods transported on the ship Revolution from New York, N.Y. under shipmaster Richard Fanning have safely arrived in Havana, Cuba.</p>  </scopecontent>
+  <userestrict id="aspace_5fdd4b3e79104aed69410efed6e0e213">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Ship captains |z New York (State) |z New York</subject>
+    <subject source="lcsh">Ship captains -- New York (State) -- New York</subject>
     <geogname source="lcsh">Havana (Cuba)</geogname>
-    <subject source="lcsh">Shipping |z New York (State) |z New York</subject>
-    <subject source="lcsh">Ships |z New York (State) |z New York</subject>
+    <subject source="lcsh">Shipping -- New York (State) -- New York</subject>
+    <subject source="lcsh">Ships -- New York (State) -- New York</subject>
     <geogname source="lcsh">New York (N.Y.)</geogname>
-    <subject source="lcsh">Shipping |z Havana |z Cuba</subject>
+    <subject source="lcsh">Shipping -- Havana -- Cuba</subject>
     <genreform source="aat">Certificates</genreform>
     <genreform source="aat">Shipping records</genreform>
     <corpname rules="aacr" source="naf">Revolution (Ship)</corpname>
