@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_586_alburtis/">arms_1977_586_alburtis</eadid><filedesc><titlestmt><titleproper>Guide to the John and James Alburtis land deeds <num>1977.586</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:15:56 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_586_alburtis/">arms_1977_586_alburtis</eadid><filedesc><titlestmt><titleproper>Guide to the John and James Alburtis land deeds <num>1977.586</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-18 18:51:41 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -17,11 +17,11 @@
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1773/1814" type="inclusive">1773, 1814</unitdate>
-    <abstract id="aspace_de5731f1fa05ba054239dba243c22e92">Two deeds for property in the town of Hempstead in Queens County owned by John and James Alburtis (spelled All Burtis in the deeds).  Dated 1773 and 1814.</abstract>
+    <abstract id="aspace_de5731f1fa05ba054239dba243c22e92">Two deeds for property in the town of Hempstead in Queens County owned by John and James Alburtis (spelled All Burtis in the deeds). Dated 1773 and 1814.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_7f8ff0bbc72120f801f51c60ebfbb2d2" label="Text" type="Box">A0072</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_7dd7d6a6761b2cc51d077f3d3699724e" label="Text" type="Box">A0028</container>
   </did>
   <accessrestrict id="aspace_1cd2dac07e2e9994cd3746f07267182d">
     <head>Conditions Governing Access</head>
@@ -29,17 +29,29 @@
   <acqinfo id="aspace_9c5f19f14868730b27c99eaa075d10f9">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
-  <processinfo id="aspace_62229ad42f6792a959948f1d37ba1293">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
+  <arrangement id="aspace_892916d9eeb3cafe8d57d424f222f1c6">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder.</p>  </arrangement>
+  <phystech id="aspace_52ca5610fc82f9fefb8d157e35af37b1">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>These documents are very fragile and should be handled with care.</p>  </phystech>
   <prefercite id="aspace_213fac9ed72151be93cd33cfca8a1761">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); John and James Alburtis land deeds, 1977.586, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); John and James Alburtis land deeds, 1977.586, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_62229ad42f6792a959948f1d37ba1293">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_c7afe58b7a176e6d9b0808545c2eddfd">
+    <head>Scope and Contents</head>
+<p>Two deeds for property in the town of Hempstead in Queens County owned by John and James Alburtis (spelled All Burtis in the deeds). Dated 1773 and 1814.</p>  </scopecontent>
+  <userestrict id="aspace_7f349852bed94d7227a58e880d1dd1f5">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Queens County (N.Y.)</geogname>
     <geogname source="lcsh">Hempstead (N.Y.)</geogname>
-    <subject source="lcsh">Land titles |z New York (State) |z Hempstead</subject>
-    <subject source="lcsh">Real property |z New York (State) |z Hempstead</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- Hempstead</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Hempstead</subject>
     <subject source="aat">Deeds</subject>
     <persname source="local">Alburtis, John</persname>
     <persname source="local">Alburtis, James</persname>
