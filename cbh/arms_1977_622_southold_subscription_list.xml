@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_622_southold_subscription_list/">arms_1977_622_southold_subscription_list</eadid><filedesc><titlestmt><titleproper>Guide to the Southold, N.Y. subscription list <num>1977.622</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 14, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:06 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_622_southold_subscription_list/">arms_1977_622_southold_subscription_list</eadid><filedesc><titlestmt><titleproper>Guide to the Southold, N.Y. subscription list <num>1977.622</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 14, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-18 20:59:08 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,14 +11,14 @@
     <unitid>1977.622</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1786/1786" type="inclusive">1786</unitdate>
-    <abstract id="aspace_84bff3c193f74a544957de98238ab6e7">A photostat copy of a list of Southold, N.Y. residents and money they contributed to build a wharf in Southold Harbor. The list features 35 names.</abstract>
+    <unitdate datechar="creation" normal="1786/1786">1786</unitdate>
+    <abstract id="aspace_84bff3c193f74a544957de98238ab6e7">A photostat copy of a 1786 list of Southold, N.Y. residents and money they contributed to build a wharf in Southold Harbor.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_f6034ec87ec816a83efbd882c3489d15" label="Text" type="Box">A0073</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_f460d161bac1bcd0560729d8fba2e849" label="Text" type="Box">A0028</container>
   </did>
   <accessrestrict id="aspace_f1ed981e28e47f316bb64a313ff973e6">
     <head>Conditions Governing Access</head>
@@ -26,9 +26,21 @@
   <acqinfo id="aspace_7fcd1089cf9610128a486d4e9563c9a7">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown. The item was formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_03dcd7449e4110410518090492b2b40c">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
   <prefercite id="aspace_c8ab90dbdca59d1eaaf0961793d5d47d">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Southold, N.Y. subscription list, 1977.622, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Southold, N.Y. subscription list, 1786, 1977.622, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_bea6e4c1e308e68cc4dd751b171a48c2">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_e48222796f5c6507f6a1c71b4e431828">
+    <head>Scope and Contents</head>
+<p>A photostat copy of a 1786 list of Southold, N.Y. residents and money they contributed to build a wharf in Southold Harbor. The list features 35 names.</p>  </scopecontent>
+  <userestrict id="aspace_f45fb637df9a1aa9c9448cbbfd3518ae">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Subscription lists</genreform>
     <geogname source="lcsh">Southold (N.Y.)</geogname>
