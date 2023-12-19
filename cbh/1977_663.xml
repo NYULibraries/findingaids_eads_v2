@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/1977_663">1977_663</eadid><filedesc><titlestmt><titleproper>Guide to the Gabor Naphegyi lecture transcription <num>1977.663</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-19 16:38:09 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2020</date><item>Title of collection was modified by Maggie Schreiner to correct spelling.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Gabor Naphegyi lecture transcription</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Naphegyi, Gábor, 1824-1884</persname>
+    </origination>
+    <unitid>1977.663</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1855/1875" type="inclusive">circa 1865</unitdate>
+    <abstract id="aspace_0f51bf5edd6087fc8b4daab76935294b">A transcription of "Languages of the Aborigines of the American Continent," a lecture presented by Gabor Naphegyi, circa 1865, at the Long Island Historical Society.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_0128f10ecbb6fc7e73ac050cfba2b9a2" label="Text" type="Box">A0028</container>
+  </did>
+  <accessrestrict id="aspace_83ef9a27b9adf5e4f7de1346fe4f5bbd">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_4ea85f14aac4531cdc7c14e0c593c8fb">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_4d06a3777515346ad83e10009b6d1d1b">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <bioghist id="aspace_cf82ade8a4465d84c995e88f4a6caa0f">
+    <head>Historical note</head>
+<p>The Long Island Historical Society (LIHS) was founded during a time of tumultuous change. In only a few decades, Brooklyn had grown from a rural agricultural community to the third largest city in the country. Civic pride was at an all-time high. Many of Brooklyn's citizens believed they needed to commemorate their city's rural past before it quickly faded from memory.</p><p>Founders also envisioned the LIHS as a center for dialogue about history. In the nineteenth century, the society's roster of speakers included newspaper editor and reformer Horace Greeley, writer Arthur Conan Doyle and abolitionist and women's rights activist Julia Ward Howe. </p><p>In 1985, the institution changed its name to Brooklyn Historical Society (BHS). In 2020, BHS underwent another transformation by becoming part of Brooklyn Public Library under a new name: Center for Brooklyn History (CBH).</p>  </bioghist>
+  <bioghist id="aspace_26346a2b5ba85391b0f70ffac8addc67">
+    <head>Biographical note</head>
+<p>Gabor Naphegyi was an importer, author, and financial and legal agent for General Antonio López de Santa Anna during the latter's stay in the United States in 1866-1867.</p><p>Naphegyi, born in Budapest, became a naturalized United States citizen and later moved to Mexico City. By the 1850s he was involved with his wife, Maria Amalia Kurezyn, in various enterprises, including the Santa Anna Mine, resulting by 1860 in financial difficulties. In 1865 the Naphegyis returned to the United States and settled in New York City, where Naphegyi was employed as director of the Mexican department of the Knickerbocker Life Insurance Company.</p><p>The following year, when Santa Anna arrived in New York, Naphegyi acted as his financial and legal agent. It is unclear what previous acquaintance the two men had, but Santa Anna speaks in his autobiography of Naphegyi as "a Hungarian I had befriended in Mexico." Santa Anna came to New York on May 12th, 1866, from St. Thomas, where he had been in exile since 1855, to arrange American aid through Secretary of State William H. Seward and others to regain control of Mexico.</p>    <list numeration="arabic" type="ordered">
+      <head>Source:</head>
+      <item>Gabor Naphegyi papers, MS 1155, Yale University Archives. https://archives.yale.edu/repositories/12/resources/3183</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_1d09c9737f92e542e4fe09116ed41cbe">
+    <head>Preferred Citation</head>
+<p>Gabor Naphegyi lecture, c. 1865, 1977.663, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_8bbc38efd3e3d0734045888abd97b776">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <relatedmaterial id="aspace_bd1ae5a8078100828ed5f442a8de48bc">
+    <head>Related Materials</head>
+<p>John F. Aiken lecture transcriptions (1977.660)</p><p>William Everett lecture transcription (1977.661)</p><p>John Hooper lecture transcription (1977.662)</p><p>Gabor Naphegyi papers, MS 1155, Yale University Archives.</p>  </relatedmaterial>
+  <scopecontent id="aspace_3a0605d809e82e77aa42b5b1e25f1083">
+    <head>Scope and Contents</head>
+<p>A transcription of "Languages of the Aborigines of the American Continent," a lecture presented by Gabor Naphegyi, circa 1865, at the Long Island Historical Society (later known as the Brooklyn Historical Society).</p>  </scopecontent>
+  <userestrict id="aspace_9b831a6dac97ca4a643ad642027be99f">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Lecture notes</genreform>
+    <subject source="lcsh">Indians of North America -- Language</subject>
+    <genreform source="aat">Transcripts</genreform>
+    <subject source="lcsh">Lectures and lecturing -- New York (State) -- Kings County</subject>
+    <corpname rules="aacr" source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
