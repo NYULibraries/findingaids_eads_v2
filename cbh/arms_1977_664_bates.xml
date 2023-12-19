@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_664_bates/">arms_1977_664_bates</eadid><filedesc><titlestmt><titleproper>Guide to the Seymour Bates letter <num>1977.664</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:40 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_664_bates/">arms_1977_664_bates</eadid><filedesc><titlestmt><titleproper>Guide to the Seymour Bates letter <num>1977.664</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-19 19:01:22 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,24 +11,36 @@
     <unitid>1977.664</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1814/1814" type="inclusive">1814</unitdate>
+    <unitdate datechar="creation" normal="1814/1814">1814</unitdate>
     <abstract id="aspace_223694d2462175b9bdcc4834eebc27f5">A letter from Seymour Bates of Brooklyn to Charles Smith of Bedford Academy regarding his trip to a military camp, dated October 18, 1814.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_67e4ed11d0b5644aa01f071d7ea99681" label="Text" type="Box">A0073</container>
+    <container altrender="Large Flat Box" id="aspace_93c121d4600c44c4187a7b74a2d82c2a" label="Text" type="Oversize">OS-23</container>
   </did>
   <accessrestrict id="aspace_72b3fb28bc722ec659dbc775d01bcdf9">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <prefercite id="aspace_ffb79fc770acd078fb8beed39cb35571">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Seymour Bates letter, 1977.664, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <acqinfo id="aspace_36537f0328d4354978061864ae84aca2">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown. The item was formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_a6579d647b876825acee6cb30fe86ffd">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <prefercite id="aspace_ffb79fc770acd078fb8beed39cb35571">
+    <head>Preferred Citation</head>
+<p>Seymour Bates letter, 1814, 1977.664, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_af6c8652c991c409fa5cb3c0b9f4c02d">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_ea2be8e08a9f5baf8ab08f6ac89d7500">
+    <head>Scope and Contents</head>
+<p>A letter from Seymour Bates of Brooklyn to Charles Smith of Bedford Academy regarding his trip to a military camp, dated October 18, 1814.</p>  </scopecontent>
+  <userestrict id="aspace_8b7ebfc5c4bb5edad49d1bc11c35014f">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Military life</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
