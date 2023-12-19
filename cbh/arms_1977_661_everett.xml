@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_661_everett/">arms_1977_661_everett</eadid><filedesc><titlestmt><titleproper>Guide to the William Everett lecture transcription <num>1977.661</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:35 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_661_everett/">arms_1977_661_everett</eadid><filedesc><titlestmt><titleproper>Guide to the William Everett lecture transcription <num>1977.661</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-19 16:13:45 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,14 +11,14 @@
     <unitid>1977.661</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1860/1869" type="inclusive">circa 1860s</unitdate>
-    <abstract id="aspace_07f23cdc2b7e7b68f293297040af09d3">A transcription of a lecture titled, "Some English Friends in America in 1766", delivered by William Everett at the Long Island Historical Society (later known as the Brooklyn Historical Society) in the 1860s.</abstract>
+    <abstract id="aspace_07f23cdc2b7e7b68f293297040af09d3">A transcription of a lecture titled, "Some English Friends in America in 1766," delivered by William Everett at the Long Island Historical Society in the 1860s.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_21f4f66b568e96b7aff8ca759200d2df" label="Text" type="Box">A0073</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_fd3602013ae6ce7c2f453c1684deaeff" label="Text" type="Box">A0028</container>
   </did>
   <accessrestrict id="aspace_55f5e8b6221c55e68dccd1c07a681831">
     <head>Conditions Governing Access</head>
@@ -26,12 +26,27 @@
   <acqinfo id="aspace_e22f8610ba8ae52e447281223bd2a27a">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown. The item was formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_3a0124745029c6c3a37406102f1460d0">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <bioghist id="aspace_07f8c3d8afd791d0288d3e1f37eed3cd">
+    <head>Historical note</head>
+<p>The Long Island Historical Society (LIHS) was founded during a time of tumultuous change. In only a few decades, Brooklyn had grown from a rural agricultural community to the third largest city in the country. Civic pride was at an all-time high. Many of Brooklyn's citizens believed they needed to commemorate their city's rural past before it quickly faded from memory.</p><p>Founders also envisioned the LIHS as a center for dialogue about history. In the nineteenth century, the society's roster of speakers included newspaper editor and reformer Horace Greeley, writer Arthur Conan Doyle and abolitionist and women's rights activist Julia Ward Howe. </p><p>In 1985, the institution changed its name to Brooklyn Historical Society (BHS). In 2020, BHS underwent another transformation by becoming part of Brooklyn Public Library under a new name: Center for Brooklyn History (CBH).</p>  </bioghist>
   <prefercite id="aspace_4599000b9275dd2fa79c34df23e5c615">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); William Everett lecture, 1977.661, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>William Everett lecture, 1860s, 1977.661, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_c056392986dd12a6a06ec807c649ae63">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_140c1c5652f5df82e9814efb2a7df58d">
+    <head>Scope and Contents</head>
+<p>A transcription of a lecture titled, "Some English Friends in America in 1766," delivered by William Everett at the Long Island Historical Society (later known as the Brooklyn Historical Society) in the 1860s.</p>  </scopecontent>
+  <userestrict id="aspace_b0072b1fc31192a8c899ccfb4f85a9fb">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Lecture notes</genreform>
-    <subject source="lcsh">Lectures and lecturing |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Lectures and lecturing -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <corpname rules="aacr" source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</corpname>
     <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
