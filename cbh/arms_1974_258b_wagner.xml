@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_258b_wagner/">arms_1974_258b_wagner</eadid><filedesc><titlestmt><titleproper>Guide to the Henry C. Wagner Confederate war song collection <num>1974.258b</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 4, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:51 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_258b_wagner/">arms_1974_258b_wagner</eadid><filedesc><titlestmt><titleproper>Guide to the Henry C. Wagner Confederate war song collection <num>1974.258b</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 4, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-19 19:41:10 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -15,25 +15,37 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_7b56238ca1a0378186bd043cf82b5d4d" label="Text" type="Box">A0027</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_1c0a5a34664d427ef30c76c5b8faddea" label="Text" type="Box">A0013</container>
   </did>
   <accessrestrict id="aspace_12628dae66ccb0d3f4974507cd4a9905">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
-  <prefercite id="aspace_66e4d91eeefcec38793651fc3238246b">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Henry C. Wagner Confederate war song collection, 1974.258b, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <processinfo id="aspace_c36ab0bd41ed58f5e06d2260bae3636b">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
   <acqinfo id="aspace_52e8b09953c4c5e0bbd8d03410187cd5">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Henry C. Wagner, 1898.</p>  </acqinfo>
+  <arrangement id="aspace_b385749a60b51e6bab925d4fc38b2c4a">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder.</p>  </arrangement>
+  <otherfindaid id="aspace_a09301b4f8fa2bdd80ef3946c3f1f170">
+    <head>Other Finding Aids</head>
+<p>A full inventory is available in the collection's accession file.</p>  </otherfindaid>
+  <prefercite id="aspace_66e4d91eeefcec38793651fc3238246b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Henry C. Wagner Confederate war song collection, 1974.258b, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_c36ab0bd41ed58f5e06d2260bae3636b">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. Until August 2011 this collection was included in accession 1974.258 with another item: a scrapbook of Confederate songs purchased at the Sanitary Fair by Brevoort. Due to the different provenance, the accession was split. 1974.258a (the Brevoort purchase) was moved to the Collection of Brooklyn, N.Y., Civil War relief associations records, ephemera and other material (ARC.245). This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_f5b235a2a240b6902431d0ce75450f5b">
+    <head>Scope and Contents</head>
+<p>Loose printed sheets containing the lyrics of 15 Confederate States of America songs, circa 1861 to 1865.</p>  </scopecontent>
+  <userestrict id="aspace_54010ca920bb63bc19d0877420acefd1">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Confederate States of America</geogname>
-    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
     <genreform source="aat">Songs (document genre)</genreform>
-    <subject source="lcsh">War songs |z Confederate States of America</subject>
+    <subject source="lcsh">War songs -- Confederate States of America</subject>
     <corpname rules="aacr" source="naf">Confederate States of America</corpname>
   </controlaccess>
   <dsc/>
