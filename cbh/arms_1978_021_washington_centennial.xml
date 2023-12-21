@@ -1,38 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_021_washington_centennial/">arms_1978_021_washington_centennial</eadid><filedesc><titlestmt><titleproper>Guide to the Sub-Committee on Entertainment of the Committee on the Centennial Celebration of the Inauguration of George Washington as President of the United States minutes <num>1978.021</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:18:29 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_021_washington_centennial/">arms_1978_021_washington_centennial</eadid><filedesc><titlestmt><titleproper>Guide to the Centennial Celebration of the Inauguration of George Washington Sub-Committee on Entertainment minutes <num>1978.021</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-21 20:51:43 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
-    <unittitle>Sub-Committee on Entertainment of the Committee on the Centennial Celebration of the Inauguration of George Washington as President of the United States minutes</unittitle>
+    <unittitle>Centennial Celebration of the Inauguration of George Washington Sub-Committee on Entertainment minutes</unittitle>
     <origination label="Creator">
       <corpname rules="dacs" source="local">Committee on the Centennial Celebration. Sub-Committee on Entertainment</corpname>
     </origination>
     <unitid>1978.021</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1888/1889" type="inclusive">1888-1889</unitdate>
-    <abstract id="aspace_1b25e1b05df11741305beeaf76ff2255">The meeting minutes of the Sub-Committee on Entertainment of the Committee on the Centennial Celebration of the Inauguration of George Washington as President of the United States are housed in a single volume and cover the period 1888 to 1889. The year 1889 marked the centennial of the inauguration of George Washington as President of the United States. On February 3, 1889, the Committee on the Centennial Celebration appointed a sub-committee entitled the Committee on Entertainment with Stuyvesant Fish as Chairman. The event took place on April 29 and 30, 1889 at the Metropolitan Opera House.</abstract>
+    <abstract id="aspace_1b25e1b05df11741305beeaf76ff2255">The meeting minutes of the Sub-Committee on Entertainment of the Centennial Celebration of the Inauguration of George Washington are housed in a single volume and cover the period 1888 to 1889.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_0fffa97ff374d5ae1cd95f01732aefce" label="Text" type="Box">A0075</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_5ae3e7b9937cd8a10e805e383ebb0637" label="Text" type="Box">A0029</container>
   </did>
-  <prefercite id="aspace_37838c1fc5d952f79baf0d55a24ddd85">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Sub-Committee on Entertainment of the Committee on the Centennial Celebration of the Inauguration of George Washington as President of the United States minutes, 1978.021, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_edf7d8467da20c924c7f4cc267708eb1">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The item was formally accessioned in 1978.</p>  </acqinfo>
   <accessrestrict id="aspace_515aaec40b232e476e2a44f9c832251b">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_edf7d8467da20c924c7f4cc267708eb1">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1978.</p>  </acqinfo>
+  <arrangement id="aspace_380ce7933c36774571ca24313e88679e">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder. The materials were seemingly originally part of a single volume, but at the time of reprocessing the archivist found several loose sheets along with the volume, as well as folded pages that were deteriorating along their creases. The pages are in order of the original volume as much as possible.</p>  </arrangement>
+  <bioghist id="aspace_c3dcdfdbf63534f84d141f0d871940bd">
+    <head>Historical note</head>
+<p>The year 1889 marked the centennial of the inauguration of George Washington as President of the United States. On February 3, 1889, the Committee on the Centennial Celebration appointed a sub-committee entitled the Committee on Entertainment with Stuyvesant Fish as Chairman. The event took place on April 29 and 30, 1889 at the Metropolitan Opera House.</p>  </bioghist>
+  <phystech id="aspace_4b727baa9753a7aee4275e866dbaeb62">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Many of the pages in this collection are damaged or broken along their creases and should be handled with extra care.</p>  </phystech>
+  <prefercite id="aspace_37838c1fc5d952f79baf0d55a24ddd85">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Centennial Celebration of the Inauguration of George Washington Sub-Committee on Entertainment minutes, 1978.021, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_d6909bc504df9040239e81a6ac84a24d">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_5d933d23f0315e0ee3be9940420e7461">
+    <head>Scope and Contents</head>
+<p>The meeting minutes of the Sub-Committee on Entertainment of the Committee on the Centennial Celebration of the Inauguration of George Washington as President of the United States are housed in a single volume and cover the period 1888 to 1889.</p>  </scopecontent>
+  <userestrict id="aspace_091a493656752297f37ecf3e56d4c0be">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Centennial celebrations, etc.</subject>
-    <subject source="lcsh">Presidents |z United States</subject>
+    <subject source="lcsh">Presidents -- United States</subject>
     <geogname source="lcsh">New York (N.Y.)</geogname>
+    <genreform source="aat">Minutes</genreform>
+    <subject source="lcsh">Entertainment events -- New York (State) -- Kings County</subject>
     <persname rules="aacr" source="naf">Washington, George</persname>
   </controlaccess>
   <dsc/>
