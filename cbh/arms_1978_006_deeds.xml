@@ -1,31 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_006_deeds/">arms_1978_006_deeds</eadid><filedesc><titlestmt><titleproper>Guide to the Long Island deeds collection <num>1978.006</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:57 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_006_deeds/">arms_1978_006_deeds</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn and Long Island deeds collection <num>1978.006</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-21 14:57:16 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Brooklyn and Long Island deeds collection</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Seaman, Elbert C.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Watson, Harold D.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="local">Boyce, Mary E., Miss</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="local">Anderson, John Troop</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="local">Shipman, Sofia</persname>
+    </origination>
     <unitid>1978.006</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.16 Linear Feet</extent>
-      <extent altrender="carrier">in two folders</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1716/1885" type="inclusive">1716-1885</unitdate>
-    <abstract id="aspace_b01a74840755167dd4c6f18b2682b6d6">A collection of deeds from various properties located on Long Island, dated 1716 to 1885 and measuring 0.16 linear feet. Property locations in the collection include East Hampton, Southampton, Brookhaven, Flushing, Newtown, Jamaica, and Brooklyn. Names mentioned in the collection include Charlotte Schermerhorn, William H. Schermerhorn, Jacob and Juliet Strong, Peter Stuyvesant, William J. Cogswell, Daniel Brewster, George Stillwell, George Jarvis, George Post, and Henry E. Pierrepont.</abstract>
+    <abstract id="aspace_b01a74840755167dd4c6f18b2682b6d6">A collection of deeds from various properties located on Long Island, dated 1716 to 1885.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_345a6049ff068af9009a1c089d8ba554" label="Text" type="Box">A0074</container>
+    <container id="aspace_8fe642ebb3120bfb6182e3fa047867e4" label="Text" type="Folder">Flat File</container>
   </did>
   <accessrestrict id="aspace_05758aad7fadd8b43605cc52249fce0d">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_4e01b8baca08e5aba2ba4bcad61248d0">
     <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The collection was formally accessioned in 1977.</p>  </acqinfo>
+<p>Source and date of acquisition for some of the materials is unknown. The collection was formally accessioned in 1977.</p><p>Four deeds were the gift of Harold Watson in April 1965: 1786 between Joseph Post, Sarah Post, and Ruth Bishop; 1850 between John and Wilkes Hedges; 1871 between John Bahrenburg and William Cogswell; 1872 between John Bahrenburg and William Stoothoff.</p><p>One deed to Syosset Farm was the gift of Elbert C. Seaman in May 1965.</p><p>One 1833 deed between Elizabeth Marston and George Stilwell was the gift of Miss Mary E. Boyce, April 1961.</p><p>One 1835 deed between Peter Stuyvesant and George Jarvis was the gift of John Troop Anderson, date unknown.</p><p>Two deeds were the gift of Sofia Shipman in September 1967: 1869 between Henry Pierrepont and George Post and 1840 between the Pierreponts and Isabel Razy.</p>  </acqinfo>
   <prefercite id="aspace_6e1bdf2eb148fdf09c1c65b2693050bf">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Long Island deeds collection, 1978.006, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Brooklyn and Long Island deeds collection, 1978.006, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <scopecontent id="aspace_b43f73efe42bf1854ab15d0dd8d48920">
+    <head>Scope and Contents</head>
+<p>A collection of deeds from various properties located on Long Island, dated 1716 to 1885. Property locations in the collection include East Hampton, Southampton, Brookhaven, Flushing, Newtown, Jamaica, and Brooklyn. Names mentioned in the collection include Charlotte Schermerhorn, William H. Schermerhorn, Jacob and Juliet Strong, Peter Stuyvesant, William J. Cogswell, Daniel Brewster, George Stillwell, George Jarvis, George Post, and Henry E. Pierrepont.</p>  </scopecontent>
+  <accessrestrict id="aspace_e544fa870e5ec4006bbedd3aed3b58a2">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_f166b1269b402e6bf4fcdc4831f0dad3">
+    <head>Conditions Governing Use</head>
+<p>The material in this collection is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <processinfo id="aspace_61a3312b9aea386e7ad11838ab4a1c26">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <arrangement id="aspace_cd1b4b207cd2b08ecdf20c0108f92e0d">
+    <head>Arrangement</head>
+<p>This small collection is arranged in a single folder in chronological order.</p>  </arrangement>
   <controlaccess>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <geogname source="lcsh">Queens County (N.Y.)</geogname>
@@ -48,6 +78,11 @@
     <persname rules="dacs" source="local">Schermerhorn, Charlotte</persname>
     <persname rules="dacs" source="local">Schermerhorn, William Henry</persname>
     <persname rules="dacs" source="local">Strong, Jacob</persname>
+    <persname role="dnr" source="local">Seaman, Elbert C.</persname>
+    <persname role="dnr" rules="dacs" source="local">Watson, Harold D.</persname>
+    <persname role="dnr" source="local">Boyce, Mary E., Miss</persname>
+    <persname role="dnr" source="local">Anderson, John Troop</persname>
+    <persname role="dnr" source="local">Shipman, Sofia</persname>
   </controlaccess>
   <dsc/>
 </archdesc>
