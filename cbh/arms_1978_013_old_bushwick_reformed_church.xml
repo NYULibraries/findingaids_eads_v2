@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_013_old_bushwick_reformed_church/">arms_1978_013_old_bushwick_reformed_church</eadid><filedesc><titlestmt><titleproper>Guide to the Old Bushwick Reformed Church Sunday School meeting minutes <num>1978.013</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:18:13 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_013_old_bushwick_reformed_church/">arms_1978_013_old_bushwick_reformed_church</eadid><filedesc><titlestmt><titleproper>Guide to the Old Bushwick Reformed Church Sunday School meeting minutes <num>1978.013</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-21 18:56:16 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -14,28 +14,40 @@
     <unitid>1978.013</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one volume.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1870/1877" type="inclusive">1870-1877</unitdate>
-    <abstract id="aspace_be001e70dcf23e09c20d9275341f2933">The Sunday School teachers of the Old Bushwick Reformed Church, located at 15 Himrod Street in Brooklyn, N.Y., met on a monthly basis at a chosen teacher's home to discuss school business. The meeting minutes are housed in a single bound volume and record topics discussed, attendance to the meetings, and the Sunday School's constitution and bylaws.</abstract>
+    <abstract id="aspace_be001e70dcf23e09c20d9275341f2933">The Old Bushwick Reformed Church Sunday School 1870-1877 meeting minutes are housed in a single bound volume and record topics discussed, attendance to the meetings, and the Sunday School's constitution and bylaws.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_89bedb18d5bb8f8b3196c17bcd081413" label="Text" type="Box">A0074</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_8ca80458cb7c7c5f66e521c4aba0eb32" label="Text" type="Box">A0029</container>
   </did>
-  <prefercite id="aspace_1552d95ee1caf1b7fcdbef6a2676bde1">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Old Bushwick Reformed Church Sunday School records, 1978.013, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_680fe815e8e38b7a8df3e1b04dbeabb2">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of J. Choban, 1976.</p>  </acqinfo>
   <accessrestrict id="aspace_b92f85edaaf3ea8f68c9a3d35aaa5c40">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_680fe815e8e38b7a8df3e1b04dbeabb2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of J. Choban, 1976.</p>  </acqinfo>
+  <arrangement id="aspace_dd88d408d9f839c94731bf8c34e23860">
+    <head>Arrangement</head>
+<p>This collection consists of a single bound volume.</p>  </arrangement>
+  <prefercite id="aspace_1552d95ee1caf1b7fcdbef6a2676bde1">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Old Bushwick Reformed Church Sunday School records, 1978.013, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_d4278a22f51674d292ea1c91b9b15f46">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_330aa44ccd2a6bb8e6b3313d6455c67b">
+    <head>Scope and Contents</head>
+<p>The Old Bushwick Reformed Church Sunday School meeting minutes are housed in a single bound volume and record topics discussed, attendance to the meetings, and the Sunday School's constitution and bylaws. The Sunday School teachers of the Old Bushwick Reformed Church, located at 15 Himrod Street in Brooklyn, N.Y., met on a monthly basis at a chosen teacher's home to discuss school business.</p>  </scopecontent>
+  <userestrict id="aspace_e5f69e460a0343954284803403c3d17f">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Minutes</genreform>
-    <subject source="lcsh">Sunday schools |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Religious education of children |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Sunday schools -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Religious education of children -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
     <persname role="dnr" rules="dacs" source="local">Choban, J.</persname>
