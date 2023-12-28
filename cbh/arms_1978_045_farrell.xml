@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_045_farrell/">arms_1978_045_farrell</eadid><filedesc><titlestmt><titleproper>Guide to the James Farrell undertaker's account book <num>1978.045</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:03 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_045_farrell/">arms_1978_045_farrell</eadid><filedesc><titlestmt><titleproper>Guide to the James Farrell undertaker's account book <num>1978.045</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-28 15:30:06 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,30 +10,47 @@
     </origination>
     <unitid>1978.045</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
-      <extent altrender="carrier">in one bound volume</extent>
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one box.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1873/1900" type="inclusive">1873-1900</unitdate>
-    <abstract id="aspace_75cf6f10e38bc7b3237127c69b1f5bbf">The James Farrell undertaker's account book, dated 1873 to 1900, gives detailed accounts of internment costs for citizens in the borough of Brooklyn in the late 19th century. Also included are notices of deaths from local newspapers (most likely members of Farrell's family), notices of undertaker's meetings, and prices of graves and burials at local cemeteries. Two lists provide Farrell family birth and death dates, presumably those of Farrell's children. James Farrell was an undertaker whose offices were located at 66 Fifth Avenue, Brooklyn, N.Y.</abstract>
+    <abstract id="aspace_75cf6f10e38bc7b3237127c69b1f5bbf">The James Farrell undertaker's account book gives detailed accounts of internment costs for citizens in the borough of Brooklyn in the late 19th century.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_b1092bcc22b2370eb3a9fd26dbd79be5" label="Text" type="Box">A0080</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_fe0af72b03ec7b1fe9de06d4ad239228" label="Text" type="Box">1</container>
   </did>
-  <prefercite id="aspace_e77d7bf6e52eb13e3c88a0402e65455d">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); James Farrell undertaker's account book, 1978.045, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_3074519a52bae8edc72213ef84090fb4">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The item was formally accessioned in 1975.</p>  </acqinfo>
   <accessrestrict id="aspace_b9adac51089eef48350f384e3e2094cb">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_3074519a52bae8edc72213ef84090fb4">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1975.</p>  </acqinfo>
+  <arrangement id="aspace_d015fd7e193a2a6bb5caa35af84b608f">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <bioghist id="aspace_f73338cc59c936be82b6a1286ebb87c5">
+    <head>Biographical note</head>
+<p>James Farrell was an undertaker whose offices were located at 66 Fifth Avenue, Brooklyn, N.Y. in what is now Park Slope.</p>  </bioghist>
+  <prefercite id="aspace_e77d7bf6e52eb13e3c88a0402e65455d">
+    <head>Preferred Citation</head>
+<p>James Farrell undertaker's account book, 1873-1900, 1978.045, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_ca32e26a3a0e307cf624d56fa7ff2007">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_d3bd679ef389b5efd96ed83fef938854">
+    <head>Scope and Contents</head>
+<p>The James Farrell undertaker's account book, dated 1873 to 1900, gives detailed accounts of internment costs for citizens in the borough of Brooklyn in the late 19th century. Also included are notices of deaths from local newspapers (most likely members of Farrell's family), notices of undertaker's meetings, and prices of graves and burials at local cemeteries. Two lists provide Farrell family birth and death dates, presumably those of Farrell's children.</p>  </scopecontent>
+  <userestrict id="aspace_37c36f6585ff72cf79bc01467e09a609">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Clippings (information artifacts)</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Account books</genreform>
-    <subject source="lcsh">Undertakers and undertaking |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Undertakers and undertaking -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
   </controlaccess>
   <dsc/>
 </archdesc>
