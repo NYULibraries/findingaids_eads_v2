@@ -1,37 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_058_oreilly/">arms_1978_058_oreilly</eadid><filedesc><titlestmt><titleproper>Guide to the James L.D. O'Reilly papers <num>1978.058</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:14 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_058_oreilly/">arms_1978_058_oreilly</eadid><filedesc><titlestmt><titleproper>Guide to the James L.D. O'Reilly papers <num>1978.058</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-28 18:44:28 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>James L.D. O'Reilly papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">O'Reilly, James L. D.</persname>
-    </origination>
     <origination label="source">
-      <persname rules="dacs" source="local">O'Reilly, James L. D.</persname>
+      <persname role="fmo" rules="dacs" source="local">O'Reilly, James L. D.</persname>
     </origination>
     <unitid>1978.058</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1895/1928" type="inclusive">1895-1928</unitdate>
-    <abstract id="aspace_9f5ff97d3cc3c1bae4d1e8b216851b10">James L.D. O'Reilly resided at 4314 4th Avenue in Brooklyn and ran a coffee and tea business at 55 South Street in Manhattan. His papers span the period 1895 to 1928 and contain receipts for furnishings and work done to his properties in Manhattan and Brooklyn. Also included are receipts from St. John's College, Brooklyn, for tuition and costs for his son Aloysius J. O'Reilly.</abstract>
+    <abstract id="aspace_9f5ff97d3cc3c1bae4d1e8b216851b10">These papers contain receipts for furnishings and work done to James L.D. O'Reilly's properties in Manhattan and Brooklyn, as well as receipts from St. John's College, Brooklyn, for tuition and costs for his son Aloysius J. O'Reilly.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_e8c4fa0cb3574b7ed4cde83ca57afd51" label="Text" type="Box">A0078</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6e76301c5e84d9dd5c3fa651d03299c2" label="Mixed Materials" type="Box">A0030</container>
   </did>
-  <prefercite id="aspace_196bddaa0d35bc3b047f4837ed77baeb">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); James L.D. O'Reilly papers, 1978.058, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_3d7fd1c9c201751983a43b488ebf004b">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of John F. Roche, 1970.</p>  </acqinfo>
   <accessrestrict id="aspace_fb903748e22a579d9f463dc2164a1a94">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_3d7fd1c9c201751983a43b488ebf004b">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of John F. Roche, 1970.</p>  </acqinfo>
+  <arrangement id="aspace_1ba8aa0da89fa14211eb166c685d0e9e">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder.</p>  </arrangement>
+  <bioghist id="aspace_6ee54962f16b1ab8e587b949fefb5753">
+    <head>Biographical note</head>
+<p>James L.D. O'Reilly resided at 4314 4th Avenue in Brooklyn and ran a coffee and tea business at 55 South Street in Manhattan.</p>  </bioghist>
+  <prefercite id="aspace_196bddaa0d35bc3b047f4837ed77baeb">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); James L.D. O'Reilly papers, 1978.058, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_a9efea2004e08a32d5ddb4582266256b">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_6920eae187c0015d23f980faef2bf67a">
+    <head>Scope and Contents</head>
+<p>These papers span the period 1895 to 1928 and contain receipts for furnishings and work done to James L.D. O'Reilly's properties in Manhattan and Brooklyn. Also included are receipts from St. John's College, Brooklyn, for tuition and costs for his son Aloysius J. O'Reilly.</p>  </scopecontent>
+  <userestrict id="aspace_b28c94701576c9a42cab03a96c387d0c">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Receipts (financial records)</genreform>
