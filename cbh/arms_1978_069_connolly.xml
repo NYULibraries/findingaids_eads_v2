@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_069_connolly/">arms_1978_069_connolly</eadid><filedesc><titlestmt><titleproper>Guide to the John H. Connolly discharge <num>1978.069</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:20 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_069_connolly/">arms_1978_069_connolly</eadid><filedesc><titlestmt><titleproper>Guide to the John H. Connolly discharge <num>1978.069</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-29 15:27:22 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,30 +10,46 @@
     </origination>
     <unitid>1978.069</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1864/1864" type="inclusive">1864</unitdate>
-    <abstract id="aspace_681de3587b3d673d0723fb208d722591">The certificate of discharge of Private John Connelly from Company F, 84th Regiment, New York State Infantry Volunteers, dated March 19, 1864. Private John H. Connelly served in Lt. Henry Brown's 84th Regiment of the New York State Infantry during the American Civil War. Connelly fought and was disabled at the Battle of Gettysburg in July 1863. He was discharged on account of wounds suffered in the battle. Connelly was a native of New York City.</abstract>
+    <unitdate datechar="creation" normal="1864/1864">1864</unitdate>
+    <abstract id="aspace_681de3587b3d673d0723fb208d722591">The 1864 certificate of discharge of Private John Connelly from Company F, 84th Regiment, New York State Infantry Volunteers.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_8ff60264214b989ff11084405b0a03c9" label="Text" type="Box">A0079</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_240e9de7b6a3225002a467f118c61d2c" label="Text" type="Box">A0031</container>
   </did>
-  <prefercite id="aspace_a955400dcd1f1d9621286083fd67c553">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); John H. Connolly discharge, 1978.069, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_22bf51178dfed4f0d7cb8bb5f0902cd5">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Claire Connolly, 1972.</p>  </acqinfo>
   <accessrestrict id="aspace_05c1f262e7406a7787a97448307f5f57">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_22bf51178dfed4f0d7cb8bb5f0902cd5">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Claire Connolly, 1972.</p>  </acqinfo>
+  <arrangement id="aspace_b2dc785ffdb28be166be15477c93918d">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <bioghist id="aspace_582f45a82485bb5cb4c0af46a9990e39">
+    <head>Biographical note</head>
+<p>Private John H. Connelly was from New York City. He served in Lt. Henry Brown's 84th Regiment of the New York State Infantry during the American Civil War. Connelly fought and was disabled at the Battle of Gettysburg in July 1863. He was discharged on account of wounds suffered in the battle.</p>  </bioghist>
+  <prefercite id="aspace_a955400dcd1f1d9621286083fd67c553">
+    <head>Preferred Citation</head>
+<p>John H. Connolly discharge, 1864, 1978.069, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_e98af5bf5890ed365019fdbbda88f969">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_ae2dd7db67b5ef12f499500bf305150e">
+    <head>Scope and Contents</head>
+<p>The certificate of discharge of Private John Connelly from Company F, 84th Regiment, New York State Infantry Volunteers, dated March 19, 1864.</p>  </scopecontent>
+  <userestrict id="aspace_9aa6d916cc54fef8994f1c1e1beb2c14">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">New York (N.Y.)</geogname>
     <genreform source="aat">Military records</genreform>
     <genreform source="aat">Discharges</genreform>
-    <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History -- Civil War, 1861-1865 -- Veterans</geogname>
     <persname rules="dacs" source="local">Connelly, John</persname>
   </controlaccess>
   <dsc/>
