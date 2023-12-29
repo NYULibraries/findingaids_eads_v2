@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_075_eason/">arms_1978_075_eason</eadid><filedesc><titlestmt><titleproper>Guide to the Lanier Eason letter <num>1978.075</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:24 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_075_eason/">arms_1978_075_eason</eadid><filedesc><titlestmt><titleproper>Guide to the Lanier Eason letter <num>1978.075</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 26, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-12-29 15:57:07 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,29 +10,44 @@
     </origination>
     <unitid>1978.075</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
-    <abstract id="aspace_d61518da22761c2cf5e1a1ec998d2625">A letter from Lanier Eason to Kitty and Hank Terjen discussing the author's memories of members of the Roebling family, dated 1976. The Roeblings designed and built the Brooklyn Bridge. Eason's mother (not named) appears from the letter to have known or married into the Roebling family.</abstract>
+    <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
+    <abstract id="aspace_d61518da22761c2cf5e1a1ec998d2625">A 1976 letter from Lanier Eason to Kitty and Hank Terjen discussing the author's memories of members of the Roebling family.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_dff34a72b9eff92862a297cc999919c9" label="Text" type="Box">A0079</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_9c5a1819579fd062379d8217e24978c9" label="Text" type="Box">A0031</container>
   </did>
-  <prefercite id="aspace_f1941ffcab42a56805fff305f62399c6">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Lanier Eason letter, 1978.075, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_c3460dd35c7ab87397c47cd6c6362df8">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_d232e2110e2ff93948ec790af87af084">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Hank and Kitty Terjan, 1976.</p>  </acqinfo>
+  <arrangement id="aspace_ddd377d6297b862cc38cc22cf91c19c5">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <bioghist id="aspace_e17f36ac56837bc8b83063d348b4684f">
+    <head>Biographical note</head>
+<p>Washington Augustus Roebling (May 26, 1837 – July 21, 1926) was an American civil engineer who supervised the construction of the Brooklyn Bridge, designed by his father John A. Roebling. After his wife Emily died in 1903, Roebling remarried Cornelia Witsell Farrow of Charleston, South Carolina in 1908.</p><p>The Eason family were neighbors of Cornelia Farrow Roebling and socially connected to the family. For example, Adelaide Ferguson, a "former girlfriend" of Lanier Eason's father, Sidney Lanier Eason, married John Farrow, Cornelia's son. In this letter, Eason shares recollections of the two families and their connections.</p>  </bioghist>
+  <prefercite id="aspace_f1941ffcab42a56805fff305f62399c6">
+    <head>Preferred Citation</head>
+<p>Lanier Eason letter, 1976, 1978.075, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_38477f0cb3ed71a1379b7f2b202c9a16">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <scopecontent id="aspace_9ad3c306056a4710dcfacabd8b575e40">
+    <head>Scope and Contents</head>
+<p>A four-page letter from Lanier Eason to Kitty and Hank Terjen discussing the author's memories of members of the Roebling family, dated 1976. There are pencil notes in some margins clarifying information in the letter, presumably added by the donor.</p>  </scopecontent>
+  <userestrict id="aspace_51fe245221957d7c8f840d5c864f603d">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Correspondence</genreform>
-    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families -- New York (State) -- Kings County</subject>
     <famname source="local">Roebling family</famname>
   </controlaccess>
   <dsc/>
