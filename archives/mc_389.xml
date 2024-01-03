@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_389">mc_389</eadid><filedesc><titlestmt><titleproper>Guide to the Printing Blocks for <emph render="italic">What is Mathematics</emph> <num>MC.389</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>October 2023</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-03 10:58:16 -0500</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Printing Blocks for <emph render="italic">What is Mathematics</emph></unittitle>
+    <origination label="source">
+      <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+    </origination>
+    <unitid>MC.389</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3469</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 linear feet</extent>
+      <extent altrender="carrier">in 1 flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1936/1946" type="inclusive">circa 1941</unitdate>
+    <abstract id="aspace_94c55fd7a57324ea899676a51595636a">Richard Courant (1988-1972) was a mathematician and one of the founders of the Courant Institute of Mathematical Sciences at New York University. In 1941, Courant and Hebert Robbins published <emph render="italic">What is Mathematics?</emph>, an introductory book for students and the wider public. The content of the book was largely based on Courant's course materials. This collection consists of 10 printing blocks from the book <emph render="italic">What is Mathematics: An Elementary Approach to Ideas and Methods</emph>, as well as one copy of the book.</abstract>
+    <physloc id="aspace_04673dee564f472c8b9a3bbf835a301f">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_7716eeb3f56a0003830094626505df20">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_ba7080073e409033c0520f5261279e23">
+    <head>Scope and Contents</head>
+<p>This collection consists of 10 printing blocks from the book <emph render="italic">What is Mathematics: An Elementary Approach to Ideas and Methods</emph> by Richard Courant, as well as one copy of the book.</p>  </scopecontent>
+  <arrangement id="aspace_eb4d01349babc897e8843c7eb14b8f8c">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <accessrestrict id="aspace_6acdf17997c1a79322bd9613edead3e1">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_5a08eeacaa36d0511f8d6d9dd67babeb">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_6408eff3e1a4bad9321fb643d310294f">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was transferred from the Courant Institute Library in July 2023 along with other collections in the library's holdings. Original provenance is unknown. The accession number associated with this transfer is 2023.049.</p>  </acqinfo>
+  <prefercite id="aspace_b473e0e4ed9b67675a030cc02c488205">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Printing Blocks for <emph render="italic">What is Mathematics</emph>; MC 389; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_93d793d928d7cd8591713fe7632b8783">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused by conservators in an archival box.</p>  </processinfo>
+  <bioghist id="aspace_ae4befb0510355ba571dc0790825d5b5">
+    <head>Historical Note</head>
+<p>Richard Courant (1988-1972) was a mathematician and one of the founders of the Courant Institute of Mathematical Sciences at New York University. In 1941, Courant and Hebert Robbins published <emph render="italic">What is Mathematics?</emph>, an introductory book for students and the wider public. The content of the book was largely based on Courant's course materials.</p>  </bioghist>
+  <appraisal id="aspace_3d8691e8a9970b02973910bc542ceaa0">
+    <head>Appraisal</head>
+<p>Archivists selected for inclusion in this collection a representative sample of blocks ranging in size and subject matter. Printing blocks that exhibited signs of deterioration were not selected for inclusion in this collection.</p>  </appraisal>
+  <controlaccess>
+    <subject source="lcsh">Mathematics.</subject>
+    <subject source="lcsh">Mathematics teaching and learning</subject>
+    <genreform authfilenumber="(gettyaat)300161798" source="aat">printing blocks (printing surfaces)</genreform>
+    <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+    <persname rules="dacs" source="naf">Courant, Richard, 1888-1972</persname>
+  </controlaccess>
+  <dsc><c id="aspace_65d2b6412a6961f9ca7bd95e443decab" level="file"><did><unittitle>Printing Blocks and Copy of Book</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/981214</unitid><unitdate datechar="creation" normal="1941/1941">circa 1941</unitdate><container altrender="Box - 13 x 18" id="aspace_8479795265945a280dca31de9f01a8a5" label="Mixed Materials [31142046524172]" type="Box">1</container></did></c></dsc>
+</archdesc>
+</ead>
