@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/pr468_willis_bott/">pr468_willis_bott</eadid><filedesc><titlestmt><titleproper>Guide to the Willis L. Bott Photograph Collection<lb/>1944-1958<lb/> <num>PR 468</num></titleproper><author>Rebecca Filner (December 2023)</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>December 2023</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-08 13:10:05 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Willis L. Bott photograph collection</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Bott, Willis L., 1908-1978</persname>
+    </origination>
+    <unitid>PR 468</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.209 Linear feet</extent>
+      <extent altrender="carrier">in 1 half Hollinger box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1944-1958</unitdate>
+    <abstract id="aspace_ea0042d92d65d57119c4cdddb90e799d">A collection of 96 silver gelatin photographs taken by Willis L. Bott between 1944 and 1958 that document both rural scenery and urban infrastructure in New York counties including Dutchess, Rockland, Putnam, Westchester, and the Bronx.</abstract>
+    <physloc id="aspace_ae4a9f1eeb98b78f99c8446e91e3ae4e">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_901f87f9ec4c790890db579149fc27bf">The materials in the collection are photographs, but any text is in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_88338081d866720c464ac64abc11d472">
+    <head>Arrangement</head>
+<p>Photographs are arranged by date.</p>  </arrangement>
+  <bioghist id="aspace_758f3ab2ef88d8aa7680029df9120eb9">
+    <head>Biographical / Historical</head>
+<p>Willis L. Bott was born in Union City, NJ on June 22, 1908 and raised in Philmont, NY. He worked on the New York Central Railroad in Columbia County, NY and put himself through the chemistry program at the Pratt Institute in Brooklyn, NY. After graduation he spent his career with the Davis Emergency Equipment Company in Newark, NJ. He married D. Margaret Jansson in 1937. They had four sons and raised them in Teaneck, NJ, where he lived until his death in 1978.</p><p>Bott was an avid photographer and often had his camera with him, capturing scenes and activities. He processed the negatives and printed the photos in a darkroom he set up in his basement. His photographs document life in the period between 1940 and 1960, and many images capture the beauty he saw in nature. His photographs are held by the New Jersey Historical Society, the Teaneck and Bogota, NJ public libraries, the Bergen County Historical Society Library, the Columbia County (NY) Historical Society, the Appalachian Trail Museum, the Office of Development and Special Projects of the Bear Mountain and Harriman State Parks (Palisades Interstate Park Commission), the New-York Historical Society, and the Historical Society of Pennsylvania.</p>  </bioghist>
+  <accessrestrict id="aspace_d3fd1f7f61bbc3e0c919642b8a9d40fe">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_7cc3c2a62e0b874b65ab910895b1b70a">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <acqinfo id="aspace_1f37cf12b7e05de19e4f5789a29d0cb6">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Thomas L. Bott, 2023.</p>  </acqinfo>
+  <prefercite id="aspace_45828d6c7d18e9b4b3e5d849242a773f">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Willis L. Bott Photograph Collection, PR 468, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_ac35ee617d3242e4cc73515e88109376">
+    <head>Processing Information</head>
+<p>Photographs were transferred to archival sleeves and arranged sequentially in folders.</p>  </processinfo>
+  <scopecontent id="aspace_1fdcc038e035df0bac57d6be707bfaba">
+    <head>Scope and Contents</head>
+<p>The collection consists of 96 3"x5" gelatin silver photographs documenting scenery in Dutchess, Rockland, Putnam, Westchester, and Bronx Counties. The photographs are annotated on the verso with a number Bott assigned,  information about where they were taken, and the date.</p><p>Folder 1 focuses on Rockland, Dutchess, and Putnam Counties. The earliest photographs from 1944 depict scenery in Spring Valley, Suffern, and Orangeburg, NY, including shots of the Hudson River. A series of shots from February 1946 show the Hudson River in snow from the Bear Mountain Bridge and the snowy landscape around Garrison, Beacon, and Cold Spring, NY. Photographs taken in October 1946 show scenery near Stony Point and Jones Point, NY, including the entrance to Stony Point State Park, boats on the Hudson River, and the Stony Point World War II memorial. Photographs from 1947 and 1948 include various shots of the Bear Mountain Bridge, High Tor, Anthony's Nose, Mt. Beacon, and scenery near Cold Spring, Garrison, Fishkill, and West Point, NY. Photographs from 1950 to 1955 show farmland, pastures, Hudson River views, a church and railroad stations, and other scenery near Pine Plains, Wassaic, Wingdale, Bear Mountain, Webutuck, and Pawling, NY.</p><p>Folder 2 covers the area from Yonkers to the George Washington Bridge in Westchester and the Bronx. Photographs from 1956 and 1957 show train stations and train tracks in Yonkers and the Bronx; the Bronx River near Mount Vernon; the Bronx River Parkway near Fleetwood; and the Harlem River near Yankee Stadium. Other photographs taken in the Bronx show Van Cortland Park, the view from Coogan's Bluff, and the George Washington Bridge. There are also photographs of Tuxedo, NY (in Orange County) showing the train station and the Ramapo River.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Dutchess County (N.Y.)</geogname>
+    <geogname source="lcsh">Rockland County (N.Y.)</geogname>
+    <geogname source="lcsh">Putnam County (N.Y.)</geogname>
+    <geogname source="lcsh">Westchester County (N.Y.)</geogname>
+    <geogname source="lcsh">Bronx (New York, N.Y.) -- Photographs.</geogname>
+    <subject source="lcsh">Railroads -- New York (State) </subject>
+    <geogname source="lcsh">Hudson River (N.Y. and N.J.) -- Photographs.</geogname>
+    <geogname source="lcsh">Hudson River Valley (N.Y. and N.J.)</geogname>
+    <geogname source="lcsh">Van Cortlandt Park (New York, N.Y.)</geogname>
+    <geogname source="lcsh">George Washington Bridge (New York, N.Y.)</geogname>
+    <geogname source="local">Bear Mountain Bridge (N.Y.)</geogname>
+    <geogname source="lcsh">Bear Mountain State Park (N.Y.)</geogname>
+    <genreform source="aat">Gelatin silver prints.</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <geogname source="lcsh">Harlem River (N.Y.)</geogname>
+    <subject source="lcsh">Parks -- New York (State)  -- New York -- Photographs.</subject>
+    <subject source="lcsh">Bridges -- New York (State)  -- New York -- Photographs.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_9b6b822f379321d6bd047ca7e0f18ddc" level="file"><did><unittitle>Folder 1: Dutchess, Rockland, and Putnam Counties</unittitle><unitdate datechar="creation" type="inclusive">1944-1955</unitdate><container id="aspace_c35166483a348b7775a857071c1c01ee" label="Graphic Materials [1804000000423]" type="Offsite-Box">1</container><container id="aspace_7e121bcfea53b7b14db7da694483b0b8" parent="aspace_c35166483a348b7775a857071c1c01ee" type="Folder">1</container></did><odd id="aspace_0d1fb11e870efd357342ae90915a3083"><head>General</head><p>Folder 1 includes photographs of largely rural scenes in Dutchess, Rockland, and Putnam Counties in New York.</p></odd></c><c id="aspace_386a012264f1abb69aecb8e817657b8e" level="file"><did><unittitle>Folder 2: Westchester and the Bronx</unittitle><unitdate datechar="creation" type="inclusive">1956-1958</unitdate><container id="aspace_e85bd471a6f2e8d9fe489decccd068af" label="Graphic Materials [1804000000423]" type="Offsite-Box">1</container><container id="aspace_ca43f48f08d252c7691b4a82fe148cd3" parent="aspace_e85bd471a6f2e8d9fe489decccd068af" type="Folder">2</container></did><odd id="aspace_a5828691bd11c30ff70dad01af27ed2a"><head>General</head><p>Folder 2 includes photographs of Westchester County and the Bronx, including photographs of Van Cortland Park and the George Washington Bridge.</p></odd></c></dsc>
+</archdesc>
+</ead>
