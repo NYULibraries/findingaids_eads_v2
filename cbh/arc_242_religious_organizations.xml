@@ -1,174 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_242_religious_organizations/">arc_242_religious_organizations</eadid><filedesc><titlestmt><titleproper>Guide to the religious organizations of Brooklyn collection <num>ARC.242</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>December 7, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:13:19 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_242_religious_organizations/">arc_242_religious_organizations</eadid><filedesc><titlestmt><titleproper>Guide to the Religious organizations of Brooklyn collection <num>ARC.242</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>December 7, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-08 19:32:06 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Religious organizations of Brooklyn collection</unittitle>
-    <origination label="Creator">
-      <corpname source="local">Hebrew Educational Society of Brooklyn</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">International Catholic Truth Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Warren Street Mission (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Woman's American Baptist Home Mission Society. Long Island Division</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Brooklyn City Mission and Tract Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Sixth Avenue Baptist Sunday School (Brooklyn, New York, N.Y.). Boys' Mission Band</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Congregational Church Extension Society of New York City and Brooklyn</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">Peoples Pulpit Association</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Brooklyn Association in Aid of the Grande-Ligne Mission (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Helping Hand of Brooklyn (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Union for Christian Work (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Brooklyn City Bible Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">Brooklyn Hebrew Orphan Asylum</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Baptist Children's Home of Long Island (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Long Island Baptist Association. Children's Home. Women's Board</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Brooklyn City Tract Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Daughters of Israel Benefit Society (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Wartburg Lutheran Home for Aged and Infirm (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Presbyterian Church in the U.S.A.. Synod of Long Island. Woman's Home and Foreign Missionary Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Christian Union for Work Among the Chinese (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Woman's Baptist Missionary Society. Long Island Division</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Society of St. Vincent de Paul. Diocesan Central Council of Brooklyn</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">St. Phebe's Mission and Convalescent Home (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Evangelical Home Society of Brooklyn (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">Brooklyn Tabernacle (New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Women's Baptist Home Mission Society. Long Island Division</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">St. Phebe's Mission</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Church Mission of Help (Episcopal Church). Diocese of Long Island</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">United Presbyterian Church in the U.S.A.. Presbytery of Brooklyn-Nassau. Expansion Fund</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Mercy Home for Children (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Missionary Training Institute (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">New York Port Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Presbyterian Church in the U.S.A.. Presbytery of Brooklyn. Woman's Home and Foreign Missionary Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Woman's National Sabbath Alliance. Brooklyn Auxiliary</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Prospect Heights Presbyterian Church (New York, N.Y.). Young People's Society of Christian Endeavor</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">Auxiliary Foreign Mission Society of New-York and Brooklyn</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Woman's Baptist Foreign Missionary Society. Long Island Division</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Long Island Baptist Association. Children's Home</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">American McAll Association. Brooklyn Auxiliary</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">American Sunday-School Union. Foreign Sunday-School Association</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">Brooklyn Baptist Orphanage</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">Foreign Sunday School Association</corpname>
-    </origination>
     <unitid>ARC.242</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.3 Linear Feet</extent>
-      <extent altrender="carrier">in three manuscript boxes and one oversize folder.</extent>
+      <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+      <extent altrender="carrier">in four manuscript boxes and one oversize folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1828/1986" type="inclusive">1828-1986</unitdate>
     <unitdate datechar="creation" normal="1841/1931" type="bulk">1841-1931</unitdate>
-    <abstract id="aspace_31afd879c9a6d5720194b6a2f4da1bcb">The religious organizations of Brooklyn collection contains records and publications of several church-affiliated and interdenominational charities, shelters, schools, and missions estalished in Brooklyn in the 19th and 20th centuries.  Materials in the collection span the period 1828 to 1986 and chiefly consist of annual reports and manuals containing comprehensive information on organizations' yearly activities and accomplishments.  Additional items include case study reports, newsletters, event programs, informational pamphlets and brochures, and catalogs.</abstract>
+    <abstract id="aspace_31afd879c9a6d5720194b6a2f4da1bcb">The religious organizations of Brooklyn collection contains records and publications of several church-affiliated and interdenominational charities, shelters, schools, and missions estalished in Brooklyn in the 19th and 20th centuries.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_104ff5b53c64d7251ff6098de5966848" label="Text" type="Box">1</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_210d56aa1ab9c0a3ae9de5b68771ecad" label="Text" type="Box">2</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_8259f180ea468a2defb7d71ff776e84f" label="Text" type="Box">3</container>
-    <container altrender="Large Flat Box" id="aspace_b699ef94ff6af8031e7e5a14226d84e4" label="Mixed Materials" type="Box">OS-20</container>
   </did>
+  <accessrestrict id="aspace_b06b7ba12b14a2a51a8fe17d7c26c7c3">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_03a8d147b831f1e9f0cf511307e8f6cb">
+    <head>Immediate Source of Acquisition</head>
+<p>Portions of this collection were the gifts of Mrs. Henry E. Drake, 1986, and St. Phebe's Mission, 1915. Sources and dates of acquisition for the majority of the collection are unknown.</p>  </acqinfo>
+  <arrangement id="aspace_0ae00d81a0896a3377a7adcf061b0426">
+    <head>Arrangement</head>
+<p>The collection is arranged alphabetically by organization name.</p>  </arrangement>
   <bioghist id="aspace_3ce7331936289efb9e4146bb468166e0">
-    <head>Historical Note</head>
-<p>The widespread emergence of religious organizations devoted to philanthropy in New York City began with the revival of Protestantism in the early 19th century. The reemergence of Protestantism encouraged its followers to provide spiritual and material aid to those in need, and evangelicals responded by establishing a number of benevolent organizations, such as the American Tract Society and the American Bible Society, which were dedicated to the distribution of the scriptures, and the American Sunday School Union, which labored for the establishment of Sunday schools in rural areas.  Other Protestant groups founded homes to shelter and care for orphans, widows, unwed mothers, the disabled, and the unemployed.  Groups of other religious denominations, including Catholics and Jews, soon followed accordingly and established their own charities, shelters, societies, schools, and missions.  </p><p>Despite their denominational affiliations, several religious organizations also supported interdenominational work so as to provide as wide-reaching a benefit as possible.  While much of the highly-publicized philanthropy in 19th-century New York was the work of wealthy private citizens, such as Peter Cooper, John Jacob Astor, and Charles Pratt, religious organizations were instrumental to the burgeoning of philanthropy in the city, as their members, many of whom were women, conducted their roles as teachers, nurses, social workers, and missionaries for very low wages.</p>    <list numeration="arabic" type="ordered">
+    <head>Historical note</head>
+<p>The widespread emergence of religious organizations devoted to philanthropy in New York City began with the revival of Protestantism in the early 19th century. The reemergence of Protestantism encouraged its followers to provide spiritual and material aid to those in need, and evangelicals responded by establishing a number of benevolent organizations, such as the American Tract Society and the American Bible Society, which were dedicated to the distribution of the scriptures, and the American Sunday School Union, which labored for the establishment of Sunday schools in rural areas. Other Protestant groups founded homes to shelter and care for orphans, widows, unwed mothers, the disabled, and the unemployed. Groups of other religious denominations, including Catholics and Jews, soon followed accordingly and established their own charities, shelters, societies, schools, and missions.  </p><p>Despite their denominational affiliations, several religious organizations also supported interdenominational work so as to provide as wide-reaching a benefit as possible. While much of the highly-publicized philanthropy in 19th-century New York was the work of wealthy private citizens, such as Peter Cooper, John Jacob Astor, and Charles Pratt, religious organizations were instrumental to the burgeoning of philanthropy in the city, as their members, many of whom were women, conducted their roles as teachers, nurses, social workers, and missionaries for very low wages.</p>    <list numeration="arabic" type="ordered">
       <head>Sources:</head>
       <item>Hammock, David C. "Philanthropy," in <emph render="italic">The Encyclopedia of New York City</emph>, ed. Kenneth T. Jackson (New Haven, Conn.: Yale University Press; New York: New York Historical Society, c1995), 896-898.</item>
     </list>
   </bioghist>
-  <accessrestrict id="aspace_b06b7ba12b14a2a51a8fe17d7c26c7c3">
-    <head>Conditions Governing Access</head>
-<p>Open to researchers without restriction.</p>  </accessrestrict>
   <prefercite id="aspace_a55af83d42ae64b9e851f15b891e2e2f">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Religious organizations of Brooklyn collection, ARC.242, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Religious organizations of Brooklyn collection, ARC.242, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <processinfo id="aspace_25b973242bf13f12ca5fbc21cff6731b">
     <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p><p>The collection combines the accessions 1985.096 and 1985.110.</p><p>Young People's Society of Christian Endeavor (Prospect Heights Presbyterian Church) file added to collection by John Zarrillo, December 2014.</p>  </processinfo>
+<p>The collection combines the accessions 1985.096 and 1985.110.</p><p>Originally minimally processed to the collection level, this collection was reprocessed to the file level, rehoused and the finding aid revised by Dee Bowers in 2024.</p><p>Young People's Society of Christian Endeavor (Prospect Heights Presbyterian Church) file added to collection by John Zarrillo, December 2014.</p>  </processinfo>
   <scopecontent id="aspace_089031e243c6d8b3ded0dbb53a9108de">
     <head>Scope and Contents</head>
-<p>The religious organizations of Brooklyn collection contains records and publications of various religious philanthropic organizations estalished in Brooklyn in the 19th and 20th centuries.  Materials in the collection span the period 1828 to 1986, with the bulk dating between 1841 and 1931.</p><p>The majority of the material consists of annual reports and manuals containing comprehensive information on several organizations' yearly activities and accomplishments.  Most of these are contained as individual yearly publications, though some are compiled in bound volumes.  The reports and manuals typically include historical information on an organization; lists of officers, directors, managers, and committees; reports from various officers within an organization; financial statements; minutes and proceedings from annual meetings; lists of donors and contributors; and lists of member churches, individual members, and subscribers.</p><p>The remainder of the collection consists of various publications and ephemera, including individually published articles of incorporation, constitutions, and bylaws; case study reports; newsletters; programs for fundraising events; informational pamphlets and brochures; and catalogs.</p><p>A significant number of organizations are represented in the collection, including the following, presented in alphabetical order:</p><p>American McAll Association, Brooklyn Auxiliary</p><p>Auxiliary Foreign Mission Society of New-York and Brooklyn</p><p>Brooklyn Association in Aid of the Grande-Ligne Mission</p><p>Brooklyn Baptist Orphanage (also represented under its subsequent names, the Children's Home of the Long Island Baptist Assocation and the Baptist Children's Home of Long Island)</p><p>Brooklyn City Bible Society</p><p>Brooklyn City Tract Society (also represented under its subsequent name, the Brooklyn City Mission and Tract Society)</p><p>Brooklyn Hebrew Orphan Asylum</p><p>Brooklyn Tabernacle of the Peoples Pulpit Association</p><p>Christian Union for Work Among the Chinese </p><p>Church Mission of Help, Diocese of Long Island</p><p>Congregational Church Extension Society of New York City and Brooklyn</p><p>Daughters of Israel Benefit Society</p><p>Evangelical Home for the Aged </p><p>Foreign Sunday School Association</p><p>Hebrew Educational Society of Brooklyn </p><p>Helping Hand of Brooklyn </p><p>International Catholic Truth Society </p><p>Long Island Division of the Women's Baptist Home Mission Society (also represented under its subsequent name, the Woman's American Baptist Home Mission Society)</p><p>Long Island Division of the Woman's Baptist Missionary Society (also represented under its subsequent name, the Woman's Baptist Foreign Missionary Society)</p><p>Mercy Home for Children</p><p>Missionary Training Institute</p><p>New York Port Society</p><p>Presbytery of Brooklyn-Nassau</p><p>Sixth Avenue Baptist Sunday School Boys' Mission Band</p><p>Society of St. Vincent de Paul, Diocesan Central Council of Brooklyn</p><p>St. Phebe's Mission (also known as St. Phebe's Mission and Convalescent Home)</p><p>Union for Christian Work</p><p>Warren Street Mission</p><p>Wartburg Lutheran Home for Aged and Infirm</p><p>Woman's National Sabbath Alliance, Brooklyn Auxiliary</p><p>Women's Home and Foreign Missionary Society of the Brooklyn Presbytery</p><p>Young People's Society of Christian Endeavor (Prospect Heights Presbyterian Church)</p>  </scopecontent>
-  <acqinfo id="aspace_03a8d147b831f1e9f0cf511307e8f6cb">
-    <head>Immediate Source of Acquisition</head>
-<p>Portions of this collection were the gifts of Mrs. Henry E. Drake, 1986, and St. Phebe's Mission, 1915.  Sources and dates of acquisition for all remaining items in the collection are unknown.</p>  </acqinfo>
+<p>The religious organizations of Brooklyn collection contains records and publications of various religious philanthropic organizations estalished in Brooklyn in the 19th and 20th centuries. Materials in the collection span the period 1828 to 1986, with the bulk dating between 1841 and 1931.</p><p>The majority of the material consists of annual reports and manuals containing comprehensive information on several organizations' yearly activities and accomplishments. Most of these are contained as individual yearly publications, though some are compiled in bound volumes. The reports and manuals typically include historical information on an organization; lists of officers, directors, managers, and committees; reports from various officers within an organization; financial statements; minutes and proceedings from annual meetings; lists of donors and contributors; and lists of member churches, individual members, and subscribers.</p><p>The remainder of the collection consists of various publications and ephemera, including individually published articles of incorporation, constitutions, and bylaws; case study reports; newsletters; programs for fundraising events; informational pamphlets and brochures; and catalogs.</p>  </scopecontent>
+  <userestrict id="aspace_92e198913c54f0476825f528f81e5ed4">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Constitutions</genreform>
     <genreform source="aat">Circulars (fliers)</genreform>
@@ -187,43 +63,45 @@
     <genreform source="aat">Volumes (documents by form)</genreform>
     <genreform source="aat">Annual reports</genreform>
     <subject source="lcsh">Orphanages -- New York (State) -- Kings County</subject>
-    <subject source="lcsh">Religious education of children |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Missionaries |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Religious education of children -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Missionaries -- New York (State) -- Kings County</subject>
     <genreform source="aat">Printed ephemera</genreform>
-    <subject source="lcsh">Women in church work |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County |x Missions</subject>
+    <subject source="lcsh">Women in church work -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Presbyterian Church -- New York (State) -- Kings County -- Missions</subject>
     <geogname source="lcsh">Long Island (N.Y.)</geogname>
-    <subject source="lcsh">Methodists |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Lutheran Church |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Lutheran Church |z New York (State) |z Kings County |x Charities</subject>
-    <subject source="lcsh">Old age homes |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Lutherans |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Baptists |z New York (State) |z Kings County |x Charities</subject>
-    <subject source="lcsh">Baptists |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Baptists |z New York (State) |z Kings County |x Missions</subject>
-    <subject source="lcsh">Social settlements |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Catholics |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Methodists -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Lutheran Church -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Lutheran Church -- New York (State) -- Kings County -- Charities</subject>
+    <subject source="lcsh">Old age homes -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Lutherans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Baptists -- New York (State) -- Kings County -- Charities</subject>
+    <subject source="lcsh">Baptists -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Baptists -- New York (State) -- Kings County -- Missions</subject>
+    <subject source="lcsh">Social settlements -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Catholics -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Religious institutions -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <subject source="lcsh">Charitable giving</subject>
-    <subject source="lcsh">Catholic Church |z New York (State) |z Kings County |x Charities</subject>
-    <subject source="lcsh">Sunday schools |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Church work with the poor |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Congregationalists |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Church societies |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Church charities |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Church charities |z New York (State) |z Kings County |x History</subject>
-    <subject source="lcsh">Jews |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Jews |z New York (State) |z Kings County |x Charities</subject>
-    <subject source="lcsh">Congregational churches |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Protestants |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County |x Charities</subject>
-    <subject source="lcsh">Presbyterians |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Methodist Episcopal Church |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Church work with immigrants |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Bible |x Publication and distribution |x Societies, etc.</subject>
-    <subject source="lcsh">Methodist Episcopal Church |z New York (State) |z Kings County |x Charities</subject>
+    <subject source="lcsh">Catholic Church -- New York (State) -- Kings County -- Charities</subject>
+    <subject source="lcsh">Sunday schools -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Church work with the poor -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Congregationalists -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Church societies -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Church charities -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Church charities -- New York (State) -- Kings County -- History</subject>
+    <subject source="lcsh">Jews -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Jews -- New York (State) -- Kings County -- Charities</subject>
+    <subject source="lcsh">Congregational churches -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Presbyterian Church -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Protestants -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Presbyterian Church -- New York (State) -- Kings County -- Charities</subject>
+    <subject source="lcsh">Presbyterians -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Methodist Episcopal Church -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Church work with immigrants -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Bible -- Publication and distribution -- Societies, etc.</subject>
+    <subject source="lcsh">Methodist Episcopal Church -- New York (State) -- Kings County -- Charities</subject>
+    <subject source="lcsh">Youth in church work -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Youth -- Societies and clubs -- New York (State) -- Kings County</subject>
     <corpname source="local">Hebrew Educational Society of Brooklyn</corpname>
     <corpname rules="aacr" source="naf">International Catholic Truth Society</corpname>
     <corpname source="local">Warren Street Mission (Brooklyn, New York, N.Y.)</corpname>
@@ -231,7 +109,6 @@
     <corpname source="local">Brooklyn City Mission and Tract Society</corpname>
     <corpname source="local">Sixth Avenue Baptist Sunday School (Brooklyn, New York, N.Y.). Boys' Mission Band</corpname>
     <corpname source="local">Congregational Church Extension Society of New York City and Brooklyn</corpname>
-    <corpname rules="aacr" source="naf">Peoples Pulpit Association</corpname>
     <corpname source="local">Brooklyn Association in Aid of the Grande-Ligne Mission (Brooklyn, New York, N.Y.)</corpname>
     <corpname source="local">Helping Hand of Brooklyn (Brooklyn, New York, N.Y.)</corpname>
     <corpname source="local">Union for Christian Work (Brooklyn, New York, N.Y.)</corpname>
@@ -267,6 +144,6 @@
     <corpname source="local">Brooklyn Baptist Orphanage</corpname>
     <corpname rules="aacr" source="naf">Foreign Sunday School Association</corpname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_8de6d6c903c230b0504b23a5682f6bbf" level="file"><did><unittitle>Auxiliary Foreign Mission Society of New York and Brooklyn</unittitle><unitdate datechar="creation" normal="1828/1828">1828</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_dd0b93de4c5c5452942ec05245ee1675" label="Mixed Materials" type="Box">1</container><container id="aspace_655f16cbe1c85d188af93b1a9d04fc99" parent="aspace_dd0b93de4c5c5452942ec05245ee1675" type="Folder">1</container></did><scopecontent id="aspace_c6d1f53bc2e564ea8d3f8e42605d13c2"><head>Scope and Contents</head><p>First annual report.</p></scopecontent></c><c id="aspace_46448c85846dd9408f0ae0c438da34e0" level="file"><did><unittitle>Baith Israel Congregation</unittitle><unitdate datechar="creation" normal="1898/1898">1898</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4bd0df950339395b28cb25079dac4892" label="Mixed Materials" type="Box">1</container><container id="aspace_60d15d2432b449d352f34494b13c1eff" parent="aspace_4bd0df950339395b28cb25079dac4892" type="Folder">2</container></did><scopecontent id="aspace_e2cb39fffa4d068d4c0e1526f54b8c3c"><head>Scope and Contents</head><p>Constitution and by-laws.</p></scopecontent></c><c id="aspace_b49f20d435494ba38079394bbb4e4d8e" level="file"><did><unittitle>Baptist Children's Home of Long Island</unittitle><unitdate datechar="creation" normal="1927/1961" type="inclusive">1927-1961</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_172483ba6803c5cdaf12c0d302f820c0" label="Mixed Materials" type="Box">1</container><container id="aspace_9b25cece00893f29479de407f117991d" parent="aspace_172483ba6803c5cdaf12c0d302f820c0" type="Folder">3-5</container></did><scopecontent id="aspace_e80b70f59fe29f79c46859c53801baba"><head>Scope and Contents</head><p>Woman's board by-laws, undated; manuals, 1927-1928 and 1946-1947; fiftieth aniversary program, 1951; report, 1948-1949; benefit concert programs, 1947-1961.</p></scopecontent></c><c id="aspace_87871986613bdb52481acbb72745ccc1" level="file"><did><unittitle>Bible and Tract Society, Brooklyn Tabernacle</unittitle><unitdate datechar="creation" normal="1909/1912" type="inclusive">1909-1912</unitdate><container altrender="Large Flat Box" id="aspace_fed0f3a8dd5317ed0a5bdc284836994d" label="Mixed Materials" type="Box">OS-20</container></did><scopecontent id="aspace_61b746033ccf9dfe5855e0cc9c599939"><head>Scope and Contents</head><p>People's Pulpit newsletter Vols. 1-4.</p></scopecontent></c><c id="aspace_3df3a1956c161de479d5c425ea5bdb5a" level="file"><did><unittitle>Brooklyn Association in Aid of the Grand-Ligne Mission</unittitle><unitdate datechar="creation" normal="1859/1898" type="inclusive">1859-1898</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c46a95ee78e891aaa4d0d85defb5fef5" label="Mixed Materials" type="Box">1</container><container id="aspace_4113eaf6dffc8ca4928d7d1bcd69cfa7" parent="aspace_c46a95ee78e891aaa4d0d85defb5fef5" type="Folder">6</container></did><scopecontent id="aspace_82bd21bbf0fd9c46307c0461052afa91"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_2313715061928a0d2cc0a1a564ce4404" level="file"><did><unittitle>Brooklyn Auxiliary to the McCall Mission in France</unittitle><unitdate datechar="creation" normal="1882/1884" type="inclusive">1882, 1884</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_3036d33d7d53eb6a07eb67d6bba9ad69" label="Mixed Materials" type="Box">1</container><container id="aspace_a4ddd8617400b448078c0dc641c50c9e" parent="aspace_3036d33d7d53eb6a07eb67d6bba9ad69" type="Folder">7</container></did><scopecontent id="aspace_0a6608e947790b42280576e5b9cab1c3"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_9eca3bcaf384c683493254da5b4499b3" level="file"><did><unittitle>Brooklyn Baptist Orphanage</unittitle><unitdate datechar="creation" normal="1910/1926" type="inclusive">1910-1926</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_35331b2328cb26c6e6a09a67e1e27675" label="Mixed Materials" type="Box">1</container><container id="aspace_c99191bdbfb2ade4300e1aadd96c874b" parent="aspace_35331b2328cb26c6e6a09a67e1e27675" type="Folder">8</container></did><scopecontent id="aspace_17de7f430561349554ee8f1f973d9eb8"><head>Scope and Contents</head><p>Manuals.</p></scopecontent><relatedmaterial id="aspace_d275cae5eee12094fcf7686aabf93691"><head>Related Materials</head><p>Also represented under its subsequent name, Baptist Children's Home of Long Island.</p></relatedmaterial></c><c id="aspace_812c9468187cec3313f352569fda6974" level="file"><did><unittitle>Brooklyn City Bible Society</unittitle><unitdate datechar="creation" normal="1841/1892" type="inclusive">1841-1892</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ea29a7c56698dd7f118dd76704ff1a2d" label="Mixed Materials" type="Box">1</container><container id="aspace_6edda2c5d310e306d58b9ea42df91380" parent="aspace_ea29a7c56698dd7f118dd76704ff1a2d" type="Folder">9-10</container></did><scopecontent id="aspace_55b4ef3fbf85310d60ffc88a4b66d456"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_18a5dbe93999134add14be3e479a4d78" level="file"><did><unittitle>Brooklyn City Mission and Tract Society</unittitle><unitdate datechar="creation" normal="1854/1919" type="inclusive">1854-1855, 1919</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_08f9b80bba87155d09a0ea94ffce60ff" label="Mixed Materials" type="Box">2</container><container id="aspace_d05d3878f4e8e9251d5f0b9f5424d839" parent="aspace_08f9b80bba87155d09a0ea94ffce60ff" type="Folder">1</container></did><scopecontent id="aspace_ade48e4ee23694a12a33f4a874a8ed9d"><head>Scope and Contents</head><p>Annual reports and fundraising card.</p></scopecontent><bioghist id="aspace_f84d372c11e3d92db49625290deb7d16"><head>Historical note</head><p>Also known as the Brooklyn City Tract Society.</p></bioghist></c><c id="aspace_36c3a3e43d21959ad6360db358706e1e" level="file"><did><unittitle>Brooklyn Hebrew Orphan Asylum</unittitle><unitdate datechar="creation" normal="1905/1909" type="inclusive">1905, 1909</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c653b0fc93fd86209f9009920997007f" label="Mixed Materials" type="Box">2</container><container id="aspace_a33107f1b35d49873dcbe8681a696522" parent="aspace_c653b0fc93fd86209f9009920997007f" type="Folder">2</container></did><scopecontent id="aspace_632819f11eada2af4173afec8d101b6c"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_8c13c9eda9ac01e36171f44b31641395" level="file"><did><unittitle>Brooklyn Union for Christian Work</unittitle><unitdate datechar="creation" normal="1867/1900" type="inclusive">1867-1900</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_cc22c9ff3d5b1e83c0824a6446d217d9" label="Mixed Materials" type="Box">2</container><container id="aspace_72229fc58fb511dadc96933b40247d89" parent="aspace_cc22c9ff3d5b1e83c0824a6446d217d9" type="volume">1-2</container></did><scopecontent id="aspace_ba35b5983592caa7099d4299f5fbccdf"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_a14d72861a12e8b2ad1dd5c9db2a248b" level="file"><did><unittitle>Christian Union for Work Among the Chinese</unittitle><unitdate datechar="creation" normal="1887/1887">1887</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_aeb535a8bcc10fda18089f765ee9ced6" label="Mixed Materials" type="Box">2</container><container id="aspace_544a575fa4d32350755e9b67acfd58e1" parent="aspace_aeb535a8bcc10fda18089f765ee9ced6" type="Folder">3</container></did><scopecontent id="aspace_713b0f6a4a00ed8346617bb8ab90e3ec"><head>Scope and Contents</head><p>Fourth anniversary pamphlet.</p></scopecontent></c><c id="aspace_5ff2fb5f1c19af057acd59bdd9ff5d97" level="file"><did><unittitle>Church Mission of Help</unittitle><unitdate datechar="creation" normal="1931/1934" type="inclusive">1931-1934</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ae58781695f4a121f9f1310c62976629" label="Mixed Materials" type="Box">2</container><container id="aspace_00e36e1f1996354eb2a26e79ed19bd02" parent="aspace_ae58781695f4a121f9f1310c62976629" type="Folder">4</container></did><scopecontent id="aspace_5568bbee9d29334fb9e8dde51ef121d9"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_41d8048860e4b0cfca6511cac43e5d47" level="file"><did><unittitle>Congregational Church Extension in New York City and Brooklyn</unittitle><unitdate datechar="creation" normal="1893/1894" type="inclusive">1893-1894</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_aadf1a925aef8ec382f1c4cb7b846648" label="Mixed Materials" type="Box">2</container><container id="aspace_87ff1e44a79d7152ae35f20c90088f22" parent="aspace_aadf1a925aef8ec382f1c4cb7b846648" type="Folder">5</container></did><custodhist id="aspace_50021c55f6b34d427b0a347758ef7efc"><head>Custodial History</head><p>Inscribed "Geo. C. Brainerd 56 Wall St. N.Y.C."</p></custodhist><scopecontent id="aspace_d46f3e4ee259a7ab5d9de04a1aff3f96"><head>Scope and Contents</head><p>Annual report.</p></scopecontent></c><c id="aspace_b79454483dca880f48a24b79f1e830f5" level="file"><did><unittitle>Evangelical Home for the Aged</unittitle><unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f2351b126bc6f015bb4729f997c34708" label="Mixed Materials" type="Box">2</container><container id="aspace_6fdb0a7b1114a1a25ed541f496ebb21f" parent="aspace_f2351b126bc6f015bb4729f997c34708" type="Folder">6</container></did><scopecontent id="aspace_18f80fb9db786d0e7020c38928e31c74"><head>Scope and Contents</head><p>Annual report.</p></scopecontent></c><c id="aspace_d94944c9c037629665f535667496e01e" level="file"><did><unittitle>Foreign Sunday School Association</unittitle><unitdate datechar="creation" normal="1872/1904" type="inclusive">1872-1904</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_8a03011a979122f8cf51dc87f1a5cff4" label="Mixed Materials" type="Box">2</container><container id="aspace_13fe65d6caba8db365e31c26472bd4f3" parent="aspace_8a03011a979122f8cf51dc87f1a5cff4" type="Folder">7-8</container></did><scopecontent id="aspace_90b6e35500827d6a9c8b3654baff51f0"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_68feb161682392bc34a5c0cbe09bc204" level="file"><did><unittitle>Hebrew Educational Society</unittitle><unitdate datechar="creation" normal="1959/1974" type="inclusive">1959, 1961, 1974</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_59acf09af7bbafbdcb4555ca5669018c" label="Mixed Materials" type="Box">3</container><container id="aspace_d124e39ede82ccf4e97b5bff96f83b92" parent="aspace_59acf09af7bbafbdcb4555ca5669018c" type="Folder">1-2</container></did><scopecontent id="aspace_35396d1e9512ffaddef7243bed06d2ac"><head>Scope and Contents</head><p>Annual reports and June 1961 issue of H.E.S. Bulletin.</p></scopecontent></c><c id="aspace_d5973c6f5178ab8157d413b9f218aef3" level="file"><did><unittitle>Helping Hand of Brooklyn</unittitle><unitdate datechar="creation" normal="1871/1891" type="inclusive">1871, 1877, 1891</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c6436b10f0e7c916b2fa42faf5718a6c" label="Mixed Materials" type="Box">3</container><container id="aspace_88be15646fe8b05922626ff45c17ccf9" parent="aspace_c6436b10f0e7c916b2fa42faf5718a6c" type="Folder">3</container></did><scopecontent id="aspace_76c9f1e4dacdd1b45f3bc4c2709bd58b"><head>Scope and Contents</head><p>Articles of incorporation and by-laws; annual report, 1877; Night Mission annual report, 1891.</p></scopecontent></c><c id="aspace_19a669c438a43fe46dc33647a9b3ba20" level="file"><did><unittitle>International Catholic Truth Society</unittitle><unitdate datechar="creation" normal="1901/1901">1901</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2f3b74821d14315d2c01371a07fc400a" label="Mixed Materials" type="Box">3</container><container id="aspace_e68b82f14842befc163143d48a3300c0" parent="aspace_2f3b74821d14315d2c01371a07fc400a" type="Folder">4</container></did><scopecontent id="aspace_ccf70fa1c5e1e30f91d4162a777b5035"><head>Scope and Contents</head><p>Catalogue No. 1: Catholic Fiction.</p></scopecontent></c><c id="aspace_f592e2e6a8775b009f1c276f145de6f2" level="file"><did><unittitle>Mercy Home for Children</unittitle><unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_cd88761d1ee10513709944d81dac5c71" label="Mixed Materials" type="Box">3</container><container id="aspace_00fb0796875c39091ded7d33ab158d36" parent="aspace_cd88761d1ee10513709944d81dac5c71" type="Folder">5</container></did><scopecontent id="aspace_3ec7c76a20b23252fc8b71a8914efd18"><head>Scope and Contents</head><p>Mercy Matters newsletter.</p></scopecontent></c><c id="aspace_4ae3732bfddf687838b9cb6f2535de9c" level="file"><did><unittitle>Missionary Training Institute</unittitle><unitdate datechar="creation" normal="1889/1889">1889</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_da2f714757c2fdd8486970c1d82fceb2" label="Mixed Materials" type="Box">3</container><container id="aspace_bb00e1246173df70ca2645db5bc9ecc8" parent="aspace_da2f714757c2fdd8486970c1d82fceb2" type="Folder">6</container></did><scopecontent id="aspace_15e7f7f25b167785be6fa821d7c46505"><head>Scope and Contents</head><p>Annual report.</p></scopecontent></c><c id="aspace_575d65259eb35646e02b8bbb63cd75e1" level="file"><did><unittitle>New York Port Society</unittitle><unitdate datechar="creation" normal="1893/1894" type="inclusive">1893-1894</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_16d94cd7072705b989f914ebf17e8abf" label="Mixed Materials" type="Box">3</container><container id="aspace_bf4c224a02c84fb11841429b1a2131e8" parent="aspace_16d94cd7072705b989f914ebf17e8abf" type="Folder">7</container></did><bioghist id="aspace_bd31fb95c3aa5d20e947059fe7c4f9f0"><head>Biographical / Historical</head><p>"Society for Promoting the Gospel Among Seamen in the Port of New York" at the Mariner's Church, 46 Catharine Street; Brooklyn branch, 31 Atlantic Avenue.</p></bioghist><scopecontent id="aspace_94ade47b6572f0511258bcbb66e8a7b5"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_ae030bfb16a32ca1aa78bd8782cb67e1" level="file"><did><unittitle>Presbytery of Brooklyn-Nassau</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">circa 1950s</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_13c816314d3d43482ffcfebcf44f782d" label="Mixed Materials" type="Box">3</container><container id="aspace_04e65001f119b78edb9143588730334d" parent="aspace_13c816314d3d43482ffcfebcf44f782d" type="Folder">8</container></did><scopecontent id="aspace_2c6ddeb917348162d692e92bba707e5d"><head>Scope and Contents</head><p>Expansion fund booklet.</p></scopecontent></c><c id="aspace_bad8c135ca471ec43ed970b6ec087836" level="file"><did><unittitle>Saint Phebe's Mission</unittitle><unitdate datechar="creation" normal="1881/1927" type="inclusive">1881-1927</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7dd25780454e06181ccace7fd9f14148" label="Mixed Materials" type="Box">3</container><container id="aspace_b71b5e0ccbf04dc3461c0e59cb017db1" parent="aspace_7dd25780454e06181ccace7fd9f14148" type="Folder">9-11</container></did><scopecontent id="aspace_d0a1a14d170c4b4505a3cd143ba54f57"><head>Scope and Contents</head><p>Annual reports; Opening program; informational flyers.</p></scopecontent><bioghist id="aspace_794df07b016a88f25ead522251afa1b4"><head>Historical note</head><p>Also known as St. Phebe's Mission and Convalescent Home.</p></bioghist></c><c id="aspace_025a4271fe13e59415bed438e91d8e00" level="file"><did><unittitle>Sixth Avenue Baptist Sunday School</unittitle><unitdate datechar="creation" normal="1883/1883">1883</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c16eedea6e118b6669ebe291a55e1768" label="Mixed Materials" type="Box">3</container><container id="aspace_42df3e0aacbc316b4f3b9c209bba5aa7" parent="aspace_c16eedea6e118b6669ebe291a55e1768" type="Folder">12</container></did><scopecontent id="aspace_aab57d3b996c54c5293e30e6f7c91356"><head>Scope and Contents</head><p>The Kanzensha newsletter, Vol. 1 No. 12.</p></scopecontent></c><c id="aspace_0f2d4547187486e256ef44335e178763" level="file"><did><unittitle>Society of St. Vincent De Paul</unittitle><unitdate datechar="creation" normal="1905/1951" type="inclusive">1905-1951</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_29f9cac2cd6e46ced98dc809546cc860" label="Mixed Materials" type="Box">3</container><container id="aspace_80be022b6e5d48957478a1d5648cf616" parent="aspace_29f9cac2cd6e46ced98dc809546cc860" type="Folder">13</container></did><scopecontent id="aspace_d1fc98a42a4ce46097756b16577e38b9"><head>Scope and Contents</head><p>Annual reports; Golden Jubilee program, 1905.</p></scopecontent></c><c id="aspace_b72e7a5857866e878429e2ee14280af2" level="file"><did><unittitle>Warren Street Mission</unittitle><unitdate datechar="creation" normal="1853/1854" type="inclusive">1853-1854</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7963ca9810eefd874319a0f19d1c5b0a" label="Mixed Materials" type="Box">3</container><container id="aspace_b403ef05d6e79cd1a3cbe2389e0ffe8f" parent="aspace_7963ca9810eefd874319a0f19d1c5b0a" type="Folder">14</container></did><scopecontent id="aspace_0474c5e9452188f087fe3cb10ed439df"><head>Scope and Contents</head><p>Articles of association and manual.</p></scopecontent></c><c id="aspace_b0e9ea3076bdc319369d488a88dc6858" level="file"><did><unittitle>Wartburg Lutheran Home</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_e15b01a22197bc7b12e464db887620d7" label="Mixed Materials" type="Box">4</container><container id="aspace_d7cdf92b2f05b99e541cc3d93afab15b" parent="aspace_e15b01a22197bc7b12e464db887620d7" type="Folder">1</container></did><scopecontent id="aspace_0ec7ed75c1c276c810fa06a2264ca235"><head>Scope and Contents</head><p>75th anniversary program.</p></scopecontent></c><c id="aspace_b4c88d4d857efc201a017a675f9a6b5d" level="file"><did><unittitle>Woman's Baptist Missionary Society</unittitle><unitdate datechar="creation" normal="1882/1882">1882</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_3ca5c6512826d34c353df98aee016735" label="Mixed Materials" type="Box">4</container><container id="aspace_e3697450d06294f1b41f15890c55f07c" parent="aspace_3ca5c6512826d34c353df98aee016735" type="Folder">2</container></did><scopecontent id="aspace_5db60097aa2866e8b763cd62d2f2dc65"><head>Scope and Contents</head><p>Annual report.</p></scopecontent></c><c id="aspace_730a549f827df6762891b58bb93d73d7" level="file"><did><unittitle>Woman's Home and Foreign Missionary Society [Presbyterian]</unittitle><unitdate datechar="creation" normal="1874/1882" type="inclusive">1874, circa 1882</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_9453f71c441defec9194f44c0a617108" label="Mixed Materials" type="Box">4</container><container id="aspace_d1696315f5d1a81efd005d1e5d31779b" parent="aspace_9453f71c441defec9194f44c0a617108" type="Folder">3</container></did><scopecontent id="aspace_e56ef42d9434c1d86519b84e06ea3b91"><head>Scope and Contents</head><p>Manual (1874) and annual report.</p></scopecontent></c><c id="aspace_5246cfbb1f4939e63f84dcc34fae78eb" level="file"><did><unittitle>Woman's National Sabbath Alliance</unittitle><unitdate datechar="creation" normal="1913/1915" type="inclusive">1913-1915</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_3474ce1b15fa6af87c8fbe8302bcaa98" label="Mixed Materials" type="Box">4</container><container id="aspace_4fa819b17626672c8c75974574ae31aa" parent="aspace_3474ce1b15fa6af87c8fbe8302bcaa98" type="Folder">4</container></did><scopecontent id="aspace_b95d3001dbdd6fde2083033c633b3b70"><head>Scope and Contents</head><p>Pamphlet, manuals, booklist.</p></scopecontent></c><c id="aspace_d9fdd49adf209299828f5f8e1d226920" level="file"><did><unittitle>Women's Baptist Foreign Mission Society</unittitle><unitdate datechar="creation" normal="1885/1903" type="inclusive">1885, circa 1900</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_40da43a3cd498a165f77914abe330a96" label="Mixed Materials" type="Box">4</container><container id="aspace_693cb0c66b2563e7fff90c9d2708046a" parent="aspace_40da43a3cd498a165f77914abe330a96" type="Folder">5</container></did><scopecontent id="aspace_0ae6f7f4d522abf5a32de9f73d3e748c"><head>Scope and Contents</head><p>Annual report and magazine article from The Examiner, a Baptist newspaper.</p></scopecontent></c><c id="aspace_b2632e46efab315f4d3be5de274af9df" level="file"><did><unittitle>Women's Baptist Home Mission Society</unittitle><unitdate datechar="creation" normal="1899/1917" type="inclusive">1899-1917</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_c973d6bf483b99cf67d27a2068a15f24" label="Mixed Materials" type="Box">4</container><container id="aspace_6bf96652fd44a1fb7430f10e2ae51637" parent="aspace_c973d6bf483b99cf67d27a2068a15f24" type="Folder">6</container></did><scopecontent id="aspace_d49a9566eb57026493a7833c58c9f174"><head>Scope and Contents</head><p>Annual reports.</p></scopecontent></c><c id="aspace_965b7d4f4a14a8b0096cd9ac5740e3e3" level="file"><did><unittitle>Young People's Society of Christian Endeavor</unittitle><unitdate datechar="creation" normal="1940/1940">1940</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_2d9cbe0203036e80d12182e210735c78" label="Mixed Materials" type="Box">4</container><container id="aspace_6c46abb3e8081242ab95448e1f6ed393" parent="aspace_2d9cbe0203036e80d12182e210735c78" type="Folder">7</container></did><scopecontent id="aspace_3fdcdfbef679ca79add4598278e82617"><head>Scope and Contents</head><p>Constitution, financial notes and ephemera. Associated with Prospect Heights Presbyterian Church.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
