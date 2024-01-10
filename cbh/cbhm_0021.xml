@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0021">cbhm_0021</eadid><filedesc><titlestmt><titleproper>Guide to the Tenacious zine box set <num>CBHM.0021</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>1/10/2024</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-10 17:19:51 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Tenacious zine box set</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Law, Victoria, 1977-</persname>
+    </origination>
+    <unitid>CBHM.0021</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">in one flat box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2002/2020" type="inclusive">2002-2020</unitdate>
+    <abstract id="aspace_200efb3752f59699cda888eeae32d70c">Box set with every issue of the zine Tenacious: Art &amp; Writings by Women in Prison. The Tenacious project is spearheaded by prison abolitionist, prolific writer, speaker, and activist, Victoria Law, and the box set was produced by Booklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Hinged Flat Box" id="aspace_3d6c3e7a158ceb6e92142cc39b8a815a" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_60487a3779ac7017f145a5d2f50cebb2">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_2d3f913c54d02339282855b397850f3c">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchase from Booklyn, 2021.</p>  </acqinfo>
+  <bioghist id="aspace_732599f5c2c5f00277889ca02fa588e0">
+    <head>Biographical note</head>
+<p>Victoria Law is a freelance journalist whose work focuses on the intersections of incarceration, gender and resistance. She is the author of <emph render="italic">Resistance Behind Bars: The Struggles of Incarcerated Women</emph> and <emph render="italic">"Prisons Make Us Safer" and 20 Other Myths About Mass Incarceration</emph>, co-author of <emph render="italic">Prison By Any Other Name: The Harmful Consequences of Popular Reform</emph>, and co-editor of <emph render="italic">Don't Leave Your Friends Behind: Concrete Ways To Support Families in Social Justice Movements and Communities</emph>.</p><p>In 2002, she was approached by women incarcerated at Oregon's Coffee Creek Correctional Facility who wanted to create a zine of incarcerated women's art and writings. Lacking resources such as photocopiers, postage and even the ability to write to people in other prisons, the women approached her to be the outside editor and publisher. The first issue of Tenacious was published in Spring 2002. Since then, Law has published 44 issues of Tenacious. The latest and last issue, in fall 2020, focused on the twin pandemics of coronavirus and systemic racism experienced by women (cis- and transgender) imprisoned across the country.</p><p>Law is also a co-founder of Books Through Bars—NYC, an all-volunteer program that sends free books to people imprisoned across the country.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>"Tenacious Zine Box Set: art &amp; writings by women in prison, 2002 to 2020." Booklyn. https://booklyn.org/wp-content/uploads/2021/02/Booklyn_Victoria-Law_Tenacious.pdf</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_dfe2faba2a4d032918db1c25fe0e997b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Tenacious zine box set, CBHM.0021, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_0201206d1723110329be8bd107f95796">
+    <head>Processing Information</head>
+<p>The collection is in its original housing and order as received from Booklyn.</p>  </processinfo>
+  <relatedmaterial id="aspace_e86820176a65b63c77b010a7b692fe42">
+    <head>Related Materials</head>
+<p>Ina Clausen Papers (BCMS.0015)</p>  </relatedmaterial>
+  <scopecontent id="aspace_a48e5fcd7d73107b09ea1e4dc2b2f9c4">
+    <head>Scope and Contents</head>
+<p>This box set archives every issue of Tenacious: art &amp; writings by women in prison, spanning two decades. This is the first collection of all Tenacious zines available in their entirety, including original materials from contributors and institutions. The Tenacious project is spearheaded by prison abolitionist, prolific writer, speaker, and activist, Victoria Law. This boxset is a primary resource for experiences and widespread impacts of mass incarceration.</p><p>Included in each boxset are all 44 issues of the zine, starting in Spring 2002 and culminating with the final issue in the summer of 2020. Zines will be from the first printing or the 2021 second printing. Also included are two original handwritten submissions and one box set catalog. This box set is the first such collection created and is a valuable resource for academic institutions. Subject matter includes pregnancy and motherhood, mental health, HIV, harassment, sexual assault, addiction, sentencing, aging, education, sexuality, correction officer and institutional abuse, prison programs, re-entry, experiences of trans women, self-love, and women working together to support one another.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>"Tenacious Zine Box Set: art &amp; writings by women in prison, 2002 to 2020." Booklyn. https://booklyn.org/wp-content/uploads/2021/02/Booklyn_Victoria-Law_Tenacious.pdf</item>
+    </list>
+  </scopecontent>
+  <userestrict id="aspace_fb53a3d65cfa04974b8a8fba73642996">
+    <head>Conditions Governing Use</head>
+<p>Original personal correspondences are for private use only and should not be reproduced or cited.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Women artists</subject>
+    <subject source="lcsh">Women artists -- United States</subject>
+    <subject source="lcsh">Women authors, American</subject>
+    <subject source="lcsh">Women -- New York (State) -- New York</subject>
+    <subject source="lcsh">Women -- New York (State) -- New York -- Social conditions</subject>
+    <subject source="lcsh">Women political activists -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Women -- Social conditions -- Poetry</subject>
+    <subject source="lcsh">Women -- United States -- Social conditions</subject>
+    <subject source="lcsh">Prison -- New York (State)</subject>
+    <genreform source="lcsh">Zines</genreform>
+    <subject source="lcsh">Drawing</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
