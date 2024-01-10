@@ -1,39 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_094_declaration_of_independence_signatures/">arms_1978_094_declaration_of_independence_signatures</eadid><filedesc><titlestmt><titleproper>Guide to the Facsimiles of the Declaration of Independence signatures <num>1978.094</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:02 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_094_declaration_of_independence_signatures/">arms_1978_094_declaration_of_independence_signatures</eadid><filedesc><titlestmt><titleproper>Guide to the Facsimiles of the Declaration of Independence signatures <num>1978.094</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-10 15:01:00 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Facsimiles of the Declaration of Independence signatures</unittitle>
     <origination label="Creator">
-      <corpname source="naf">United States. Declaration of Independence. Signers</corpname>
+      <corpname source="local">American Silk Manufacturing Company</corpname>
     </origination>
     <unitid>1978.094</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1766/1860" type="inclusive">circa 1776 to 1850</unitdate>
-    <abstract id="aspace_d5f8b71850c534454830882f73216e80">Embroidered silk facsimile of the signatures of all signers of the Declaration of Independence, created circa 1850.  An inscription states that signatures were "taken from Irvings History of the U.S. which John Quincy Adams certified were exact imitations of the original."  Included are the signatures of the four signers from New York State, including William Floyd and Francis Lewis of Long Island, Philip Livingston of Brooklyn, and Lewis Morris of Westchester.</abstract>
+    <unitdate datechar="creation" normal="1876/1876">circa 1876</unitdate>
+    <abstract id="aspace_d5f8b71850c534454830882f73216e80">Embroidered silk facsimile of the signatures of all signers of the Declaration of Independence, created circa 1876.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_14d7b358f495d417d26cf89a1ec4383b" label="Text" type="Box">A0084</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_7ec31b907cddaf7769cc16b44b850d1c" label="Mixed Materials" type="Box">A0032</container>
   </did>
-  <prefercite id="aspace_131a2079d38ef7b6f9c377175c015d78">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Facsimiles of the Declaration of Independence signatures, 1978.094, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_3e01151a339c5912a83977dda030a77f">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_cb7b8348292708310781be7f7e5255ea">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of William and Mrs. Ulmer, 1896.</p>  </acqinfo>
+  <arrangement id="aspace_61dcfa56aa3d2b1068e503384b0f6c2e">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
+  <bioghist id="aspace_f98f1a03cfafaacddd82a5b4c8d1878a">
+    <head>Historical note</head>
+<p>This item was created by the American Silk Label Manufacturing Company of New York. Commemorative versions of this item dating from 1925 and 1975 are housed in the Smithsonian and Metropolitan museums, each including phrases "Presented as a Souvenir of the Fiftieth Anniversary of the American Silk Label Manufacturing co." (1925 edition) and "This historical reproduction was first woven by us in 1876 for the centennial expedition at Philadelphia and was given an award for outstanding workmanship. the original was hung in the Smithsonian Institute in Washington, D.C. We are proud to weave it again in commemoration of our 100th anniversary and on the coming of the Bicentennial of the United States of America" (1975 edition). This item appears to pre-date the later editions and does not include references to an earlier version, suggesting it was made closer to or right around the time of the Centennial Exposition.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>"Lot 594: Rare 19th C. Silk Ribbon Copy of The Declaration of Independence," Case Auctions. https://caseantiques.com/item/lot-594-silk-ribbon-copy-of-the-declaration-of-independence-american-silk-label-mfg-co-1876-ed/</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_131a2079d38ef7b6f9c377175c015d78">
+    <head>Preferred Citation</head>
+<p>Facsimiles of the Declaration of Independence signatures, circa 1876, 1978.094, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_2be13f9261e465bde5afdebd748a5823">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2023.</p>  </processinfo>
+  <relatedmaterial id="aspace_0cf8a0649924fb4355a3221af1a08d69">
+    <head>Related Materials</head>
+<p>A copy of the 1925 issue of this item is held at the Cooper-Hewitt Smithsonian Design Museum (accession 1988-12-1, object ID 18627807), and a copy of the 1975 issue is held by the Metropolitan Museum (accession 2014.594.12).</p>  </relatedmaterial>
+  <scopecontent id="aspace_4b731c40d0b74fbf72c37b0b34b1b4b6">
+    <head>Scope and Contents</head>
+<p>Embroidered silk facsimile of the signatures of all signers of the Declaration of Independence, created circa 1876. An inscription states that signatures were "taken from Irvings History of the U.S. which John Quincy Adams certified were exact imitations of the original." Included are the signatures of the four signers from New York State, including William Floyd and Francis Lewis of Long Island, Philip Livingston of Brooklyn, and Lewis Morris of Westchester. Also included is Charles Carroll, whose Maryland regiment defended Brooklyn during the Battle of Brooklyn in the Revolutionary War, and for whom the Brooklyn neighborhood of Carroll Gardens is named.</p>  </scopecontent>
+  <userestrict id="aspace_78dc782004be23eaa886681e8b5ecdb5">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
+    <geogname source="lcsh">United States -- History -- Revolution, 1775-1783</geogname>
     <genreform source="aat">Signatures (names)</genreform>
-    <subject source="lcsh">Politicians |z United States</subject>
-    <geogname source="lcsh">United States |x Politics and government</geogname>
+    <subject source="lcsh">Politicians -- United States</subject>
+    <geogname source="lcsh">United States -- Politics and government</geogname>
+    <genreform source="lcsh">Textiles</genreform>
     <corpname source="naf">United States. Declaration of Independence. Signers</corpname>
   </controlaccess>
   <dsc/>
