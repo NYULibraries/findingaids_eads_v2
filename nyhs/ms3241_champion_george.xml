@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms3241_champion_george</eadid><filedesc><titlestmt><titleproper>Guide to the George Champion Papers,<lb/>1925-2019,<lb/> <num>MS 3241</num></titleproper><author>Joseph Ditta (January 2024)</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>January 2024</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-24 10:27:13 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>George Champion papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Champion, George, 1904-1997</persname>
+    </origination>
+    <unitid>MS 3241</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5.5 Linear feet</extent>
+      <extent altrender="carrier">in 5 boxes (4 record cartons and 1 flat box).</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1925-2019</unitdate>
+    <abstract id="aspace_c7c041873b6eef4434e82926d1cf1aee">A collection documenting the life and career of banker George Champion (1904–1997), who served as president and then chairman of Chase Manhattan in the 1950s and 1960s. The collection includes correspondence with numerous politicians, among them U.S. presidents Richard Nixon and, notably, Dwight D. Eisenhower, with whom Champion maintained a close exchange spanning two decades. Champion's myriad other activities, such as his leadership of the Economic Development Council of New York, and his involvement with the Presbyterian Lay Committee to bring the Reverend Billy Graham's crusades to New York City, are chronicled in the collection's newspapers clippings, photographs, and ephemera. At the core of the collection are the drafts and scripts of Champion's many speeches, which he delivered throughout the country and internationally, and which he issued as pamphlets and periodical articles for wider dissemination.</abstract>
+    <physloc id="aspace_2842c7fb75024eecdca730eda6334afa">This collection may be stored offsite. To arrange to consult it, please go to <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</physloc>
+    <langmaterial id="aspace_acde9f54746d0d9c4a0973837d7fcd82">The bulk of the documents in this collection are in English, with a few items in German, Japanese, and Spanish.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_5551bc5279c1ecfa9e72eeeea3bb9ffb">
+    <head>Access Restrictions</head>
+<p>This collection may be stored offsite. To arrange to consult it, please go to <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</p>  </accessrestrict>
+  <acqinfo id="aspace_267422d1a753393cf4f82bcd976fa0b2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Carla Knobloch, 2023.</p>  </acqinfo>
+  <arrangement id="aspace_11a5aa74645f28bfe440084c6c7f9a6e">
+    <head>Arrangement</head>
+<p>Before it was transferred to the New-York Historical Society, the collection was sorted in the alphabetical categories listed in the inventory of this finding aid. This arrangement has been preserved with some slight reordering and occasional expansion to accommodate objects not covered by the original categories, such as Champion's Dartmouth College sweater (Box 4), or the First Class Order of the Sacred Treasure insignia (Box 4, Enclosure 1). Maintaining this scheme has resulted in some degree of redundancy, particularly among the categories "Manuscripts," "Periodical articles—by George Champion," "Publications—by George Champion," and "Speeches," as some of Champion's writings and speeches, after their initial delivery, were printed in pamphlet form, or refashioned into magazine and newspaper articles. Similarly, researchers will find repeat correspondents appearing under the categories "Correspondence—Cabinet and other federal-level governmental," "Correspondence—Congressional," "Correspondence—Presidents, Vice-Presidents," and "Correspondence—Professional."</p>  </arrangement>
+  <bioghist id="aspace_aecc233f71c0f687c742d376520ec61a">
+    <head>Biographical note</head>
+<p>George Champion was born in Normal, Illinois on February 8, 1904 to George Champion (1871–1914) and Emily (Moore) Champion (1870–1945). [His paternal grandfather was also named George Champion (1840–1928).] He attended San Diego (California) High School and received a B.S. degree from Dartmouth College in 1926.</p><p>Champion was with the National Bank of Commerce, New York, from 1926 until 1929, when he joined the Equitable Trust Company. He was appointed Assistant Secretary of Equitable in 1930, and after Equitable and Chase National merged that year, he became an Assistant Cashier of Chase National.</p><p>In 1931 Champion left to become Vice President of Canal Bank and Trust Company, New Orleans. He returned to Chase National in 1933 as a Second Vice President in the southeastern district of the bank's national territorial organization. He was appointed Vice President in 1939 and became head of the southeastern district in 1942. He was named Senior Vice President in 1949.</p><p>Champion was appointed Chairman of the Personnel Relations Advisory Committee in 1950, Vice Chairman of the General Loan Committee in 1953, and Chairman of the Committee in 1954.</p><p>When Chase National Bank and the Bank of Manhattan Company merged on March 31, 1955, Champion was made an Executive Vice President. He was in charge of the United States Department, the bank's national territorial organization, from 1953 until January 1, 1957, when he became President. On January 1, 1961, he assumed the Chairmanship.</p><p>In the eight years during which he was Chairman of the Board, from 1961 through early 1969, Chase's assets grew from $9.3 billion to $19.3 billion and its deposits from $8.1 billion to $16.7 billion.</p><p>Champion retired from the Chairmanship of the Board of Directors of The Chase Manhattan Bank, N.A., New York, in March 1969. In that year he became Chairman and President of the Economic Development Council of New York City (EDC), a non-profit organization formed in 1965 "to help bring the capabilities of the business community to bear on vital urban problems."</p><p>During a career of some 40 years in banking, Champion won a reputation as one of the nation's foremost authorities on lending practices and money market operations. He also became an articulate spokesman for greater corporate involvement in social problems. A speech he delivered at Rutgers University in March 1966, which was later reprinted in the Reader's Digest, was widely heralded as a pioneering statement of the changing responsibilities of business in its new environment.</p><p>Champion was Chairman of the Contemporary Economics &amp; Business Association and on the Board of Trustees of The Institute for Political Economy; the holder of Honorary Doctor of Law degrees from Millikin University, Grinnell College, and Pace College; and the recipient of Japan's Order of the Sacred Treasure, First Class.</p><p>He was a member of the Pilgrims of the United States, Psi Upsilon Fraternity, Casque and Gauntlet of Dartmouth, the August National Golf Club (Augusta, Georgia) and belonged to the Alfalfa Club (Washington, D.C.), the Links Club (New York), the Sky Club (New York), Round Hill Club, Inc. (Greenwich, Conn.), and Blind Brook Club (Port Chester, N.Y.).</p><p>George Champion died at home in Greenwich, Connecticut, on September 16, 1997. He and his wife, the former Eleanor Stevens, had a son, George Jr., and a daughter, Emily Jean (Mrs. Carl W. Knobloch Jr.).</p><p>[This note is a reworking of a 1991 biographical summary of Champion found in the collection (Box 1, Folder 6). See also his New York Times obituary, "George Champion, 93, Head of Chase Manhattan in 1960's," Sep. 22, 1997.]</p>  </bioghist>
+  <prefercite id="aspace_4c115f5d2789e866cd5fc790ca1fefb5">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as the "George Champion Papers, MS 3241, New-York Historical Society."</p>  </prefercite>
+  <processinfo id="aspace_8240bb3ecce29433497f21763cc55a8a">
+    <head>Processing Information</head>
+<p>Archivist Joseph Ditta arranged and described this collection in November 2023 - January 2024.</p>  </processinfo>
+  <scopecontent id="aspace_6979703d1680c7fb9add86f51f480301">
+    <head>Scope and Contents</head>
+<p>The George Champion Papers contain correspondence, draft and printed speeches, publications, newspaper clippings, photographs, oral history interview transcripts, and ephemera pertaining to Champion's forty-year career in banking, most notably with Chase Manhattan, and his philanthropic leanings. The collection includes letters between Champion and dozens of politicians, such as presidents Nixon, Ford, and George H. W. Bush, as well as the evangelist Reverend Billy Graham and the entertainer Bob Hope. Of particular note is the two-decades long, congenial correspondence between Champion and Dwight D. Eisenhower (frequently addressed as "My Dear General"), both before and after the latter's presidency (Box 1, Folder 12), and Champion's equally long exchange with Mamie Doud Eisenhower, much of which concerns fundraising for the establishment of Eisenhower College (Box 1, Folder 14). A note from Peggy Rockefeller (Box 1, Folder 10), wife of Champion's associate, David Rockefeller, praises Champion's decisive action during the so-called "<extref xlink:actuate="onRequest" xlink:href="https://en.wikipedia.org/wiki/Salad_Oil_scandal">Salad Oil scandal</extref>" of 1963, a fraudulent financial scheme committed by executives at Allied Crude Vegetable Oil Company that resulted in over $180 million in losses to major corporations; the scandal—and Champion's role in exposing it—is documented by newspaper clippings in the collection (Box 2, Folder 2). While the collection touches on Champion's myriad activities—such as his involvement with the Opportunities Industrialization Center (OIC) program (Box 2, Folder 5), the Economic Development Council of New York City (Box 2, Folder 19), and his continued interest in Dartmouth College's football team (Box 2, Folders 9 and 18)—at its core are the dozens of speeches he delivered to national and international venues (Box 3, Folder 10-14), which he often then issued as publications (Box 3, Folder 9) or periodical articles (Box 2, Folder 8) for wider dissemination of his philosophies.</p>  </scopecontent>
+  <userestrict id="aspace_7cb2693b2dd3a89d69af5febb86abe38">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff. Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282. Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/rights-and-reproductions">www.nyhistory.org/rights-and-reproductions</extref>.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Artifacts.</genreform>
+    <genreform source="aat">Award plaques.</genreform>
+    <genreform source="aat">Awards.</genreform>
+    <genreform source="aat">Certificates.</genreform>
+    <genreform source="aat">Decoration of honor.</genreform>
+    <genreform source="aat">Letters (correspondence)</genreform>
+    <genreform source="aat">Newspaper clippings.</genreform>
+    <genreform source="aat">Oral histories (document genres)</genreform>
+    <genreform source="aat">Publications (documents)</genreform>
+    <genreform source="aat">Serials (publications)</genreform>
+    <genreform source="aat">Speeches (documents)</genreform>
+    <genreform source="aat">Tear sheets.</genreform>
+    <subject source="lcsh">Bankers.</subject>
+    <subject source="lcsh">Banks and banking -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Decorations of honor -- Japan.</subject>
+    <subject source="lcsh">Economic history -- 1945-1971.</subject>
+    <subject source="lcsh">Economic history -- 1971-1990.</subject>
+    <subject source="lcsh">Evangelicalism -- United States.</subject>
+    <persname source="naf">Bush, Barbara, 1925-2018 -- Correspondence.</persname>
+    <persname source="naf">Bush, George, 1924-2018 -- Correspondence.</persname>
+    <persname source="naf">Eisenhower, Dwight D. (Dwight David), 1890-1969 -- Correspondence.</persname>
+    <persname source="naf">Eisenhower, Mamie Doud, 1896-1979 -- Correspondence.</persname>
+    <persname source="naf">Graham, Billy, 1918-2018 -- Correspondence.</persname>
+    <persname source="naf">Nixon, Pat, 1912-1993 -- Correspondence.</persname>
+    <persname rules="rda" source="naf">Nixon, Richard M. (Richard Milhous), 1913-1994 -- Correspondence.</persname>
+    <persname rules="rda" source="naf">Reagan, Ronald -- Correspondence.</persname>
+    <corpname source="naf">Chase Manhattan Bank</corpname>
+    <corpname source="naf">Dartmouth College.</corpname>
+    <corpname source="library_of_congress_subject_heading">Economic Development Council of New York City.</corpname>
+    <corpname source="library_of_congress_subject_heading">	Eisenhower College</corpname>
+    <corpname source="naf">Freedoms Foundation at Valley Forge</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_d753805a4b8f4a63050e0fe01802b425" level="file"><did><unittitle><emph render="bold">1968 Billy Graham Crusade</emph>
+</unittitle><unitdate datechar="creation" type="inclusive">1965-1970, 1974</unitdate><container id="aspace_27272c25636bbc4531a846e89953f252" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_3ff5e46cd99e4bcd6e7c2f134f25aa93" parent="aspace_27272c25636bbc4531a846e89953f252" type="Folder">1</container></did><scopecontent id="aspace_9965b513d687b431cc35efc232ab33b4"><head>Scope and Contents</head><p>Champion was long associated with the Reverend Billy Graham, and worked, as a board member of the Presbyterian Lay Committee, to bring Graham's crusade to New York City as early as 1957. See "Billy Graham &amp; Co. to Invade New York," in the Pittsburgh Press, May 11, 1957 (Box 2, Folder 1), and "Planning Committee for Billy Graham New York Crusade" (photograph caption) in The Presbyterian Layman, vol. 4, no. 5 (May 1970) (Box 2, Folder 7).</p></scopecontent></c><c id="aspace_3d82ad3c058a51a90693b9fe9c919073" level="file"><did><unittitle><emph render="bold">Advocacy</emph>
+</unittitle><unitdate datechar="creation" type="inclusive">1979, undated</unitdate><container id="aspace_cdcd1fbe807ba5eeddfd0fb73f87be61" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_8e661c2c75146ff406724a0114e923b6" parent="aspace_cdcd1fbe807ba5eeddfd0fb73f87be61" type="Folder">2</container></did><scopecontent id="aspace_527bc49cf00b5289815ae51d5f0e1a3c"><head>Scope and Contents</head><p>•	Sandra Stahman, Division of Curriculum and Instruction, and Lloyd M. Cooke, Economic Development Council of New York City, Inc., PROPED Project, Progess Report, July 15, 1979.<lb/>
+<lb/>
+•	Memo for Record RE: The Citys Plan For a Co-Generation Loan Fund, July 23, 1979.<lb/>
+<lb/>
+•	Robert Russell Sammon, Business Management Consultant to Public School System, report to Mayor Ed Koch, Nov. 28, 1979.<lb/>
+<lb/>
+•	Issue: Reducing The City's Health Care Costs, undated.<lb/>
+<lb/>
+•	Issue: Reducing Municipal Labor Costs, undated.</p></scopecontent></c><c id="aspace_3722b63699c929d5308d8896cc70a396" level="file"><did><unittitle><emph render="bold">Advisory Committees</emph>
+</unittitle><unitdate datechar="creation">1979 July 26</unitdate><container id="aspace_be92f7889c0c1c4aa6fb2c8481dee37e" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_83c65c473951ea7ebdfe545541c63c45" parent="aspace_be92f7889c0c1c4aa6fb2c8481dee37e" type="Folder">3</container></did><scopecontent id="aspace_0e249b44e92e765bdb40700c53efd91e"><head>Scope and Contents</head><p>Two-page summary of Mayor's Management Advisory Committee Breakfast Meeting, Metropolitan Life Insurance Company, New York, July 26, 1979.</p></scopecontent></c><c id="aspace_c7124efe74b05d4adfaa8d01f06917fd" level="file"><did><unittitle><emph render="bold">Awards and certificates</emph>
+</unittitle><unitdate datechar="creation" type="inclusive">1959-1976, undated</unitdate><container id="aspace_12898659be55a45d064ee08b58c39c4f" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_934b1a78ea37e55012a108c1aaba4e07" parent="aspace_12898659be55a45d064ee08b58c39c4f" type="Folder">4</container></did><scopecontent id="aspace_4104ca64e632c4dc2e7f61ecfbd315b3"><head>Scope and Contents</head><p>•	"Pair Parula Warblers by Dorothy Doughty [British sculptor] Presented to George Champion, President 1958-59, with the admiration and affection of the Association of Reserve City Bankers." With signed menu/program, Association of Reserve City Bankers 48th Annual Dinner (April 14, 1959) and schedule (April 13-15, 1959).<lb/>
+<lb/>
+•	"Remarks of President Lyndon B. Johnson at the Alfalfa Club Dinner, Statler-Hilton Hotel, Washington, D.C." (Jan. 25, 1964).<lb/>
+<lb/>
+•	[Tribute] "At a meeting of the Board of Directors of the Federal Reserve Bank of New York . . . the Deputy Chairman presented, and the Secretary read, the following tribute to George Champion (Jan. 7, 1965).<lb/>
+<lb/>
+•	Program, "Pace College New York Civic Center Campus, Ground Breaking" (Dec. 19, 1966). Champion received an honorary Doctor of Human Letters. With "The Architecture of a Powerful Idea."<lb/>
+<lb/>
+•	Man in Management Award of the Advisory Council of Pace College (Jan. 16, 1968). [2 copies of menu/program; 1 copy of guest list; 1 copy of Champion's speech "The Responsibilities of Leadership."]<lb/>
+<lb/>
+•	First Class Order of the Sacred Treasure (Oct. 7, 1969). [See insignia (Box 4, Enclosure 1) and photographs (Box 2, Folder 10).]<lb/>
+<lb/>
+•	National Football Foundation and Hall of Fame (1970, 1971, 1976).<lb/>
+<lb/>
+•	Press release, "Citizens Budget Commission to Honor George Champion and William J. Ronan" (April 16, 1973).<lb/>
+<lb/>
+•	[Menu/program] The New York Chapter, Association of the United States Army, Distinguished Service Award Luncheon, Guest of Honor, George Champion, Seventh Regiment Armory (Oct. 21, 1976).<lb/>
+<lb/>
+•	[Certificate] City School District of the City of New York Cooperative Education Partner in Education. This is the Certify that the title of "Partner in Education" is hereby conferred upon George Champion . . . (undated).<lb/>
+<lb/>
+•	Press release, "Chase Makes $100,000 Gift to Heart Surgery Group; Honors Former Chairman" (December 5, [year lacking]).</p></scopecontent></c><c id="aspace_3f7d5b04eb8d648501ab67697cc0b437" level="file"><did><unittitle><emph render="bold">Awards and certificates—American Legion</emph></unittitle><unitdate datechar="creation">1963 June 21</unitdate><container id="aspace_96240c2dc710141cf6f34e1c7505637a" label="Mixed Materials [1804 00003 6978]" type="Offsite-Box">5</container><container id="aspace_4bd61fe5b159e7f0d6204fd6fdb596a1" parent="aspace_96240c2dc710141cf6f34e1c7505637a" type="Folder">3</container></did><scopecontent id="aspace_244a4ca98611676748663cd275d9e1b3"><head>Scope and Contents</head><p>Award plaque: "The American Legion | Citation of Merit | Presented to | George Champion | This tribute of respect is presented in recognition of his under- | standing and untiring efforts in behalf of needy and | hospitalized veterans. | Kings County American Legion | June 21, 1963."</p></scopecontent></c><c id="aspace_323a747e87297c55c9cab195d7ceac78" level="file"><did><unittitle><emph render="bold">Awards and certificates—First Class Order of the Sacred Treasure insignia</emph></unittitle><unitdate datechar="creation">1969 October 7</unitdate><container id="aspace_4416ac1041295323b25da9f22a77224a" label="Mixed Materials [1804 00003 6976]" type="Offsite-Box">4</container><container id="aspace_f95d2925cfef2db1f4648289c6b8ee27" parent="aspace_4416ac1041295323b25da9f22a77224a" type="enclosure">1</container></did><scopecontent id="aspace_2101f0d7ef563c967ca5e12f8518b484"><head>Scope and Contents</head><p>Presentation case holding insignia of the First Class Order of the Sacred Treasure presented to George Champion in 1969. The Order of the Sacred Treasure is a Japanese order established in 1888 by the Emperor Meiji. Originally awarded in eight classes (eighth being the lowest; first, the highest), the order is given to recipients—Japanese and international alike—in recognition of their outstanding public service in the fields of education, social welfare, medical care, and commissioned governmental work. Champion received the honor for his "meritorious services . . . rendered to Japan and . . . many contributions to [its] post-war economic and industrial development . . . and for the . . . promotion of Japanese-American friendship." The first class insignia consists of a ribbon or sash, a badge, and a lapel pin. Although photographs taken during the presentation show the lapel pin being affixed to Champion's suit, it is not present in the collection. Nor is the certificate mentioned in the ceremony program. [See documentation (Box 1, Folder 4) and photographs (Box 2, Folder 10), as well as <extref xlink:actuate="onRequest" xlink:href="https://en.wikipedia.org/wiki/Order_of_the_Sacred_Treasure">en.wikipedia.org/wiki/Order_of_the_Sacred_Treasure</extref>.]</p></scopecontent></c><c id="aspace_655f6902662905a9dd9e41fec4fbae57" level="file"><did><unittitle><emph render="bold">Awards and certificates—Independent College Funds of America, Inc.</emph></unittitle><unitdate datechar="creation">1965 February 28</unitdate><container id="aspace_92fc53f317e7396c6f7b1964f2e4e46c" label="Mixed Materials [1804 00003 6978]" type="Offsite-Box">5</container><container id="aspace_0b2476bbe7350ba4763b96fdc1d5fcbb" parent="aspace_92fc53f317e7396c6f7b1964f2e4e46c" type="Folder">2</container></did><scopecontent id="aspace_2ccfaeb046f969fbce935141f898081b"><head>Scope and Contents</head><p>Award plaque: "Higher Education Award | of the Independent College Funds of America, Inc. | presented to | Mr. George Champion | For Distinguished Service to the Nation's | Private Colleges and Universities | Affiliated in the State and Regional Associations | February 28, 1965."</p></scopecontent></c><c id="aspace_d5dc85db8d54d99ae582c8eb7f7d7886" level="file"><did><unittitle><emph render="bold">Awards and certificates—Protestant Council of the City of New York</emph></unittitle><unitdate datechar="creation">1962 October 17</unitdate><container id="aspace_7c6a22ea06fa72967473708fe1b46eb1" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_4b630f29c43d6bc348ebbd684a6aa577" parent="aspace_7c6a22ea06fa72967473708fe1b46eb1" type="Folder">5</container></did><scopecontent id="aspace_7de12978e6c937e60a0ae471b21ffe08"><head>Scope and Contents</head><p>Oval medal, silver (stamped on edge "Medallucart Co. N.Y."), approximately 3.5 x 2.25 inches, in blue Tiffany &amp; Co. pouch. Obverse bears a relief of a church and the legend "The Protestant Council of the City of New York | For Service to Church | and Community." Reverse reads "Distinguished | Service Award | To | George Champion | October 17, 1962 | In Recognition of | Outstanding Leadership | In Social and Spiritual | Service to Our City | and Nation."</p></scopecontent></c><c id="aspace_55ff928b4b61f88d2a685da80c8dc9bf" level="file"><did><unittitle><emph render="bold">Biographical summaries</emph></unittitle><unitdate datechar="creation" type="inclusive">1970-1976, 1991</unitdate><container id="aspace_18e3d0d7ce5c80768aa9c6e9493261d7" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_8eba20a37d0c20293350fab190dce59f" parent="aspace_18e3d0d7ce5c80768aa9c6e9493261d7" type="Folder">6</container></did><scopecontent id="aspace_5ffb2bf3fa6d8aa8f8770751d308de0e"><head>Scope and Contents</head><p>Biographical summaries of George Champion dated<lb/>
+•	1970 March<lb/>
+•	1971 Dec.<lb/>
+•	1972 Dec. [2 copies]<lb/>
+•	1975 Jan.<lb/>
+•	1975 April<lb/>
+•	1976 March<lb/>
+•	1976 June<lb/>
+•	1991 April</p></scopecontent></c><c id="aspace_03399009a81f2de58af13d643943bc00" level="file"><did><unittitle><emph render="bold">Casque and Gauntlet (Dartmouth College senior society)</emph></unittitle><unitdate datechar="creation" type="inclusive">1936-1937, 1964-1968</unitdate><container id="aspace_0dc58de5ca483aaf94d9916987b41a20" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_e1d5ebb16df98192a61864aa52770d11" parent="aspace_0dc58de5ca483aaf94d9916987b41a20" type="Folder">7</container></did><scopecontent id="aspace_66d37e86b02731c3f8749018c460997e"><head>Scope and Contents</head><p>Correspondence and certificates.</p></scopecontent></c><c id="aspace_e46070126679b25ab6d7e6f8cb5c2e4c" level="file"><did><unittitle><emph render="bold">Congressional testimony</emph></unittitle><unitdate datechar="creation" type="inclusive">1959, 1983</unitdate><container id="aspace_dd1ef7302c2b80799aafb90e93928792" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_8f9e393a62502a09cf4d8c9b58ff3304" parent="aspace_dd1ef7302c2b80799aafb90e93928792" type="Folder">8</container></did><scopecontent id="aspace_a417cc058f966b455494f8ed1fa2757a"><head>Scope and Contents</head><p>•	Champion's address "The Challenge to the Dollar" quoted in "Exentsion of Remarks of Hon. John H. Ray of New York, in the House of Representatives, Monday, March 9, 1959" and printed in <emph render="italic">Congressional Record—Appendix</emph>, 1959.<lb/>
+<lb/>
+•	Testimony of George Champion, Retired Chairman, The Chase Manhattan Bank, Before the Senate Banking Committee, Feb. 15, 1983.<lb/>
+<lb/>
+•	Testimony of George Champion before the House Appropriations Committee Subcommittee on Foreign Operations, Sep. 20, 1983 [2 copies].</p></scopecontent></c><c id="aspace_10f99f30eb356c59e871acb9b17607e9" level="file"><did><unittitle><emph render="bold">Correspondence—Cabinet and other federal-level governmental</emph></unittitle><unitdate datechar="creation" type="inclusive">1958-1984, undated</unitdate><container id="aspace_74dc511b78b8de7c07989e3d1211802f" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_1981d08f7880d4910b24aa4d97f6027f" parent="aspace_74dc511b78b8de7c07989e3d1211802f" type="Folder">9</container></did><scopecontent id="aspace_b9cbbf92b2946b1521e236e59038ac69"><head>Scope and Contents</head><p>Letters to and from<lb/>
+•	Appedorf, S. (1958 May 5, 12) + Goldman, Herman (1958 April 15)<lb/>
+<lb/>
+•	Brennan, Peter J. (1974 July 2)<lb/>
+<lb/>
+•	Burns, Arthur F. (1972 May 26, Oct. 25)<lb/>
+<lb/>
+•	Bush, George H. W. (1971 Nov. 5)<lb/>
+<lb/>
+•	Callaway, Howard H. (1973 May 29)<lb/>
+<lb/>
+•	Camp, William B. (1969 March 10, 18)<lb/>
+<lb/>
+•	Clements, Bill (1973 Feb. 2)<lb/>
+<lb/>
+•	Connally, John B. (1971 Jan. 29)<lb/>
+<lb/>
+•	Dent, Frederick B. (1973 Feb. 22)<lb/>
+<lb/>
+•	Fisher, Carl W. (1969 Sep. 9)<lb/>
+<lb/>
+•	Froehlke, Robert F. (1971 June 26)<lb/>
+<lb/>
+•	Goldberg, Arthur J. (1962 Sep. 20)<lb/>
+<lb/>
+•	Gordon, Lincoln (1966 March 8)<lb/>
+<lb/>
+•	Ingersoll, Robert S. (1974 June 27)<lb/>
+<lb/>
+•	Johnson, U. Alexis (1969 Oct. 17)<lb/>
+<lb/>
+•	Kennedy, David M. (1969 Jan. 16, 30; 1970 Jan. 8, 16)<lb/>
+<lb/>
+•	Kleindienst, Richard G. (1972 Feb. 21)<lb/>
+<lb/>
+•	Korth, Fred (1962 Sep. 25, 27)<lb/>
+<lb/>
+•	Laird, Melvin R. (1972 Feb. 12)<lb/>
+<lb/>
+•	Marland, S. P. Jr. (1971 June 9; 1972 July 19, Aug. 22)<lb/>
+<lb/>
+•	Middendorf, J. William II (1974 May 23)<lb/>
+<lb/>
+•	Mitchell, John N. (1971 June 10)<lb/>
+<lb/>
+•	Morton, Rogers C. B. (1974 Oct. 17)<lb/>
+<lb/>
+•	Pannill, William P. (1971 June 28)<lb/>
+<lb/>
+•	Peterson, Peter G. (1972 Aug. 15, Oct. 25, Nov. 3, 10)<lb/>
+<lb/>
+•	Richardson, Elliot L. (1971 June 9; 1972 Nov. 20)<lb/>
+<lb/>
+•	Rogers, William P. (1968, Dec. 12, 23; 1973 March 13)<lb/>
+<lb/>
+•	Romney, George (1973 Nov. 13)<lb/>
+<lb/>
+•	Rush, Kenneth (1972 Feb. 22)<lb/>
+<lb/>
+•	Schultz, George P. (1970 July 14; 1971 June 2; 1973 March 30)<lb/>
+<lb/>
+•	Simmons, Craig A. (1984 June 22, July 23)<lb/>
+<lb/>
+•	Simon, William E. (1973 May 25; 1974 May 24, Nov. 4; 1975 April 30, June 26, Sep. 11, Oct. 20; 1976 March 18, June 14)<lb/>
+<lb/>
+•	Stans, Maurice H. (1969 March 7, 19, Dec. 5; 1971 May 28; 1972 Jan. 13, 20)<lb/>
+<lb/>
+•	Thompson, Jane (Mrs. Lewellyn) (1973 Feb. 9)<lb/>
+<lb/>
+•	Uchida, Hiroshi (undated)<lb/>
+<lb/>
+•	Volcker, Paul A. (1983 July 6; 1984 June 14)<lb/>
+<lb/>
+•	Walker, Charls [sic] E. (1969 Dec. 10, 18)<lb/>
+<lb/>
+•	Westmoreland, W. C. (1974 Feb. 3)<lb/>
+<lb/>
+•	Wallich, Henry C. (1982 Feb. 19, March 1, 5, May 26)</p></scopecontent></c><c id="aspace_8f3c1f8d0c7d6a61fb703f9f5027dde4" level="file"><did><unittitle><emph render="bold">Correspondence—Champion, Eleanor</emph>
+</unittitle><unitdate datechar="creation" type="inclusive">1963-1981</unitdate><container id="aspace_3e679eb6d97a5a7f50bbc6ee62ed4708" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_d566080d1274fbefdd03ea12eb9aeca7" parent="aspace_3e679eb6d97a5a7f50bbc6ee62ed4708" type="Folder">10</container></did><scopecontent id="aspace_3194da02f62fa5dceb56d75bca5d527e"><head>Scope and Contents</head><p>Letters and notes to Eleanor Champion from<lb/>
+•	Bush, George H. W. (1972 May 15)<lb/>
+<lb/>
+•	Cox, Patricia Nixon (1971 April 24)<lb/>
+<lb/>
+•	Eisenhower, Mamie Doud (1975 Feb. 10)<lb/>
+<lb/>
+•	Nixon, Pat (1965 Jan. [5]; 1967 Sep. [18]; 1971 March 20; 1972 March 17; 1981 Aug. [25])<lb/>
+<lb/>
+•	Nixon, Richard (1972 May 19)<lb/>
+<lb/>
+•	Rockefeller, Margaret "Peggy" (1963 Dec. 26)</p></scopecontent></c><c id="aspace_c5368f2b7380cd1f476c5009a5d92628" level="file"><did><unittitle><emph render="bold">Correspondence—Congressional</emph></unittitle><unitdate datechar="creation" type="inclusive">1959-1990, undated</unitdate><container id="aspace_eede22b05b7a1be2e5872edf83b19b33" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_627b3303aa7014a0b405fc9f1ce54417" parent="aspace_eede22b05b7a1be2e5872edf83b19b33" type="Folder">11</container></did><scopecontent id="aspace_a6e0d76d7bdeaf138951126684356753"><head>Scope and Contents</head><p>Letters to and from<lb/>
+•	Baker, Howard H. Jr. (1971 Dec. 3)<lb/>
+<lb/>
+•	Boggs, Lindy (1975 June 24)<lb/>
+<lb/>
+•	Brock, Bill (1973 April 25)<lb/>
+<lb/>
+•	Buckley, James L. (1972 April 19; 1975 Aug. 13; 1976 Feb. 24)<lb/>
+<lb/>
+•	Bush, George H. W. (1968 May 2, Aug. 13, 30, Sep. 4; 1969 Jan. 10–31, June 27; 1970 Feb. 26, Sep. 9, 17)<lb/>
+<lb/>
+•	Bush, Prescott (1959 May 14, 19)<lb/>
+<lb/>
+•	Byrnes, John W. (1972 Feb. 8)<lb/>
+<lb/>
+•	Dirksen, Everett McKinley (1967 June 28, July 5, Aug. 2, 8; 1968 Oct. 18)<lb/>
+<lb/>
+•	Dole, Bob (1973 Jan. 22)<lb/>
+<lb/>
+•	Dominick, Peter H. (1973 April 27)<lb/>
+<lb/>
+•	Dooley, Edwin B. (1961 March 2)<lb/>
+<lb/>
+•	Ford, Gerald R. (1967 June 22, 26, July 27, Aug. 3, 10, Oct. 2; 1968 March 20, Aug. 9, 15)<lb/>
+<lb/>
+•	Goldwater, Barry (1971 Dec. 28)<lb/>
+<lb/>
+•	Goodell, Charles E. (1969 Nov. 12)<lb/>
+<lb/>
+•	Holt, Joe (1959 Dec. 1, 4)<lb/>
+<lb/>
+•	Javits, Jacob K. (1969 Nov. 12)<lb/>
+<lb/>
+•	Latta, Delbert L. (1967 July 31, Aug. 3)<lb/>
+<lb/>
+•	Leithead, Barry T. (1969 Nov. 7)<lb/>
+<lb/>
+•	Long, Clarence D. (1983 Sep. 7, 21)<lb/>
+<lb/>
+•	McCain, John (1990 Aug. 24)<lb/>
+<lb/>
+•	McKinney, Stewart B. (undated)<lb/>
+<lb/>
+•	Satterfield, David E. III (1971 April 27, May 3)<lb/>
+<lb/>
+•	Taft, Robert Jr. (1971 June 21, Dec. 18; 1972 Feb. 21)<lb/>
+<lb/>
+•	Thurmond, Strom (1972 Feb. 8, 14; April 7)<lb/>
+<lb/>
+•	Tower, John (1972 Jan. 12)<lb/>
+<lb/>
+•	Pages from Congressional Record—House (1969 Aug. 6, 7)</p></scopecontent></c><c id="aspace_2bbe5d6676cc57b01d5126c71eff05fa" level="file"><did><unittitle><emph render="bold">Correspondence—Eisenhower, Dwight D.</emph></unittitle><unitdate datechar="creation" type="inclusive">1951-1953, 1958-1969</unitdate><container id="aspace_9f47f12a4396a8aa4493194acc9628c3" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_fe13cd592ea8353dbd34dc59473555ef" parent="aspace_9f47f12a4396a8aa4493194acc9628c3" type="Folder">12</container></did><scopecontent id="aspace_4646e5c0fd39954a9bad3dd87f5beb3b"><head>Scope and Contents</head><p>Letters to and from Dwight D. Eisenhower (1890-1969), written before, during, and after his presidency (1953-1961).</p></scopecontent></c><c id="aspace_63b8a2a02e9818ea0806001ec53b2716" level="file"><did><unittitle><emph render="bold">Correspondence—Eisenhower, Dwight D. (copies)</emph></unittitle><unitdate datechar="creation" type="inclusive">1959-1968</unitdate><container id="aspace_66caa7be3dc1153478f863ea441f2eb6" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_ee03fe1fb7f5ff1eab3b4d00b37f71f7" parent="aspace_66caa7be3dc1153478f863ea441f2eb6" type="Folder">13</container></did><scopecontent id="aspace_cf1404eaecde2f95abc74f9508e2b47b"><head>Scope and Contents</head><p>Photocopies of selected letters to and from Dwight D. Eisenhower (1890-1969) from the previous folder.</p></scopecontent></c><c id="aspace_a11eeb0e129adcf60bb4680008e6ae2c" level="file"><did><unittitle><emph render="bold">Correspondence—Eisenhower, Mamie Doud</emph></unittitle><unitdate datechar="creation" type="inclusive">1962-1975</unitdate><container id="aspace_e002d74b46646bf2e6146e56a5866533" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_435172b2fe6d2e10d522b944ef219be5" parent="aspace_e002d74b46646bf2e6146e56a5866533" type="Folder">14</container></did><scopecontent id="aspace_f33637cf826e42134db985ae6f625e16"><head>Scope and Contents</head><p>Letters to and from Mamie (Doud) Eisenhower (1896-1979), some concerning fundraising events for Eisenhower College.</p></scopecontent></c><c id="aspace_4fb080392819f58863bcfb07fb96530c" level="file"><did><unittitle><emph render="bold">Correspondence—Eisenhower, Mamie Doud  (copies)</emph></unittitle><unitdate datechar="creation" type="inclusive">1962-1971</unitdate><container id="aspace_13c09c4f240080b625f7a33d71818037" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_d0610b795d08c86a888bb0f1024e7604" parent="aspace_13c09c4f240080b625f7a33d71818037" type="Folder">15</container></did><scopecontent id="aspace_9a3ce0378677da8305d48e134bb5b090"><head>Scope and Contents</head><p>Photocopies of selected letters to and from Mamie (Doud) Eisenhower (1896-1979) from the previous folder.</p></scopecontent></c><c id="aspace_99419bbd08b5413ebd6efa70af22e681" level="file"><did><unittitle><emph render="bold">Correspondence—Presidents, Vice-Presidents</emph></unittitle><unitdate datechar="creation" type="inclusive">1966-1985, undated</unitdate><container id="aspace_46c025bffbbfa099d58c004dd1c4db0e" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_936fc23807a98d90c7c708a5bf23b2b0" parent="aspace_46c025bffbbfa099d58c004dd1c4db0e" type="Folder">16</container></did><scopecontent id="aspace_6beba2e563a5382601e7f58229dac4a2"><head>Scope and Contents</head><p>Letters to and from<lb/>
+•	Agnew, Spiro Theodore "Ted" (1971 June 4; 1972 Feb. 22)<lb/>
+<lb/>
+•	Breeden, Richard C. [Deputy Counsel to the Vice President, George H. W. Bush] (1984 Feb. 8, 21, March 19)<lb/>
+<lb/>
+•	Bush, Barbara ([1971?] Nov. 11)<lb/>
+<lb/>
+•	Bush, George H. W. (1971 Nov. 10; 1982 Nov. 29, Dec. 22; 1983 Feb. 14, March 2; 1984 Jan. 31, Feb. 21, March 13)<lb/>
+<lb/>
+•	"Coley" [Revolton B. Coley? in Ford White House] (1975 June 29)<lb/>
+<lb/>
+•	Ehrlichman, John D. [Assistant to Nixon for Domestic Affairs] (1972 May 24)<lb/>
+<lb/>
+•	Ford, Gerald R. (1975 June 5)<lb/>
+<lb/>
+•	Harlow, Bryce N. [Counsellor to Nixon] (1973 July 6)<lb/>
+<lb/>
+•	Humphrey, Hubert H. (1966 March 17, 19)<lb/>
+<lb/>
+•	Johnson, Lyndon B. (1972 Oct. 13)<lb/>
+<lb/>
+•	Laird, Melvin R. [Counsellor to Nixon Domestic Affairs] (1973 June 21, Nov. 1)<lb/>
+<lb/>
+•	McDermott, Robert F. Jr. [Administrative Assistant to Peter M. Flanigan] (1972 Aug. 22)<lb/>
+<lb/>
+•	Nixon, Richard M. (1970 July 13, Sep. 21; 1971 March 1, 17, April 5, 7, 12, Sep. 13; 1972 March 1, July 10, Oct. 30, Dec. 30; 1973 Jan. 9, 31, Feb. 22, May 23, June 4; 1974 Jan. 24, July 22)<lb/>
+<lb/>
+•	Peterson, Peter G. [Assistant to Nixon for International Economic Affairs] (1972 Feb. 15)<lb/>
+<lb/>
+•	Reagan, Ronald (1985 Jan. 4, July 16, 25)<lb/>
+<lb/>
+•	Rustand, Warren S. [Appointments Secretary to Nixon] (1975 Jan. 28)<lb/>
+<lb/>
+•	Ryan, Frederick J. Jr. [Deputy Assistant to Reagan] (1985 July 29)<lb/>
+<lb/>
+•	Seidman, L. William [Assistant to Ford for Economic Affairs] (1976 Feb. 24)<lb/>
+<lb/>
+•	Smith, Michael B. [Nixon Staff Assistant] (1971 Oct. 4)<lb/>
+<lb/>
+•	Truman, Harry S. (1967 Aug. 24)<lb/>
+<lb/>
+•	Vickerman, John C. [Staff Assistant to Nixon] (1973 June 8)<lb/>
+<lb/>
+•	Woods, Rose Mary [Executive Assistant to Nixon] (1973 July 24)</p></scopecontent></c><c id="aspace_4bc95724d3a79c1a04e527fa7d80a2f8" level="file"><did><unittitle><emph render="bold">Correspondence—Professional</emph></unittitle><unitdate datechar="creation" type="inclusive">1933-1990, undated</unitdate><container id="aspace_8d5aee9b3989d1cf05a43f5ed56af11d" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_26a3321973ba93ecbb549b4a9dc5fa93" parent="aspace_8d5aee9b3989d1cf05a43f5ed56af11d" type="Folder">17</container></did><scopecontent id="aspace_631c3c66b5798d5ebbd8d1ad428c2e8c"><head>Scope and Contents</head><p>Letters to and from<lb/>
+•	Berdon, A. W. (1936 April 8)<lb/>
+<lb/>
+•	Blaik, Bob (1990 April 5, 12, 27)<lb/>
+<lb/>
+•	Blaik, Earl H. (1983 June 8, 29, 30)<lb/>
+<lb/>
+•	Borthwick, Anderson (1965 May 5, 17)<lb/>
+<lb/>
+•	Boulware, Lemuel R. (1983 Sep. 28)<lb/>
+<lb/>
+•	Bray, Thomas J. (1983 Oct. 18)<lb/>
+<lb/>
+•	Breck, Henry C. (1968 Oct. 22, 30)<lb/>
+<lb/>
+•	Busse, Paul ([1970 Aug.?])<lb/>
+<lb/>
+•	Champion, George Jr. (1966 July 19)<lb/>
+<lb/>
+•	Connally, John B. (1971 Jan. 20)<lb/>
+<lb/>
+•	Connolly, William J. [transmitting Champion's address "Help Wanted: Efficient Management for New York City"] (1975 Oct. 2)<lb/>
+<lb/>
+•	Driscoll, Robert S. (1983 Nov. 14)<lb/>
+<lb/>
+•	Fifield, James W. Jr. (1968 April 15, 18) [includes pamphlet "What is Happening to the Churches?" by Dr. Howard E. Kershner]<lb/>
+<lb/>
+•	Ford, Gerald R. (1989 May 26, 31, June 1)<lb/>
+<lb/>
+•	Ford, Henry II (1973 March 2)<lb/>
+<lb/>
+•	Frisby, Owen V. [transmitting article "Old Bankers Are Not Written Off," <emph render="italic">Forbes</emph>, July 1, 1976] (1976 June 23)<lb/>
+<lb/>
+•	Galbreath, John W. (1969 July 11, Dec. 29)<lb/>
+<lb/>
+•	Goldman, Leo R. (1969 Nov. 25, Dec. 3)<lb/>
+<lb/>
+•	Goldwater, Barry (1966 Jan. 21, 27)<lb/>
+<lb/>
+•	Graham, Billy (1964 Feb. 7, 13; 1966 Oct. 15, 20, Nov. 10; 1971 Nov. 9, Dec. 9, 17)<lb/>
+<lb/>
+•	Gray, John D. (1970 Feb. 4, 9)<lb/>
+<lb/>
+•	Grazier, Joseph, Paul Busse, and Oscar Dunn (1977 Jan. 13, 19)<lb/>
+<lb/>
+•	Griggs, Leland (1957 March 6, 8, 13; 1963 Jan. 30, Feb. 1) [others lacking year]<lb/>
+<lb/>
+•	Gruenther, Alfred M. (1970 Oct. 20, Nov. 15)<lb/>
+<lb/>
+•	Hesburgh, Theodore (1986 Sep. 29)<lb/>
+<lb/>
+•	Hirshon, Louis M. (1964 Oct. 16, 19, 20, 27, Nov. 3)<lb/>
+<lb/>
+•	Hope, Bob (1970 Feb. 21; 1971 March 22, Dec. 27 [postcard]; 1972 Jan. 5, Feb. 8 [signed by secretary])<lb/>
+<lb/>
+•	Hoxie, R. Gordon (1970 Jan. 19)<lb/>
+<lb/>
+•	Johnston, D. W. [to George Champion Jr., transmitting Champion Sr.'s article "How to Put the Brakes on Big Government," <emph render="italic">Nashville Banner</emph>, June 15, 1966] (1966 June 16)<lb/>
+<lb/>
+•	Kendall, Donald M. (1969 Oct. 31)<lb/>
+<lb/>
+•	Krulak, Victor H. (1962 June 18, Nov. 1, 2; 1963 May 28, 31; 1965 April 21, 23, May 4 [address by], 17, Oct. 31, Nov. 3; 1966 Jan. 24, Aug. 3, Sep. 14, Nov. 12 [postcard], 16)<lb/>
+<lb/>
+•	Lifschultz, David K. (1986 July 30)<lb/>
+<lb/>
+•	Lindsay, John V. and Robert F. Wagner (1973 March 8, 12, 20)<lb/>
+<lb/>
+•	Martinuzzi, Leo S. (1969 Oct. 24)<lb/>
+<lb/>
+•	Medlin, John G. Jr. [to Carla Knobloch] (1987 Feb. 17, March 10, 12, April 1)<lb/>
+<lb/>
+•	Milbank, Jeremiah (1983 Oct. 7)<lb/>
+<lb/>
+•	Milliken, Roger (1983 Nov. 14, 29)<lb/>
+<lb/>
+•	Nixon, Richard M. (1989 June 1)<lb/>
+<lb/>
+•	Palmer, Dave R. (1989 June 16)<lb/>
+<lb/>
+•	Peale, Norman Vincent (1971 Dec. 15)<lb/>
+<lb/>
+•	Perkins, Gilbert H. (1960 Dec. 13)<lb/>
+<lb/>
+•	Perry, John D. (1933 April 13)<lb/>
+<lb/>
+•	Powell, Lewis F. Jr. (1971 April 17, 20, 21, 26)<lb/>
+<lb/>
+•	Reagan, Ronald (1975 Jan. 29)<lb/>
+<lb/>
+•	Roberts, Clifford (1973 July 4, Aug. 22)<lb/>
+<lb/>
+•	Rockefeller, David (1969 March 4; 1977 April 8, 14)<lb/>
+<lb/>
+•	Selden, Lynde (1961 March 7, 8, 14)<lb/>
+<lb/>
+•	Spurr, Gregory W. Jr. (1977 Feb. 14, 15)<lb/>
+<lb/>
+•	Stans, Maurice H. (1975 Aug. 13)<lb/>
+<lb/>
+•	Thomas, Lowell (1979 Aug. 13)<lb/>
+<lb/>
+•	Wallace, DeWitt (1975 Oct. 2)<lb/>
+<lb/>
+•	Wells, Kenneth (1965 March 3, 8)</p></scopecontent></c><c id="aspace_6b83f390251a583d6845cb46a9ced1a1" level="file"><did><unittitle><emph render="bold">Dartmouth College sweater</emph></unittitle><unitdate datechar="creation" type="inclusive">1926</unitdate><container id="aspace_441a67e6709eef8cf44beb234a1ad6b0" label="Mixed Materials [1804 00003 6976]" type="Offsite-Box">4</container></did><scopecontent id="aspace_07be48103386bd3247b425e73bd939a5"><head>Scope and Contents</head><p>Green wool sweater, with white "1926" appliquéd across chest.</p></scopecontent><accessrestrict id="aspace_703c08c47190c5759092ab638e20168e"><head>Restricted</head><p>This item is in fragile condition and should not be handled.</p></accessrestrict></c><c id="aspace_efe406b58bc2b6e545aaca0b693f9446" level="file"><did><unittitle><emph render="bold">Eisenhower College—Fundraising</emph></unittitle><unitdate datechar="creation" type="inclusive">1968-1973, undated</unitdate><container id="aspace_b6b7a8a0abd0d5bbd773357249f80323" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_5dbe5ed8ff16b744fb8c222e8f96d44e" parent="aspace_b6b7a8a0abd0d5bbd773357249f80323" type="Folder">18</container></did><scopecontent id="aspace_4e5a2951c58f9dd1daf1dfe54afc774e"><head>Scope and Contents</head><p>Contains correspondence, financial and progress reports, and fundraising pleas for Eisenhower College, the small college named for the 34th president in Seneca Falls, New York. Champion was general chairman of the Tribute of a Grateful Nation Fund Committee, a group tasked with raising private funds in support of the college. See also Champion's correspondence with Dwight D. Eisenhower and Mamie Doud Eisenhower in Box 1, Folders 12-15.</p></scopecontent></c><c id="aspace_f0834655c2bc9288896b9cd73ffd3202" level="file"><did><unittitle><emph render="bold">Freedoms Foundation</emph></unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_777a5d8138231d6ee0c8d21f6d8730c8" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_c6b6803377e941d3adb195fabc8a711b" parent="aspace_777a5d8138231d6ee0c8d21f6d8730c8" type="Folder">19</container></did><scopecontent id="aspace_33d8b7aa07e463f1a10c8105063cdc33"><head>Scope and Contents</head><p>Undated tear sheet with group photograph and text "Announcement has just been made by President Wells that Lt. Colonel John Glenn, USMC, has been elected to the Board of Directors of Freedoms Foundation. Here—at the last Board Meeting, Glenn, who attended meeting, is talking to Chairman Eisenhower. Left to right, Wells, Glenn, Eisenhower, Champion, Belding."</p></scopecontent></c><c id="aspace_6f6a1ee50cf882d0c4d5fae75c1f529e" level="file"><did><unittitle><emph render="bold">Investment Forum—Press coverage</emph></unittitle><unitdate datechar="creation" type="inclusive">1966 October 28, 31; November 2</unitdate><container id="aspace_6a57238299cc40e327e4c561d8d7da47" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_f01900709d12c782d795e07c970f5ae1" parent="aspace_6a57238299cc40e327e4c561d8d7da47" type="Folder">20</container></did><scopecontent id="aspace_7f731555bf148d34c5ddf1aead27a7cf"><head>Scope and Contents</head><p>Press Coverage, Investment Forum, Mr. George Champion, Chairman, The Chase Manhattan Bank, N.A., October 28, 31, November 2, 1966. London, Frankfurt, Paris.</p></scopecontent></c><c id="aspace_9c0a09b6a021355a0dd57ad4151c84c9" level="file"><did><unittitle><emph render="bold">Invitations and programs</emph></unittitle><unitdate datechar="creation" type="inclusive">1952-1972</unitdate><container id="aspace_15dbc4b00aa711bfdde6d48bd5a207b8" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_bdcb04ace1b009e7f1cd9fe620097bc4" parent="aspace_15dbc4b00aa711bfdde6d48bd5a207b8" type="Folder">21</container></did><scopecontent id="aspace_584ec324a8ce6b42145603b0cd447ff5"><head>Scope and Contents</head><p>•	List of Passengers, R.M.S. Queen Mary, First Class, from New York to Cherbourg and Southampton, Wednesday, June 11, 1952.<lb/>
+<lb/>
+•	List of First Class Passengers, The New S.S. United States, Maiden Voyage from Southampton . . . July 10, 1952.<lb/>
+<lb/>
+•	General of the Army Dwight D. Eisenhower, Mr. Basil O'Connor, Mr. George Champion, on behalf of the National Advisory Council . . . welcome you to the 85th Anniversary Dinner of Tuskegee Institute . . . Sep. 29, 1966.<lb/>
+<lb/>
+•	Luncheon given by Mr. and Mrs. George Champion, Mr. and Mrs. David Rockefeller, in honor of Special Delegates Attending the 1966 Annual Meetings of the International Bank for Reconstruction and Development and the International Monetary Fund, Oct. 2, 1966.<lb/>
+<lb/>
+•	Mr. &amp; Mrs. David Rockefeller request the pleasure of your company at the marriage reception of their daughter Neva Goodwin and Mr. Walter Jacob Kaiser, Saturday, Dec. 17th [1966], at half after four o'clock, Hudson, Pines, Pocantico Hills, New York.<lb/>
+<lb/>
+•	The International Cardiology Foundation, International Gold Heart Award Dinner, A Tribute to Elmer H. Bobst marking his 85th birthday, Dec. 15, 1969.<lb/>
+<lb/>
+•	Dinner in Honor of Mr. Bernard Jay Lasker by Vice President and Mrs. Agnew, Aug. 10, 1970.<lb/>
+<lb/>
+•	The President [of the United States] requests the pleasure of the company of Mr. Champion at dinner on Thursday evening, Nov. 5, 1970.<lb/>
+<lb/>
+•	The President and Mrs. Nixon request the pleasure of your company for an evening of Christmas entertainment at The White House on Friday, Dec. 18, 1970 [with mailing envelope, RSVP card, and program].<lb/>
+<lb/>
+•	The Marriage of Patricia Nixon and Edward Finch Cox, The White House, June 12, 1971 [program, with letter enclosing White House parking permit].<lb/>
+<lb/>
+•	Committee Dinner of the Second Panel Sheriffs Jury, Thursday, January twentieth, Nineteen hundred and seventy-two . . . George Champion.<lb/>
+<lb/>
+•	The President and Mrs. Nixon request the pleasure of the company of Mr and Mrs Champion at dinner on Friday evening, Jan. 28, 1972.</p></scopecontent></c><c id="aspace_832a76709c6faf7d458e31894cf13e88" level="file"><did><unittitle><emph render="bold">Manuscripts</emph></unittitle><unitdate datechar="creation" type="inclusive">1969-1984, undated</unitdate><container id="aspace_01e598fe923941d382893c7533001e2d" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_13438e29dca308c4a5cf848da4587367" parent="aspace_01e598fe923941d382893c7533001e2d" type="Folder">22</container></did><scopecontent id="aspace_3af11b9c8a98a00e034709aa0fdc3a13"><head>Scope and Contents</head><p>•	Victor Riesel, "Special Police Commissioners: Black Panthers Call Conference to Launch Wide Fight for 'Community Control' of Police" [1969?]. [With an editorial by William Randolph Hearst Jr.]<lb/>
+<lb/>
+•	Thomas R. Shepard Jr., "The Disaster Lobby" (1971 Jan. 28).<lb/>
+<lb/>
+•	George Champion, "A Statement of Principles We Consider Necessary for the Reestablishment of Confidence by the Business Community in New York City" (1974 June 24).<lb/>
+<lb/>
+•	Henry C. Wallich, "LDC Debt—To Worry or Not to Worry" (1981 June 2).<lb/>
+<lb/>
+•	Henry C. Wallich, "Small Banks Can Make It, With Some Ingenuity" (1981 Sep. 14).<lb/>
+<lb/>
+•	George Champion, "New York City's greatest asset . . ." (1976 Nov. 8).<lb/>
+<lb/>
+•	 [George Champion?], "Banking failures and excessive loan losses . . ." (1983 Nov. 30).<lb/>
+<lb/>
+•	 [George Champion?], "Banking failures and excessive loan losses . . ." (1983 Dec. 2).<lb/>
+<lb/>
+•	"A Positive Program for Commercial Banks," [1984].<lb/>
+<lb/>
+•	[George Champion?], "Comments on Federal Regulations of Financial Services at the Request of the Vice President," (undated).<lb/>
+<lb/>
+•	[George Champion?], "Four imperatives for the business community . . ." ([year lacking] June 15).<lb/>
+<lb/>
+•	[George Champion?], "On Building a Constituency" (undated).<lb/>
+<lb/>
+•	[George Champion?] "Our Troubled City: What Business Can Do" (undated).</p></scopecontent></c><c id="aspace_0f08dfb796857a3e2bfee6a3e2fa4e10" level="file"><did><unittitle><emph render="bold">Media coverage</emph></unittitle><unitdate datechar="creation" type="inclusive">1961-1982</unitdate><container id="aspace_050dcc9ae77c13920703701dbdb6664e" label="Mixed Materials [1804 00003 6973]" type="Offsite-Box">1</container><container id="aspace_41378a5bb3212ea156539be07426336e" parent="aspace_050dcc9ae77c13920703701dbdb6664e" type="Folder">23</container></did><scopecontent id="aspace_f2bb43eadd822d0af550a07e68d1399e"><head>Scope and Contents</head><p>Interview transcripts and excerpts.<lb/>
+<lb/>
+•	"Banking," U.S. Steel Concert Hour, March 17, 1961<lb/>
+<lb/>
+•	"Lewis Quotes Chase Manhattan Board Chairman on Individualism," Fulton Lewis Jr. Program, WOR and MBS, Dec. 16, 1965<lb/>
+<lb/>
+•	"Echoes Champion Call for 'Hard Answers' on East-West Trade," News Commentary with Jeffrey St. John, WRFM (New York), May 2, 1967<lb/>
+<lb/>
+•	"Meet the Press," guest: Dr. Leon H. Sullivan, founder, Opportunities Industrialization Centers, March 7, 1971<lb/>
+<lb/>
+•	George Champion interviewed by Jessica Holland, 1211 Avenue of the Americas, May 19, 1982</p></scopecontent></c><c id="aspace_6225db748013d823db5495335f4d9dfe" level="file"><did><unittitle><emph render="bold">Newspaper clippings</emph></unittitle><unitdate datechar="creation" type="inclusive">1931, 1949-1950, 1956-1957</unitdate><container id="aspace_3bc26b975c402d9cb0bdd244aa39560e" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_c3e047e6325c930922eb7117307fad0f" parent="aspace_3bc26b975c402d9cb0bdd244aa39560e" type="Folder">1</container></did><scopecontent id="aspace_7d5a18ec1f7904627a05fa3506a8ce92"><head>Scope and Contents</head><p>•	"New Canal Head To Arrive Friday," New Orleans, La. <emph render="italic">States</emph>, Feb. 26, 1931<lb/>
+<lb/>
+•	"Chase Bank Shifts Five High Officers," <emph render="italic">New York Times</emph>, Jan. 27, 1949<lb/>
+<lb/>
+•	"Named Directors of Better Business Bureau," <emph render="italic">New York Herald Tribune</emph>, May 29, 1950<lb/>
+<lb/>
+•	"Champion President of Chase Manhattan; David Rockefeller is Named Vice-Chairman," <emph render="italic">American Banker</emph>, Dec. 13, 1956<lb/>
+<lb/>
+•	"Market Goes Into New Dip" [John Rogers column mentioning Champion's election], <emph render="italic">Daily News</emph>, Dec. 13, 1956<lb/>
+<lb/>
+•	"Chase Names G. Champion New President," <emph render="italic">Journal of Commerce and Commercial</emph>, Dec. 13, 1956<lb/>
+<lb/>
+•	"Chase Bank Elects President," <emph render="italic">New York Herald Tribune</emph>, Dec. 13, 1956<lb/>
+<lb/>
+•	"Geo. Champion Made President of Chase Man.," <emph render="italic">New York Journal-American</emph>, Dec. 13, 1956<lb/>
+<lb/>
+•	"Younger Men Take Top Positions At the Chase Manhattan Bank, <emph render="italic">New York Times</emph>, Dec. 13, 1956<lb/>
+<lb/>
+•	"Chase Moves 2 VPs Up Into Top Ranks," <emph render="italic">New York World-Telegram and Sun</emph>, Dec. 13, 1956 [2 editions]<lb/>
+<lb/>
+•	"George Champion, 52, Elected President of Chase Manhattan Bank," <emph render="italic">Wall Street Journal</emph>, Dec. 13, 1956<lb/>
+<lb/>
+•	"These Are the Men Who Made Their Mark in 1956 . . . In the Worlds of Business and Finance," <emph render="italic">New York Journal American</emph>, Jan. 8, 1957<lb/>
+<lb/>
+•	"Board Member Named By American Smelting," <emph render="italic">New York Times</emph>, Feb. 27, 1957<lb/>
+<lb/>
+•	George Champion, "As Business Leaders See It . . . High Business Activity Poses Challenge to Banks," <emph render="italic">Journal of Commerce and Commercial</emph>, May 7, 1957<lb/>
+<lb/>
+•	"Billy Graham &amp; Co. to Invade New York," <emph render="italic">Pittsburgh Press</emph>, May 11, 1957 ("While Dr. Graham has long wanted to conduct a crusade in the greatest city in the world, he conscientiously waited until he was actually invited to do so. The invitation was extended by a committee, partly made up of local New York church leaders and partly of business executives. It is headed by George Champion, president of the huge Chase Manhattan Bank.")<lb/>
+<lb/>
+•	"Hometowners' Appraisal: Newsboys from Bloomington, Ill., look over copies of Chase Manhattan News, publication of Chase Manhattan Bank, as George Champion, president of the bank and a native son of Bloomington, awaits comment," <emph render="italic">New York World-Telegram and Sun</emph>, Dec. 11, 1957 [2 photocopies]</p></scopecontent></c><c id="aspace_cd5b8712c4ac82ed72c04dd557b0624e" level="file"><did><unittitle><emph render="bold">Newspaper clippings</emph></unittitle><unitdate datechar="creation" type="inclusive">1960-1969</unitdate><container id="aspace_92af2f35c7e7c4f830db1698a803b61b" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_68918bb039cc1bf81cd6083175f97336" parent="aspace_92af2f35c7e7c4f830db1698a803b61b" type="Folder">2</container></did><scopecontent id="aspace_300e93c4302c68c4d131f0ed608e5dda"><head>Scope and Contents</head><p>•	"Industry Aid For Asia Asked By Champion," <emph render="italic">New York Herald Tribune</emph>, May 24, 1960<lb/>
+<lb/>
+•	"Chase Bank Names Champion Chairman, D. Rockefeller President, Effective in 1961," <emph render="italic">Wall Street Journal</emph>, Oct. 21, 1960 [2 copies]<lb/>
+<lb/>
+•	"Champion and Rockefeller to Head Chase Bank Jan. 1," American Banker, Oct. 21, 1960, sent to Champion by Richard G. Stockton with clipping of "Rising Money Needs of Colleges Discussed," [unidentified newspaper], Sep. 15, 1960<lb/>
+<lb/>
+•	"Normal Native New Chairman of Chase Bank," Bloomington, Ill. <emph render="italic">Pantagraph</emph>, Oct. 23, 1960 [3 copies]<lb/>
+<lb/>
+•	"Personality: A Bank Chief With Capital 'C,' <emph render="italic">New York Times</emph>, Oct. 30, 1960<lb/>
+<lb/>
+•	"Bank President Champion Tells Formula for Success," Bloomington, Ill. <emph render="italic">Pantagraph</emph>,  Nov. 20, 1960<lb/>
+<lb/>
+•	"Chase Bank Picks a New Chairman," [unidentified newspaper], [month and date lacking], 1960<lb/>
+<lb/>
+•	"New RCA Plant Dedicated," West Palm Beach, Fla. <emph render="italic">Post</emph>, May 26, 1961<lb/>
+<lb/>
+•	"Banker Says Tax Cut is Practical," <emph render="italic">San Diego Union</emph>, Oct. 17, 1961<lb/>
+<lb/>
+•	"[word missing]—Bankers Cast Austerity Shadow," <emph render="italic">Christian Science Monitor</emph>, Oct. 18, 1961<lb/>
+<lb/>
+•	"Reserve Bank Names Directors," <emph render="italic">New York World-Telegram and The Sun</emph>, Nov. 28, 1961<lb/>
+<lb/>
+•	"Two Joining Board of Reserve Bank," <emph render="italic">New York Times</emph>, Nov. 28, 1961<lb/>
+<lb/>
+•	"Directors of N.Y. Fed," <emph render="italic">New York Herald Tribune</emph>, Nov. 28, 1961<lb/>
+<lb/>
+•	"NY Reserve Bank Elects Director," <emph render="italic">Journal of Commerce</emph>, Nov. 28, 1961<lb/>
+<lb/>
+•	"Champion and Puckett Elected Directors of Federal Reserve Bank of New York," <emph render="italic">American Banker</emph>, Nov. 28, 1961<lb/>
+<lb/>
+•	"Executive Changes: Champion, Puckett On Fed. Bank Board," <emph render="italic">New York Journal-American</emph>, Nov. 28, 1961<lb/>
+<lb/>
+•	Jack Craddock, "Portrait of a Banker: George Champion," <emph render="italic">American Banker</emph>, Oct. 6, 1962 [3 copies]<lb/>
+<lb/>
+•	"Sees His Duty, Does It," <emph render="italic">Nashville Tennessean</emph>, Nov. 10, 1963 [photo with caption "NEW YORK—Waiter pouring wine doesn't interrupt flow of President Kennedy's conversation as the chief executive chats with George Champion, board chairman of Chase Manhattan Bank, during annual banquet of Protestant Council of the City of New York. Champion was chairman of the affair, at which Kennedy became the first Roman Catholic to receive the council's 'Family of Man' award.]<lb/>
+<lb/>
+•	"President Kennedy is served by a waiter at banquet Friday night sponsored by the New York City Protestant Council during conversation with George Champion (left), chairman of the board of the Chase Manhattan National Bank," [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"New York Protestants to Honor President," [unidentified, undated publication]<lb/>
+<lb/>
+•	"Alfalfa Club Selects a Champion Candidate," Washington, D.C. <emph render="italic">Sunday Star</emph>, Jan. 26, 1964 [photocopy]<lb/>
+<lb/>
+•	"Chase Salad Oil Loss Totals $9.8 Million," <emph render="italic">New York World-Telegram</emph>, Jan. 28, 1964<lb/>
+<lb/>
+•	"Chase Bad Debt: Salad Oil Loans," <emph render="italic">New York Herald Tribune</emph>, Jan. 29, 1964<lb/>
+<lb/>
+•	"Claims Against American Express Unit Mount to $81 Million in Salad Oil Scandal," <emph render="italic">Wall Street Journal</emph>, Jan. 29, 1964<lb/>
+<lb/>
+•	"Senator Hopes One Extravagance, Congress, Will Survive," [unidentified newspaper, but either the <emph render="italic">Sacramento Bee</emph>, the <emph render="italic">Fresno Bee</emph>, or the <emph render="italic">Modesto Bee</emph>], Feb. 10, 1964<lb/>
+<lb/>
+•	"Nixon Asks Raids on Reds in Asia," <emph render="italic">New York Times</emph>, Apr. 17, 1964<lb/>
+<lb/>
+•	"Detroit Free Press agrees with Richard Nixon . . .," <emph render="italic">New York Post</emph>, Apr. 17, 1964<lb/>
+<lb/>
+•	"Nixon Warns on Asia," <emph render="italic">New York Herald Tribune</emph>, Apr. 17, 1964<lb/>
+<lb/>
+•	"Women and Men—Women and Money," <emph render="italic">Charlotte News</emph>, Jan. 17, 1964 [photocopy]<lb/>
+<lb/>
+•	"Leading Banker scans payments-balance issue," <emph render="italic">Christian Science Monitor</emph>, March 11, 1965<lb/>
+•	"Honorary Degree" (photo caption: "George H. Champion, chairman of the board of the Chase Manhattan Bank of New York City, receives the doctor of law degree during commencement exercises Sunday [June 6, 1965] at Millikin University. Millikin President Paul L. McKay, right, looks on. Champion was the commencement speaker. About 170 students were graduated in the ceremonies."), <emph render="italic">Decatur Herald</emph>, June 7, 1965 [3 copies]<lb/>
+<lb/>
+•	"Automation and Its Potential," Champaign, Ill. <emph render="italic">News-Gazette</emph>, June 13, 1965<lb/>
+<lb/>
+•	"Heads of 10 Largest Banks in Free World at Year-end," <emph render="italic">American Banker</emph>, Aug. 2, 1965<lb/>
+<lb/>
+•	"Chase Exec Urges European Aid Cut to End U.S. Deficit," <emph render="italic">New York World-Telegram and The Sun</emph>, Aug. 17, 1965<lb/>
+<lb/>
+•	"Champion Urges Cut in U.S. Aid," <emph render="italic">New York Journal-American</emph>, Aug. 17, 1965<lb/>
+<lb/>
+•	"Cut Urged in Aid to Europe," <emph render="italic">New York Times</emph>, Aug. 18, 1965<lb/>
+<lb/>
+•	"Payments: 1st Surplus in 8 Years," <emph render="italic">New York Herald Tribune</emph>, Aug. 18, 1965<lb/>
+<lb/>
+•	"Champion: Exclude Export Credits From BofP Plan," <emph render="italic">American Banker</emph>, Aug. 18, 1965<lb/>
+<lb/>
+•	"The 'Consensus Complex' vs. Free Market," <emph render="italic">New York Journal-American</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"Chase Bank Official Lays 'Consensus Complex' to U.S.," <emph render="italic">New York Herald Tribune</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"Bank Speaker Hits at Rule By Consensus," Washington, D.C. <emph render="italic">Star</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"'Consensus Complex' Stifles Criticism of Govt., Champion Says," <emph render="italic">American Banker</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"N.Y. Bank Chairman 'Threats' to Free Market Described," <emph render="italic">Denver Post</emph>, Nov. 19, 1965 [2 copies]<lb/>
+<lb/>
+•	"Banker Says Russ Economy Offers Lesson," Denver, Colo., <emph render="italic">Rocky Mountain News</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"Banker Raps 'Papa Knows Best' in D.C.," <emph render="italic">Daily News</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"Chase Bank Chairman Hits Government by 'Consensus'," <emph render="italic">Wall Street Journal</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"'Consensus Complex': Banker Attacks Washington," <emph render="italic">New York Herald Tribune</emph> (Paris Edition), Nov. 19, 1965<lb/>
+<lb/>
+•	"Banker Urges Dissent," <emph render="italic">New York Times</emph>, Nov. 19, 1965<lb/>
+<lb/>
+•	"Freedom to Disagree," Albany, N.Y. <emph render="italic">Times-Union</emph>, Nov. 20, 1965<lb/>
+<lb/>
+•	"George Champion, chairman of Chase Manhattan Bank . . .," Des Moines, Iowa <emph render="italic">Register</emph>, Nov. 20, 1965<lb/>
+<lb/>
+•	"Financial View in New York. Not-So-Golden Silence," <emph render="italic">New York Herald Tribune</emph>, Nov. 21, 1965<lb/>
+<lb/>
+•	"Profit Plan Adopted by Russians?," Miami, Fla. <emph render="italic">Herald</emph>, Nov. 21, 1965<lb/>
+<lb/>
+•	"'Consensus Complex' Hit By Bank Head," <emph render="italic">Journal of Commerce &amp; Commercial</emph>, Nov. 23, 1965<lb/>
+<lb/>
+•	"A Banker Looks at America," Decatur, Ala. <emph render="italic">Daily</emph>, Nov. 24, 1965<lb/>
+<lb/>
+•	"Dangers of 'Consensus Complex," Fort Wayne, Ind. <emph render="italic">News-Sentinel</emph>, Nov. 25, 1965<lb/>
+<lb/>
+•	"LBJ-Business Honeymoon Sours," Centralia, Wash. <emph render="italic">Chronicle</emph>, Nov. 26, 1965<lb/>
+<lb/>
+•	"Consensus or Conformity?," Newport, R.I. <emph render="italic">News</emph>, Nov. 26, 1965<lb/>
+<lb/>
+•	"The Consensus Complex," Oneida, N.Y. <emph render="italic">Dispatch</emph>, Nov. 27, 1965<lb/>
+<lb/>
+•	"Challenge for LBJ," Reading, Penn. <emph render="italic">Eagle</emph>, Nov. 27, 1965<lb/>
+<lb/>
+•	"Consensus, or Conformity," Connellsville, Penn. <emph render="italic">Courier</emph>, Nov. 27, 1965<lb/>
+<lb/>
+•	"Consensus or Conformity?," Haleyville, Ala. <emph render="italic">Northwest Alabamian</emph>, Nov. 28, 1965<lb/>
+<lb/>
+•	"Business Attitude Cooling Toward LBJ &amp; Company," Miami, Fla. <emph render="italic">Herald</emph>, Nov. 28, 1965<lb/>
+<lb/>
+•	"Johnson's Relations With Business Cooler," Decatur, Ill. <emph render="italic">Herald and Review</emph>, Nov. 28, 1965<lb/>
+<lb/>
+•	"'Consensus' and Inconsistency," Lewiston, Maine <emph render="italic">Journal</emph>, Nov. 29, 1965<lb/>
+<lb/>
+•	"Lessons for the U.S.," Monroe, La. <emph render="italic">World</emph>, Dec. 1, 1965<lb/>
+<lb/>
+•	"Notable &amp; Quotable," <emph render="italic">Wall Street Journal</emph>, Dec. 1, 1965<lb/>
+<lb/>
+•	"The Uses of Altruism," <emph render="italic">Wall Street Journal</emph>, March 28, 1966<lb/>
+<lb/>
+•	"Inauguración en Madrid de la XIII Conferencia Monetaria de la American Bankers Association," <emph render="italic">ABC</emph>, 25 May 1966<lb/>
+<lb/>
+•	"He'd Have Business Lead In Solving U.S. Problems," Bloomington, Ill. <emph render="italic">Daily Pantagraph</emph>, May 31, 1966<lb/>
+<lb/>
+•	"Politics Public Business," [unidentified newspaper], July 3, 1966<lb/>
+<lb/>
+•	"Consensus Complex," Seymour, Ind. <emph render="italic">Tribune</emph>, July 5, 1966<lb/>
+<lb/>
+•	"If Business Took Initiative," Lafayette, Ind. <emph render="italic">Journal &amp; Courier</emph>, July 11, 1966<lb/>
+<lb/>
+•	"Capital's Role in Labor Talks," <emph render="italic">World Journal Tribune</emph>, Feb. 16, 1967 [2 copies]<lb/>
+<lb/>
+•	"Chase Chief Attacks Ending of 7% Tax Credit," <emph render="italic">New York Times</emph>, Feb. 17, 1967<lb/>
+<lb/>
+•	"Restore 7% Tax Credit to Spur Biz: Chase Chief," <emph render="italic">Daily News</emph>, Feb. 17, 1967<lb/>
+<lb/>
+•	"Restoration of 7% Tax Credit Called For by Chase Chairman," <emph render="italic">Washington Post</emph>, Feb. 17, 1967<lb/>
+<lb/>
+•	"Capital's Labors," <emph render="italic">Wall Street Journal</emph>, Feb. 24, 1967 [2 copies]<lb/>
+<lb/>
+•	"World Bankers Begin Conference," <emph render="italic">Washington Post</emph>, March 15, 1967<lb/>
+<lb/>
+•	"Chase Convening Big Parley in Rio," <emph render="italic">New York Times</emph>, March 13, 1967<lb/>
+<lb/>
+•	"Champion Hails Brazil, Argentina," <emph render="italic">World Journal Tribune</emph>, March 13, 1967<lb/>
+<lb/>
+•	"Chase Bank Sets Record Here in Signing $200-Million Lease," <emph render="italic">New York Times</emph>, March 14, 1967 [photocopy]<lb/>
+<lb/>
+•	"Chase Leases Huge Space," <emph render="italic">World Journal Tribune</emph>, March 13, 1967 [photocopy]<lb/>
+<lb/>
+•	"Business News Highlights," <emph render="italic">Journal of Commerce</emph>, March 14, 1967 [photocopy]<lb/>
+<lb/>
+•	"Chase Manhattan Signs Lease," <emph render="italic">Wall Street Journal</emph>, March 14, 1967 [photocopy]<lb/>
+<lb/>
+•	"Chase Signs Top Lease," <emph render="italic">Daily News</emph>, March 14, 1967 [photocopy]<lb/>
+<lb/>
+•	"Chase Signs Lease," <emph render="italic">New York Post</emph>, March 14, 1967 [photocopy]<lb/>
+<lb/>
+•	"Chase Signs Record Lease for NY Skyscraper Space," <emph render="italic">American Banker</emph>, March 14, 1967 [photocopy]<lb/>
+<lb/>
+•	"Prime Rate Reduced by Major Banks," <emph render="italic">Washington Post</emph>, March 23, 1967 [photocopy]<lb/>
+<lb/>
+•	"Morgan Guaranty Cuts Prime Rate to Chase's Level," <emph render="italic">New York Times</emph>, March 23, 1967 [photocopy]<lb/>
+<lb/>
+•	"Business and Finance," <emph render="italic">Wall Street Journal</emph>, March 23, 1967 [photocopy]<lb/>
+<lb/>
+•	"More Banks Cut Loan Rate," <emph render="italic">Daily News</emph>, March 23, 1967 [photocopy]<lb/>
+<lb/>
+•	"Morgan Guaranty Reduces Prime Rate to 5 ½ % Level," <emph render="italic">Wall Street Journal</emph>, March 23, 1967 [photocopy]<lb/>
+<lb/>
+•	"Grinnell College Schedules Convocation," Grinnell, Iowa, <emph render="italic">Grinnell Herald-Register</emph>, Aug. 28, 1967<lb/>
+<lb/>
+•	"Banks Cautioned on Job Equality," <emph render="italic">New York Times</emph>, September 27, 1967<lb/>
+<lb/>
+•	"Champion Stresses Jobs in Call For Minority Group Advancement," <emph render="italic">American Banker</emph>, Sep. 27, 1967<lb/>
+<lb/>
+•	"Banks Told to Become Involved," <emph render="italic">Chicago Sun Times</emph>, Sep. 27, 1967<lb/>
+<lb/>
+•	"Chase Bank Head Calls for Incentives in Welfare System," <emph render="italic">New York Times</emph>, Oct. 30, 1967<lb/>
+<lb/>
+•	"Banker Visitor to Adelaide," [unidentified Australian newspaper], Nov. 24, 1967<lb/>
+<lb/>
+•	"Man of Year," [<emph render="italic">Grand Rapids Times?</emph>], Dec. 5, 1967<lb/>
+<lb/>
+•	"Business Giants Help Form OIC Council to Assist Negro Youths," <emph render="italic">Philadelphia Tribune</emph>, March 30, 1968<lb/>
+<lb/>
+•	"Chase Manhattan Job Training Program Gives Dropouts a Chance to Drop Back In," <emph render="italic">American Banker</emph>, June 18, 1968<lb/>
+<lb/>
+•	"Democrats Would Keep This a Secret," <emph render="italic">Herald Traveler</emph>, July 9, 1968<lb/>
+<lb/>
+•	"Champion Pleads Action on Inflation," <emph render="italic">New York Times</emph>, Oct. 8, 1968<lb/>
+<lb/>
+•	"Chase Bank Chairman New OIC Council Head," <emph render="italic">New York Amsterdam News</emph>, Jan. 25, 1969<lb/>
+<lb/>
+•	"Capital VIPs Remember IKE," <emph render="italic">Pittsburgh Press</emph>, Nov. 30, 1969<lb/>
+<lb/>
+•	"Banking on Blacks: Chase Manhattan Bank Recruits in the Ghetto, and Results are Mixed," <emph render="italic">Wall Street Journal</emph>, Dec. 23, 1969</p></scopecontent></c><c id="aspace_1fb6626f5f939545534c7e3f35dfcc17" level="file"><did><unittitle><emph render="bold">Newspaper clippings</emph></unittitle><unitdate datechar="creation" type="inclusive">1970-1979</unitdate><container id="aspace_cf657ebb8c231c2c34e49a8bbde52acd" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_7517646db9b48e2e8ae762f51fc169fb" parent="aspace_cf657ebb8c231c2c34e49a8bbde52acd" type="Folder">3</container></did><scopecontent id="aspace_35961a06ca3323a425f70353ec21a017"><head>Scope and Contents</head><p>•	"Nixon's Inner Circle Here Remains Close to Him," <emph render="italic">New York Times</emph>, Jan. 17, 1970<lb/>
+<lb/>
+•	"Nixon's New York Friends Still Play Personal Roles," Richmond, Va. <emph render="italic">Times-Dispatch</emph>, Jan. 18, 1970
+<lb/>
+<lb/>
+•	"Straus Gets Gold Medal Award," <emph render="italic">Daily News</emph>, Oct. 7, 1970 [photo caption: "Jack I. Straus (left), executive committee chairman of R. H. Macy &amp; Co., accepts 1970 Gold Medal Award of the Hundred Year Association of New York from George Champion, president of the Economic Development Council of New York City. Award is given annually in recognition of an individual's civic and philanthropic contributions to the city. Presentation was made at the Waldorf-Astoria Hotel."]<lb/>
+<lb/>
+•	"[missing word] Pressing Hard [fo]r 'Incomes Policy'," <emph render="italic">Washington Post</emph>, [date missing], 1970<lb/>
+<lb/>
+•	"College, Training Unit Share $50,000 Grant," <emph render="italic">New York Amsterdam News</emph>, Jan. 16, 1971 [photocopy]<lb/>
+<lb/>
+•	"College for Human Services and O.I.C. Share Chase Manhattan's George Champion Service Award," <emph render="italic">East Side News</emph>, Jan. 22, 1971<lb/>
+<lb/>
+•	"Manpower Training Report Asks Reforms," Jamaica, N.Y., <emph render="italic">Long Island Press</emph>, Jan. 27, 1971<lb/>
+<lb/>
+•	"Tribute: After presenting the 1970 George Champion Awards . . .," Chicago, Ill. <emph render="italic">Jet</emph>, Jan. 28, 1971<lb/>
+<lb/>
+•	"O.I.C. of America Founder Announces Ten Million Dollar Fund Drive," Fort Pierce, Fla. <emph render="italic">Chronicle</emph>, Jan. 28, 1971<lb/>
+<lb/>
+•	"City's Manpower Training Is 'Disjointed,' Study Finds," <emph render="italic">New York Times</emph>, Jan. 27, 1971<lb/>
+<lb/>
+•	"Retired N.Y. Banker Aids in Shaping City's Course," Newark, N.J. <emph render="italic">Evening News</emph>, May 12, 1971<lb/>
+<lb/>
+•	"Urban Crisis Blamed on City Inefficiency," <emph render="italic">Los Angeles Times</emph>, Oct. 6, 1971<lb/>
+<lb/>
+•	"ACAPULCO—The big news in the opening of the $40 million Acapulco Princess Hotel . . .," [<emph render="italic">San Diego Tribune?</emph>], circa Dec. 2, 1971<lb/>
+<lb/>
+•	"Executives Counseling Students," <emph render="italic">New York Times</emph>, May 22, 1972<lb/>
+<lb/>
+•	"Privileged Pensioners," <emph render="italic">Daily News</emph>, Oct. 3, 1972<lb/>
+<lb/>
+•	"Edmund Leopold de Rothschild, chairman of N. M. Rothschild &amp; Sons, Ltd., of Great Britain, received an award yesterday in Tokyo called 'the First Class Order of the Sacred Treasure'," <emph render="italic">New York Times</emph>, April 17, 1973<lb/>
+<lb/>
+•	"The Only Answer: Economy," <emph render="italic">Daily News</emph>, Dec. 2, 1974<lb/>
+<lb/>
+•	"An open letter to the President and the Congress of the United States," <emph render="italic">New York Times</emph>, Dec. 27, 1974<lb/>
+<lb/>
+•	"Never Say Die: The City of the Future," <emph render="italic">Daily News</emph>, Dec. 28, 1975<lb/>
+<lb/>
+•	"Number as well as name proposed for U.S. babies," <emph render="italic">New York Post</emph>, April 26, 1977 [photocopy]<lb/>
+<lb/>
+•	"Report to Put the No-Shows on the Road," <emph render="italic">Daily News</emph>, May 25, 1977<lb/>
+<lb/>
+•	"Schools Not Up to Grade, Business Leader Asserts," <emph render="italic">Daily News</emph>, June 8, 1977<lb/>
+<lb/>
+•	George Champion, "Five Plank Proposal Advanced to Complete City's 'Turnaround'," <emph render="italic">New York Law Journal</emph>, June 27, 1977<lb/>
+<lb/>
+•	"Turning the Tide," <emph render="italic">Daily News</emph>, Aug. 21, 1977<lb/>
+<lb/>
+•	"Managing the City," <emph render="italic">Daily News</emph>, Nov. 28, 1977<lb/>
+<lb/>
+•	"A real champion," [unidentified newspaper, circa 1977; photocopy]<lb/>
+<lb/>
+•	"Study Says New York Transit Pay Outpaces Raises in Private Sector," <emph render="italic">New York Times</emph>, Jan. 16, 1978<lb/>
+<lb/>
+•	"Ready, Aim, Fire," <emph render="italic">Daily News</emph>, Jan. 17, 1978<lb/>
+<lb/>
+•	"Our failing schools," <emph render="italic">Daily News</emph>, Oct. 18, 1979 [original + photocopy]</p></scopecontent></c><c id="aspace_21cdbb2f7650ce2ef7b064dd6749606e" level="file"><did><unittitle><emph render="bold">Newspaper clippings</emph></unittitle><unitdate datechar="creation" type="inclusive">1983-2019, undated</unitdate><container id="aspace_bc1b5506656822f6c06e0e8a2e95ec58" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_197aa6eaadd9f58a93a45dcc16c0ce58" parent="aspace_bc1b5506656822f6c06e0e8a2e95ec58" type="Folder">4</container></did><scopecontent id="aspace_b7cfda3212db465fc3a3b6a5c2504041"><head>Scope and Contents</head><p>•	"Foreign Debts: A Proposal for U.S. Banks," <emph render="italic">New York Times</emph>, Jan. 11, 1983 [2 originals + 3 photocopies]<lb/>
+<lb/>
+•	"Be Careful Reforming Bank Regulation," <emph render="italic">Wall Street Journal</emph>, Jan. 18, 1984<lb/>
+<lb/>
+•	George Champion, "A Banking System in Trouble. Regulators and Bankers Are to Blame," <emph render="italic">New York Times</emph>, June 10, 1984 [original + 2 photocopies]<lb/>
+<lb/>
+•	"Bankers Remember the Great Crash of 1929," <emph render="italic">American Banker</emph>, Nov. 4, 1987<lb/>
+<lb/>
+•	"Former Chase Manhattan boss denounces 'big' in banks," <emph render="italic">Asbury Park Press</emph>, July 28, 1991<lb/>
+<lb/>
+•	"The former boss of Chase Manhattan speaks out," <emph render="italic">Stamford Advocate</emph>, July 28, 1991<lb/>
+<lb/>
+•	"At 90, German Banker Turns Author," <emph render="italic">New York Times</emph>, Nov. 12, 1991<lb/>
+<lb/>
+•	"The Company as Family, No More," <emph render="italic">New York Times</emph>, March 4, 1996<lb/>
+<lb/>
+•	"George Champion, 93, Head of Chase Manhattan in 1960's," <emph render="italic">New York Times</emph>, Sep. 22, 1997<lb/>
+<lb/>
+•	"Bank's Secret Campaign to Win Entry to U.S. for Shah of Iran," <emph render="italic">New York Times</emph>, Dec. 29, 2019<lb/>
+<lb/>
+•	"A New Kind of Partnership" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Bank President Champion Tells Formula for Success" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Banker's Advice: Speak Out" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Champion Tells Middlebury Audience: Equilibrium in Balance-of-Payments Should Get Top Priority by Nation" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Chase Bank Chairman Assails Steps to Expand National Banks' Powers" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Chase Gets Nigerian License" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Government by Pressure" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Leading the Way" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"The Positive Thinker. Norman Vincent Peale is Criticized, but Many Listen to His Message" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Savings at Chase Top Billion Mark," <emph render="italic">New York Journal American</emph>, [no date]<lb/>
+<lb/>
+•	"Second Largest Bank Picks Ex-San Diegan" [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Speaker—George Champion . . ." [unidentified, undated newspaper]<lb/>
+<lb/>
+•	"Thinking Straight About Our Society &amp; Our Economy" [unidentified, undated newspaper]</p></scopecontent></c><c id="aspace_06bed3391426990d0fec8cd4b4ea0067" level="file"><did><unittitle><emph render="bold">Opportunities Industrialization Center</emph></unittitle><unitdate datechar="creation" type="inclusive">1967-1970, undated</unitdate><container id="aspace_0073848464384a072ffb974e73a7ab6d" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_64c97f192d118c2b1ff32ad78a9757e0" parent="aspace_0073848464384a072ffb974e73a7ab6d" type="Folder">5</container></did><scopecontent id="aspace_5944f39a883f8fad35cf2f4f19e68983"><head>Scope and Contents</head><p>Correspondence, meeting minutes, budget proposals, etc.</p></scopecontent></c><c id="aspace_53475d294f8e102645c20eb8c03744a6" level="file"><did><unittitle><emph render="bold">Oral history interview transcripts</emph></unittitle><unitdate datechar="creation" type="inclusive">1978 July 7, 12</unitdate><container id="aspace_43228a1d5727e282ebf6e71ff475284b" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_7cd36bf30fc9f389837704f3f30dda26" parent="aspace_43228a1d5727e282ebf6e71ff475284b" type="Folder">6</container></did><scopecontent id="aspace_fe974459a6897c22cea18d3c9670a79a"><head>Scope and Contents</head><p>•	George Champion | Oral History Interview | July 7, 1978 | July 12, 1978 | Linda Edgerly, Interviewer | The Chase Manhattan Archives [copy 1; single sided].<lb/>
+<lb/>
+•	George Champion | Oral History Interview | July 7, 1978 | July 12, 1978 | Linda Edgerly, Interviewer | The Chase Manhattan Archives [copy 2; double sided].</p></scopecontent></c><c id="aspace_7dcaf6f7c31bc7ecc238aa8af24d11fa" level="file"><did><unittitle><emph render="bold">Periodical articles—about George Champion</emph></unittitle><unitdate datechar="creation" type="inclusive">1952-2019, undated</unitdate><container id="aspace_6035a2937e99ed8d5efce071822cfb58" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_b04d8790d0625d56e6b58aceb6110429" parent="aspace_6035a2937e99ed8d5efce071822cfb58" type="Folder">7</container></did><scopecontent id="aspace_1cd9270143ee51eb8863f5526e0571fa"><head>Scope and Contents</head><p>•	<emph render="italic">Protestant Church Life</emph>, vol. 25, no. 21 (Feb. 16, 1952). Photograph of Champion, p. 1.<lb/>
+<lb/>
+•	Sam B. Lyons, "Chase Manhattan is Prime News Source," <emph render="italic">Finance</emph>, Jan. 15, 1957, 43–44.<lb/>
+<lb/>
+•	"Champion is President, Rockefeller Vice Chairman of Chase Manhattan Bank," <emph render="italic">Mid-Continent Banker</emph>, Jan. 1957, 36.<lb/>
+<lb/>
+•	<emph render="italic">Unserem Gast</emph>, nr. 1, jahrgang 7, Jan. 1 1958. [German publication with photographs of Champion on p. 18.]<lb/>
+<lb/>
+•	"Champion of the Chase. Billion Dollar Banker Branches Into New Services to Post Commanding Totals," <emph render="italic">Investor's Reader</emph>, vol. 32, no. 2 (Jan. 21, 1959). Profile of Champion, 25–30, with photograph on cover.<lb/>
+<lb/>
+•	<emph render="italic">New Yorker</emph> cartoon of men stealing paintings from the Chase Manhattan Bank, Oct. 14, 1961.<lb/>
+<lb/>
+•	Jack Craddock, "Portrait of a Banker: George Champion," <emph render="italic">American Banker</emph>, Oct. 5, 1962.<lb/>
+<lb/>
+•	<emph render="italic">Protestant News. Articles reproduced from Oct. 27, 1962 issue of Protestant Church Life</emph>. Photograph of Champion, p. 1.<lb/>
+<lb/>
+•	Charles J. V. Murphy, "Foreign Aid: Billions in Search of a Good Reason," <emph render="italic">Fortune</emph>, March 1963, 124–130, 205–206, 209–212.<lb/>
+<lb/>
+•	"??The Lotos Club???," <emph render="italic">Lotos Leaf</emph>, March-April [1964], 22–24.<lb/>
+<lb/>
+•	Dero A. Saunders, "Dartmouth's No. 1 Banker," <emph render="italic">Dartmouth Alumni Magazine</emph>, May 1964, 27–29.<lb/>
+<lb/>
+•	John Berry, "The Banker in the News," <emph render="italic">Dun's Review and Modern Industry</emph>, Sep. 1965, 53–54. Profile and photograph of Champion.
+<lb/>
+•	"Stop, Look, Listen—Count Three," <emph render="italic">Newsweek</emph>, Oct. 18, 1965, 85–86.<lb/>
+<lb/>
+•	<emph render="italic">Información gráfica Sobre la XIII Conferencia Monetaria de la ABA The American Bankers Association, Madrid—Granada</emph>, 1966. [Souvenir program, with calling card of Ramiro Suarez de Figeroa y Prieto.]<lb/>
+<lb/>
+•	"Fed may lighten its touch," <emph render="italic">Business Week</emph>, Feb. 4, 1967, 29–30. Photograph of Champion, 29.<lb/>
+<lb/>
+•	Winton M. Blount, "Businessmen urged to back tax-spending cuts bill," <emph render="italic">Washington Report</emph>, vol. 7, no. 22 (May 24, 1968) .<lb/>
+<lb/>
+•	"Training the 'Hard Core'—A Top Banker Tells His Story," <emph render="italic">U.S. News &amp; World Report</emph>, Aug. 12, 1968, 51–52.<lb/>
+<lb/>
+•	<emph render="italic">The J.O.B. Review</emph>, vol. 1, no. 1 (Aug. 1968). Photograph of Champion, p. 1.<lb/>
+<lb/>
+•	Rudy Martinez, "A Man," <emph render="italic">The J.O.B. Review</emph>, vol. 1, no. 2 (Winter 1969). Profile and photograph of Champion, p. 1.<lb/>
+<lb/>
+•	<emph render="italic">The 1926 Smoke Signals</emph>, April 1, 1969. Dartmouth alumni publication with Mention of Champion, 3–4.<lb/>
+<lb/>
+•	John R. Coyne Jr., "Business to the Rescue," <emph render="italic">National Review</emph>, July 29, 1969, 744.<lb/>
+<lb/>
+•	<emph render="italic">Footballetter: The National Football Foundation and Hall of Fame</emph>, vol. 12, no. 1 (Dec. 1969–Jan. 1970). Contains many photographs; probably includes Champion.<lb/>
+<lb/>
+•	<emph render="italic">The Presbyterian Layman</emph>, vol. 4, no. 5 (May 1970). Photograph, p. 1, of "Planning Committee for Billy Graham New York Crusade June 24–28 in Shea Stadium. Seated: Fred Russell Esty, Committee Chairman, Billy Graham, Dr. Elmer Engstrom. Standing: George Champion and Dr. M. L. Wilson. Messrs. Esty and Champion also are Board members of the Presbyterian Lay Committee."<lb/>
+<lb/>
+•	[Japanese publication], 1970.<lb/>
+<lb/>
+•	"New York falls back on a rich resource," <emph render="italic">Business Week</emph>, Nov. 10, 1975, 83–88.<lb/>
+<lb/>
+•	"Welcome to the town of Normal," dedication program, Normal City Hall-Police Complex, July 3, 1976. Contains brief biography of Champion, guest speaker.<lb/>
+<lb/>
+•	Dero A. Saunders, "One vote for the old verities," <emph render="italic">Forbes</emph>, July 6, 1981.<lb/>
+<lb/>
+•	"A banker's dissent," <emph render="italic">Forbes</emph>, Feb. 1, 1982.<lb/>
+<lb/>
+•	Jay Rosenstein, "Veterans of Hard Times Advise Conservative Stance," <emph render="italic">American Banker: The Daily Financial Services Newspaper</emph>, Nov. 4, 1987, 1, 14.<lb/>
+<lb/>
+•	Paul Craig Roberts, "What price bank reform?," <emph render="italic">The Washington Times</emph>, March 15, 1991.<lb/>
+<lb/>
+•	Peter Grant and Robert McNatt, "Squandered Decade: How a Corporate Culture &amp; A CEO's Reticence in the '80s Imperil Chase's Future," <emph render="italic">Crain's New York Business</emph>, June 17, 1991, 23-31.<lb/>
+<lb/>
+•	Kelley Holland, "A Chastened Chase," <emph render="italic">Business Week</emph>, Sep. 26, 1994, 106-109.<lb/>
+<lb/>
+•	[Robert Mateer, editor], "A Special Thank You," <emph render="italic">Christian Perspectives: A Journal of Free Enterprise</emph>, [1996].<lb/>
+<lb/>
+•	"George Champion, 93, Head of Chase Manhattan in 1960's," <emph render="italic">The New York Times</emph>, Sep. 22, 1997.<lb/>
+<lb/>
+•	Jeffrey Hart, "George Champion, R.I.P.," <emph render="italic">The Dartmouth Review</emph>, Oct. 15, 1997, 10.<lb/>
+<lb/>
+•	Jeffrey Hart, "George Champion, R.I.P.," [1997] (www.angelfire.com/nh/emhi/hartonchamp.html).<lb/>
+<lb/>
+•	Alex J. Pollock, "Heed a Banking Champion's Words on Loan Loss Reserves," May 8, 2012 (printout of article from unidentified website).<lb/>
+<lb/>
+•	"Paging George Champion," <emph render="italic">Grant's Interest Rate Observer</emph>, vol. 34, no. 9 (May 6, 2016), 1–5, 8–10.<lb/>
+<lb/>
+•	Alex J. Pollock, "The next crisis will come; Is your bank ready?," Sep. 1, 2016 (www.rstreet.org/op-ed/the-next-crisis-will-come-is-your-bank-ready/).<lb/>
+<lb/>
+•	<emph render="italic">Grants</emph>, Dec. 13, 2019, 2. Mention of Champion.<lb/>
+<lb/>
+•	Hugo Restall, "Hopkins Institute Reorganized," photocopy from an unidentified, undated newspaper.<lb/>
+<lb/>
+•	Three pages from an unidentified, undated publication.<lb/></p></scopecontent></c><c id="aspace_07467188de5403d4f92525373fc0f612" level="file"><did><unittitle><emph render="bold">Periodical articles—by George Champion</emph></unittitle><unitdate datechar="creation" type="inclusive">1957-1996, undated</unitdate><container id="aspace_025b901c67a04c33f6fb6c6f5061a17a" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_2a78616ca7dfe6c69b5a64b50eab9a4b" parent="aspace_025b901c67a04c33f6fb6c6f5061a17a" type="Folder">8</container></did><scopecontent id="aspace_e90037048e227cf307d074dcb21252aa"><head>Scope and Contents</head><p>•	"Head of Chase Bank Expects Tight Money and High Interest to Continue for Some Time," <emph render="italic">Executives' Club News</emph>, vol. 33, no. 24 (March 29, 1957).<lb/>
+<lb/>
+•	"Foreign Aid: A New Approach," <emph render="italic">Vital Speeches of the Day</emph>, vol. 29, no. 6 (Jan. 1, 1963), 177-180.<lb/>
+<lb/>
+•	"With Impact More Striking Than Ever," <emph render="italic">Reader's Digest</emph>, vol. 84, no. 506 (June 1964).<lb/>
+<lb/>
+•	"Why Politics is For You," reprinted from <emph render="italic">Nation's Business</emph>, March 1965.<lb/>
+<lb/>
+•	"Government by Guideline: New Threat to Economic Freedom," <emph render="italic">Human Events</emph>, Aug. 7, 1965. [first page only]<lb/>
+<lb/>
+•	"A Challenge to Business: Create Its Own 'Great Society'," reprinted from <emph render="italic">Reader's Digest</emph>, vol. 82, no. 532 (Aug. 1966), 107-110.<lb/>
+<lb/>
+•	 "Private Enterprise and Public Responsibility," <emph render="italic">Social Service Outlook</emph>, vol. 1, no. 4 (Sep. 1966), 7-11.<lb/>
+<lb/>
+•	"Preaching What You Practice: A conversation with George Champion . . .," reprinted from <emph render="italic">Nation's Business</emph>, March 1967.<lb/>
+<lb/>
+•	"Our Obsolete Welfare State," <emph render="italic">Human Events</emph>, Dec. 23, 1967, 812-813.<lb/>
+<lb/>
+•	"Automation, Capital and Economic Growth," <emph render="italic">Dateline: Church &amp; Industry in the Current Scene</emph>, vol. 12, no. 7 (April 1968), 5-6, 8.<lb/>
+<lb/>
+•	"Puzzle for Next Administration—How to Halt Inflation," <emph render="italic">U.S. News &amp; World Report</emph>, Nov. 11, 1968, 74-76.<lb/>
+<lb/>
+•	"Inflation: Symptom of What Ails America," <emph render="italic">Monitor: The Voice of Industry in New York State—Since 1914</emph>, vol. 54, no. 4 (Nov.-Dec. 1968), 7-8, 23-24.<lb/>
+<lb/>
+•	"The Round Table," <emph render="italic">The Nutmegger</emph>, May 1978.<lb/>
+<lb/>
+•	"Thinking Straight About Our Society &amp; Our Economy," <emph render="italic">Christian Perspectives: A Journal of Free Enterprise</emph>, vol. 9, no. 2 (Fall 1996), 3.<lb/>
+<lb/>
+•	"Chase Manhattan's approach to multinational banking. A joint statement to multinational companies by Chairman Champion and President Rockefeller," <emph render="italic">Forbes</emph>, May 1, [year lacking].<lb/>
+<lb/>
+•	"Will the <emph render="underline">Real</emph> America Please Stand Up?," [<emph render="italic">Reader's Digest?</emph>], undated.</p></scopecontent></c><c id="aspace_2bf0ab8c355b0c49131221f173080430" level="file"><did><unittitle><emph render="bold">Personal</emph></unittitle><unitdate datechar="creation" type="inclusive">1923-1972, undated</unitdate><container id="aspace_e1572b222f28aaff1aa1c35c142960c8" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_5615ff8e3eb3d64e654e894acf8f00bd" parent="aspace_e1572b222f28aaff1aa1c35c142960c8" type="Folder">9</container></did><scopecontent id="aspace_6d8490f0af160a2e15957ebffd20ec5b"><head>Scope and Contents</head><p><emph render="underline">Dartmouth College, 1923-1925</emph><lb/>
+•	Blueprint of Dartmouth football "Defense—'23"<lb/>
+•	Program for "1926 Senior Class Smoker, Trophy Room, Dec. 1, 1925"<lb/>
+•	Pocket notebook with handwritten football signals, 1925<lb/>
+<lb/>
+<emph render="underline">George Champion (1840–1928) estate, 1928, 1935-1936, undated</emph><lb/>
+•	Reproduction of advertisement for "Geo. Champion, Dealer in Hardware, Stoves, Tinware," The Oldest Hardware Store in Normal," "Established 1867," undated<lb/>
+•	Photocopies newspaper clippings from Bloomington, Illinois, on the death of George Champion (1840–1928)<lb/>
+•	Estate papers, 1935–1936<lb/>
+<lb/>
+<emph render="underline">Anecdotes, quotations, 1945, 1963, undated</emph><lb/>
+•	Mimeographed letter from Lieut. Earle Bowles, USNR, Tokyo Bay, Japan, Sep. 2, 1945<lb/>
+•	"The Problem of Equality," sermon delivered by Dr. Walter R. Courtenay, First Presbyterian Church, Nashville, Sep. 15, 1963<lb/>
+•	Calligraphic sheet, "He who works with his hands is a laborer. / He who works with his hands and his mind is a craftsman. / He who works with his hands, his mind and his heart is an artist," undated<lb/>
+•	"A Father's Prayer . . .," "Reprinted with the gracious permission of Mrs. MacArthur," undated<lb/>
+•	Typed anecdotes, undated<lb/>
+<lb/>
+<emph render="underline">Chemical Bank loan papers, 1962–1967</emph><lb/>
+<lb/>
+<emph render="underline">Miscellaneous, 1966–1972, undated</emph><lb/>
+•	Letter from "Esther" to "Sally," July 20, 1966<lb/>
+•	Giko Unyu Company Ltd., Osaka, letter transmitting insurance certificate for goods shipped to Champion Dec. 1, 1967<lb/>
+•	Letter from George J. Gansel to Mary Conroy, secretary of George Champion, Feb. 19, 1972<lb/>
+•	Champion's social security card and accompanying documentation, undated<lb/>
+•	Chase National Bank stock receipt, undated</p></scopecontent></c><c id="aspace_85dd2343c05db8adb5ae076bdb620d1d" level="file"><did><unittitle><emph render="bold">Photographs</emph></unittitle><unitdate datechar="creation" type="inclusive">1950-1969</unitdate><container id="aspace_9c7df0a27a79c086bc633cdd701d58b5" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_8fc51926a133e23d151c206d332f1949" parent="aspace_9c7df0a27a79c086bc633cdd701d58b5" type="Folder">10</container></did><scopecontent id="aspace_63223ea5e39ad52b1c9355a46da3140f"><head>Scope and Contents</head><p>•	George Champion portrait (September 1950) [2 copies]<lb/>
+<lb/>
+•	"Arrival at Augusta, Georgia from plane . . ." (1957 Spring).<lb/>
+<lb/>
+•	"S.S. George Champion launched 3/22/58" (1958 March 22).<lb/>
+<lb/>
+•	Rear Admiral J. D. Bulkeley portrait (1963 Dec. 10).<lb/>
+<lb/>
+•	George Champion with Harry S. Truman and others (1964 Spring).<lb/>
+<lb/>
+•	George Champion at New York Stock Exchange (1965 March 16).<lb/>
+<lb/>
+•	George Champion with others (1966 Dec.).<lb/>
+<lb/>
+•	George Champion at 1967 Annual CMB Golf Tournament (1967 Aug. 8).<lb/>
+<lb/>
+•	George Champion receiving 1967 "Man-In-Management" Award (1968 Jan. 16).<lb/>
+<lb/>
+•	George Champion receiving First Class Order of the Sacred Treasure from Government of Japan (1969 Oct. 7). [Seven images. See documentation (Box 1, Folder 4) and insignia (Box 4, Enclosure 1).]<lb/>
+<lb/>
+•	George Champion at "Tribute of a Grateful Nation" ceremony with President and Mrs. Nixon, Mamie Eisenhower, and Herbert Brownell (1969 Oct. 14).</p></scopecontent></c><c id="aspace_0bbbc9bf09652e7bd2be65ca22a83e03" level="file"><did><unittitle><emph render="bold">Photographs</emph></unittitle><unitdate datechar="creation" type="inclusive">1970-1993, undated</unitdate><container id="aspace_6b1da0a90ea38c89663ba3b852ed553a" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_a5ced272c4dcaa6459114e7e2a1738d8" parent="aspace_6b1da0a90ea38c89663ba3b852ed553a" type="Folder">11</container></did><scopecontent id="aspace_5aa2186200e117e6e5bc347d537238b5"><head>Scope and Contents</head><p>•	George Champion with Wally Shirra, Toots Shor, and Arnold Palmer [1970].<lb/>
+<lb/>
+•	George Champion with Ikuo Yokota of the Nippon Kangyo Bank (1970 Oct. 14).<lb/>
+<lb/>
+•	Hill Billies Camp, River Road, Bohemian Grove (1972 July).<lb/>
+<lb/>
+•	George Champion portrait (1973 May).<lb/>
+<lb/>
+•	George Champion at West Side Association of Commerce, Inc. 49th Annual Gold Medals Award Dinner, with Rev. Billy Graham and others (1973 Nov. 15).<lb/>
+<lb/>
+•	George Champion at Football Dinner with Vice President Gerald Ford (1973 Dec. 4).<lb/>
+<lb/>
+•	George Champion with family[?] (1977 July).<lb/>
+<lb/>
+•	George Champion at Lotos Club with Norman Vincent Peale and others (1982 Nov. 8).<lb/>
+<lb/>
+•	Foosland[?] Farm (1993 Fall).<lb/>
+<lb/>
+•	George Champion at Economic Development Council meeting? (undated).<lb/>
+<lb/>
+•	George Champion portraits (undated).<lb/>
+<lb/>
+•	George and Eleanor Champion with others, including John F. Kennedy (undated).<lb/>
+<lb/>
+•	Dwight D. Eisenhower portrait (undated).</p></scopecontent></c><c id="aspace_7ca69f4ffcce9b787cea02abafabb68d" level="file"><did><unittitle><emph render="bold">Photographs (oversize)</emph></unittitle><unitdate datechar="creation" type="inclusive">1961, 1963</unitdate><container id="aspace_3211f904a39e0a2465fc6b4abe02632a" label="Mixed Materials [1804 00003 6978]" type="Offsite-Box">5</container><container id="aspace_b3e45ed90c1835c570f854ac01f6d6ff" parent="aspace_3211f904a39e0a2465fc6b4abe02632a" type="Folder">1</container></did><scopecontent id="aspace_c6c89249fc31fdbaed105108580f2fba"><head>Scope and Contents</head><p>•	George Champion with Chase Manhattan Bank board members[?] (1961) [2 copies, with a list of names identified in another photo which is not present].<lb/>
+<lb/>
+•	George Champion with John F. Kennedy and others at Protestant Council of the City of New York dinner (1963 Nov. 8).</p></scopecontent></c><c id="aspace_21e0c9bda8a63bcdde8dfc7c6429beef" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">40 For Presidents</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1976 November/December</unitdate><container id="aspace_910297141329234408b34e06c8d6083b" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_11a67df5d558e87b61ee4f0b5b8271b3" parent="aspace_910297141329234408b34e06c8d6083b" type="Folder">12</container></did><scopecontent id="aspace_fe8194d1860078b2311757831d666e5e"><head>Scope and Contents</head><p><emph render="italic">40 For Presidents</emph>, year 1, book 6 (Nov./Dec. 1976). Contains Champion's "The City of New York . . . A Platform for Progress," pp. 52–55.</p></scopecontent></c><c id="aspace_52cdcd82188bf3a071ee635e1371b7d6" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Bankers Magazine</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1968, 1976</unitdate><container id="aspace_e5d00dc27c44fc6a82db5e413a836f4e" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_a168759411d4f5f034bd4e6430163b67" parent="aspace_e5d00dc27c44fc6a82db5e413a836f4e" type="Folder">13</container></did><scopecontent id="aspace_622e660f9070aa365d180746204f101f"><head>Scope and Contents</head><p>•	<emph render="italic">The Bankers Magazine,</emph> vol. 151, no. 3 (Summer 1968). Contains Champion's "Issues and Interpretations," pp. 9–10.<lb/>
+<lb/>
+•	<emph render="italic">The Bankers Magazine,</emph> vol. 159, no. 3 (Summer 1976). Contains article by Champion, George Moore, and Arthur Roth, "Bank Elder Statesmen Look at Banking Today," pp. 17–21.</p></scopecontent></c><c id="aspace_849ffe9df652aee2c1e6945fcfa3ac52" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Bankers Monthly</emph></emph></unittitle><unitdate datechar="creation">1965 April 15</unitdate><container id="aspace_6d092134235c905d5479f30dbbce4f4a" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_938034fdbd7d11799880a404cf22b245" parent="aspace_6d092134235c905d5479f30dbbce4f4a" type="Folder">14</container></did><scopecontent id="aspace_7f303d5c4ae0ad50ce51db94520775b8"><head>Scope and Contents</head><p><emph render="italic">Bankers Monthly: National Magazine of Banking &amp; Investments, </emph> vol. 82, no. 4 (April 15, 1965). Picture of Champion on cover.</p></scopecontent></c><c id="aspace_ff4084ec859b42d2c2ca89a8a640ca1d" level="file"><did><unittitle><emph render="bold">Publications—Chamber of Commerce</emph></unittitle><unitdate datechar="creation" type="inclusive">1968 May</unitdate><container id="aspace_97d3706171b73acbdc2cf9b287b33e6f" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_fd8716a39ccfe38c1b67050891661b55" parent="aspace_97d3706171b73acbdc2cf9b287b33e6f" type="Folder">15</container></did><scopecontent id="aspace_4b94d53ebe5589b5cf92142df50d034c"><head>Scope and Contents</head><p>Chamber of Commerce of the United States. <emph render="italic">The Business of Progress</emph> (May 1968). Contains Champion's "Progress Through the Application of Private Capital," pp. 11–13.</p></scopecontent></c><c id="aspace_71769e3d54e74278b33361b29ac8be3a" level="file"><did><unittitle><emph render="bold">Publications—Chase Manhattan</emph></unittitle><unitdate datechar="creation" type="inclusive">circa 1937, 1956-1971, undated</unitdate><container id="aspace_1acd1395b783f63bcd9b9a4f8ece5c54" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_00580b0375be76a87fec90d08ecc5659" parent="aspace_1acd1395b783f63bcd9b9a4f8ece5c54" type="Folder">16</container></did><scopecontent id="aspace_60e78666da04cb7d0b86b3c8a7c56715"><head>Scope and Contents</head><p>•	<emph render="italic">The Chase Manhattan Magazine</emph>, vol. 3, no. 1 (March 1957).<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 4, no. 10 (Oct. 1960).<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 11, no. 1 (Jan. 1967).<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 11, no. 4 (April 1967).<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 12, no. 2 (Feb. 1968).<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 12, no. 5 (May 1968).<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 13, no. 2 (Feb. 1969). Includes <emph render="italic">The News Staff Annual Report</emph>.<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 14, no. 6 (June 1970).<lb/>
+•	<emph render="italic">The Chase Manhattan News</emph>, vol. 15, no. 2 (Feb. 1971).<lb/>
+•	<emph render="italic">The Chase Manhattan News Special Supplement. The History of Chase Manhattan</emph> (April 1974?).<lb/>
+•	<emph render="italic">Stockholder News</emph>, Nov. 15, 1962.<lb/>
+•	<emph render="italic">The Chase Manhattan Bank Annual Report 1963</emph>.<lb/>
+•	<emph render="italic">The Chase Manhattan Bank. Report of the 1964 Annual Meeting of Stockholders</emph> [copy 1].<lb/>
+•	<emph render="italic">The Chase Manhattan Bank. Report of the 1964 Annual Meeting of Stockholders</emph> [copy 2 with attached press release dated Dec. 13, 1956].<lb/>
+•	<emph render="italic">The Chase Manhattan Bank NA Annual Report 1967</emph>.<lb/>
+•	Historical Summary of the Chase National Bank (circa 1937?).</p></scopecontent></c><c id="aspace_9990bf78bced143746d770a0b9298455" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Current</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1963 January</unitdate><container id="aspace_b90a2e99adb5fb584022088667bb70b9" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_3940800f6813374edd49a8f794cbc233" parent="aspace_b90a2e99adb5fb584022088667bb70b9" type="Folder">17</container></did><scopecontent id="aspace_7d6dbdfb6bcb3f2c96a81927491f3094"><head>Scope and Contents</head><p><emph render="italic">Current: The significant new material from all sources on the frontier problems of today</emph>, no. 33 (Jan. 1963). Contains Champion's "Mobilizing Private Capital," pp. 40-41.</p></scopecontent></c><c id="aspace_6a4ee024851af085e32e1ebb8190a2fd" level="file"><did><unittitle><emph render="bold">Publications—Dartmouth—football</emph></unittitle><unitdate datechar="creation" type="inclusive">1925, 1963, 1999</unitdate><container id="aspace_062f15818e27ee679a59963509f2c3b8" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_4677ab94f76e0e36589a518ba1687fae" parent="aspace_062f15818e27ee679a59963509f2c3b8" type="Folder">18</container></did><scopecontent id="aspace_6a08a313433960a93eb49412e9fca8de"><head>Scope and Contents</head><p>•	<emph render="italic">The Dartmouth Pictorial</emph>. Football Number, 1925.<lb/>
+•	<emph render="italic">Dartmouth's Undefeated Football Season '62</emph> (1963).<lb/>
+•	<emph render="italic">Dartmouth Alumni Magazine</emph>, vol. 92, no. 4 (Dec. 1999).</p></scopecontent></c><c id="aspace_1dc58286b74a8c035129b2ac120a8a93" level="file"><did><unittitle><emph render="bold">Publications—Economic Development Council of New York City</emph></unittitle><unitdate datechar="creation" type="inclusive">1972-1979</unitdate><container id="aspace_885fea1d8c9cd161b176e76a0e1fbfd9" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_fcdecb44582616f3255b2a9ed4bb1fcb" parent="aspace_885fea1d8c9cd161b176e76a0e1fbfd9" type="Folder">19</container></did><scopecontent id="aspace_f135e79cb0edd9ced231842925c422ef"><head>Scope and Contents</head><p>•	George Champion, <emph render="italic">The Forgotten Majority</emph> (Annual Meeting, Economic Development Council of New York City, Inc. and New York Chamber of Commerce and Industry, May 27, 1975).<lb/>
+<lb/>
+•	George Champion, <emph render="italic">New York: On the Road to Recovery</emph> (Economic Development Council of New York City, 10th Annual Meeting, April 7, 1976). [With speeches by Walter B. Wriston and Robert S. Hatfield.]<lb/>
+<lb/>
+•	George Champion, <emph render="italic">1978: Year of Opportunity</emph> (Proceedings of the Semi-Annual Urban Affairs Meeting, Nov. 21, 1977). [With speeches by Walter B. Wriston and John E. Zuccotti.]<lb/>
+<lb/>
+•	<emph render="italic">Accountability: Key to the Urban Future. 6th Annual Meeting Report</emph> (May 18, 1972).<lb/>
+<lb/>
+•	<emph render="italic">Responsibility means Accountability. 7th Annual Meeting Report</emph> (May 22, 1973). [2 copies; copy 1 with tipped-in newspaper clipping "DAR Unit to Hear Former Banker Talk," undated.]<lb/>
+<lb/>
+•	<emph render="italic">Business, the City, and the Future. 8th Annual Report</emph> (1973).<lb/>
+<lb/>
+•	<emph render="italic">Business, the City, and the Crisis. 9th Annual Report</emph> (1974).<lb/>
+<lb/>
+•	<emph render="italic">Management Continuity: Key to Strong City Government. 11th Annual Report</emph> [1975-1976?].<lb/>
+<lb/>
+•	<emph render="italic">Managing New York City's demanding years ahead. 13th Annual Report</emph> (1978-1979).<lb/>
+<lb/>
+•	[Memorandum] (Sep. 10, 1975).<lb/>
+<lb/>
+•	Memorandum (Jan. 18, 1979).<lb/>
+<lb/>
+•	Minutes of the Regular Meeting of the Board of Directors of [the] Economic Development Council of New York City, Inc. (Oct. 9, 1979).<lb/>
+<lb/>
+•	Press release, "David Rockefeller Named Chairman of New York Chamber of Commerce and Economic Development Council" (Oct. 10, 1979).<lb/>
+<lb/>
+•	Letter from Champion to "All Members and Friends of the Economic Development Council" (Oct. 18, 1979).</p></scopecontent></c><c id="aspace_24c8b6b27dc62ad8b9d56f4209be6220" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Finance</emph></emph></unittitle><unitdate datechar="creation">1957 January 15</unitdate><container id="aspace_90828022d1ba5a427d5b935a7d24775e" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_5ab83ee5b3c933fa54758aedef46b94c" parent="aspace_90828022d1ba5a427d5b935a7d24775e" type="Folder">20</container></did><scopecontent id="aspace_09d669dbe7240b03245494b633b96b27"><head>Scope and Contents</head><p><emph render="italic">Finance: All the News of the Hire of the Dollar</emph>, vol. 72, no. 1 (Jan. 15, 1957). Photograph of Champion on front cover.</p></scopecontent></c><c id="aspace_c246aafca20b97954d2c52d4b8bbdbde" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Forbes</emph></emph></unittitle><unitdate datechar="creation">1961 October 1</unitdate><container id="aspace_477de5f817ee1dc13a6fd1faf47d493e" label="Mixed Materials [1804 00003 6974]" type="Offsite-Box">2</container><container id="aspace_ee966318ac7f0b3182a85e40785e8177" parent="aspace_477de5f817ee1dc13a6fd1faf47d493e" type="Folder">21</container></did><scopecontent id="aspace_26f3e6c3bf37232c8d5be7888dc39f59"><head>Scope and Contents</head><p><emph render="italic">Forbes Business and Finance</emph>, vol. 88, no. 7 (Oct. 1, 1961). Cover photograph of "Chase Manhattan's Rockefeller &amp; Champion."</p></scopecontent></c><c id="aspace_c0d74e810d83a7897a6a0d5ef045993c" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Nation's Business</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1967 March</unitdate><container id="aspace_2a515ec4e58e232c05fe6865882a65b5" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_8033b97730ed37afd1b92e2177bf35a9" parent="aspace_2a515ec4e58e232c05fe6865882a65b5" type="Folder">1</container></did><scopecontent id="aspace_e7cf2d61fed953488d973387a35bb179"><head>Scope and Contents</head><p><emph render="italic">Nation's Business: A Useful Look Ahead</emph>, vol. 55, no. 3 (March 1967). Contains conversation with Champion, "Preaching What You Practice," pp. 49, 52-62.</p></scopecontent></c><c id="aspace_25643cde3bffeb271315a211640f816b" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Newsweek</emph></emph></unittitle><unitdate datechar="creation">1967 April 3</unitdate><container id="aspace_d890105bd84e17db6a9641a061f13c70" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_c60fc0c97b5af296ac52190f455bfb3e" parent="aspace_d890105bd84e17db6a9641a061f13c70" type="Folder">2</container></did><scopecontent id="aspace_fbfcaed79dffcfd83194db36ecdf944b"><head>Scope and Contents</head><p><emph render="italic">Newsweek</emph>, vol. #, no. # (April 3, 1967). Cover photograph "David Rockefeller: New Era in Banking."</p></scopecontent></c><c id="aspace_22c7838b5f929dbe4858df0b60211f28" level="file"><did><unittitle><emph render="bold">Publications—New York Chamber of Commerce and Industry</emph></unittitle><unitdate datechar="creation" type="inclusive">1976-1977</unitdate><container id="aspace_2a6dc0a103adc3cb7559fed5d1f820a7" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_fc06ee2894058f89aaaae5ced0e61b05" parent="aspace_2a6dc0a103adc3cb7559fed5d1f820a7" type="Folder">3</container></did><scopecontent id="aspace_3c7577f0138bf69b0d100b50d61675bd"><head>Scope and Contents</head><p>•	<emph render="italic">CCI Action</emph>, vol. 4, no. 15 (Dec. 30, 1976).<lb/>
+•	<emph render="italic">Action</emph>, vol. 1, no. 2 (June 3, 1977). Headline "Champion Urges Five Mayoral Platform Planks."<lb/>
+•	<emph render="italic">Action</emph>, vol. 1, no 7 (Nov. 4, 1977).<lb/></p></scopecontent></c><c id="aspace_8b2d235149b36ee521ed37aec5c9f8f3" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Northwestern Banker</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1957 May</unitdate><container id="aspace_a569e9e5627a6869af86d84ba912c527" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_e47a181b7b21cd9ed22be6c9a1e6d38c" parent="aspace_a569e9e5627a6869af86d84ba912c527" type="Folder">4</container></did><scopecontent id="aspace_58fa3ee1df42f63cb0a49e9d9f74211e"><head>Scope and Contents</head><p><emph render="italic">Northwestern Banker</emph>, no. 838 (May 1957).</p></scopecontent></c><c id="aspace_595fd56940fae6034be12c81fa6ba268" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Reader's Digest</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1966 August</unitdate><container id="aspace_22f8e9c53c83d05545a232b452d1edb8" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_5ebe3bcb31b3d4c2fff572b8311f9e27" parent="aspace_22f8e9c53c83d05545a232b452d1edb8" type="Folder">5</container></did><scopecontent id="aspace_7f8ff10558fd2879b9a02f8d430acb9b"><head>Scope and Contents</head><p><emph render="italic">Reader's Digest</emph>, vol. 82, no. 532 (Aug. 1966). Contains Champion's "A Challenge to Business: Create Its Own 'Great Society'," pp. 107-110.</p></scopecontent></c><c id="aspace_f11d59cbc20a5c8c8bbbc1bda41b1117" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">Reserve City Bankers Bulletin</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1952-1960</unitdate><container id="aspace_729b525a69cfa4e2480be5dea4f0921c" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_2f57d5170c2c936e55337434aaa477dd" parent="aspace_729b525a69cfa4e2480be5dea4f0921c" type="Folder">6</container></did><scopecontent id="aspace_3a6ed5c3c87b00e17a1d3aa31e95fc48"><head>Scope and Contents</head><p>Bound volume containing (in reverse order)<lb/>
+•	Volume I (1952-1953)<lb/>
+•	Volume II (1953-1954)<lb/>
+•	Volume III (1954-1955)<lb/>
+•	Volume IV (1955-1956)<lb/>
+•	Volume V (1956-1957)<lb/>
+•	Volume VI (1957-1958)<lb/>
+•	Volume VII (1958-1959)<lb/>
+•	Volume VIII (1959-1960)</p></scopecontent></c><c id="aspace_f8e45f17c9bd33b18eecaa894c68f08a" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">The MBA: The Master in Business Administration</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1968 October</unitdate><container id="aspace_6f4c1d31945be9a9f3ee03dae1bbb5e8" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_626994a5b505f10e23696655e3036520" parent="aspace_6f4c1d31945be9a9f3ee03dae1bbb5e8" type="Folder">7</container></did><scopecontent id="aspace_c93e01d9e2394f5d5fb37481045d90cc"><head>Scope and Contents</head><p><emph render="italic">The MBA: The Master in Business Administration</emph>, vol. 3, no. 1 (Oct. 1968). Contains Champion's "Our Moral Deficit," pp. 39–41.</p></scopecontent></c><c id="aspace_f0d1bc653fb71652fbbbb1ef6e9a5070" level="file"><did><unittitle><emph render="bold">Publications—<emph render="italic">U.S. News &amp; World Report</emph></emph></unittitle><unitdate datechar="creation" type="inclusive">1965-1971</unitdate><container id="aspace_6ea2aa0575d514da3fb89d10950331fb" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_b2b9679842bce7cf18bd99644f7dd55a" parent="aspace_6ea2aa0575d514da3fb89d10950331fb" type="Folder">8</container></did><scopecontent id="aspace_b5c0faa4a538cbf863572a1835919b3c"><head>Scope and Contents</head><p>•	<emph render="italic">U.S. News &amp; World Report</emph>, vol. 58, no. 23 (June 7, 1965). Champion on p. 20, "A Top Banker Assails Government by Guideline."<lb/>
+•	<emph render="italic">U.S. News &amp; World Report</emph>, vol. 65, no. 7 (Aug. 12, 1968). Champion on pp. 51-53, "Training the 'Hard-Core'—A Top Banker Tells His Story."<lb/>
+•	<emph render="italic">U.S. News &amp; World Report</emph>, vol. 65, no. 20 (Nov. 11, 1968). Champion on pp. 74-76, "Puzzle for Next Administration—How to Halt Inflation."<lb/>
+•	<emph render="italic">U.S. News &amp; World Report</emph>, vol. 70, no. 14 (April 5, 1971). Champion on pp. 49-50, 55, "From a Citizens' Panel on Defence; 'U.S. Superiority Has Ended'."</p></scopecontent></c><c id="aspace_f31dd08da61bacff98d313b93f829732" level="file"><did><unittitle><emph render="bold">Publications—by George Champion</emph></unittitle><unitdate datechar="creation" type="inclusive">1945-1975</unitdate><container id="aspace_9caec0f11f28cd55983d3def1b7e2918" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_a174c93632420355adf345fad095d918" parent="aspace_9caec0f11f28cd55983d3def1b7e2918" type="Folder">9</container></did><scopecontent id="aspace_cc29b21c163c6cc30dea02ad800dab0f"><head>Scope and Contents</head><p>•	<emph render="italic">Term Lending by Commercial Banks</emph> (Association of Reserve City Bankers, April 1945).<lb/>
+<lb/>
+•	<emph render="italic">The Road Ahead for Banking</emph> (Illinois Bankers Association, St. Louis, Missouri, June 9, 1955).<lb/>
+<lb/>
+•	<emph render="italic">The Challenge to the Dollar</emph> (Los Angeles Rotary Club, Jan. 30, 1959).<lb/>
+<lb/>
+•	<emph render="italic">Asia and the United States: The Challenge They Share</emph> (The Economic Club of Detroit, May 23, 1960).<lb/>
+<lb/>
+•	<emph render="italic">Taxes and the Government Debt: A Plan for the 'Sixties</emph> (State Bank Division, American Bankers Association Convention, San Francisco, Oct. 16, 1961).<lb/>
+<lb/>
+•	<emph render="italic">A Report to the Members</emph> (New York Chamber of Commerce, Dec. 1962).<lb/>
+<lb/>
+•	<emph render="italic">A New Approach to Foreign Aid</emph> (New York Chamber of Commerce, Dec. 4, 1962).<lb/>
+<lb/>
+•	<emph render="italic">A Sound Investment for the Future</emph> (American Heart Association, after 1963).<lb/>
+<lb/>
+•	<emph render="italic">Our Growing Responsibilities in a Changing World</emph> (Chamber of Commerce, Houston, Texas, Dec. 8, 1964).<lb/>
+<lb/>
+•	<emph render="italic">What an Executive Should Know About His Political Responsibility</emph> (Dartnell Corporation, 1965).<lb/>
+<lb/>
+•	<emph render="italic">Government-by-Guideline: A New Threat to Economic Freedom</emph> (Illinois Bankers Association, Chicago, May 25, 1965).<lb/>
+<lb/>
+•	<emph render="italic">Private Enterprise and Public Responsibility in a Free Economy</emph> (18th Annual Business Conference, Rutgers University, New Brunswick, N.J., March 24, 1966).<lb/>
+<lb/>
+•	<emph render="italic">United States in the World Market Place: The Critical Years Ahead</emph> (John Hamilton Fulton Memorial Lectureship in the Liberal Arts, Middlebury College, April 24, 1967).<lb/>
+<lb/>
+•	<emph render="italic">Inflation: A Symptom of What Ails America</emph> (1968).<lb/>
+<lb/>
+•	<emph render="italic">Our Moral Deficit</emph> (11th Annual Good Friday Breakfast for Business and Professional Men, Los Angeles, April 12, 1968).<lb/>
+<lb/>
+•	<emph render="italic">The Shifting Balance of Military Power</emph> (Sep. 30, 1970).<lb/>
+<lb/>
+•	<emph render="italic">Help Wanted: Effective Management for New York City</emph> (43rd Annual Meeting, The Hundred Year Association of New York, Oct. 1, 1975).</p></scopecontent></c><c id="aspace_16f3480c9df5ea494adc09732d7e605b" level="file"><did><unittitle><emph render="bold">Speeches</emph></unittitle><unitdate datechar="creation" type="inclusive">1955-1965</unitdate><container id="aspace_6437d2582e52693ce6dae4946be04506" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_62fa25f499c363ec88ccfa94e49fcfe6" parent="aspace_6437d2582e52693ce6dae4946be04506" type="Folder">10</container></did><scopecontent id="aspace_781aee9bd38aa16b6dd28aa7f2e982e9"><head>Scope and Contents</head><p>•	The Road Ahead for Banking (Illinois Bankers Association, St. Louis, Missouri, June 9, 1955).<lb/>
+<lb/>
+•	Association of Reserve City Bankers (1959).<lb/>
+<lb/>
+•	Your Stake in the Dollar (63rd Annual Convention of the Maryland Bankers Association, Atlantic City, N.J., May 11, 1959).<lb/>
+<lb/>
+•	The Outlook for Money and Banking (Business Outlook Panel of the National Industrial Conference Board, New York City, May 21, 1959).<lb/>
+<lb/>
+•	"Education and Free Enterprise—The Common Objective" (National Corporation Day Salute Dinner of the Independent College Funds of America, New York City, Oct. 10, 1960).<lb/>
+<lb/>
+•	Taxes and the Government Debt: A Plan for the 'Sixties (State Bank Division at the American Bankers Association Convention, San Francisco, Oct. 16, 1961).<lb/>
+<lb/>
+•	Freedom and Opportunity—Your Responsibility (Meeting of the Members' Council of the Commerce and Industry Association of New York, Inc., Feb. 27, 1962).<lb/>
+<lb/>
+•	Freedom and Opportunity—Your Responsibility (Travelers Inner Circle, Travelers Insurance Company, White Sulphur Springs, West Virginia, July 27, 1962).<lb/>
+<lb/>
+•	Remarks by George Champion, Chairman, The Chase Manhattan Bank (Panel on Taxation, Annual Meeting, United States Chamber of Commerce, Washington, D.C., April 30, 1963).<lb/>
+<lb/>
+•	President's Message to Annual Meeting of Stockholders (July 11, 1963).<lb/>
+<lb/>
+•	Address by George Champion, Chairman of the Board, The Chase Manhattan Bank (51st Anniversary Dinner of The Alfalfa Club, Washington, Jan. 25, 1964) [3 copies; copy 1 with emendations].<lb/>
+<lb/>
+•	A Banker Looks at Dick Nixon (Lotus Club, New York, Feb. 27, 1964).<lb/>
+<lb/>
+•	Let's "Get Involved" in Effective Citizenship (28th Annual Commencement Exercises, Stonier Graduate School of Banking, Rutgers—The State University of New Jersey, New Brunswick, June 19, 1964).<lb/>
+<lb/>
+•	Government-By-Guideline: A New Threat to Economic Freedom (Illinois Bankers Association, Chicago, May 25, 1965).<lb/>
+<lb/>
+•	Things I Have Learned Since Graduation (Commencement Exercises, Millikin University, Decatur, Illinois, June 6, 1965).<lb/>
+<lb/>
+•	Communism's Economic Failures: The Lessons for the U.S. (Colorado Association of Commerce and Industry, Denver, Nov. 18, 1965).</p></scopecontent></c><c id="aspace_ea9df448ec32d7e26906d7ee23defb5f" level="file"><did><unittitle><emph render="bold">Speeches</emph></unittitle><unitdate datechar="creation" type="inclusive">1966-1971</unitdate><container id="aspace_c3bac4a77d9043c88b142e3d3a65149b" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_47340b1737dd53247fa3c696e7f3ee7b" parent="aspace_c3bac4a77d9043c88b142e3d3a65149b" type="Folder">11</container></did><scopecontent id="aspace_10c9c722bdf8ae8080d5368bcf3f3e74"><head>Scope and Contents</head><p>•	Private Enterprise and Public Responsibility in a Free Economy (18th Annual Business Conference, Rutgers University, New Brunswick, N.J., March 24, 1966).<lb/>
+<lb/>
+•	The Worldwide Captial Shortage (International Investment Forum, London, Oct. 28, 1966).<lb/>
+<lb/>
+•	Automation, Capital and Economic Growth (Annual Financial Conference, National Industrial Conference Board, New York, Feb. 16, 1967).<lb/>
+<lb/>
+•	U.S. in the World Market Place: The Critical Years Ahead (John Hamilton Fulton Lecture, Middlebury College, Middlebury, Vermont, April 24, 1967).<lb/>
+<lb/>
+•	Our Obsolete Welfare State (Grinnell College Convocation, Grinnell, Iowa, Oct. 29, 1967).<lb/>
+<lb/>
+•	The Responsibilities of Leadership (Annual Man-in-Management Dinner, New York, Jan. 16, 1968).<lb/>
+<lb/>
+•	Our Moral Deficit (11th Annual Good Friday Breakfast for Business and Professional Men, Los Angeles, April 12, 1968). [2 copies]<lb/>
+<lb/>
+•	Progress Through the Application of Private Capital (56th Annual Meeting, U.S. Chamber of Commerce, Washington, April 29, 1968).<lb/>
+<lb/>
+•	Wanted: A Realistic Approach to Foreign Aid (Annual Convention, Texas Bankers Association, San Antonio, May 13, 1968).<lb/>
+<lb/>
+•	Inflation: A Symptom of What Ails America (American Mining Congress, Las Vegas, Nevada, Oct. 7, 1968). [Includes Champion's convention itinerary.]<lb/>
+<lb/>
+•	The Changing Responsibilities of Management (Annual Meeting, American College of Hospital Administrators, Chicago, March 7, 1969).<lb/>
+<lb/>
+•	Let's Be Economic Realists—But Let's Not Be Pessimists! (California Bankers Association, Los Angeles, May 27, 1969).<lb/>
+<lb/>
+•	A Changing World's Challenge to Business (Third Annual Conference, International Iron and Steel Institute, Tokyo, Japan, Oct. 13, 1969).<lb/>
+<lb/>
+•	Remarks (Manufacturing Chemists Association, New York City, Nov. 24, 1970).<lb/>
+<lb/>
+•	New Dimensions in Urban Action (New York Chamber of Commerce monthly meeting, June 3, 1971).</p></scopecontent></c><c id="aspace_c00b654d7e9984da24460a72b36406ee" level="file"><did><unittitle><emph render="bold">Speeches</emph></unittitle><unitdate datechar="creation" type="inclusive">1973-1975</unitdate><container id="aspace_c9b4f3e7e2993404618a6f05dc66eb32" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_0aaaf94e12edcdfff294a6dfddd54d05" parent="aspace_c9b4f3e7e2993404618a6f05dc66eb32" type="Folder">12</container></did><scopecontent id="aspace_a5f2793144ac8b49f0ce6c74106b7af1"><head>Scope and Contents</head><p>•	City of Opportunity (Semi-Annual Meeting, National Board of Directors, Boys Clubs of America, University Club of New York, Dec. 3, 1973).<lb/>
+<lb/>
+•	Museum of the City of Opportunity (Second Draft [crossed out], Nov. 12, 1974).<lb/>
+<lb/>
+•	Museum of the City of Opportunity (Museum of the City of New York, Annual $24 Award" Dinner, Nov. 25, 1974).<lb/>
+<lb/>
+•	In Unity There is Action (Bronx Chamber of Commerce, Inc., 81st Annual Meeting and Luncheon, Dec. 5, 1974).<lb/>
+<lb/>
+•	Remarks (The Hundred Year Association of New York, Inc. 43rd Annual Dinner, draft of Sep. 8, 1975).<lb/>
+<lb/>
+•	Help Wanted: Effective Management for New York City (The Hundred Year Association of New York, Inc. 43rd Annual Dinner, New York, Oct. 1, 1975).<lb/>
+<lb/>
+•	The Forgotten Majority (1975?).</p></scopecontent></c><c id="aspace_35998a03ac3407ae2e17185f8deb675c" level="file"><did><unittitle><emph render="bold">Speeches</emph></unittitle><unitdate datechar="creation" type="inclusive">1976-1986, undated</unitdate><container id="aspace_2e921c6d4b09f2d99818b90285598278" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_a869e8f3990749324b475d1418453459" parent="aspace_2e921c6d4b09f2d99818b90285598278" type="Folder">13</container></did><scopecontent id="aspace_452748417b1f486cd9ffb02fcdeee50a"><head>Scope and Contents</head><p>•	New York City Management and Financial Situation (New York Chapter, American Statistical Association, April 19, 1976).<lb/>
+<lb/>
+•	Untitled speech to Arthur Andersen group, Oct. 1976 (first outline draft, Sep. 8, 1976).<lb/>
+<lb/>
+•	Management Volunteer Plan (draft, Sep. 14, 1976).<lb/>
+<lb/>
+•	Untitled draft (1976?).<lb/>
+<lb/>
+•	"Operation Grassroots." New York: Yesterday…Today…Tomorrow (March 16, 1977).<lb/>
+<lb/>
+•	Comments of George Champion, Chairman, Economic Development Council, for Public Hearings on the Board of Education (May 24, 1977).<lb/>
+<lb/>
+•	Remarks (11th Annual Meeting, Economic Development Council, May 24, 1977).<lb/>
+<lb/>
+•	1978: Year of Opportunity For Business Management in City Government (Semi-Annual Meeting, Economic Development Council, Nov. 21, 1977).<lb/>
+<lb/>
+•	Statement for Press Conference at Chamber of Commerce and Industry (March 21, 1978).<lb/>
+<lb/>
+•	Remarks (Annual Meeting, Economic Development Council, May 24, 1979).<lb/>
+<lb/>
+•	Testimony (Senate Banking Committee, Feb. 15, 1983).<lb/>
+<lb/>
+•	Address (Annual Summer Meeting Committee for Monetary Research &amp; Education, Inc., New York City, July 16, 1986) [3 copies; copy 1 with emendations; copy 2 with attached list of attendees?; + correspondence with CMRE President Elizabeth B. Currier].<lb/>
+<lb/>
+•	A Positive Program For Commercial Banks (undated).<lb/>
+<lb/>
+•	Untitled draft of speech to Arthur Anderson &amp; Co. (undated).<lb/>
+<lb/>
+•	Untitled draft (undated).</p></scopecontent></c><c id="aspace_c2a3c3b62c0d1babf59611e86c3cd95c" level="file"><did><unittitle><emph render="bold">Strategic Plan—Financial Services Industry</emph></unittitle><unitdate datechar="creation" type="inclusive">circa 1984</unitdate><container id="aspace_d230400c7fccc42f3bc5e75439855a92" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_54b281d2d0c7bd494e249f69739dd3bc" parent="aspace_d230400c7fccc42f3bc5e75439855a92" type="Folder">14</container></did><scopecontent id="aspace_41f844052f0d6bc8cf3864cdd37b6fd6"><head>Scope and Contents</head><p>Draft of "Strategic Plan. The Federal Role in Preserving the Integrity of Financial Services and Markets."</p></scopecontent></c><c id="aspace_124c794b711b3d523610343292d4c344" level="file"><did><unittitle><emph render="bold">Trips—Brazil</emph></unittitle><unitdate datechar="creation" type="inclusive">1963 March 13-26</unitdate><container id="aspace_215371cd90b3a1178706a25fa687dfd8" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_c22dba2a1efcabd9d0fdf1f4975bb64e" parent="aspace_215371cd90b3a1178706a25fa687dfd8" type="Folder">15</container></did><scopecontent id="aspace_ccf9f1e2eea9cd7fc2c2bd6453baa3b8"><head>Scope and Contents</head><p>"Clippings of publicity in Rio de Janeiro and São Paulo papers until March 21, 1963."</p></scopecontent></c><c id="aspace_387c7aeb1914d2714bd0be149690c1d0" level="file"><did><unittitle><emph render="bold">Trips—Europe</emph></unittitle><unitdate datechar="creation" type="inclusive">1952 April-September</unitdate><container id="aspace_2a644cc182362cb15c9557e3f393679b" label="Mixed Materials [1804 00003 6975]" type="Offsite-Box">3</container><container id="aspace_0c13455ded2ebfa2de7bfa61ba2b4392" parent="aspace_2a644cc182362cb15c9557e3f393679b" type="Folder">16</container></did><scopecontent id="aspace_e6e6d553a966af34108555990cef6598"><head>Scope and Contents</head><p>Itineraries, correspondence, and receipts documenting Champion's trip to Europe, June 11-July 15, 1952, with stops in London, Copenhagen, Frankfurt, Baden-Baden, Zurich, Rome, and Paris. Printed lists of passengers for voyages on the R.M.S. Queen Mary (June 11) and S.S. United States (July 10) are found in Box 1, Folder 21.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
