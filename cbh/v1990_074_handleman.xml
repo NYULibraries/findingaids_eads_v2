@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_074_handleman/">v1990_074_handleman</eadid><filedesc><titlestmt><titleproper>Guide to the Walter J. Handleman collection of Downtown Brooklyn photographs <num>V1990.074</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:31 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1990_074_handleman/">v1990_074_handleman</eadid><filedesc><titlestmt><titleproper>Guide to the Walter J. Handleman collection of Downtown Brooklyn photographs <num>V1990.074</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-24 20:12:24 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -7,49 +7,52 @@
     <unittitle>Walter J. Handleman collection of Downtown Brooklyn photographs</unittitle>
     <unitid>V1990.074</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
-      <extent altrender="carrier">three items housed in one folder.</extent>
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1942/1954" type="inclusive">1942-1954</unitdate>
-    <abstract id="aspace_1ba578be0099fcee0646da1cafdc5c67" label="Abstract">The Walter J. Handleman collection of Downtown Brooklyn photographs consist of three black-and-white photographic prints showing buildings located in the vicinity of Fulton Street and Clinton Street in the neighborhood of Downtown Brooklyn, 1942 to 1954. The Hotel Touraine and the Clinton Garage are shown in the photographs. The photographs are street views and show period cars and trucks.</abstract>
+    <abstract id="aspace_1ba578be0099fcee0646da1cafdc5c67">The Walter J. Handleman collection of Downtown Brooklyn photographs consist of three black-and-white photographic prints showing buildings located in the vicinity of Fulton Street and Clinton Street in the neighborhood of Downtown Brooklyn, 1942 to 1954.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_1c0ed60c78641e712447bb55624ac19d" label="Graphic Materials" type="Box">Prints by Accession 57</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_719aa3be348881926da7bd2747098ecc" label="Graphic Materials" type="Box">Prints by accession 7</container>
   </did>
-  <scopecontent id="aspace_eb7ecdb0c7e03352333edbec98e6e6ed">
-    <head>Scope and Contents</head>
-<p>The Walter J. Handleman collection of Downtown Brooklyn photographs consist of three black-and-white photographic prints showing buildings located in the vicinity of Fulton Street and Clinton Street in the neighborhood of Downtown Brooklyn, 1942 to 1954. The Hotel Touraine and the Clinton Garage are shown in the photographs. The photographs are street views and show period cars and trucks.</p>  </scopecontent>
   <accessrestrict id="aspace_ddfb390eec4896a71695268171401901">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
-  <userestrict id="aspace_6343deb29a91eba45157b6c1352e4beb">
-    <head>Conditions Governing Use</head>
-<p>Copyright for anonymously created items remain in effect for 120 years following the date of creation. Based on the date range of this collection, all photographs in the collection will enter the public domain by 2074. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
-  <prefercite id="aspace_3f4d47f71164e8e540c97193ccd9ece7">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Walter J. Handleman collection of Downtown Brooklyn photographs, V1990.074, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
   <acqinfo id="aspace_6aaf5ab1dcb11e2277058227a2f8df80">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Walter J. Handleman, 1990.</p>  </acqinfo>
-  <otherfindaid id="aspace_c412ba5c041a50ddfae5b22b1019863a">
-    <head>Other Finding Aids</head>
-<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
-  <processinfo id="aspace_0df15a3db61fd3acef994ef1b1812ebb">
-    <head>Processing Information</head>
-<p>Fully processed to the item level.</p>  </processinfo>
+  <altformavail id="aspace_c96bffcc0223b2b079c2f98bcbc393e1">
+    <head>Existence and Location of Copies</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library under the object ID prefix V1990.74.</p>  </altformavail>
+  <arrangement id="aspace_0098f80e7bb94babfa26de23e58dbbe0">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <phystech id="aspace_6946688653919f703566d6fc523ede4b">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>The collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_3f4d47f71164e8e540c97193ccd9ece7">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Walter J. Handleman collection of Downtown Brooklyn photographs, V1990.074, Box number, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <scopecontent id="aspace_eb7ecdb0c7e03352333edbec98e6e6ed">
+    <head>Scope and Contents</head>
+<p>The Walter J. Handleman collection of Downtown Brooklyn photographs consist of three black-and-white photographic prints showing buildings located in the vicinity of Fulton Street and Clinton Street in the neighborhood of Downtown Brooklyn, 1942 to 1954. The Hotel Touraine and the Clinton Garage are shown in the photographs. The photographs are street views and show period cars and trucks.</p>  </scopecontent>
+  <userestrict id="aspace_6343deb29a91eba45157b6c1352e4beb">
+    <head>Conditions Governing Use</head>
+<p>Copyright for anonymously created items remain in effect for 120 years following the date of creation. Based on the date range of this collection, all photographs in the collection will enter the public domain by 2074. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Exterior views</genreform>
-    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Street photography -- New York (State) -- Kings County</subject>
     <geogname source="local">Fulton Street (Brooklyn, New York, N.Y.)</geogname>
-    <subject source="lcsh">Hotels |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Hotels -- New York (State) -- Kings County</subject>
     <geogname source="local">Clinton Street (Brooklyn, New York, N.Y.)</geogname>
     <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Automobile repair shops |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Automobile repair shops -- New York (State) -- Kings County</subject>
     <genreform source="aat">Black-and-white prints (photographs)</genreform>
     <genreform source="aat">Photographs</genreform>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Streets |v Pictorial works</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Buildings, structures, etc. -- Pictorial works</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Streets -- Pictorial works</geogname>
   </controlaccess>
   <dsc/>
 </archdesc>
