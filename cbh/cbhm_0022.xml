@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0022">cbhm_0022</eadid><filedesc><titlestmt><titleproper>Guide to the Thall and Lopez family papers and photographs <num>CBHM.0022</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>January 2024</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-01-23 17:14:51 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Thall and Lopez family papers and photographs</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Lopez, Laura V.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="fmo" source="naf">Lopez, Donald S., 1923-2008</persname>
+    </origination>
+    <origination label="source">
+      <persname role="fmo">Nottage, Muriel Thall, 1904-1979</persname>
+    </origination>
+    <origination label="source">
+      <persname role="fmo" source="local">Greene, William A., Lt. Col.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="fmo" source="local">Thall, Jennie Greene</persname>
+    </origination>
+    <origination label="source">
+      <persname role="fmo" source="local">Thall, Charles Sewell, Dr.</persname>
+    </origination>
+    <unitid>CBHM.0022</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.7 Linear Feet</extent>
+      <extent altrender="carrier">in two boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1860/1982" type="inclusive">circa 1860s-1982</unitdate>
+    <abstract id="aspace_b8cf9d0b12513f5bed151139f4bb1d3d">Documents, ephemera and photographs relating to several generations of the Thall and Lopez families of Canarsie, Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_457462df2f9430f2d38ba5019b905ae2">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_c3cc75ca7ff701b6013377cccf9e51b0">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Laura V. Lopez, 2023.</p>  </acqinfo>
+  <arrangement id="aspace_82cd9ac57b053944990a41e0ed317db8">
+    <head>Arrangement</head>
+<p>The documents are grouped into folders by family member or topic and arranged roughly chronologically. The photographs and ephemera are foldered separately.</p>  </arrangement>
+  <bioghist id="aspace_a6e89842b2c512ddb674980d4d8b1fd7">
+    <head>Biographical note</head>
+<p>Lt. Col. William Augustus Greene was born in Manhattan in 1840 and moved to Brooklyn at age 8, where he then resided for the rest of his life. He was a descendant of Robert Morris, a signer of the Declaration of Independence. He served in the United States Civil War as a member of the 173rd Regiment of New York Volunteers, during which he was wounded and captured multiple times. In 1872, he married Jane Williams (1847-1918), daughter of Charles Williams and Jane Vanderwenk. William and Jane Greene resided at 178 Clymer Street in South Williamsburg. William passed away in 1911.</p><p>Their daughter Jennie Greene (1873-1943) married Dr. Charles Sewell Thall (1872-1923) in 1901. Charles was the son of Richard Thall (1835-1905). The Thalls lived at 1122 East 92nd Street in Canarsie. Their son Sewell was born in 1906. Their daughter Muriel (1904-1979) married Hampton Nottage (1908-1961) in 1934. She worked at New York Bell. The Thalls' other daughter Lorraine (b. 1904) became pregnant by Puerto Rican shipwelder Carlos Santos Lopez, and their son Donald was born July 15, 1923.</p><p>Donald S. Lopez Sr. volunteered for the Army Air Forces Aviation Cadet Program in early 1942, after becoming interested in aviation in childhood partially because of his family home's proximity to Floyd Bennett Field on Jamaica Bay. He served as a United States Air Force fighter and test pilot and saw combat in both World War II and the Korean War. He retired from the Air Force in 1964. He spent eight years as an engineer on the Apollo and Skylab programs with Bellcomm, Inc., a subsidiary of Bell Labs. In 1972, he joined the staff of the National Air and Space Museum and served as a deputy director there until his death in 2008. He is buried with full military honors at Arlington National Cemetery.</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>"Donald S. Lopez Sr." https://en.wikipedia.org/wiki/Donald_S._Lopez_Sr. Accessed January 22, 2024.</item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_1f18d9363bb2f2d0f1e60e36e9bcb972">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_65be7c0fe1de318ff634b39a6fdc4a38">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Thall and Lopez family papers and photographs, CBHM.0022, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <relatedmaterial id="aspace_b91b0d2e1eea38ed8fb8326174197f33">
+    <head>Related Materials</head>
+<p>CBH holds many similar collections of family papers and photographs. In addition, these two collections contain some similar material as that in this collection:</p><p>United States, Confederate States, and foreign currency collection (1974.120)</p><p>Checks and receipts from Brooklyn businesses and institutions collection (CBHM.0014)</p>  </relatedmaterial>
+  <scopecontent id="aspace_03f27db22004aee25c93dcd57bead45b">
+    <head>Scope and Contents</head>
+<p>Letters, photographs, account ledgers, blue prints, wills, deeds, stock certificates, Civil War infantry manual, Civil War currency, notes, newspaper clippings, electrification contracts, assorted legal documents relating to the Thall and Lopez families of Canarsie, Brooklyn.</p>  </scopecontent>
+  <userestrict id="aspace_3a73cb7fb9f5fa00b59f93aa04ce9f55">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Canarsie (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Tintypes (prints)</genreform>
+    <genreform source="aat">Portraits</genreform>
+    <genreform source="aat">Studio portraits</genreform>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <subject source="lcsh">Blueprints</subject>
+    <genreform source="aat">Albums</genreform>
+    <genreform source="aat">Mortgages</genreform>
+    <subject source="lcsh">Mortgages -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Decedents' estates</subject>
+    <genreform source="aat">Wills</genreform>
+    <subject source="lcsh">Wills -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Decedents' estates -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Estates (Law)</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History -- Civil War, 1861-1865</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History -- Civil War, 1861-1865 -- Veterans</geogname>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+    <subject source="lcsh">Money -- United States -- History -- Civil War, 1861-1865</subject>
+    <persname role="dnr" source="local">Lopez, Laura V.</persname>
+    <persname role="fmo" source="naf">Lopez, Donald S., 1923-2008</persname>
+    <persname role="fmo">Nottage, Muriel Thall, 1904-1979</persname>
+    <persname role="fmo" source="local">Greene, William A., Lt. Col.</persname>
+    <persname role="fmo" source="local">Thall, Jennie Greene</persname>
+    <persname role="fmo" source="local">Thall, Charles Sewell, Dr.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_3fa93c2eb37d56fee895457d3bda41bb" level="file"><did><unittitle>Charles and Jane Williams and Jane Williams Greene</unittitle><unitdate datechar="creation" normal="1855/1871" type="inclusive">1855, 1871</unitdate><container id="aspace_3b8b0cce2ec3fa5c3682e599abdc684e" label="Mixed Materials" type="Box">1</container><container id="aspace_f50824942e221812b1f801528dc67af3" parent="aspace_3b8b0cce2ec3fa5c3682e599abdc684e" type="Folder">1</container></did></c><c id="aspace_41678a01bc6e87881ba36f071db2d1e0" level="file"><did><unittitle>William A. Greene</unittitle><unitdate datechar="creation" normal="1860/1911" type="inclusive">circa 1860s-1911</unitdate><container id="aspace_f6f2b1ff8f99b8c0820b0c1fb74d21e0" label="Mixed Materials" type="Box">1</container><container id="aspace_0f6179f87b43f89b57d0fa62e41ac980" parent="aspace_f6f2b1ff8f99b8c0820b0c1fb74d21e0" type="Folder">2</container></did><scopecontent id="aspace_0837bb75197d4f527beb2f39dc521dd2"><head>Scope and Contents</head><p>Includes documents related to his Civil War service (including Civil War currency) and his interment at Greenwood Cemetery.</p></scopecontent></c><c id="aspace_8b72c62ddb188d94f45583b540c3a6f3" level="item"><did><unittitle>William A. Greene's copy of "Infantry tactics"</unittitle><unitdate datechar="creation" normal="1862/1862">1862</unitdate><container id="aspace_eafc101cc81097d236f319def5f946b3" label="Mixed Materials" type="Box">1</container><container id="aspace_359e2060109fe416ff99dc7e627149a0" parent="aspace_eafc101cc81097d236f319def5f946b3" type="Folder">13</container></did></c><c id="aspace_fd916393c24614717bf4746c2e15d3e1" level="file"><did><unittitle>178 Clymer Street</unittitle><unitdate datechar="creation" normal="1871/1920" type="inclusive">1871-1920</unitdate><container id="aspace_2177ae9a2487c624d6ad97567f68013d" label="Mixed Materials" type="Box">1</container><container id="aspace_6bfce26351beb829b3818952e28d005e" parent="aspace_2177ae9a2487c624d6ad97567f68013d" type="Folder">3-5</container></did><scopecontent id="aspace_4ef11e3a7f5e440ae04b0acad9d7864e"><head>Scope and Contents</head><p>Documents related to ownership of the property, specifications for building and work on the house, and blueprint plans of architectural details.</p></scopecontent></c><c id="aspace_5852be5a938631b93edd8891735fe55d" level="file"><did><unittitle>Richard Thall</unittitle><unitdate datechar="creation" normal="1888/1905" type="inclusive">1888-1905</unitdate><container id="aspace_028617ec5fe7fdf8189cc4129849bd85" label="Mixed Materials" type="Box">1</container><container id="aspace_5552056e0263cd56083b9b57b1438b0e" parent="aspace_028617ec5fe7fdf8189cc4129849bd85" type="Folder">6</container></did></c><c id="aspace_1ae605d21185ab821279ac1f568f8a39" level="file"><did><unittitle>Jennie Greene Thall</unittitle><unitdate datechar="creation" normal="1901/1943" type="inclusive">1901-1943</unitdate><container id="aspace_0c16221eb5afaa2b9d84df58f23d96ab" label="Mixed Materials" type="Box">1</container><container id="aspace_2b5e23b674555ac0925c1929ec3c6a86" parent="aspace_0c16221eb5afaa2b9d84df58f23d96ab" type="Folder">7</container></did></c><c id="aspace_8a7f7c98dce1f4dce39c72978c6b80cb" level="file"><did><unittitle>Jennie Greene Thall account books</unittitle><unitdate datechar="creation" normal="1905/1908" type="inclusive">1905-1908</unitdate><container id="aspace_5f07d6c35a75324c985b612089f9286f" label="Mixed Materials" type="Box">1</container><container id="aspace_be69979ce3c40ae7b90c69acde7905db" parent="aspace_5f07d6c35a75324c985b612089f9286f" type="Folder">13</container></did></c><c id="aspace_66a8a586f8ecf6a6efa6cbf2118f4c35" level="file"><did><unittitle>Charles S. Thall</unittitle><unitdate datechar="creation" normal="1905/1911" type="inclusive">1905-1911</unitdate><container id="aspace_538c4da1f703f9efd93d9eb3eba7650c" label="Mixed Materials" type="Box">1</container><container id="aspace_496d45d7b2f8481643baf141b7229d60" parent="aspace_538c4da1f703f9efd93d9eb3eba7650c" type="Folder">8</container></did></c><c id="aspace_d7aaea9b62c96aeee02bc07e667d6495" level="item"><did><unittitle>Sewell S. Thall baptism certificate</unittitle><unitdate datechar="creation" normal="1906/1906">1906</unitdate><container id="aspace_da4a34dba7854629611032840070a1b6" label="Mixed Materials" type="Box">1</container><container id="aspace_4524272f84d71cf52a851e5c9040c89f" parent="aspace_da4a34dba7854629611032840070a1b6" type="Folder">9</container></did></c><c id="aspace_ddc8dc375ff01d0b07d44aa938a9d032" level="file"><did><unittitle>Muriel Thall Nottage</unittitle><unitdate datechar="creation" normal="1925/1966" type="inclusive">1925-1966</unitdate><container id="aspace_1ea00b8b7107d355d9c1a91825926e9f" label="Mixed Materials" type="Box">1</container><container id="aspace_029e26206e6470efbe4af38ab10b984d" parent="aspace_1ea00b8b7107d355d9c1a91825926e9f" type="Folder">10</container></did><scopecontent id="aspace_be03e3f816d2cd2e14c07bbc65caa4c8"><head>Scope and Contents</head><p>Includes correspondence, documentation of New York Bell stocks, and a marriage certificate.</p></scopecontent></c><c id="aspace_40c5d47e46d7ca97d0f5772eb1083d79" level="file"><did><unittitle>Katherine Greene stock certificates</unittitle><unitdate datechar="creation" normal="1932/1932">1932</unitdate><container id="aspace_88aa5fdd8823c81edc4d824a6c452bea" label="Mixed Materials" type="Box">1</container><container id="aspace_92d2030644aacef1c98fd625a1b9b654" parent="aspace_88aa5fdd8823c81edc4d824a6c452bea" type="Folder">11</container></did><scopecontent id="aspace_d499e74adeca0e1b8decf6a5b0f97adf"><head>Scope and Contents</head><p>Documents stock held in the Belle Harbor Yacht Club.</p></scopecontent></c><c id="aspace_06c97083bf5f0724b692e9112a2f0904" level="file"><did><unittitle>Genealogy notes and correspondence</unittitle><unitdate datechar="creation" normal="1975/1982" type="inclusive">circa 1975-1982</unitdate><container id="aspace_9bf6c86124d186f43598605a6c92a6d7" label="Mixed Materials" type="Box">1</container><container id="aspace_fbdfb6da2b9a3e552ea5d79c0e97ba39" parent="aspace_9bf6c86124d186f43598605a6c92a6d7" type="Folder">12</container></did><scopecontent id="aspace_baa3e021a86696653def0e67d201d35c"><head>Scope and Contents</head><p>Correspondence, genealogical charts and photocopied vital records connecting the Thall, Lopez, Greene and Williams family to the Brownells, O'Briens, Sewells and more. Traces the family lineage back to the Colonial period and beyond.</p></scopecontent></c><c id="aspace_45fc7be7d2871b9aaea5ccee454d23b0" level="file"><did><unittitle>Ephemera and clippings</unittitle><unitdate datechar="creation" normal="1860/1910" type="inclusive">circa late 19th-early 20th century</unitdate><container id="aspace_92f2ef086a995665b7e022820a07c3b8" label="Mixed Materials" type="Box">1</container><container id="aspace_f0f8c633d60af4dea685f728b5200e67" parent="aspace_92f2ef086a995665b7e022820a07c3b8" type="Folder">14</container></did></c><c id="aspace_3bc1f99761aa7aeaf1813fc7136c854c" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation" normal="1860/1869" type="inclusive">circa 1860s</unitdate><container id="aspace_fa870d63d732e421e587906bcbc3501a" label="Graphic Materials" type="Box">1</container><container id="aspace_51d17191eb97548cfc3eee3bdad391fc" parent="aspace_fa870d63d732e421e587906bcbc3501a" type="Folder">15</container></did><scopecontent id="aspace_9eafb7d70f0658ae592d99f4ec6c3ac6"><head>Scope and Contents</head><p>Mostly tintypes. Named individuals include C. Fowler Brennan (1868), G. Brasted (1862), Isaac Henry John Lakin (1867). Also includes a tintype made into a brooch.</p></scopecontent></c><c id="aspace_14704e06a75c7e5c805a55274538acba" level="file"><did><unittitle>Photograph album</unittitle><unitdate datechar="creation" normal="1850/1900" type="inclusive">circa late 19th century</unitdate><container id="aspace_1be2abe26225cabe37ba3f8d3b3b280f" label="Graphic Materials" type="Box">2</container></did><scopecontent id="aspace_0dc53cfe4070a593c2e94649321c4e83"><head>Scope and Contents</head><p>Tintypes and cabinet cards in a leather album with gilded embossing and metal clasps. Named individuals include Jane Vanderwenk Williams, Charles Williams, William Augustus Greene, Jane Williams Greene, and Jennie Greene Thall.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
