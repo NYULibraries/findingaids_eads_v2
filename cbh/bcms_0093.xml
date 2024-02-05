@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://dlib.nyu.edu/findingaids/html/bhs/bcms_0093">bcms_0093</eadid><filedesc><titlestmt><titleproper>Guide to the Thor and Jane Rinden scrapbook and photographs <num>BCMS.0093</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Brooklyn Collection</publisher><p><date>February 2, 2024</date></p><address><addressline>128 Pierrepont St</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-02 20:15:43 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Collection</corpname>
+    </repository>
+    <unittitle>Jane and Thor Rinden scrapbook and photographs</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Levine, Margaret (Maggie)</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Rinden, Thor W., 1937-2009</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Rinden, Jane L., 1940-2018</persname>
+    </origination>
+    <unitid>BCMS.0093</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in one flat box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1968/1981" type="inclusive">1968-1981</unitdate>
+    <abstract id="aspace_3aa7d16308c81c2e3b93e5e144d25fbd">A scrapbook, photographs, negatives, and ephemera documenting Jane and Thor Rinden's 1968-1973 renovation of their Carroll Gardens brownstone.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Small Flat Box 12" id="aspace_ef962a7002fd3f935e54f063c6c48426" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_0df1f8a59bb25a78e37828bbf34a8293">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_316ab384d8e0443e2a79f9fb4559f3fb">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Maggie Levine as representative of the Jane and Thor Rinden Estate, 2018.</p>  </acqinfo>
+  <arrangement id="aspace_8d69d01f0ee7cf90e5624398ad688a9b">
+    <head>Arrangement</head>
+<p>The photographs and negatives are in one folder and the loose scrapbooks items in another. Both folders are housed in a box with the scrapbook.</p>  </arrangement>
+  <bioghist id="aspace_88b71277df7b729d68d953316b0ac644">
+    <head>Biographical note</head>
+<p>Thor W. Rinden was born in Marshalltown, Iowa in 1937 to Harriett Neff and Carroll Grant "Duke" Rinden. He attended the University of Iowa's School of Business, and then served in the U.S. Army, spending nearly two years in Laos as part of his service.</p><p>Jane L. Rinden was born in Metuchen, NJ in 1940 to Bernice Lucille Deibler and Ray Charles Herb. She attended Randolph-Macon Woman's College in Lynchburg, Virginia. Her college roommate was engaged to a roommate of Thor's, a fellow army lieutenant whose apartment was near Fort Bragg, North Carolina. Jane and Thor met when Jane and her roommate were there visiting.</p><p>After Jane graduated, she moved to New York City to attend graduate school at NYU, and Thor also moved to New York. They lived near each other in the West Village, but eventually broke up and remained apart for about a year, during which time Thor attended the 1963 March on Washington (and was, according to Jane's memoir, visible in the crowd as pictured on the cover of Life magazine). After they reunited, they moved to Brooklyn Heights, and were soon married. They later moved to Cobble Hill.</p><p>Jane encouraged Thor to attend graduate school for art, and he earned his Master's at Hunter College. Jane worked as an English teacher at Packer Collegiate Institute in Brooklyn Heights, and had also worked at Chapin in Manhattan. Thor was an Art Teacher at Halsey Junior High School, but would eventually leave teaching to become a full time artist.</p><p>The Rindens bought their 1870, 18 foot wide brownstone at 12 Second Place in Carroll Gardens for $28,000 on September 13, 1968 from John Ferriolo and Rose Capuano (a photograph of whom is included in the scrapbook), whose late mother had previously owned the house. Their real estate agent was friend and neighbor Carol Salguero. At the time, the neighborhood was redlined, and they could not secure a mortgage from a bank. Jane's parents, however, offered them a mortgage. The Rindens moved in on November 18, 1968. In December, they adopted their dog, Mushroom. They spent the next five years working on a major renovation of the house, which is documented in this collection. Thor's parents helped to finance part of the renovation.</p><p>The Rindens did not have children. Thor Rinden passed away in 2009, and Jane followed in August of 2018.</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>De Vries, Susan. "Making a Life in Brooklyn: Carroll Gardens Brownstoners in the 1960s." Brownstoner, December 3, 2018.</item>
+      <item>Hughes, C.J. "A Brooklyn Brownstone With History." New York Times, November 8, 2018.</item>
+      <item>Rinden, Jane L. Jane &amp; Thor: A Memoir and Poems. 2018.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_0b3fd3d2d6dd79478ace232f2b8953f8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Jane and Thor Rinden scrapbook and photographs, BCMS.0093, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_04d03afde78774a295b3b97de8810de4">
+    <head>Processing Information</head>
+<p>The original accession also included 3 copies of the Packer Pelican yearbook, 1976, 1979, 1981; 12 copies of the publication "Packer Current Items" from the 1960s/70s; 2 copies of Halsey JHS publications, 1967-1968; and assorted clippings and ephemera related to the brownstone revival movement. Shortly after accessioning, these items were separated from the scrapbook and photographs, and eventually, the yearbooks were added to the Brooklyn yearbooks collection (BCMS.0031), the issues of "Packer Current Items" to the Packer Collegiate Institute records (2014.019), the Halsey JHS publications to the Brooklyn schools collection (CBHM.0006), and the clippings and ephemera to the Brooklyn ephemera collection (BCMS.0007) and the Brooklyn Collection clippings files (now held at the Central library).</p><p>The scrapbook and photographs were processed and this finding aid created by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_1c4de8bc3048772c857d7643b161279f">
+    <head>Related Materials</head>
+<p>Thor Rinden greeting cards (accession 2022.004)</p><p>Rinden, Jane L. <emph render="italic">Jane &amp; Thor: a memoir and poems</emph>. 2018. B RINDEN R</p><p>Rinden, Thor W. <emph render="italic">Subway seizures: poems</emph>. 2009. 811 R</p><p>Thor Rinden Papers at the University of Iowa (MsC1197)</p>  </relatedmaterial>
+  <scopecontent id="aspace_fb1658675255b98a5c324e3f74ae78f9">
+    <head>Scope and Contents</head>
+<p>One scrapbook detailing Thor and Jane Rinden's renovation of their Carroll Gardens brownstone, 1968-1977, one folder of black and white photographs and negatives showing the house and neighborhood, and one folder of loose items that had been tucked into the scrapbook, including three pencil drawings of the house (presumably by Thor Rinden), a Benjamin Moore paint swatch booklet (with colors used in the house marked), a photograph of Thor Rinden with other members of the Carroll Gardens Association, and a black and white photocopy of a historic insurance map of the neighborhood.</p><p>The scrapbook includes color photographs, handwritten captions by Thor, and ephemera, as well as a poem Thor wrote about the house and its renovation and some of his drawings. It also includes a clipping of a long essay written by Jane about the house with accompanying drawings by Thor. Its front cover is handpainted, presumably by Thor. The first page includes a color, abstracted drawing of the house's signature spiral staircase and a handwritten dedication that reads: "For B.D.H., whose understanding, confidence, great generosity, muscle and love made an old house smile proudly again. XXX J.L.R., T.W.R. and M.R. [Jane, Thor, and their dog Mushroom] 1977." "B.D.H." is presumably Bernice Deibler Herb, Jane's mother, who had her own bedroom in the house.</p><p>The photographs include the Rinden's friends and family, including Jane's mother Bernice and sister Sally, Thor's parents Harriett and Duke, friends Joe Cupo, Paul E. Paddock, Ousman Sallah, Yura and Bernie Mohr, and Mary Tyl and neighbors Alex Vella and Carolina Salguero. Several other friends and neighbors are noted only by first name, and mention is made of the family next door, the Sabatinos. There are also details about antique furniture and fixings acquired from a home in Metuchen, NJ and another in Saratoga Springs, NY. The scrapbook also notes that the pink bricks in the home's backyard were acquired from demolition work at the Long Island College Hospital in Cobble Hill.</p>  </scopecontent>
+  <userestrict id="aspace_7344c86f71617edcb45acfaa02a82a0b">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Brownstone buildings -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Carroll Gardens (New York, N.Y.)</geogname>
+    <genreform source="aat">Scrapbooks</genreform>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Color prints (photographs)</genreform>
+    <genreform source="aat">Negatives (Photographs)</genreform>
+    <genreform source="aat">Drawings (visual works)</genreform>
+    <genreform source="aat">Poetry</genreform>
+    <subject source="lcsh">Renovation (Architecture)</subject>
+    <subject source="lcsh">Renovation (Architecture) -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Furniture</subject>
+    <subject source="lcsh">Dogs</subject>
+    <subject source="lcsh">Pets</subject>
+    <geogname source="lcsh">Carroll Gardens Historic District (New York, N.Y.)</geogname>
+    <subject source="lcsh">Gardens</subject>
+    <subject source="lcsh">Urban gardening</subject>
+    <persname role="dnr" source="local">Levine, Margaret (Maggie)</persname>
+    <corpname source="local">Carroll Gardens Association</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
