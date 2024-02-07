@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_136_shattuck_white/">arms_1978_136_shattuck_white</eadid><filedesc><titlestmt><titleproper>Guide to the Lemuel Shattuck collection of White family papers <num>1978.136</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 7, 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:44 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_136_shattuck_white/">arms_1978_136_shattuck_white</eadid><filedesc><titlestmt><titleproper>Guide to the Lemuel Shattuck collection of White family papers <num>1978.136</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 7, 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-07 20:45:08 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -8,35 +8,64 @@
     <origination label="Creator">
       <persname rules="dacs" source="naf">Shattuck, Lemuel</persname>
     </origination>
+    <origination label="source">
+      <persname role="fmo" source="naf">Purple, Samuel S. (Samuel Smith), 1822-1900</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="aacr" source="naf">White, Alfred Tredway, 1846-1921</persname>
+    </origination>
+    <origination label="source">
+      <corpname role="sll" source="naf">C.F. Libbie &amp; Co.</corpname>
+    </origination>
     <unitid>1978.136</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.16 Linear Feet</extent>
-      <extent altrender="carrier">in two folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1693/1856" type="inclusive">1693-1856</unitdate>
-    <abstract id="aspace_771f9b69f6d6437e0a53836d58dd6780">The collection consists of genealogical notes and letters concerning the White family of Long Island. Materials in the collection span the period 1693 to 1856.</abstract>
+    <unitdate datechar="creation" normal="1693/1856" type="inclusive">1693, 1846-1856</unitdate>
+    <abstract id="aspace_771f9b69f6d6437e0a53836d58dd6780">Correspondence and notes concerning the genealogy of the White family of Long Island, 1846-1856, and one original document from 1693.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_478ad0cc4a25a26c0e3580d5bbff2760" label="Text" type="Box">A0141</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_dae1de9c33c5d7f49a47c8e7e9ccdcb5" label="Mixed Materials" type="Box">A0033</container>
   </did>
-  <processinfo id="aspace_9b366651311460c623ca8e98cd421c31">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
-  <prefercite id="aspace_4eef6d47f350de27ddc8975c3613bad9">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Lemuel Shattuck collection of White family papers, 1978.136, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_96ef274e33bee1358785f3e633038153">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Alfred Tredway White, 1909.</p>  </acqinfo>
   <accessrestrict id="aspace_a45ae76a9962c1d3d4fa9d209505f0d4">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_96ef274e33bee1358785f3e633038153">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Alfred Tredway White, 1909.</p>  </acqinfo>
+  <arrangement id="aspace_cf11f7ec35e8fd1cd8650395910648c0">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement, except that the oldest document in the collection, dated 1693, is sleeved and at the front of the folder.</p>  </arrangement>
+  <bioghist id="aspace_5bf2c279dcd83a60a8757115ff0301da">
+    <head>Biographical note</head>
+<p>Lemuel Shattuck (1793-1859) was a Boston politician, historian, bookseller and publisher. He was elected a member of the American Antiquarian Society in 1831, and was one of the founders of the New England Historic Genealogical Society in 1844.</p>  </bioghist>
+  <custodhist id="aspace_8d3b943e97b393165597558a190bd949">
+    <head>Custodial History</head>
+<p>Collected by Lemuel Shattuck, 1846-1856. Purchased at auction sale at C.F. Libbie &amp; Co., Boston, Mass.: Collection of Samuel S. Purple, M.D., Feb. 16-19, 1909.</p>  </custodhist>
+  <prefercite id="aspace_4eef6d47f350de27ddc8975c3613bad9">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Lemuel Shattuck collection of White family papers, 1978.136, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_9b366651311460c623ca8e98cd421c31">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_23df5dc8975ab59bfad8c8e4d6362cea">
+    <head>Scope and Contents</head>
+<p>Correspondence and notes concerning the genealogy of the White family of Long Island, 1846-1856, and one original document from 1693. The correspondence is addressed to Lemuel Shattuck, and the notes are presumably his, based on his research into the White family's genealogy. The original 1693 item is a legal document pertaining to James White.</p>  </scopecontent>
+  <userestrict id="aspace_a9a5cf0f64677a3aa8723424051e6134">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Families -- New York (State) -- Long Island</subject>
     <geogname source="lcsh">Long Island (N.Y.)</geogname>
     <subject source="lcsh">Genealogy</subject>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Research notes</genreform>
     <famname rules="dacs" source="naf">White family</famname>
+    <persname role="fmo" source="naf">Purple, Samuel S. (Samuel Smith), 1822-1900</persname>
+    <persname role="dnr" rules="aacr" source="naf">White, Alfred Tredway, 1846-1921</persname>
+    <corpname role="sll" source="naf">C.F. Libbie &amp; Co.</corpname>
   </controlaccess>
   <dsc/>
 </archdesc>
