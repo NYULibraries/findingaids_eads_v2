@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_122_weynberg/">arms_1978_122_weynberg</eadid><filedesc><titlestmt><titleproper>Guide to the David Weynberg papers <num>1978.122</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:59 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_122_weynberg/">arms_1978_122_weynberg</eadid><filedesc><titlestmt><titleproper>Guide to the David Weynberg papers <num>1978.122</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>July 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-07 15:06:07 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -8,37 +8,78 @@
     <origination label="Creator">
       <persname rules="dacs" source="local">Weynberg, David</persname>
     </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Independent Order of Odd Fellows</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Manhattan Terrace Civic Association (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="naf">United Order of True Sisters</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Philip B. Masterson Company</corpname>
+    </origination>
     <unitid>1978.122</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in five folders.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1941/1953" type="inclusive">1941-1953</unitdate>
-    <abstract id="aspace_0456d7ef3159c72fa9e636c48951ab85">The David Weynberg papers include correspondence, bylaws, maps, affidavits, reports, and other legal documents related to the Williamsburg Settlement Inc., the Long Island I.O.O.F. Home Association, the Brooklyn Philanthropic League, the United Order of True Sisters, Inc., the Estate of Jane Murphy McCann, and Manhattan Terrace. David Weynberg was an attorney at Smith and Weynberg, located at 16 Court Street in Brooklyn.</abstract>
+    <unitdate datechar="creation" normal="1935/1956" type="inclusive">1935-1956</unitdate>
+    <abstract id="aspace_0456d7ef3159c72fa9e636c48951ab85">The David Weynberg papers include correspondence, legal documents, and photographs related to the Odd Fellows Home of the Long Island I.O.O.F. Home Association, the Brooklyn Philanthropic League and its Williamsburg Settlement, the Estate of Jane Murphy McCann, and the Manhattan Terrace Civic Association.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_887d12ce4de969967e0871fbff5aeacd" label="Text" type="Box">A0083</container>
   </did>
-  <prefercite id="aspace_100e42dc49964cec15de2b221a7f7ddd">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); David Weynberg papers, 1978.122, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_98ef78238d7c8b982c9a221c1e53fe95">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The papers were formally accessioned in 1978.</p>  </acqinfo>
   <accessrestrict id="aspace_368930745ff74f52e669e7f922e94e76">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_98ef78238d7c8b982c9a221c1e53fe95">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The papers were formally accessioned in 1978.</p>  </acqinfo>
+  <arrangement id="aspace_d38ad42f684b6be17492a1b57a624b5a">
+    <head>Arrangement</head>
+<p>The collection is arranged into five folders by subject.</p>  </arrangement>
+  <bioghist id="aspace_e5669550073313a80b3a8ba5a2b0c80a">
+    <head>Biographical note</head>
+<p>David Weynberg was an attorney at Smith and Weynberg, located at 16 Court Street in Brooklyn.</p>  </bioghist>
+  <prefercite id="aspace_100e42dc49964cec15de2b221a7f7ddd">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); David Weynberg papers, 1978.122, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_e87e3126b94032aa898da187010d8d08">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_b370595eada029425a204772afcffad3">
+    <head>Related Materials</head>
+<p>Fraternal organizations of Brooklyn collection (ARC.147), Series 4: Independent Order of Odd Fellows of New York State</p><p>Manhattan Terrace Civic Association photographs (V1987.028)</p><p>Records of the Brooklyn Council for Social Planning (BCMS.0039), Williamsburg Settlement of the Brooklyn Philanthropic League</p>  </relatedmaterial>
+  <scopecontent id="aspace_50487d3f0d4a13cb22dbc40b99ea4b1a">
+    <head>Scope and Contents</head>
+<p>The David Weynberg papers include correspondence, legal documents, and photographs related to the Odd Fellows Home of the Long Island I.O.O.F. Home Association, the Brooklyn Philanthropic League and its Williamsburg Settlement, the Estate of Jane Murphy McCann, and the Manhattan Terrace Civic Association.</p>  </scopecontent>
+  <userestrict id="aspace_155e5f03949aa6cdbf02aa333b657c9d">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Affidavits</genreform>
     <genreform source="aat">Reports</genreform>
-    <subject source="lcsh">Lawyers |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Lawyers -- New York (State) -- Kings County</subject>
     <genreform source="aat">Correspondence</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Bylaws (administrative records)</genreform>
     <genreform source="aat">Maps</genreform>
+    <geogname source="lcsh">Midwood (New York, N.Y.)</geogname>
+    <geogname source="lcsh">East Williamsburg (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <subject source="lcsh">Decedents' estates</subject>
+    <subject source="lcsh">Decedents' estates -- New York (State) -- New York</subject>
+    <subject source="lcsh">Inventories of decedents' estates -- New York (State) -- New York</subject>
+    <subject source="lcsh">Estates (Law)</subject>
+    <geogname source="lcsh">Queens County (N.Y.)</geogname>
+    <subject source="lcsh">Real property -- New York (State) -- Queens County</subject>
     <persname rules="dacs" source="local">Weynberg, David</persname>
+    <corpname rules="aacr" source="naf">Independent Order of Odd Fellows</corpname>
+    <corpname rules="dacs" source="local">Manhattan Terrace Civic Association (Brooklyn, New York, N.Y.)</corpname>
+    <corpname source="naf">United Order of True Sisters</corpname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_fea8aa200278ff9ad49569799dfc9317" level="file"><did><unittitle>Great Eastern Coal Co. receipts</unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6d42decd375a2c0547b4a5c309591a7c" label="Mixed Materials" type="Box">A0032</container><container id="aspace_33254600d6d3c5978da93b09c1f7db1c" parent="aspace_6d42decd375a2c0547b4a5c309591a7c" type="Folder">1</container></did><scopecontent id="aspace_ce3f3f5ed8348e3bb111dc2d170890c1"><head>Scope and Contents</head><p>Three receipts relating to 262 Neptune Avenue in Brighton Beach from the Great Eastern Coal Co. at 1148 Metropolitan Avenue, East Williamsburg.</p></scopecontent></c><c id="aspace_1ba695edcaf0ab51dce888f978ccdcfc" level="file"><did><unittitle>Appraisers report, estate of Jane Murphy McCann</unittitle><unitdate datechar="creation" normal="1942/1942">1942</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_d7ca28cbb440a1fc4a243dabf10111e9" label="Mixed Materials" type="Box">A0032</container><container id="aspace_95a29e8628211e00117a67fe256277f7" parent="aspace_d7ca28cbb440a1fc4a243dabf10111e9" type="Folder">2</container></did><scopecontent id="aspace_cc7d20bfd09db9063ff26be34a1ba052"><head>Scope and Contents</head><p>Prepared by Philip B. Masterson Company.</p></scopecontent></c><c id="aspace_ea6dce1d2b1bd7ec6fbb5e1162696846" level="file"><did><unittitle>Brooklyn Philanthropic League</unittitle><unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ea9069058031949aaaab4b7314766b9e" label="Mixed Materials" type="Box">A0032</container><container id="aspace_9546e09c5f7f9b6f1f1c9bc6ca93bfe6" parent="aspace_ea9069058031949aaaab4b7314766b9e" type="Folder">3</container></did><scopecontent id="aspace_4aca9a4a3dd523460a51d292f4efa98c"><head>Scope and Contents</head><p>Tax documents, correspondence, constitution and by-laws relating to the Williamsburg Settlement of the Brooklyn Philanthropic League, United Order True Sisters, Inc., 17-19 Montrose Avenue.</p></scopecontent></c><c id="aspace_a94ccc19ef35debb9c550f8f7cdac47d" level="file"><did><unittitle>Odd Fellows Home, Long Island I.O.O.F. Home Association</unittitle><unitdate datechar="creation" normal="1950/1954" type="inclusive">1950-1954</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_e6b2e0d90d1c5c6978fd4bf977326d0a" label="Mixed Materials" type="Box">A0032</container><container id="aspace_2ddcf9dea723d55a1f0a48f552b504c2" parent="aspace_e6b2e0d90d1c5c6978fd4bf977326d0a" type="Folder">4</container><container id="aspace_77fd79eeb99d0d6fc571687680cbfe5d" label="Maps" type="Folder">Flat File</container></did><scopecontent id="aspace_24287dc1651cc9c4077dae9cc29e0109"><head>Scope and Contents</head><p>Documents, correspondence, and oversize maps regarding an estate issue, property ownership, and by-laws for the Odd Fellows Home, Hollis, Queens.</p></scopecontent></c><c id="aspace_0afe320cf75a36550774b1856f2e2ee3" level="file"><did><unittitle>Manhattan Terrace zoning dispute</unittitle><unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6816b8ac4f15bd6d736252fd5fc5e906" label="Mixed Materials" type="Box">A0032</container><container id="aspace_8e06077bad8f7c478b56bbbc98c743e3" parent="aspace_6816b8ac4f15bd6d736252fd5fc5e906" type="Folder">5</container></did><scopecontent id="aspace_38aef2e2823639ce78fb555e2f6e21d5"><head>Scope and Contents</head><p>A clipping, flyer, and set of black and white photographs documenting a zoning dispute in Midwood between the Manhattan Terrace Civic Association and a real estate developer seeking to build an apartment building.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
