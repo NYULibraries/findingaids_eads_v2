@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_326/">wag_326</eadid><filedesc><titlestmt><titleproper>Guide to the Joshua B. Freeman Research Files on the Transport Workers Union of America <num>WAG.326</num></titleproper><author>Rachel Schimke</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>May 2012</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:41:20 -0400</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_326/">wag_326</eadid><filedesc><titlestmt><titleproper>Guide to the Joshua B. Freeman Research Files on the Transport Workers Union of America <num>WAG.326</num></titleproper><author>Rachel Schimke</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>May 2012</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-09 11:42:29 -0500</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>February 2024</date><item>Record updated by Rachel Searcy to reflect 2024 accretion and create inventory of original donation</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
     </repository>
     <unittitle>Joshua B. Freeman Research Files on the Transport Workers Union of America</unittitle>
     <origination label="Creator">
-      <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname authfilenumber="(lccn)no2007006810" source="naf">Metropolitan Music School (New York, N.Y.)</corpname>
+      <persname source="naf">Freeman, Joshua Benjamin</persname>
     </origination>
     <origination label="source">
       <persname role="dnr" source="naf">Freeman, Joshua Benjamin</persname>
     </origination>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
+    </origination>
     <unitid>WAG.326</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1571</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
-      <extent altrender="carrier">in 1 record carton and 1 oversize flat box</extent>
+      <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 half manuscript box, and 1 oversize flat box</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1940/1996" type="inclusive">1940s-1996, undated</unitdate>
     <unitdate datechar="creation" normal="1940/1952" type="bulk">1940-1952</unitdate>
-    <abstract id="aspace_2801e6c99f5cc0ef7dda896b4999124e">Joshua B. Freeman is a historian whose research focuses on U.S. labor history and the U.S. in the twentieth century. The collection is primarily records of the Federal Bureau of Investigation pertaining to the Transport Workers Union of America and its subunits during the 1940s, obtained by Freeman under the Freedom of Information Act (FOIA) in 1980.</abstract>
+    <abstract id="aspace_2801e6c99f5cc0ef7dda896b4999124e">Joshua B. Freeman is a historian whose research focuses on U.S. labor history and the U.S. in the twentieth century. The collection is primarily records of the Federal Bureau of Investigation pertaining to the Transport Workers Union of America and its subunits during the 1940s, obtained by Freeman under the Freedom of Information Act (FOIA) in the 1980s. The FBI investigation files document TWU operations and members; more broadly, the collection documents coordinated federal surveillance of organized labor and leftist social movements.</abstract>
     <langmaterial id="aspace_603e48af068b38a0da9453a90512e1c6">Materials are in English.</langmaterial>
   </did>
   <bioghist id="aspace_16362644a9788995625d520d087d9e7c">
-    <head>Historical/Biographical Note</head>
+    <head>Biographical Note</head>
 <p>Joshua B. Freeman is a historian whose research focuses on U.S. labor history and the U.S. in the twentieth century. Freeman obtained a bachelor's degree from Harvard University in 1970 and went on to earn a master's degree in 1976 and a Ph.D. in 1983, both from Rutgers University. He is the author of <emph render="italic">In Transit: The Transport Workers Union in New York City, 1933-1966</emph>, which details the formation and development of the TWU, with particular emphasis on the role of Communists and veterans of the Irish Republican Army. He also wrote <emph render="italic">Working-Class New York: Life and Labor Since World War II</emph> and co-authored <emph render="italic">Who Built America? Working People and the Nation's Economy, Politics, Culture, and Society Vol. II</emph>. In 1987 he was appointed an assistant professor at Columbia University, and became an associate professor in 1991. Freeman is currently a professor at Queens College, City University of New York. He serves on the editorial board of the journal <emph render="italic">International Labor and Working-Class History</emph> and is a consulting editor for the <emph render="italic">New Labor Forum</emph>.</p>  </bioghist>
   <relatedmaterial id="aspace_9e0d1b85a15ceeff19d90581d17eee82">
     <head>Related Archival Materials</head>
@@ -39,13 +40,13 @@ Transport Workers Union of America Records (WAG 235)<lb/>
 Transport Workers Union of America: Records of Locals (WAG 234)<lb/></p>  </relatedmaterial>
   <acqinfo id="aspace_ab4de579030cc39a0491e9076783179a">
     <head>Immediate Source of Acquisition</head>
-<p>Donated by Joshua B. Freeman in April 2012. The accession numbers associated with this gift are 2012.042 and 2012.045.</p>  </acqinfo>
+<p>Donated by Joshua B. Freeman in April 2012. The accession numbers associated with this gift are 2012.042 and 2012.045. Freeman donated an accretion in October 2023; the accession number associated with this gift is 2024.014.</p>  </acqinfo>
   <scopecontent id="aspace_576eb46766e654cf25cd316172108187">
     <head>Scope and Contents</head>
-<p>The collection is primarily records of the Federal Bureau of Investigation pertaining to the Transport Workers Union of America and its subunits during the 1940s, obtained by Joshua B. Freeman under the Freedom of Information Act (FOIA) in 1980. The collection also includes several pieces of correspondence written to Freeman from the Department of Justice regarding his FOIA request. </p><p>The collection also contains a banner that was hung above the speakers' podium in the Low Library rotunda at Columbia University during "The Fight for America's Future: A Teach-In with the Labor Movement," held October 3-4, 1996 at Columbia University. The transcript of the trial of Julius and Ethel Rosenberg vs. United States and papers related to the Citizen's Committee for the Metropolitan Music School also make up part of the collection.</p>  </scopecontent>
+<p>The collection is primarily records of the Federal Bureau of Investigation pertaining to the Transport Workers Union of America and its subunits during the 1940s, obtained by Joshua B. Freeman under the Freedom of Information Act (FOIA) in the 1980s. The collection also includes several pieces of correspondence written to Freeman from the Department of Justice regarding his FOIA request. </p><p>The collection also contains a banner that was hung above the speakers' podium in the Low Library rotunda at Columbia University during "The Fight for America's Future: A Teach-In with the Labor Movement," held October 3-4, 1996 at Columbia University. The transcript of the trial of Julius and Ethel Rosenberg vs. United States and papers related to the Citizen's Committee for the Metropolitan Music School also make up part of the collection.</p>  </scopecontent>
   <processinfo id="aspace_1c93b89aba00524ea06e7a5ec77b65bc">
     <head>Processing Information</head>
-<p>This collection is unprocessed. Materials remain in their original order. Folder titles added by the archivist are indicated with square brackets.</p>  </processinfo>
+<p>This collection is unprocessed. Materials remain in their original order. In February 2024 an accretion of declassified FBI records was incorporated into the collection as Boxes 3-4.</p>  </processinfo>
   <arrangement id="aspace_7d5708838a1efa3977213c9ce731db52">
     <head>Arrangement</head>
 <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
@@ -58,6 +59,9 @@ Transport Workers Union of America: Records of Locals (WAG 234)<lb/></p>  </rela
   <prefercite id="aspace_17a87c5173a51dc21b05c8d7afc64cce">
     <head>Preferred Citation</head>
 <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Joshua B. Freeman Research Files on the Transport Workers Union of America; WAG 326; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <custodhist id="aspace_193cdeedd817af16b04665a896848fe7">
+    <head>Custodial History</head>
+<p>The majority of this collection consists of declassified investigative records of the Federal Bureau of Investigation. These were obtained by Freeman through Freedom of Information Act (FOIA) requests.</p>  </custodhist>
   <controlaccess>
     <subject source="lcsh">Anti-communist movements -- United States.</subject>
     <subject source="lcsh">Transport workers -- Labor unions -- United States</subject>
@@ -66,13 +70,13 @@ Transport Workers Union of America: Records of Locals (WAG 234)<lb/></p>  </rela
     <subject source="lcsh">Nuclear weapons |z United States |x History.</subject>
     <genreform source="aat">Transcripts.</genreform>
     <corpname authfilenumber="(lccn)n83147602" source="naf">Transport Workers Union of America</corpname>
-    <corpname authfilenumber="(lccn)n81024714" source="naf">Columbia University</corpname>
     <persname role="dnr" source="naf">Freeman, Joshua Benjamin</persname>
+    <corpname authfilenumber="(lccn)n81024714" source="naf">Columbia University</corpname>
     <corpname authfilenumber="(lccn)no2007006810" source="naf">Metropolitan Music School (New York, N.Y.)</corpname>
     <persname source="naf">Rosenberg, Julius, 1918-1953</persname>
     <persname source="naf">Rosenberg, Ethel, 1915-1953</persname>
     <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
   </controlaccess>
-  <dsc></dsc>
+  <dsc><c id="aspace_d080a38b2aa7141a6768c9bfca95d30c" level="file"><did><unittitle>Federal Bureau of Investigation Files</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/989480</unitid><unitdate datechar="creation" normal="1940/1986" type="inclusive">1940-1986</unitdate><container altrender="Record carton" id="aspace_6eddd40db863ab13bbaff261ae0352dd" label="Mixed Materials [31142062764512]" type="Box">1</container><container altrender="Manuscript box - Legal" id="aspace_884d9c5327d33f16515897c5a30a259a" label="Mixed Materials" type="Box">3</container><container id="aspace_efe69a254d3ed636428ac3f1fd494f11" parent="aspace_884d9c5327d33f16515897c5a30a259a" type="Folder">1-5</container><container altrender="Manuscript box - Legal - Half" id="aspace_95c98754df384c8847920be49503f061" label="Mixed Materials" type="Box">4</container><container id="aspace_fcffd4064fc1c35669ae3baa2f092936" parent="aspace_95c98754df384c8847920be49503f061" type="Folder">1</container></did></c><c id="aspace_f38a81e0ee26739feaa483d7424f4020" level="file"><did><unittitle><emph render="italic">Rosenberg v. United States</emph> Transcript</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/989482</unitid><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container altrender="Record carton" id="aspace_a85782ade8d3777dc76e282c5cab3ec9" label="Mixed Materials [31142062764512]" type="Box">1</container></did></c><c id="aspace_af0c62cfc63e591e4037a8e782d01011" level="file"><did><unittitle>Citizen's Committee for the Metropolitan Music School</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/989483</unitid><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container altrender="Record carton" id="aspace_ca94cab7ae78c0716adb2ac1e1bc518b" label="Mixed Materials [31142062764512]" type="Box">1</container></did></c><c id="aspace_d1f6e9f0667ec6aa80f7e1744e402778" level="file"><did><unittitle>"The Fight for America's Future: A Teach-In with the Labor Movement" Banner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/989481</unitid><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container altrender="Hollinger Flat OS 16.75" id="aspace_3b7671019ec95c18af4888df38418f92" label="Mixed Materials [31142062759264]" type="Box">2</container></did></c></dsc>
 </archdesc>
 </ead>
