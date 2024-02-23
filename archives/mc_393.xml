@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_393">mc_393</eadid><filedesc><titlestmt><titleproper>Guide to the Courant Institute of Mathematical Sciences Collection of Sample Examinations <num>MC.393</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>February 2024</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-08 15:44:22 -0500</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Courant Institute of Mathematical Sciences Collection of Sample Examinations</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n50017637" source="naf">Courant Institute of Mathematical Sciences</corpname>
+    </origination>
+    <origination label="source">
+      <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+    </origination>
+    <unitid>MC.393</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3498</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1960/2004" type="inclusive">1960-2004</unitdate>
+    <abstract id="aspace_3690b93eab75f1a3201359e2ec146a02">The Courant Institute of Mathematical Sciences (CIMS) serves as New York Unviersity's mathematics research school. It grew from the Graduate School of Arts and Science's Department of Mathematics starting in 1935, when Richard Courant joined the faculty. The Institute was named the Institute for Mathematics and Mechanics in 1946. In that year and in 1954, research projects led to the establishment of the Division of Wave Propagation and Applied Mathematics and the Division of Magnetofluid Dynamics, respectively. NYU's first computer was installed at the Courant Institute in 1952, and its Computer Science program rapidly developed to include research on programming languages, computer graphics, parallel architectures, and theory. In 1965, the Institute was renamed after Richard Courant and moved to the newly constructed Warren Weaver Hall, where a majority of its activities still take place. The Division of Computational Fluid Dynamics was created in 1978. This collection consists of sample examinations for entry-level mathematics course offered by the Courant Institute. The examinations date from 1960-2004, and include courses in advanced calculus, complex variables, linear algebra, real analysis, mechanics, statistics, and basic algorithms. The sample examinations were available students for in-library-use at the CIMS Library.</abstract>
+    <physloc id="aspace_f4e4addf10a96d97f0319ff182b66fb1">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_36f591ea52ed28005cd606de5da20b90">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_7c28a3869bd456ebdc49cdee1c6be805">
+    <head>Scope and Contents</head>
+<p>This collection consists of sample examinations for entry-level mathematics course offered by the Courant Institute of Mathematical Sciences. The examinations date from 1960-2004, and include courses in advanced calculus, complex variables, linear algebra, real analysis, mechanics, statistics, and basic algorithms. The sample examinations were available students for in-library-use at the Courant Institute of Mathematical Sciences Library.</p>  </scopecontent>
+  <arrangement id="aspace_c519e391f4de61d5d0de5e22bb7014ab">
+    <head>Arrangement</head>
+<p>Materials are arranged chronologically.</p>  </arrangement>
+  <accessrestrict id="aspace_92e43967cfddb36ce8f7e2070e064c0e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_390330ecdf89f77bb10cbcceda86cd74">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Courant Institute of Mathematical Sciences are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact New York University Archives, special.collections@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <acqinfo id="aspace_450be90e82cfeae092c3eaeb7be71028">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was transferred from the Courant Institute Library in October 2023 along with other collections in the library's holdings. The accession number associated with this transfer is 2024.011.</p>  </acqinfo>
+  <prefercite id="aspace_56cdcbcb28e30cc74096148e846aaa87">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Courant Institute of Mathematical Sciences Collection of Sample Examinations; MC 393; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <bioghist id="aspace_ba4a764ed21ae8a5ab9aa37e422341a1">
+    <head>Biographical / Historical</head>
+<p>The Courant Institute of Mathematical Sciences (CIMS) serves as New York Unviersity's mathematics research school. It grew from the Graduate School of Arts and Science's Department of Mathematics starting in 1935, when Richard Courant joined the faculty. The Institute was named the Institute for Mathematics and Mechanics in 1946. In that year and in 1954, research projects led to the establishment of the Division of Wave Propagation and Applied Mathematics and the Division of Magnetofluid Dynamics, respectively. NYU's first computer was installed at the Courant Institute in 1952, and its Computer Science program rapidly developed to include research on programming languages, computer graphics, parallel architectures, and theory. In 1965, the Institute was renamed after Richard Courant and moved to the newly constructed Warren Weaver Hall, where a majority of its activities still take place. The Division of Computational Fluid Dynamics was created in 1978.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Mathematics -- Study and teaching</subject>
+    <genreform source="aat">Examinations (documents)</genreform>
+    <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_7815801c7eada8a0fc0db89bc056d380" level="file"><did><unittitle>Sample Examinations</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/989479</unitid><unitdate datechar="creation" normal="1960/2004" type="inclusive">1960-2004</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f260eb826aea33d8c4605eb80b1a5ef" label="Mixed Materials" type="Box">1</container><container id="aspace_27e2596942ae1d59a38b44cfca45dce2" parent="aspace_9f260eb826aea33d8c4605eb80b1a5ef" type="Folder">1-5</container></did></c></dsc>
+</archdesc>
+</ead>
