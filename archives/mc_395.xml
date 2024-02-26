@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_395">mc_395</eadid><filedesc><titlestmt><titleproper>Guide to the Robert Matz Collection of New York University Postcards <num>MC.395</num></titleproper><author>Danielle Nista and Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>February 2024</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-23 11:33:49 -0500</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Robert Matz Collection of New York University Postcards</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Matz, Robert</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Matz, Robert</persname>
+    </origination>
+    <unitid>MC.395</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3499</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1905/1999" type="inclusive">1905-1990s</unitdate>
+    <unitdate datechar="creation" normal="1905/1920" type="bulk">1905-1920</unitdate>
+    <abstract id="aspace_ede8529ac3f772bbf8499a5e483102cc">Dr. Robert Matz is an alumnus of New York University. The Robert Matz Collection of New York University Postcards consists of postcards collected by Dr. Robert Matz documenting the University Heights and Washington Square campuses. Most of the postcards date from the early 1900s. The Gould Memorial Library, the Hall of Fame of Great Americans, and the Loeb Student Student are depicted in many of the postcards, alongside other NYU buildings and programs. The majority of the postcards are blank, but some contain handwritten messages.</abstract>
+    <physloc id="aspace_26dd27f1d90a0f29c15f530d4de25c95">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_036b26972ba93a3904c076a98a234bcf">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_911d39e99bfb7125a880da8f40062bd6">
+    <head>Scope and Contents</head>
+<p>The Robert Matz Collection of New York University Postcards consists of postcards collected by Dr. Robert Matz documenting the University Heights and Washington Square campuses. Most of the postcards date from the early 1900s. The Gould Memorial Library, the Hall of Fame of Great Americans, and the Loeb Student Student are depicted in many of the postcards, alongside other NYU buildings and programs. The majority of the postcards are blank, but some contain handwritten messages.</p>  </scopecontent>
+  <arrangement id="aspace_f53af852cd6e7b20ec08e140432f68a0">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <accessrestrict id="aspace_45706377baf0c9f9b22afff71e7e9c6c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_7d5ae0c79e4d1f2e3b4f88710f8c09c5">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Repository is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <acqinfo id="aspace_64522c1c5440cca39ef1452d00feb110">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Robert Matz in January 2024; the accession number associated with this gift is 2024.016.</p>  </acqinfo>
+  <custodhist id="aspace_52475dc43c2011596812594b6a782d40">
+    <head>Custodial History</head>
+<p>Robert Matz collected and purchased the postcards from multiple sources. The collection was physically transferred from Dr. Matz to Elizabeth Pimentel prior to acquisition. Some of the postcards originally in Matz's possession were sold or given to Pimentel prior to acquisition by the New York University Archives.</p>  </custodhist>
+  <prefercite id="aspace_cebe8332afa685efc2714727b6fa556f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Robert Matz Collection of New York University Postcards; MC 395; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_6ec40776f19389e76c17d2d7a7e6168c">
+    <head>Processing Information</head>
+<p>At the time of accessioning materials were rehoused in archival boxes and folders, and described on the collection-level with a folder-level inventory.</p>  </processinfo>
+  <bioghist id="aspace_90fd8edd8937b3392bfa7246cac86ac4">
+    <head>Biographical Note</head>
+<p>Dr. Robert Matz is an alumnus of New York University.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Universities and colleges.</subject>
+    <genreform source="aat">Postcards.</genreform>
+    <subject source="lcsh">Education, Higher.</subject>
+    <persname role="dnr" rules="dacs" source="local">Matz, Robert</persname>
+    <corpname rules="dacs" source="local">New York University. University Heights</corpname>
+    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ec4b8d4428b8a53b97370fccddd44ce6" level="file"><did><unittitle>Postcards</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/989724</unitid><unitdate datechar="creation" normal="1905/1999" type="inclusive">1905-1990s</unitdate><unitdate datechar="creation" normal="1905/1920" type="bulk">1905-1920</unitdate><container altrender="Manuscript box - Letter Half Width" id="aspace_bf436a710a1db7a970382cb7c7a580e8" label="Mixed Materials [31142067001308]" type="Box">1</container><container id="aspace_08ec3ac2c115c82a585e48de5b5c5651" parent="aspace_bf436a710a1db7a970382cb7c7a580e8" type="Folder">1-2</container></did></c></dsc>
+</archdesc>
+</ead>
