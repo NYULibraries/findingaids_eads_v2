@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_066_montauk/">arc_066_montauk</eadid><filedesc><titlestmt><titleproper>Guide to the proprietors of Montauk collection <num>ARC.066</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 16, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:26 +0000</date>.</creation><langusage>FInding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_066_montauk/">arc_066_montauk</eadid><filedesc><titlestmt><titleproper>Guide to the proprietors of Montauk collection <num>ARC.066</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 16, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-28 17:14:27 +0000</date>.</creation><langusage>FInding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -21,16 +21,14 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container id="aspace_bddc19a9740691bbccedb7b14bc2893e" label="Computer Disks" type="item">ARC.066 CD Case</container>
-    <container altrender="Medium Flat Box" id="aspace_ea759d246028c4247f15b63e2ddd47ff" label="Text" type="Box">ARC.066 4 of 4</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_adfbd055568b6440ebb3710a5157dba5" label="Text" type="Box">ARC.066 1 of 3</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_8863378d905fae40f740810feee17afc" label="Text" type="Box">ARC.066 2 of 3</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_86908f945382af196cce517cefbd7191" label="Text" type="Box">ARC.066 3 of 3</container>
+    <container id="aspace_c6a65d4831f34d8b9ae1edc6f2acd3a4" label="Computer Disks" type="item">ARC.066 CD Case</container>
+    <container altrender="Medium Flat Box" id="aspace_9265b1599c2b1dd4cc53881254022b6b" label="Text" type="Box">ARC.066 4 of 4</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_b44e1a85946a7692430f3628eac97943" label="Text" type="Box">ARC.066 1 of 3</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_af7e88e674bd5bc3b4b6fc6f8ab63ad8" label="Text" type="Box">ARC.066 2 of 3</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_483ae02b783761a35df7a991075a9db5" label="Text" type="Box">ARC.066 3 of 3</container>
   </did>
   <bioghist id="aspace_bb6259c4f72e3a4ff4c1834d6f90e727">
     <head>Historical note</head>
-
-
 <p>In 1614, Dutch explorer Adriaen Block first encountered the Montauketts, one of the Algonquian-speaking groups who inhabited the area now known as Montauk, Long Island, N.Y. Not long after the "discovery" of Montauk by Block, Dutch and English settlers began to move there to farm, fish, and raise cattle. In the late 17th century, the Montauketts and the early English settlers, or, the Proprietors of Montauk, engaged in a series of land conveyances in which the proprietors of Montauk paid the Montauketts for land. Hand written documents were drawn up to record the exchanges between the Montauketts and the proprietors of Montauk.</p><p>In 1879, Arthur W. Benson (d. 1889) bought 10,000 acres of land in Montauk for $151,000. Benson, a businessman and land owner, was a founding owner of the Brooklyn Gas Light Company (1823) and was one of the original investors in the Brooklyn Bridge. He also owned farmland in what is now the Bensonhurst neighborhood of Brooklyn that he divided into lots and sold individually.</p><p>Montauk, N.Y. is an unincorporated, census-designated area located in Suffolk County, Long Island and it is the easternmost census-designated place in New York state. The incorporated town of East Hampton, N.Y., located within Montauk, holds the designation of the easternmost town in New York State.</p>    <list numeration="arabic" type="ordered">
       <head>Sources:</head>
       <item>Ross, Peter, and William S. Pelletreau. <emph render="italic">A History of Long Island: From its Earliest Settlement to the Present Time</emph>. New York: The Lewis Pub. Co., 1903. </item>
@@ -44,7 +42,7 @@
 <p>A portion of the materials in this collection, Indian land deeds 1655-1794, are stored off-site and are not currently available for researchers to use. Reproductions and transcriptions of these materials are available for research use.</p>  </phystech>
   <prefercite id="aspace_230150a8b5d8755ef34aefac621889d3">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Proprietors of Montauk collection, ARC.066, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Proprietors of Montauk collection, ARC.066, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <acqinfo id="aspace_1248284bf742a35a94a50dfe8ed8e2d1">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Mary Benson and Mrs. Thyrza Benson Flagg, 1918.</p>  </acqinfo>
@@ -61,6 +59,18 @@
   <relatedmaterial id="aspace_643d62c8431fffdee8339ab15d959ab7">
     <head>Related materials</head>
 <p>Brooklyn Historical Society also holds a transcript of the Indian deeds in the Othmer Library. Interested researchers should see <emph render="italic">Indian Deeds to Montauk, Long Island, N.Y., 1655-1794</emph> (F129.E13 I53 1900z). Please consult library staff for more information.</p>  </relatedmaterial>
+  <userestrict id="aspace_28998441a7cdaa48c7b5e0040da30300">
+    <head>Conditions Governing Use</head>
+<p>Material in this collection is in the public domain.</p>  </userestrict>
+  <phystech id="aspace_9d192d1331d6164c00b52a89d77375b9">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <altformavail id="aspace_f0102625ffcbc03eec3376d78e7c5429">
+    <head>Existence and Location of Copies</head>
+<p>The documents in this collection have been scanned and are available to view digitally in the library.</p>  </altformavail>
+  <processinfo id="aspace_1bf37de3fdba8ab4eab33dc44e33ea5d">
+    <head>Processing Information</head>
+<p>The items in this collection were scanned and digital files stored on CDs. The files were then transferred to Brooklyn Historical Society's digital assets server.</p>  </processinfo>
   <controlaccess>
     <genreform source="aat">Account books</genreform>
     <genreform source="aat">Conveyances</genreform>
