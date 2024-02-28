@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_167_cuyler/">arms_1978_167_cuyler</eadid><filedesc><titlestmt><titleproper>Guide to the Theodore L. Cuyler correspondence <num>1978.167</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:16 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_167_cuyler/">arms_1978_167_cuyler</eadid><filedesc><titlestmt><titleproper>Guide to the Theodore L. Cuyler correspondence <num>1978.167</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-28 16:38:50 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -8,39 +8,69 @@
     <origination label="Creator">
       <persname rules="aacr" source="naf">Cuyler, Theodore L. (Theodore Ledyard)</persname>
     </origination>
+    <origination label="source">
+      <corpname role="dnr" source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="fmo" source="local">Prichard, William H.</persname>
+    </origination>
     <unitid>1978.167</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1860/1890" type="inclusive">1860-1890</unitdate>
-    <abstract id="aspace_6b7e9ee771eae81efbf6f4b4aee7ff1d">The Theodore L. Cuyler correspondence spans the period 1860 to 1890 and consists of typewritten and photocopied transcriptions of Theodore L. Cuyler's correspondence on personal and religious topics.   Theodore Ledyard Cuyler (January 10, 1822-February 26, 1909) graduated from The College of New Jersey (later known as Princeton University) in 1841, and was ordained as a minister in 1848.</abstract>
+    <unitdate datechar="creation" normal="1872/1899" type="inclusive">1872-1899</unitdate>
+    <abstract id="aspace_6b7e9ee771eae81efbf6f4b4aee7ff1d">Typewritten and photocopied transcriptions of Theodore L. Cuyler's 1872-1899 correspondence primarily addressed or in relation to Rev. Augustus Bedlow Prichard. Cuyler was pastor of the Lafayette Avenue Presbyterian Church in Fort Greene, Brooklyn from 1860-1890.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_e5a4c97d0e0e577b4ed83c0d7bb5f402" label="Text" type="Box">A0087</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d70cfa929a903f1454bd92c4e6c5665e" label="Text" type="Box">A0034</container>
   </did>
-  <prefercite id="aspace_9e667fbf04a0d703eb5db433d53d4bcf">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Theodore L. Cuyler correspondence, 1978.167, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_d4a434b12188c581e1cbec9849c264a7">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of the Lafayette Avenue Presbyterian Church, 1978.</p>  </acqinfo>
-  <bioghist id="aspace_00f166110b6e472d4703baa8372ea4fc">
-    <head>Biographical note</head>
-<p>Theodore Ledyard Cuyler (January 10, 1822-February 26, 1909) graduated from The College of New Jersey (later known as Princeton University) in 1841, and was ordained as a minister in 1848. On March 17, 1853, he married Annie E. Mathiot (d. July 12, 1915). In 1854, Cuyler founded the Young Men's Christian Association (YMCA) in New York City. He was Brooklyn's leading proponent of the YMCA after he moved to Brooklyn, circa 1859. Cuyler also helped found the National Temperance Society and its publication house in 1865, serving as the Society's president from 1885 to 1893. Cuyler began serving as pastor of Brooklyn's Lafayette Avenue Presbyterian Church in 1860 and remained at that church until 1890. In 1885, Culyer started the Sunday Mission School on lower Atlantic Avenue in order to bring the Christian religious faith to the poor. The Sunday Mission School was soon known as Cuyler Presbyterian Church, located at 360 Pacific Street. In 1902, he published <emph render="italic">Recollections of a Long Life</emph>. Cuyler resided at 176 South Oxford Street.</p>  </bioghist>
-  <scopecontent id="aspace_11833a2d0b61bb880e86e71713c95726">
-    <head>Scope and Contents</head>
-<p>The Theodore L. Cuyler correspondence measures .08 linear feet and spans the period 1860 to 1890. The collection consists of typewritten and photocopied transcriptions of Theodore L. Cuyler's correspondence on personal and religious topics.</p>  </scopecontent>
   <accessrestrict id="aspace_4c7613c31774abc771d57dcd85a64afe">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_d4a434b12188c581e1cbec9849c264a7">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Lafayette Avenue Presbyterian Church, 1978.</p>  </acqinfo>
+  <arrangement id="aspace_0919e372430ee49e29649deca258a1fb">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <bioghist id="aspace_00f166110b6e472d4703baa8372ea4fc">
+    <head>Biographical note</head>
+<p>Theodore Ledyard Cuyler (January 10, 1822-February 26, 1909) graduated from The College of New Jersey (later known as Princeton University) in 1841, and was ordained as a minister in 1848. On March 17, 1853, he married Annie E. Mathiot (d. July 12, 1915). In 1854, Cuyler founded the Young Men's Christian Association (YMCA) in New York City. He was Brooklyn's leading proponent of the YMCA after he moved to Brooklyn, circa 1859. Cuyler also helped found the National Temperance Society and its publication house in 1865, serving as the Society's president from 1885 to 1893. Cuyler began serving as pastor of Brooklyn's Lafayette Avenue Presbyterian Church in 1860 and remained at that church until 1890. In 1885, Culyer started the Sunday Mission School on lower Atlantic Avenue in order to bring the Christian religious faith to the poor. The Sunday Mission School was soon known as Cuyler Presbyterian Church, located at 360 Pacific Street. In 1902, he published <emph render="italic">Recollections of a Long Life</emph>. Cuyler resided at 176 South Oxford Street in Fort Greene.</p><p>Augustus Bedlow Prichard studied at Adelphi Academy, Brooklyn, from 1866-1867. He was ordained as a Presbyterian minister in 1880 and served as pastor at Pleasant Valley in Dutchess County and then at Cumberland Street Church in Brooklyn until 1891. He organized and was pastor at Arlington Avenue Church from 1891-1898 before moving to Los Angeles, CA.</p>  </bioghist>
+  <custodhist id="aspace_580254b75a011d524f4df53a2d98aa07">
+    <head>Custodial History</head>
+<p>Sent by Paul Molnar, office manager at Lafayette Avenue Presbyterian Church, according to whom the original handwritten letters were sent to the church by Mr. William H. Prichard of Duarte, CA. The church had them transcribed by typewriter and sent these copies of the transcriptions to what was then the Long Island Historical Society at the request of Dr. George Knight, pastor.</p>  </custodhist>
+  <prefercite id="aspace_9e667fbf04a0d703eb5db433d53d4bcf">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Theodore L. Cuyler correspondence, 1978.167, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_2ad04f9061ced7322e3be7fc8bcbbb93">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_45bb0b6cd24dd2e181b9bf56b576be51">
+    <head>Related Materials</head>
+<p>Presbyterian Churches of Brooklyn collection (ARC.241)</p><p>Lafayette Avenue Presbyterian Church records (2009.011)</p><p>Brooklyn ephemera collection (BCMS.0007) - Churches: Arlington Ave. (Presbyterian)</p>  </relatedmaterial>
+  <scopecontent id="aspace_11833a2d0b61bb880e86e71713c95726">
+    <head>Scope and Contents</head>
+<p>The Theodore L. Cuyler correspondence measures .08 linear feet and spans the period 1860 to 1890. The collection consists of typewritten and photocopied transcriptions of Theodore L. Cuyler's correspondence primarily addressed or in relation to Rev. Augustus Bedlow Prichard.</p>  </scopecontent>
+  <userestrict id="aspace_2a258f52cdd9113f5f9ad6fe3ad13afc">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Clergy |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Clergy -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Presbyterian Church -- New York (State) -- Kings County</subject>
     <genreform source="aat">Correspondence</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+    <subject source="lcsh">Religion</subject>
+    <subject source="lcsh">Religion and culture -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Religion and social problems</subject>
+    <subject source="lcsh">Religion -- New York (State) -- Kings County</subject>
     <persname rules="aacr" source="naf">Cuyler, Theodore L. (Theodore Ledyard)</persname>
+    <persname source="local">Prichard, Augustus Bedlow, 1854-1943</persname>
+    <corpname role="dnr" source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <persname role="fmo" source="local">Prichard, William H.</persname>
   </controlaccess>
   <dsc/>
 </archdesc>
