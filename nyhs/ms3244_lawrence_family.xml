@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">ms3244_lawrence_family</eadid><filedesc><titlestmt><titleproper>Guide to the Lawrence Family Deeds, Wills, and Legal Documents,<lb/>1761-1918,<lb/> <num>MS 3244</num></titleproper><author>Joseph Ditta (February 2024)</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>February 2024</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-29 14:02:38 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Lawrence family deeds, wills, and legal documents</unittitle>
+    <origination label="Creator">
+      <famname source="naf">Lawrence family</famname>
+    </origination>
+    <unitid>MS 3244</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.209 Linear feet</extent>
+      <extent altrender="carrier">(27 items in 1 half-document box).</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1761-1918</unitdate>
+    <abstract id="aspace_17e303a79f925dcddd225e7e6f982264">A small collection of legal papers—deeds, indentures, subpoenas, tax receipts, wills, etc.—relating to members of the Lawrence family of Queens County.</abstract>
+    <physloc id="aspace_5362e33531434c6cf38c925ce8c4c3e5">This collection may be stored offsite. To arrange to consult it, please go to <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</physloc>
+    <langmaterial id="aspace_99a7275e1b41011df73472d01d93dc04">The documents in this collection are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_6e5995d2ec2b7ab2e618d16e84e0c5d2">
+    <head>Access Restrictions</head>
+<p>This collection may be stored offsite. To arrange to consult it, please go to <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</p>  </accessrestrict>
+  <acqinfo id="aspace_83b636f483cff7c3b9fc57b1cdf46766">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Edith Lovette, 2016 (accession no. MS-2016-49).</p>  </acqinfo>
+  <arrangement id="aspace_428d6059ffd15982b4f9f77a51f5e6cc">
+    <head>Arrangement</head>
+<p>The collection is arranged alphabetically by topic or document type, then chronologically.</p>  </arrangement>
+  <bioghist id="aspace_9c276cf1a90aa57abd2275e88190c75e">
+    <head>Historical note</head>
+<p>The Lawrence family descends from Thomas Lawrence, one of the original patentees of Flushing, Queens, as granted by Willem Kieft in 1645.</p>  </bioghist>
+  <prefercite id="aspace_0f413bcae7dad640a661cfe1267d2399">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as "Lawrence family deeds, wills, and legal documents, MS 3244, New-York Historical Society."</p>  </prefercite>
+  <processinfo id="aspace_48d5d56464deddb983627eb8c1458901">
+    <head>Processing Information</head>
+<p>Archivist Joseph Ditta arranged and described this collection in January-February 2024.</p>  </processinfo>
+  <scopecontent id="aspace_11127a60944bd91409958386852fdb20">
+    <head>Scope and Contents</head>
+<p>A small collection of legal papers stemming from the Lawrence family, whose forebears arrived in Queens County in the 17th century. The material here does not date back that far, but spans the mid-18th century through the early 20th. It includes a number of deeds and indentures for property held and sold in the New York counties of Montgomery, New York (Manhattan), Queens, and Westchester, as well as in Pennsylvania, and as far away as Mexico. Also present are copies of wills, and a family tree of the De Witt family, who were related by marriage to the Lawrences.</p>  </scopecontent>
+  <userestrict id="aspace_5df5d39daa4a15b24b786ef4a862437f">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff. Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282. Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="www.nyhistory.org/rights-and-reproductions">www.nyhistory.org/rights-and-reproductions</extref>.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Deeds.</genreform>
+    <genreform source="aat">Indentures.</genreform>
+    <genreform source="aat">Land grants.</genreform>
+    <genreform source="aat">Mortgages.</genreform>
+    <genreform source="aat">Stock certificates.</genreform>
+    <genreform source="aat">Subpoenas.</genreform>
+    <genreform source="aat">Wills.</genreform>
+    <subject source="lcsh">Real property -- Mexico.</subject>
+    <subject source="lcsh">Real property -- New York (State)  -- Montgomery County.</subject>
+    <subject source="lcsh">Real property -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Real property -- New York (State)  -- Queens County.</subject>
+    <subject source="lcsh">Real property -- New York (State)  -- Westchester County.</subject>
+    <subject source="lcsh">Real property -- Pennsylvania.</subject>
+    <subject source="lcsh">Wills -- New York (State) </subject>
+    <famname rules="dacs" source="local">De Witt (Family)</famname>
+    <famname source="naf">Lawrence family</famname>
+  </controlaccess>
+  <dsc><c id="aspace_35b4c6c599453bc357caf3209c4f414e" level="file"><did><unittitle>Genealogy (1 item)</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_7cb26afe4ec672d46e0cd22d691dbbcf" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_ea6ad9383562797188355a5882188f5a" parent="aspace_7cb26afe4ec672d46e0cd22d691dbbcf" type="Folder">1</container></did><scopecontent id="aspace_1f4a5921229302060884cc66950bd502"><head>Scope and Contents</head><p>"DeWitt Geneology" [sic]. Hand drawn family tree with notation "The De Witts were ancestors on the Lawrence side, but when and which De Witt married a Lawrence?"</p></scopecontent></c><c id="aspace_d3f50ac2608b668c4657c8e61a8e89b6" level="file"><did><unittitle>Real property—New York—Montgomery County (1 item)</unittitle><unitdate datechar="creation" type="inclusive">[1815?]</unitdate><container id="aspace_4836eef787b9f9231b01498130e14331" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_ce8e444f8f055dac1365222a3d4a5e34" parent="aspace_4836eef787b9f9231b01498130e14331" type="Folder">2</container></did><scopecontent id="aspace_d7ee5aafb1df49a11959375a21e34a76"><head>Scope and Contents</head><p>"Extract of a letter from James Cochran Esquire living at Palatine in Montgomery County, Dated Sept. 26, 1815?" Description of a patent there.</p></scopecontent></c><c id="aspace_5c24997b6dafd293b6764a08c7c2ccc6" level="file"><did><unittitle>Real property—New York—New York County (5 items)</unittitle><unitdate datechar="creation" type="inclusive">1835-1918</unitdate><container id="aspace_df18101672d354106cf549c0fc3445a8" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_b7655b10eaf02519019625e1eda5e107" parent="aspace_df18101672d354106cf549c0fc3445a8" type="Folder">3</container></did><scopecontent id="aspace_d920648ac464eba506aaca76249b2243"><head>Scope and Contents</head><p>•	Deed, Cornelius V. S. Kane to Margaret Lawrence, property at Bloomingdale, January 1, 1835.<lb/>
+•	Deed, Edmund Smith and wife to Isaac G. Pearson, property at 22 Marketfield Street, February 1, 1836.<lb/>
+•	Subpoena, The People of the State of New York, to James R. [Curtis?] et al. [including Isaac Green Pearson and James V. H. Lawrence], foreclosure of mortgage on property at Bloomingdale, August 21, 1843. 2 copies.<lb/>
+•	Memorandum in regard to flaw in title, 46 Hudson Street, July 5, 1918.</p></scopecontent></c><c id="aspace_41ff8db3a58d57f925fe1c954e9028ed" level="file"><did><unittitle>Real property—New York—Queens County (10 items)</unittitle><unitdate datechar="creation" type="inclusive">1836-1872</unitdate><container id="aspace_74f3e1c9d85a28cdd1badc687486e70e" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_ada78071f51c5b92d8c5f0565df73c3c" parent="aspace_74f3e1c9d85a28cdd1badc687486e70e" type="Folder">4</container></did><scopecontent id="aspace_a0c58a0a3f4467858f019a8906308f7d"><head>Scope and Contents</head><p>•	Deed, Charles Wardell to Marshall O. Roberts, property at Halletts Cove, Newtown, July 20, 1836.<lb/>
+•	Mortgage. Marshall O. Roberts to John Walworth, property at Halletts Cove, Newtown, July 20, 1836.<lb/>
+•	Deed, Marshall O. Roberts and wife to Catherine D. W. Lawrence, property at Halletts Cove, Newtown, September 10, 1849.<lb/>
+•	Tax receipts, Lawrence family properties at Long Island City, 1871–1873.<lb/>
+•	Deed, Hiram F. Blackwell, Anna E. Blackwell, and William T. Blackwell to James V. H. Lawrence, property at Long Island City, March 23, 1872.</p></scopecontent></c><c id="aspace_e6a99fe533cf66920d1e7b699d2d1499" level="file"><did><unittitle>Real property—New York—Westchester County (4 items)</unittitle><unitdate datechar="creation" type="inclusive">1835-1839</unitdate><container id="aspace_5cc2e7b6209afc4d725ecdee6bb2401d" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_0f97d42ac271d694128dbd3b857ead72" parent="aspace_5cc2e7b6209afc4d725ecdee6bb2401d" type="Folder">5</container></did><scopecontent id="aspace_394269b0e66d2ee774cfa9695e4281ce"><head>Scope and Contents</head><p>Originally enclosed in a wrapper marked "Memo [of] Papers Relating to New Rochelle Property Sold by Mrs. Margt. Lawrence"<lb/>
+•	Deed, Abraham H. Van Wyck to Margaret Lawrence, property at New Rochelle, October 1, 1835.<lb/>
+•	Affidavit, A. H. Van Wyck, property at New Rochelle, October 28, 1835.<lb/>
+•	Memorandum of agreement, Margaret Lawrence and John Basley, property at New Rochelle, January 30, 1839.</p></scopecontent></c><c id="aspace_6b836dcb0f60b66f1668ec840ea68dee" level="file"><did><unittitle>Real property—Pennsylvania (3 items)</unittitle><unitdate datechar="creation" type="inclusive">1821-1824</unitdate><container id="aspace_aa89684b34470aecd99699e9e1cb10db" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_ad7e601ff8492a713e1ef0d3adef8df0" parent="aspace_aa89684b34470aecd99699e9e1cb10db" type="Folder">6</container></did><scopecontent id="aspace_7ff71d4f1ceab2d29b82cd86ed734654"><head>Scope and Contents</head><p>•	Indenture, John Steinman to Enoch Wiswall, property at Catawissa, Old Northumberland County, August 17, 1821.<lb/>
+•	Indenture, John Steinman to Enoch Wiswall, property at Catawissa, Old Northumberland County, September 29, 1821.<lb/>
+•	Indenture, Theophilus T. Ware to Enoch Wiswall, property in Armstrong County, September 17, 1824.</p></scopecontent></c><c id="aspace_1e4de611aae85967386c86be1710884f" level="file"><did><unittitle>Real property—Mexico (1 item)</unittitle><unitdate datechar="creation" type="inclusive">1831</unitdate><container id="aspace_d6f58a3bf1573fb5b5e9f10c74d57b4f" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_c360e6fa16eb090d16c0324b475fae86" parent="aspace_d6f58a3bf1573fb5b5e9f10c74d57b4f" type="Folder">7</container></did><scopecontent id="aspace_b785962c3026d5a017e961f40bfa6b41"><head>Scope and Contents</head><p>Certificate, John Dominguez to H. A. Green, granting land in the Mexican state of Coahuila and Texas (Coahuila y Tejas), Dominguez' Grant, November 11, 1831.</p></scopecontent></c><c id="aspace_90b26c197493c050f074e2fb4cbc304a" level="file"><did><unittitle>Stock certificate (1 item)</unittitle><unitdate datechar="creation" type="inclusive">1906</unitdate><container id="aspace_12bd45974db12927c938a9f36238699e" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_75bbc36b5fa65e661c1ac069c2f9757f" parent="aspace_12bd45974db12927c938a9f36238699e" type="Folder">8</container></did><scopecontent id="aspace_2ee1ec62d703e2add89d9c0675120a2e"><head>Scope and Contents</head><p>Certificate, Manhattan [Nevada] Mother Lode Mining Company, 500 shares to James V. H. Lawrence, September 1, 1906.</p></scopecontent></c><c id="aspace_4f241573203bad7783f677d4a03335fc" level="file"><did><unittitle>Wills (2 items)</unittitle><unitdate datechar="creation" type="inclusive">1761, 1834</unitdate><container id="aspace_6d4a3199a25bf88d78bdb4451e4942aa" label="Mixed Materials [1804 00003 6979]" type="Offsite-Box">1</container><container id="aspace_a3872656ba6064528397246559f648e4" parent="aspace_6d4a3199a25bf88d78bdb4451e4942aa" type="Folder">9</container></did><scopecontent id="aspace_6cb9013220703884774dd1d0f051afe7"><head>Scope and Contents</head><p>•	"This is certified to be a true copy [by] the Surrogate (James Campbell) of the Will and Codicils of John Lawrence, deceased, as recorded." Will dated August 11, 1761; recorded August 3, 1764.<lb/>
+•	Will, Margaret Lawrence, November 6, 1834.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
