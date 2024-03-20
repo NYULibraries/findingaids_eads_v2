@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_383">mc_383</eadid><filedesc><titlestmt><titleproper>Guide to the Constance Reid Collection of Richard Courant Oral History Interviews <num>MC.383</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>January 2024</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-20 09:56:10 -0400</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Constance Reid Collection of Richard Courant Oral History Interviews</unittitle>
+    <origination label="Creator">
+      <persname authfilenumber="(lccn)n50050910" source="naf">Reid, Constance</persname>
+    </origination>
+    <origination label="source">
+      <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+    </origination>
+    <unitid>MC.383</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3490</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 linear foot</extent>
+      <extent altrender="carrier">in 2 manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
+    <abstract id="aspace_bad43e4db434d19a23fb881fae0607c6">Constance Reid (1918-2010) was a writer who specialized in biographies of mathematicians. The Constance Reid Collection of Richard Courant Oral History Interviews consists of oral history transcripts and some additional ephemera donated by Constance Reid to the Courant Institute Library.</abstract>
+    <physloc id="aspace_ffb5793fd6ca10dda502860e801a75da">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_f40730bdd1f890fe61be2169627edf1e">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_63fa4a1ab72f0da20b35a2a968eac57c">
+    <head>Scope and Contents</head>
+<p>The Constance Reid Collection of Richard Courant Oral History Interviews consists of oral history transcripts and some additional ephemera donated by Constance Reid to the Courant Institute Library.</p>  </scopecontent>
+  <arrangement id="aspace_e82d4bd3f24e89764ad43a24f99a64ad">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <userestrict id="aspace_90c9979803e59d57a4c9014027d14680">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. Duplication and photography of materials are prohibited. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_412ff2c221783104fd13294fbd52ebaa">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was treated as an administrative transfer to the New York University Archives from the Courant Institute in the summer of 2023 when the Courant Institute Library closed. The accession number associated with this transfer is 2024.001.</p>  </acqinfo>
+  <prefercite id="aspace_165a8f29a44d1bb2e428135eaa3c7b5f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Constance Reid Collection of Richard Courant Oral History Interviews; MC 383; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_afb997ac5f51b348461b3929de345558">
+    <head>Processing Information</head>
+<p>At the time of accessioning materials were rehoused in archival boxes and described on the collection-level, with more granular rehousing, description, and an inventory deferred due to uncertainty regarding the materials' intellectual property status.</p><p>Some interview subjects express concerns about their statements being recorded.</p>  </processinfo>
+  <bioghist id="aspace_d9860bb32cc3e7e4ef951ecf8c03a7eb">
+    <head>Biographical Note</head>
+<p>Constance Reid (1918-2010) was a writer who specialized in biographies of mathematicians.</p>  </bioghist>
+  <custodhist id="aspace_37d841847be8e4e9741f6653982f4112">
+    <head>Custodial History</head>
+<p>Constane Reid donated this collection to the Courant Institute of Mathematical Sciences Library in December 2004.</p>  </custodhist>
+  <accessrestrict id="aspace_4fe7f84474dd1922a60356eb73982ef4">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Oral history.</subject>
+    <subject source="lcsh">Mathematics --  Study and teaching -- United States</subject>
+    <persname rules="dacs" source="naf">Courant, Richard, 1888-1972</persname>
+    <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_825ba903d71978fcc07e9e17028c6e46" level="file"><did><unittitle>Transcripts and Ephemera</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/989038</unitid><container altrender="Manuscript box - Legal" id="aspace_f3fd59824dc450c1cff25b384e03404e" label="Mixed Materials [31142046517861]" type="Box">1</container><container altrender="Manuscript box - Legal" id="aspace_79fa8a2f2f53822b3f79044997790211" label="Mixed Materials [31142046517770]" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>
