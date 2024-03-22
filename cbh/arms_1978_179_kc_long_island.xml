@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_179_kc_long_island/">arms_1978_179_kc_long_island</eadid><filedesc><titlestmt><titleproper>Guide to the Knights of Columbus of Long Island records <num>1978.179</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:44 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_179_kc_long_island/">arms_1978_179_kc_long_island</eadid><filedesc><titlestmt><titleproper>Guide to the Knights of Columbus of Long Island records <num>1978.179</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 1, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-22 18:48:50 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,14 +11,14 @@
     <unitid>1978.179</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1901/1966" type="inclusive">1901-1966</unitdate>
-    <abstract id="aspace_49c03bec32d3d90890cb32145794419e">The collection includes constitution, reports, printed communications, newsletters, programs from the Knights of Columbus of Long Island, dated 1901 to 1966. Some Brooklyn material is included.</abstract>
+    <abstract id="aspace_49c03bec32d3d90890cb32145794419e">The collection includes a constitution, reports, printed communications, newsletters, and programs from the Knights of Columbus of Long Island, dated 1901 to 1966. Some Brooklyn material is included.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_818c379a5cf3a0014375bddee6a7b6f5" label="Text" type="Box">A0089</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ebe4f212668faa48935aceb22398b694" label="Mixed Materials" type="Box">A0034</container>
   </did>
   <accessrestrict id="aspace_3babf2ea64636ef63c909c16470a747b">
     <head>Conditions Governing Access</head>
@@ -26,19 +26,46 @@
   <acqinfo id="aspace_735c55a34470e53aabeb61dc85c88712">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown. The records were formally accessioned in 1978.</p>  </acqinfo>
+  <arrangement id="aspace_f4ef688fafbde160106b9212ed17d817">
+    <head>Arrangement</head>
+<p>The collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_e24ad389cfe28c0fcce8bf23be3a9c62">
+    <head>Historical note</head>
+<p>The Knights of Columbus are a Roman Catholic fraternal order. The first chapter in New York City was Brooklyn Council no. 60, founded in 1891. The Long Island chapter was also founded in Brooklyn, in 1897. The organization has assisted members of the armed services, organized blood donation campaigns, run sports programs for young people, promoted spiritual activities, and articulated Catholic opinion on social issues.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Brown, Mary Elizabeth. "Knights of Columbus." In The Encyclopedia of New York City, edited by Kenneth T. Jackson, 704. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 2010.</item>
+    </list>
+  </bioghist>
+  <custodhist id="aspace_d3dfc64f6778bef12858a24bc5a1db43">
+    <head>Custodial History</head>
+<p>These records were originally stored in a folder labeled "Knights of Columbus - Brooklyn" that may once have been part of a subject-organized vertical files collection.</p>  </custodhist>
   <prefercite id="aspace_aa628a2b2d88a5d02e452d3b17bab377">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Knights of Columbus of Long Island records, 1978.179, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Knights of Columbus of Long Island records, 1978.179, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_dd9d494a09a51df3193c7b33e3558056">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_c8442c2f358c957d799215530cfb558f">
+    <head>Related Materials</head>
+<p>Records of the Brooklyn Council for Social Planning (BCMS.0039) - Series 7: Related non-government agencies - Sub-series 7.5: Other related agencies - Knights of Columbus</p><p>Walter A. Carley collection (ARC.017) - Series 1: Knights of Columbus records</p>  </relatedmaterial>
+  <scopecontent id="aspace_0dcd0673e2a5c5917790576d83b2a6bb">
+    <head>Scope and Contents</head>
+<p>The collection includes a constitution, reports, printed communications, newsletters, and programs from the Knights of Columbus of Long Island, dated 1901 to 1966. Some Brooklyn material is included. Some of the activities documented herein include a "Lyceum course" of public lectures and performances, Independence Day celebrations, charity balls, a hospital bed fund, and a Columbus Day dinner and reception.</p>  </scopecontent>
+  <userestrict id="aspace_5472cf0fa40c610ed211234b4edc9a20">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Fraternal organizations -- New York (State) -- Long Island</subject>
-    <subject source="lcsh">Fraternal organizations |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Fraternal organizations -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Long Island (N.Y.)</geogname>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Catholics |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Catholics -- New York (State) -- Kings County</subject>
     <subject source="lcsh">Catholics -- New York (State) -- Long Island</subject>
     <genreform source="aat">Programs (documents)</genreform>
     <genreform source="aat">Reports</genreform>
     <genreform source="aat">Constitutions</genreform>
+    <genreform source="aat">Bulletins</genreform>
+    <genreform source="aat">Correspondence</genreform>
     <corpname rules="dacs" source="naf">Knights of Columbus</corpname>
   </controlaccess>
   <dsc/>
