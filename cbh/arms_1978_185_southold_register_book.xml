@@ -1,37 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_185_southold_register_book/">arms_1978_185_southold_register_book</eadid><filedesc><titlestmt><titleproper>Guide to the Southold, N.Y. register book <num>1978.185</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 5, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:12:52 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract note.</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_185_southold_register_book/">arms_1978_185_southold_register_book</eadid><filedesc><titlestmt><titleproper>Guide to the Southold, N.Y. register book <num>1978.185</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 5, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-25 20:46:53 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract note.</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
-    <unittitle>Southold, N.Y. register book</unittitle>
+    <unittitle>Southold, N.Y. register book typescript</unittitle>
     <origination label="Creator">
       <corpname rules="dacs" source="naf">Southold (N.Y.)</corpname>
     </origination>
     <unitid>1978.185</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-      <extent altrender="carrier">in four folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in two folders.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1683/1850" type="inclusive">1683-1850</unitdate>
-    <abstract id="aspace_477340f7c334b4311ecae9d8b203bf46">The Southold, N.Y. register book spans the period 1683 to 1850 and measures 0.25 linear feet. Entries in the register cover genealogical information, indenture, bond and deed information, records of town information, enslaved person's manumission notices, town meeting minutes, and voting records with results. Also included are the Southhold Academy bylaws and constitution, First Universalist Church in Southold bylaws and constitution, and records of the Commissioner of the highway of the town of Southold. The register book includes an index and was prepared by successive town historians throughout the mid-20th century.</abstract>
+    <unitdate datechar="creation" normal="1683/1850" type="inclusive">undated copy of 1683-1850 original</unitdate>
+    <abstract id="aspace_477340f7c334b4311ecae9d8b203bf46">The Southold, N.Y. register book typescript covers genealogical information, indenture, bond and deed information, records of town information, enslaved person's manumission notices, town meeting minutes, and voting records with results, along with the bylaws and constitutions of  local church and school and highway commissioner records.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_3cfed3ad330a13b6bc64361e0573a076" label="Text" type="Box">A0092</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_2409d75b0247829765b3e69bccc6b463" label="Text" type="Box">A0035</container>
   </did>
-  <prefercite id="aspace_5c86bb1fd68e4b2092219f13eb78dbd4">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Southold, N.Y. register book, 1978.185, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_013df40d6b97e510121f266622c09abd">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Wesley Logan Baker, date unknown. The item was formally accessioned in 1978.</p>  </acqinfo>
   <accessrestrict id="aspace_bb5ca2e34447315bb725c665fea1a81c">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_013df40d6b97e510121f266622c09abd">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Wesley Logan Baker, date unknown. The item was formally accessioned in 1978.</p>  </acqinfo>
+  <arrangement id="aspace_518c66c3b55ce35be2263d4c0ace1209">
+    <head>Arrangement</head>
+<p>This collection consists of a single document, a typewritten copy of a historic register. The register entries are in chronological order.</p>  </arrangement>
+  <bioghist id="aspace_2972454bf4a5d279f34e3a4c4fabb8a3">
+    <head>Historical note</head>
+<p>The area that is now Southold, Long Island, NY was originally inhabited by the Algonquin people. The first European settlers arrived in 1638 and established two small farms in the Hashamomuck area. In 1640, Reverend John Young, originally from Southwold, England, gained the backing of the Colony of New Haven in what is now Connecticut to establish a "plantation" or sub-colony across the Long Island Sound on the North Fork of Long Island. </p><p>New Haven Colony provided the funds to purchase rights to use the land from both the local Native American Sachems and from James Farrett, the representative of the Earl of Stirling, who had been given the island by the British Crown. The community was first known as Yennicott. The government of Southold Town was formed in 1649, when the plantation felt established enough to purchase its independence from New Haven. </p><p>At that time, the town stretched across approximately 63 miles from Fishers Island to what is now Wading River. In 1792, the town petitioned New York State to divide into two parts. Southold Town went on to have success as farming and fishing community.  Since the mid- 20th century, viniculture has become one of the largest crops of the North Fork, including in Southold.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Town of Southold. "Historian." Town of Southold website. Accessed March 25, 2024. https://southoldtownny.gov/234/Historian</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_5c86bb1fd68e4b2092219f13eb78dbd4">
+    <head>Preferred Citation</head>
+<p>Southold, N.Y. register book typescript, undated copy of 1683-1850 original, 1978.185, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <processinfo id="aspace_d5ccac297f4bf421b45fd09eb5ee72be">
     <head>Processing Information</head>
-<p>Oppressive descriptive language was remediated from the abstract note in this finding aid as part of an anti-racist descriptive language audit performed in December 2020.</p>  </processinfo>
+<p>Oppressive descriptive language was remediated from the abstract note in this finding aid as part of an anti-racist descriptive language audit performed in December 2020.</p><p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_2ce3ebe5560a2cef02a9aad69b74db0b">
+    <head>Related Materials</head>
+<p>Southold, N.Y. subscription list (1977.622)</p><p>Stuart Tuthill Terry notes on Southold genealogy (1973.184)</p><p>First Presbyterian Church of Southold research notes (1973.087)</p><p>J.W. Huntting copy of records of the First Church of Christ, Southold, Long Island (1973.182)</p><p>Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu business agreement (1977.426)</p><p>Robert C. Winthrop collection (1974.052)</p><p>Epher Whitaker papers (ARC.286)</p><p>Conkling family papers (ARC.284)</p><p>Landon family papers (1977.025)</p>  </relatedmaterial>
+  <scopecontent id="aspace_842e6b9fb8d8698a5d64be6bb81469cb">
+    <head>Scope and Contents</head>
+<p>The Southold, N.Y. register book typescript covers genealogical information, indenture, bond and deed information, records of town information, enslaved person's manumission notices, town meeting minutes, and voting records with results. Also included are the Southhold Academy bylaws and constitution, First Universalist Church in Southold bylaws and constitution, and records of the Commissioner of the highway of the town of Southold. The register book includes an index and was prepared by successive town historians throughout the mid-20th century.</p>  </scopecontent>
+  <userestrict id="aspace_f482a6744fb67b5d36d151dbafd4503c">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Registers (lists)</genreform>
     <geogname source="lcsh">Southold (N.Y.)</geogname>
@@ -46,6 +65,7 @@
     <genreform source="aat">Indentures</genreform>
     <geogname source="lcsh">Long Island (N.Y.)</geogname>
     <subject source="lcsh">Genealogy</subject>
+    <genreform source="aat">Typescripts</genreform>
     <corpname rules="dacs" source="local">Southold Academy</corpname>
     <corpname rules="dacs" source="naf">Southold (N.Y.)</corpname>
     <corpname rules="dacs" source="local">First Unitarian Church (Southold, N.Y.)</corpname>
