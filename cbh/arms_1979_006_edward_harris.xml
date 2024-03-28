@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_006_edward_harris/">arms_1979_006_edward_harris</eadid><filedesc><titlestmt><titleproper>Guide to the Reverend Edward Harris memoir <num>1979.006</num></titleproper><author>Matthew Gorham and Larry Weimer</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>January 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:13:51 +0000</date>.</creation><langusage>Finding aid is written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_006_edward_harris/">arms_1979_006_edward_harris</eadid><filedesc><titlestmt><titleproper>Guide to the Reverend Edward Harris memoir <num>1979.006</num></titleproper><author>Matthew Gorham and Larry Weimer</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>January 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-28 19:01:40 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,42 +11,47 @@
     <unitid>1979.006</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1872/1872" type="inclusive">1872</unitdate>
-    <abstract id="aspace_594a3c5120485cc4238e97ff8c3bcb41">The Reverend Edward Harris memoir, dated 1872, is a handwritten autobiographical work by Harris, a Presbyterian minister. Covering the period 1797-1872, Harris chronicles his various destinations as a minister, his motivations, family and other influences on his life choices, the manner in which he was called or assigned to various pulpits or presbyteries, his difficulties and challenges with various congregations, financial difficulties, health concerns, and his side occupations. Harris's travels took him from Maine to North Carolina, from eastern Long Island (N.Y.) to Ohio, often repeatedly. Overall, Harris's memoir provides insight into an itinerant ministry as a career choice, principally in the New England and Middle Atlantic states, in the nineteenth century.</abstract>
-    <langmaterial id="aspace_fdf38bad3134809cdb3b9c882066ac15">Material is in English.</langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_c5cafe23176a570c566988b499f35856" label="Text" type="Box">A0089</container>
+    <unitdate datechar="creation" normal="1872/1872">1872</unitdate>
+    <abstract id="aspace_594a3c5120485cc4238e97ff8c3bcb41">The Reverend Edward Harris memoir, dated 1872, is a handwritten autobiographical work by Harris, a Presbyterian minister. Covering the period 1797-1872, Harris chronicles his various destinations as a minister, his motivations, family and other influences on his life choices, and more.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_ca23b7fe5ca3528b665b5d6725ffdd7a" label="Mixed Materials" type="Box">A0035</container>
   </did>
-  <processinfo id="aspace_dc68c0dd8f2a59df1fa3e14479bfb05c">
-    <head>Processing Information</head>
-<p>The memoir was processed and described by Matthew Gorham and Larry Weimer in 2011-2012.</p>  </processinfo>
-  <prefercite id="aspace_e75a2e73e59f76f7ba40d09c74d21111">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Reverend Edward Harris memoir, 1979.006, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <userestrict id="aspace_e08a1cf2e7eb5c986dad5b5b62593046">
-    <head>Conditions Governing Use</head>
-<p>The material is in the public domain.</p>  </userestrict>
-  <acqinfo id="aspace_7b2eec7302127b22b0bb303262902f8d">
-    <head>Immediate Source of Acquisition</head>
-<p>The source and date of the acquisition is unknown. However, a letter with the manuscript suggests that Harris composed the memoir in reponse to a request for information from Reverend Edwin Warriner, a historian of 18th and 19th century Methodism on Long Island. The document might have been acquired with the Warriner collection (accession 1977.255), but separated from it because Harris was a Presbyterian, not Methodist, minister. The item was formally accessioned in 1979.</p>  </acqinfo>
-  <bioghist id="aspace_9e1652cf0e4d9ad26c8f93083cb293f7">
-    <head>Biographical note</head>
-<p>Edward Harris, born in Philadelphia in 1797, was a minister in the Presbyterian Church for 48 years, as of the date of his memoir in 1872. Harris moved with his family from Philadelphia to Maine in 1808. In 1815, he returned to Philadelphia before moving to Kentucky in 1817 where he began his training as a minister. Returning again to Philadelphia in 1819, and on to Princeton, New Jersey, he was licensed to preach in 1822. He would be ordained in 1830. Largely an itinerant minister spending fairly short periods with any one congregation, Harris's career took him to Long Island, several New England states (including Maine and Connecticut), Pennsylvania, New Jersey, and Ohio. He even preached and worked in North Carolina in the late 1850s despite his abhorrence of slavery.  Harris preached 3,876 sermons, travelled 124,884 miles, and received $6,746.84 (by his own calculations) for his services. (Source: Harris's memoir)</p>  </bioghist>
-  <scopecontent id="aspace_cf4354d3c05842cfe58a16b649736287">
-    <head>Scope and Contents</head>
-<p>The Reverend Edward Harris memoir, dated 1872, is a handwritten autobiographical work by Harris, a Presbyterian minister. Covering the period 1797-1872, Harris chronicles his various destinations as a minister, his motivations, family and other influences on his life choices, the manner in which he was called or assigned to various pulpits or presbyteries, his difficulties and challenges with various congregations (including a controversy he found himself connected with concerning an elopement at Hebron, Conn. and his distress while working in the slave state of North Carolina), financial difficulties, health concerns, and his side occupations such as writing articles for the religious press. Harris's travels took him from Maine to North Carolina, from eastern Long Island (N.Y.) to Ohio, often repeatedly. Overall, Harris's memoir provides insight into an itinerant ministry as a career choice, principally in the New England and Middle Atlantic states, in the nineteenth century.</p>  </scopecontent>
   <accessrestrict id="aspace_842fc79e007cc26e53c14f1d6cc8bdb6">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_7b2eec7302127b22b0bb303262902f8d">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of the acquisition is unknown. However, a letter with the manuscript suggests that Harris composed the memoir in reponse to a request for information from Reverend Edwin Warriner, a historian of 18th and 19th century Methodism on Long Island. The document might have been acquired with the Warriner collection (accession 1977.255), but separated from it because Harris was a Presbyterian, not Methodist, minister. The item was formally accessioned in 1979.</p>  </acqinfo>
+  <arrangement id="aspace_d3559278285046b4468dfde600bbd456">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
+  <bioghist id="aspace_9e1652cf0e4d9ad26c8f93083cb293f7">
+    <head>Biographical note</head>
+<p>Edward Harris, born in Philadelphia in 1797, was a minister in the Presbyterian Church for 48 years, as of the date of his memoir in 1872. Harris moved with his family from Philadelphia to Maine in 1808. In 1815, he returned to Philadelphia before moving to Kentucky in 1817 where he began his training as a minister. Returning again to Philadelphia in 1819, and on to Princeton, New Jersey, he was licensed to preach in 1822. He would be ordained in 1830. Largely an itinerant minister spending fairly short periods with any one congregation, Harris's career took him to Long Island, several New England states (including Maine and Connecticut), Pennsylvania, New Jersey, and Ohio. He even preached and worked in North Carolina in the late 1850s despite his abhorrence of slavery. Harris preached 3,876 sermons, travelled 124,884 miles, and received $6,746.84 (by his own calculations) for his services.</p>  </bioghist>
+  <prefercite id="aspace_e75a2e73e59f76f7ba40d09c74d21111">
+    <head>Preferred Citation</head>
+<p>Reverend Edward Harris memoir, 1872, 1979.006; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_dc68c0dd8f2a59df1fa3e14479bfb05c">
+    <head>Processing Information</head>
+<p>The memoir was processed and described by Matthew Gorham and Larry Weimer in 2011-2012. It was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_cf4354d3c05842cfe58a16b649736287">
+    <head>Scope and Contents</head>
+<p>The Reverend Edward Harris memoir, dated 1872, is a handwritten autobiographical work by Harris, a Presbyterian minister, bound in a paper cover. Covering the period 1797-1872, Harris chronicles his various destinations as a minister, his motivations, family and other influences on his life choices, the manner in which he was called or assigned to various pulpits or presbyteries, his difficulties and challenges with various congregations (including a controversy he found himself connected with concerning an elopement at Hebron, Conn. and his distress while working in the slave state of North Carolina), financial difficulties, health concerns, and his side occupations such as writing articles for the religious press. Harris's travels took him from Maine to North Carolina, from eastern Long Island (N.Y.) to Ohio, often repeatedly. Overall, Harris's memoir provides insight into an itinerant ministry as a career choice, principally in the New England and Middle Atlantic states, in the nineteenth century.</p>  </scopecontent>
+  <userestrict id="aspace_e08a1cf2e7eb5c986dad5b5b62593046">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Presbyterians |z New England</subject>
+    <subject source="lcsh">Presbyterians -- New England</subject>
     <subject source="lcsh">Clergy -- New York (State) -- Long Island</subject>
-    <subject source="lcsh">Presbyterian Church |x Clergy</subject>
-    <subject source="lcsh">Clergy |z New England</subject>
+    <subject source="lcsh">Presbyterian Church -- Clergy</subject>
+    <subject source="lcsh">Clergy -- New England</subject>
     <subject source="lcsh">Presbyterians -- New York (State) -- Long Island</subject>
     <genreform source="aat">Memoirs</genreform>
-    <subject source="lcsh">Clergy |x Salaries, etc.</subject>
+    <subject source="lcsh">Clergy -- Salaries, etc.</subject>
     <genreform source="aat">Manuscripts (document genre)</genreform>
     <genreform source="aat">Autobiographies</genreform>
     <persname rules="dacs" source="local">Harris, Edward</persname>
