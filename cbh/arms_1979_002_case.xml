@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_002_case/">arms_1979_002_case</eadid><filedesc><titlestmt><titleproper>Guide to the Quaker petition against Thomas Case <num>1979.002</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:13:37 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_002_case/">arms_1979_002_case</eadid><filedesc><titlestmt><titleproper>Guide to the Quaker petition against Thomas Case <num>1979.002</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-28 18:37:41 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -7,38 +7,60 @@
     <unittitle>Quaker petition against Thomas Case</unittitle>
     <unitid>1979.002</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in two folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in two folders.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1675/1675" type="inclusive">1675</unitdate>
-    <abstract id="aspace_80f519b807d6e5f496a5ac9dc303d51e">Prominent Quakers in several Long Island meetings joined in this petition to disavow any relationship with Thomas Case and his followers. Case was a radical Quaker preacher from Newtown, Queens County who proclaimed himself a second Christ. As a group, signers of this petition joined together to go on record as opposing and denying Case's blasphemy. Signers of the petition originated from areas of Long Island such as Gravesend, Flushing, Matinecock, and Newtown. The petition is dated 1675.</abstract>
+    <unitdate datechar="creation" normal="1675/1675">1675</unitdate>
+    <abstract id="aspace_80f519b807d6e5f496a5ac9dc303d51e">A 1675 petition disavowing the radical Quaker preacher Thomas Case of Newtown, Queens, signed by prominent Quakers in several Long Island meetings.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_8c0575bddd70effa500558cd4b8539ee" label="Text" type="Box">A0089</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c2cab106dbf55523a941cdf43cd6e218" label="Text" type="Box">A0035</container>
   </did>
-  <prefercite id="aspace_bd8003b7832f80304b2e2009a477aee7">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Quaker petition against Thomas Case, 1979.002, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_6ba15a72f4f1aa47c6afa92074550d56">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Arthur H. Dorland, 1978.</p>  </acqinfo>
-  <userestrict id="aspace_342f8e0687187047e112dff02fa9b0fc">
-    <head>Conditions Governing Use</head>
-<p>Due to the extremely fragile nature of the original document, users may only consult a surrogate copy.</p>  </userestrict>
   <accessrestrict id="aspace_2b896db47254cf48cf12f079ae45e688">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_6ba15a72f4f1aa47c6afa92074550d56">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Arthur H. Dorland, 1978.</p>  </acqinfo>
+  <altformavail id="aspace_fafce0ea62ddbab34fdd840f1509553a">
+    <head>Existence and Location of Copies</head>
+<p>Due to the fragility of the original document, the first folder of this two-folder collection contains a surrogate copy and typed transcription for research use.</p>  </altformavail>
+  <arrangement id="aspace_7431d2f30abe2765e59b6edd833d3d8c">
+    <head>Arrangement</head>
+<p>The original item is housed in its own folder and the surrogate copy and transcription for research use are foldered separately.</p>  </arrangement>
+  <phystech id="aspace_342f8e0687187047e112dff02fa9b0fc">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Due to the extremely fragile nature of the original document, users may only consult the provided surrogate copy and transcription.</p>  </phystech>
+  <prefercite id="aspace_bd8003b7832f80304b2e2009a477aee7">
+    <head>Preferred Citation</head>
+<p>Quaker petition against Thomas Case, 1675, 1979.002; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_9568ff8d8eef7b5dcd5a567a43890253">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_5c2ef3a92ad89a6524a98982ab38e07c">
+    <head>Scope and Contents</head>
+<p>Prominent Quakers in several Long Island meetings joined in this petition to disavow any relationship with Thomas Case and his followers. Case was a radical Quaker preacher from Newtown, Queens County who proclaimed himself a second Christ. As a group, signers of this petition joined together to go on record as opposing and denying Case's blasphemy. Signers of the petition originated from areas of Long Island such as Gravesend, Flushing, Matinecock, and Newtown. The petition is dated 1675.</p>  </scopecontent>
+  <userestrict id="aspace_fabadaa438e38ed85e145986c322e1b5">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Quakers -- New York (State) -- Long Island</subject>
     <geogname source="lcsh">Long Island (N.Y.)</geogname>
     <geogname source="lcsh">Long Island (N.Y.) -- Religious life and customs</geogname>
-    <subject source="lcsh">Quakers |z New York (State) |z Queens County</subject>
+    <subject source="lcsh">Quakers -- New York (State) -- Queens County</subject>
     <geogname source="lcsh">Matinecock (N.Y.)</geogname>
     <genreform source="aat">Petitions</genreform>
     <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
     <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
     <geogname source="lcsh">Newtown (Queens County, N.Y.)</geogname>
+    <subject source="lcsh">Religion and culture</subject>
+    <subject source="lcsh">Religion</subject>
+    <geogname source="lcsh">Queens County (N.Y.)</geogname>
+    <geogname source="lcsh">Queens County (N.Y.) -- Church history</geogname>
+    <geogname source="lcsh">Queens County (N.Y.) -- History</geogname>
+    <geogname source="lcsh">Queens County (N.Y.) -- History -- Colonial period, ca. 1600-1775</geogname>
+    <persname source="local">Case, Thomas</persname>
   </controlaccess>
   <dsc/>
 </archdesc>
