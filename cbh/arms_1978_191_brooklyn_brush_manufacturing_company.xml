@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_191_brooklyn_brush_manufacturing_company/">arms_1978_191_brooklyn_brush_manufacturing_company</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Brush Manufacturing Company articles of incorporation <num>1978.191</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 5, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:13:08 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_191_brooklyn_brush_manufacturing_company/">arms_1978_191_brooklyn_brush_manufacturing_company</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Brush Manufacturing Company articles of incorporation <num>1978.191</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 5, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-28 14:49:04 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,29 +11,63 @@
     <unitid>1978.191</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1855/1855" type="inclusive">1855</unitdate>
+    <unitdate datechar="creation" normal="1855/1855">1855</unitdate>
     <abstract id="aspace_d1145c4afccaaa5f18362e1c12215607">The articles of incorporation for the Brooklyn Brush Manufacturing Company, founded by Freeman Murrow and incorporated in 1848. The document features a list of subscribers as well as a diagram of Freeman Murrow's patented double adjustable paint brush.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_557b8ba3e00d66c8ee97d15ed6e03cc4" label="Text" type="Box">A0092</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_e473f2c58fe239c99ccd03bb4ca82d02" label="Mixed Materials" type="Box">A0035</container>
   </did>
-  <prefercite id="aspace_8f87d82e456153f813fc3acb0f666b9c">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Brooklyn Brush Manufacturing Compnay articles of incorporation, 1978.191, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_d9c26c58da77dc01039e200bebfa763d">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_429f60f2df8efc16f1c5b68e778f2a53">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown. The item was formally accessioned in 1978.</p>  </acqinfo>
+  <arrangement id="aspace_5909481bb5589b045f7efa42ba13af05">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
+  <bioghist id="aspace_3a68c1f3a8f530ac025f80c26dbd2266">
+    <head>Historical note</head>
+<p>On July 29, 1853, a notice appeared in the Frederick Douglass Paper: Freeman Murrow, who lived at 90 Meserole Street in Williamsburg, Brooklyn, had invented an adjustable paint brush. Murrow had secured a patent, but because of racial prejudice, he was unable to present his invention to the American Institute Fair and had to have it presented by a white man. The adjustable brush won a silver medal at the Fair in October 1853.</p><p>After getting his patent, Murrow formed the Brooklyn Brush Manufacturing Company. The company declared that it stood for "welfare of Civil Rights and not bloodshed" and intended to liberate their wives, sisters, and daughters from taking low-paying jobs as washerwomen and domestic servants.</p><p>On June 28, 1855, at the Convention of Radical Political Abolitionists, Lewis Tappan, a prominent abolitionist and Brooklyn Heights resident, spoke highly of the brush company, saying that "their project was a very worthy one" and that the purpose of the business was to "gain an honest livelihood for themselves and to elevate their race."</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Brooklyn Historical Society. "Lesson 14: Black Entrepreneurs." In Pursuit of Freedom, Section IV: The Economics of Freedom (1840-1855). Accessed March 28, 2024. https://pursuitoffreedom.org/wp-content/uploads/resources/section4_lesson14/lesson14_worksheet1.pdf</item>
+    </list>
+  </bioghist>
+  <bioghist id="aspace_629d41b5444f7629884a1872ed3f6564">
+    <head>Biographical note</head>
+<p>Black inventor Freeman Murrow was born in 1833 and lived at 90 Meserole Street in Williamsburg. He invented an adjustable paintbrush in 1853 and founded the Brooklyn Brush Manufacturing Company.</p>  </bioghist>
+  <prefercite id="aspace_8f87d82e456153f813fc3acb0f666b9c">
+    <head>Preferred Citation</head>
+<p>Brooklyn Brush Manufacturing Company articles of incorporation, 1855, 1978.191, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_ad335ca53c1f086228e269f213f39512">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_67451b4dd33d251bab86803d5b3e542c">
+    <head>Related Materials</head>
+<p>Golia, Julie and Zaheer Ali. "Episode 22: Black Businesses in Brooklyn." Flatbush and Main podcast. Accessed March 28, 2024. https://www.bklynlibrary.org/podcasts/black-businesses-brooklyn</p>  </relatedmaterial>
+  <scopecontent id="aspace_9d99328d6b5ccd961468ee359f87660f">
+    <head>Scope and Contents</head>
+<p>The articles of incorporation for the Brooklyn Brush Manufacturing Company, founded by Freeman Murrow and incorporated in 1848. The document features a list of subscribers as well as a diagram of Freeman Murrow's patented double adjustable paint brush.</p>  </scopecontent>
+  <userestrict id="aspace_3345e31120cbb57188bd3a81f8d6d07e">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Articles of incorporation</genreform>
-    <subject source="lcsh">Manufactures |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Manufactures -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <subject source="lcsh">African Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Business enterprises -- African Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Entrepreneurship -- African Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Paintbrushes</subject>
+    <subject source="lcsh">Inventors</subject>
+    <subject source="lcsh">Black people -- History</subject>
+    <subject source="lcsh">Inventors, Black</subject>
     <corpname rules="dacs" source="local">Brooklyn Brush Manufacturing Company</corpname>
+    <persname source="local">Murrow, Freeman, 1833-</persname>
   </controlaccess>
   <dsc/>
 </archdesc>
