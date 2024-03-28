@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_005_thorney_frost/">arms_1979_005_thorney_frost</eadid><filedesc><titlestmt><titleproper>Guide to the Robert Thorney and Jemima Frost Craft marriage certificate <num>1979.005</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:13:46 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_005_thorney_frost/">arms_1979_005_thorney_frost</eadid><filedesc><titlestmt><titleproper>Guide to the Robert Thorney and Jemima Frost Craft marriage certificate <num>1979.005</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-28 18:52:25 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,24 +11,39 @@
     <unitid>1979.005</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1764/1764" type="inclusive">1764</unitdate>
+    <unitdate datechar="creation" normal="1764/1764">1764</unitdate>
     <abstract id="aspace_51e1a377087d6f3f01f957f889a0bb7c">Marriage certificate of Robert Thorney Craft and Jemima Frost of Queens County, signed by Cadwallader Colden, Lieutenant Governor and Commander in Chief of the Province of New York under King George III. The certificate is dated 1764. Robert Thorney Craft was a joiner by trade.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_f33cd0b77c2565543be12f9ec7aae1c7" label="Text" type="Box">A0089</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_71368ff34c3610d5c7d4967217390cca" label="Mixed Materials" type="Box">A0035</container>
   </did>
-  <prefercite id="aspace_bde8c8b09e151a0244deb6dafe478c29">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Robert Thorney and Jemima Frost Craft marriage certificate, 1979.005, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_0c9d2f175a76ff1ba2a5294edf2cb1b3">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The item was formally accessioned in 1979.</p>  </acqinfo>
   <accessrestrict id="aspace_032935c7fb63bfe42e5e3bccfa004c39">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_0c9d2f175a76ff1ba2a5294edf2cb1b3">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1979.</p>  </acqinfo>
+  <arrangement id="aspace_0048503a4ad000bba4b26b4506ad12a2">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <bioghist id="aspace_47cd2b960b1f61651b555bbe48a706e9">
+    <head>Biographical note</head>
+<p>Robert Thorney Craft was a joiner by trade. He married Jemima Frost in 1764.</p>  </bioghist>
+  <prefercite id="aspace_bde8c8b09e151a0244deb6dafe478c29">
+    <head>Preferred Citation</head>
+<p>Robert Thorney and Jemima Frost Craft marriage certificate, 1764, 1979.005; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_c8acf847ec91d9c9cf165bf69a9dfcc9">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_a3456d08fe10273dc316447511b7eca1">
+    <head>Scope and Contents</head>
+<p>Marriage certificate of Robert Thorney Craft and Jemima Frost of Queens County, signed by Cadwallader Colden, Lieutenant Governor and Commander in Chief of the Province of New York under King George III. The certificate is dated 1764.</p>  </scopecontent>
+  <userestrict id="aspace_6fe8e9a21483aedd14f08d75eca149c5">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Marriage certificates</genreform>
     <geogname source="lcsh">Queens County (N.Y.)</geogname>
