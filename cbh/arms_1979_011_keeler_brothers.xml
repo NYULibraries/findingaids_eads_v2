@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_011_keeler_brothers/">arms_1979_011_keeler_brothers</eadid><filedesc><titlestmt><titleproper>Guide to the Keeler Brothers magazine prospectus <num>1979.011</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:14:10 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_011_keeler_brothers/">arms_1979_011_keeler_brothers</eadid><filedesc><titlestmt><titleproper>Guide to the Keeler Brothers magazine prospectus <num>1979.011</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-03-29 13:47:18 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,28 +11,53 @@
     <unitid>1979.011</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate>
-    <abstract id="aspace_22427646fdb275e84dba7f023b0dfc83">A one-page printed prospectus for publication of the periodical "Once-a-Week" to "aid in the promotion of the welfare and growth of the Village of Roslyn, Long Island, New York." The prospectus is dated 1876 and is attributed to a company called Keeler Brothers, presumably a publishing or printing company.</abstract>
+    <unitdate datechar="creation" normal="1876/1876">1876</unitdate>
+    <abstract id="aspace_22427646fdb275e84dba7f023b0dfc83">A one-page printed 1876 prospectus for publication of the periodical "Once-a-Week" to "aid in the promotion of the welfare and growth of the Village of Roslyn, Long Island, New York." The prospectus is attributed to the Keeler Brothers.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_c3dfc775ef79d54c65418b7e89e379d2" label="Text" type="Box">A0089</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_be5747be624d8933c8a12a9db7e33a6a" label="Text" type="Box">A0035</container>
   </did>
-  <prefercite id="aspace_f842da2251cfb29db6298d49c72b28c8">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Keeler Brothers magazine prospectus, 1979.011, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_4f7e037d53324e508d233b9b9fc96b8c">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The item was formally accessioned in 1979.</p>  </acqinfo>
   <accessrestrict id="aspace_a2bd9502c29fd76424a0cf04d3b799df">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_4f7e037d53324e508d233b9b9fc96b8c">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1979.</p>  </acqinfo>
+  <arrangement id="aspace_455724df42c4cdf077e17b02959d9436">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <bioghist id="aspace_5df3c0132d1a916e9b0594d59c79e9c6">
+    <head>Historical note</head>
+<p>Roslyn is a village in the Town of North Hempstead on the North Shore of Long Island. Once-A- Week or The Roslyn Tablet was published there by the Keeler Brothers (William and P.L.A.O. Keeler). Vol. I was published elsewhere and is unrelated to Roslyn. Vol. II commenced with the issue for Oct. 12, 1876, the first Roslyn issue, and continued (Vol. III) through the issue for Oct. 19, 1877, at which time publication was suspended.</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>Roslyn Landmark Society. "Annual House Tour Guide." 1979. Accessed March 29, 2024. https://www.roslynlandmarks.org/img/profiles/files/House%20Tour%20Booklets_PDF/1979%2019TH%20ANNUAL%20HOUSE%20TOUR%20GUIDE.pdf</item>
+      <item>"The Newspapers of North Hempstead." In History of Queens County with Illustrations, Portraits &amp; Sketches of Prominent Families and Individuals. New York: W.W. Munsell &amp; Co.; 1882. pp. 409-468.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_f842da2251cfb29db6298d49c72b28c8">
+    <head>Preferred Citation</head>
+<p>Keeler Brothers magazine prospectus, 1876, 1979.011; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_a1dc6b7f47833a0ffb16e112a4824678">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_5ee32f68e1c691414d9a97cbfa47b8e2">
+    <head>Scope and Contents</head>
+<p>A one-page printed 1876 prospectus for publication of the periodical "Once-a-Week" to "aid in the promotion of the welfare and growth of the Village of Roslyn, Long Island, New York." The prospectus is attributed to the Keeler Brothers.</p>  </scopecontent>
+  <userestrict id="aspace_ab085bf484568924a62d036679742640">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="lcsh">Periodicals -- Publishing -- New York (State) -- Long Island</subject>
     <genreform source="aat">Prospectuses</genreform>
     <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Roslyn (N.Y.)</geogname>
+    <geogname source="lcsh">North Hempstead (N.Y. : Town)</geogname>
+    <subject source="lcsh">Newspaper publishing -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Publishers and publishing</subject>
+    <genreform source="lcsh">Newspapers</genreform>
   </controlaccess>
   <dsc/>
 </archdesc>
