@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/cbh/v1995_063_molow_coney_island">v1995_063</eadid><filedesc><titlestmt><titleproper>Guide to the Bert H. Molow Coney Island photographs <num>V1995.063</num></titleproper><author>Kevin Dao</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>2024</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-12 17:32:55 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/cbh/v1995_063_molow_coney_island">v1995_063</eadid><filedesc><titlestmt><titleproper>Guide to the Bert H. Molow Coney Island photographs <num>V1995.063</num></titleproper><author>Kevin Dao</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>2024</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-01 17:18:51 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -21,7 +21,7 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_53e8a5224fc3463f7b643bc856b6e69a" label="Graphic Materials" type="Box">Prints by accession 12</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_41cde91a0d41f6e241dc14e68f7a1d84" label="Graphic Materials" type="Box">Prints by accession 12</container>
   </did>
   <accessrestrict id="aspace_bb3db0a33dc09f9b90a03f35e906a4d8">
     <head>Conditions Governing Access</head>
@@ -29,27 +29,34 @@
   <acqinfo id="aspace_e4393e47a9298e6b0d80dd7eb927e411">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Bert H. Molow, 1995.</p>  </acqinfo>
-  <processinfo id="aspace_4655ca64de6a89226ed660fd6b2076c0">
-    <head>Processing Information</head>
-<p>This collection is processed to the collection level, and the photos will be digitized and added with metadata to our digital collections.</p>  </processinfo>
-  <prefercite id="aspace_98478073ec2beb6032f435ed6c42864b">
-    <head>Preferred Citation</head>
-<p>Identification of item, 1972; Bert H. Molow Coney Island photographs, V1995.063, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
-  <userestrict id="aspace_0c175523d24686c8b1aae3bc042db901">
-    <head>Conditions Governing Use</head>
-<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
-  <scopecontent id="aspace_58c47262cd91816920a0f4032cbb7cce">
-    <head>Scope and Contents</head>
-<p>This collection contains nine black and white photographs taken in 1972 by Bert H. Molow of street scenes from W 20th St through W 29th St between Neptune Ave and Surf Ave, in Coney Island, Brooklyn. The photographs are 9.25" x 7.25" mounted on 10.75" x 8.75" boards and appear to be in good condition. The photographer's address is labeled on the verso of each board.</p>  </scopecontent>
+  <altformavail id="aspace_aed99b3a7358659465d22d7be1ad6ab1">
+    <head>Existence and Location of Copies</head>
+<p>This collection is available on the library's digital collections portal under the call number prefix MOLOW.</p>  </altformavail>
   <arrangement id="aspace_c7efd775ad8c80fa086bd0a6f7e17b71">
     <head>Arrangement</head>
 <p>This small collection is housed in a single folder in numerical order as numbered on the verso of each board, #1–#9.</p>  </arrangement>
   <bioghist id="aspace_ef0edb5d002eabcc94fe7a2470110e61">
     <head>Historical note</head>
-<p>Coney Island is a neighborhood in southwest Brooklyn (2000 pop. 106,120), bounded to the north by Coney Island Creek and the Belt Parkway, to the east by Ocean Parkway, to the south by the Atlantic Ocean, and to the west by Norton's Point. It is also home to one of the most famous amusement parks in the world. By the 1960s, the development of high-rise, public housing projects near the amusement district brought a new residential population that was largely African American and Hispanic.</p><p>Reference: The Encyclopedia of New York City Second Edition by Kenneth T. Jackson (Editor), Lisa Keller (Editor), Nancy Flood (Editor); Call number: F128.3 .E75 2010</p>  </bioghist>
+<p>Coney Island is a neighborhood in southwest Brooklyn, bounded to the north by Coney Island Creek and the Belt Parkway, to the east by Ocean Parkway, to the south by the Atlantic Ocean, and to the west by Norton's Point. It is also home to one of the most famous amusement parks in the world. By the 1960s, the development of high-rise, public housing projects near the amusement district brought a new residential population that was largely African American and Hispanic.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Bradley, Elizabeth. "Coney Island." In The Encyclopedia of New York City, edited by Kenneth T. Jackson, 299, 301. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 2010. </item>
+    </list>
+  </bioghist>
   <bioghist id="aspace_f62e4d8279d19a81ca378d0079b1e8a7">
     <head>Biographical note</head>
-<p>Bert H. Molow took these photographs while a Brooklyn resident and driving through the Coney Island community in 1972. At the time these photos were shot, Bert was a photography teacher and had exhibited in several locations on Long Island. Some of the photos in this collection were included in those exhibits.</p>  </bioghist>
+<p>Bert H. Molow took these photographs while a Brooklyn resident and driving through the Coney Island community in 1972. At the time these photos were shot, Molow was a photography teacher and had exhibited in several locations on Long Island. Some of the photographs in this collection were included in those exhibits.</p>  </bioghist>
+  <phystech id="aspace_3f593c170edf4a88d58664421ce8c1e9">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_98478073ec2beb6032f435ed6c42864b">
+    <head>Preferred Citation</head>
+<p>Identification of item, 1972; Bert H. Molow Coney Island photographs, V1995.063; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <scopecontent id="aspace_58c47262cd91816920a0f4032cbb7cce">
+    <head>Scope and Contents</head>
+<p>This collection contains nine black and white photographs taken in 1972 by Bert H. Molow of street scenes from W 20th St through W 29th St between Neptune Ave and Surf Ave, in Coney Island, Brooklyn. The photographs are 9.25 by 7.25 inches mounted on 10.75 by 8.75 inch boards. The photographer's address is labeled on the verso of each board.</p>  </scopecontent>
+  <userestrict id="aspace_0c175523d24686c8b1aae3bc042db901">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
     <subject source="lcsh">Documentary photography</subject>
