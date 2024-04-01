@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/cbh/2022_011">2022_011</eadid><filedesc><titlestmt><titleproper>Guide to the Cathie Gandel photographs <num>2022.011</num></titleproper><author>Kevin Dao</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>2024</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-01 14:49:50 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Cathie Gandel photographs</unittitle>
+    <origination label="source">
+      <persname source="local">Gandel, Cathie Ireys</persname>
+    </origination>
+    <unitid>2022.011</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1880/1949" type="inclusive">circa 1880s-1940s</unitdate>
+    <abstract id="aspace_2e45e37072d9172ab61fdfa0483eef2b">The Cathie Gandel photographs contain three undated black and white prints of street scenes in Brooklyn Heights taken during the late 19th or early 20th century.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_032f75481b7b239e0ba93eeecd51de46" label="Graphic Materials" type="Box">Prints by accession 12</container>
+  </did>
+  <accessrestrict id="aspace_5029e35d62f13c89d115b6594eaa2abe">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_b926c1f1051c916bf63752896bbbb9d3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Cathie Gandel, September 2020.</p>  </acqinfo>
+  <arrangement id="aspace_61fac0b87c6ab0b442e69968119899d8">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <bioghist id="aspace_a9a7d3f8c89e5c0124bc213afa5c89c8">
+    <head>Historical note</head>
+<p>Brooklyn Heights is a neighborhood in northwestern Brooklyn, bounded to the west and north by Columbia Heights and the Brooklyn-Queens Expressway, to the east by Court Street and Cadman Plaza West, and to the south by Atlantic Avenue. Essentially, Brooklyn Heights became the world's first commuter suburb. By the 1830s and 1840s more substantial houses of brick and brownstone with Greek Revival details were being built farther south. During the following decades the houses grew larger, exhibiting the entire range of revival styles that swept American architecture: Italianate, Second Empire, Victorian Gothic, Romanesque, neo-Greco, and Classical Revival. Some of the houses belonged to merchants whose ships docked at the wharves below. Throughout the nineteenth century the neighborhood had an unmatched elegance. Using Gothic Revival, Greek Revival, and Italianate styles, Minard Lafever designed the Church of the Savior in Brooklyn Heights (1844, now First Unitarian Church).</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>Fletcher, Ellen. "Brooklyn Heights." In The Encyclopedia of New York City, edited by Kenneth T. Jackson, 177-178. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 2010.</item>
+      <item>Jones, Susanna A. "Churches." In The Encyclopedia of New York City, edited by Kenneth T. Jackson, 248. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 2010.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_296ad26fb8888636604a7553e6f1c75c">
+    <head>Preferred Citation</head>
+<p>Identification of item, 1880-1949; Cathie Gandel photographs, 2022.011, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_b6d7b472c6225640f8ce1576c5a8867a">
+    <head>Processing Information</head>
+<p>This collection is processed to the collection level, and the photos will be digitized and added with metadata to our digital collections.</p>  </processinfo>
+  <relatedmaterial id="aspace_7caa88d5f3149fc103df43aef273d559">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related collections:</p><p>Brooklyn Ephemera Collection (BCMS.0007) - Brooklyn Heights</p><p>Brooklyn photograph and illustration collection (ARC.202) - Images by Subject -- Brooklyn Heights </p><p>Brooklyn Historical Society ephemera collection (ARC.272) - Churches -- First Unitarian Church </p><p>Brooklyn For Peace records (2016.026) - Series 5: Subject Files -- First Unitarian Congregational Society </p><p>First Unitarian Congregational Society of Brooklyn records (ARC.109) - Series 13: Photographs</p>  </relatedmaterial>
+  <scopecontent id="aspace_59838d8e66bed863eb5e2838b8333860">
+    <head>Scope and Contents</head>
+<p>Three undated black and white photographs of street scenes in Brooklyn Heights taken during the late 19th or early 20th century. One photo is of the First Unitarian Congregational Society in Brooklyn on the corner of Pierrepont Street and Monroe Place. One photo was taken somewhere on Monroe Place and the other photo was taken somewhere on Remsen Street. The photos are mounted on board and appear to have been part of an album or scrapbook. Two photos have handwritten information about the subject beneath them. There are two 3.25 by 3.25 inch black and white photographs, each mounted on 5 by 5 inch boards that are both pasted on an 8.5 by 11.5 inch sheet of scrapbook paper and one 3.25 by 3 inch black and white photograph mounted on a 5 by 5 inch board.</p>  </scopecontent>
+  <userestrict id="aspace_67a86a931859c9bec2c480593fcfe488">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Buildings, structures, etc.</geogname>
+    <subject source="lcsh">Street photography</subject>
+    <subject source="lcsh">Street photography -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Street photography -- 20th century</subject>
+    <subject source="lcsh">Brownstone buildings -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Churches -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Architecture, Domestic -- New York (State) -- Kings County</subject>
+    <persname role="fmo" source="local">Gandel, Cathie Ireys</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
