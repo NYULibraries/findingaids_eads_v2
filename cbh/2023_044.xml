@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/cbh/2023_044">2023_044</eadid><filedesc><titlestmt><titleproper>Guide to the Kvedaras family photographs <num>2023.044</num></titleproper><author>Kevin Dao</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>2024</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-26 20:54:41 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/cbh/2023_044">2023_044</eadid><filedesc><titlestmt><titleproper>Guide to the Kvedaras family photographs <num>2023.044</num></titleproper><author>Kevin Dao</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>2024</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-18 23:04:20 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Center for Brooklyn History</corpname>
@@ -18,20 +18,17 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_36a76bd896187f214bd01b1077838ea2" label="Graphic Materials" type="Box">Prints by accession 12</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_3a6c85bd3e5e8666fd7fa6ba8ef55e97" label="Graphic Materials" type="Box">Prints by accession 12</container>
   </did>
   <scopecontent id="aspace_aeb7169d080eadea7f3a21b8d1c572d5">
     <head>Scope and Contents</head>
-<p>Seven black and white photographs depicting and/or taken by members of the Kvedaras family of 379 South 3rd Street in Williamsburg. Five of the photos depict the celebratory decorations and energy at the end of WWII on August 19, 1945. One photo is of 104 Scholes Street in Williamsburg in 1939. The remaining photo shows two men, one of whom is Joseph Kvedaras, at the front door of the building taken around 1950. Each of the photos has handwritten information about its subject on the verso. The Kvedaras family home address is written on the back of four photos. There are six 3.5" x 2.5" black and white photographs and one 5" x 3.5" black and white photograph.</p>  </scopecontent>
+<p>Seven black and white photographs depicting and/or taken by members of the Kvedaras family of 379 South 3rd Street in Williamsburg. Five of the photos depict the celebratory decorations and energy at the end of WWII on August 19, 1945. One photo is of 104 Scholes Street in Williamsburg in 1939. The remaining photo shows two men, one of whom is Joseph Kvedaras, at the front door of the building taken around 1950. Each of the photos has handwritten information about its subject on the verso. The Kvedaras family home address is written on the back of four photos. There are six 3.5 by 2.5 inches black and white photographs and one 5 by 3.5 inches black and white photograph.</p>  </scopecontent>
   <accessrestrict id="aspace_a1946b232d556e326325d9b1f9de4535">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_0302e2d661d06c49fafc9b93d7d95363">
     <head>Immediate Source of Acquisition</head>
 <p>Source of acquisition unknown, received 2008. The collection was formally accessioned in 2023.</p>  </acqinfo>
-  <processinfo id="aspace_d9f41ffd7421eab2ec497c4e92d6e20e">
-    <head>Processing Information</head>
-<p>This collection is processed to the collection level, and the photos will be digitized and added with metadata to our digital collections.</p>  </processinfo>
   <prefercite id="aspace_aa6a3a37d25e78a2b94c85dcddf79537">
     <head>Preferred Citation</head>
 <p>Identification of item, 1939-1950; Kvedaras family photographs, 2023.044, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
@@ -43,10 +40,20 @@
 <p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
   <bioghist id="aspace_c5aff8243c8657645dce44584477a758">
     <head>Historical note</head>
-<p>Williamsburg(h) is a neighborhood in northwestern Brooklyn (2008 pop. ca 121,000), bounded on the east by the Queens County line, on the south by Flushing Avenue, on the west by the East River, and on the north by North 15th Street, then along McCarren Park's western and southern edges to the Brooklyn-Queens Expressway at Bayard Street. During the early 1930s many businesses in the neighborhood declared bankruptcy and many prosperous residents left. The Jewish community continued to grow, and a large number of Jewish refugees escaping Nazism moved in and formed Hasidic synagogues and schools; there were more than 20 sects from different parts of Europe, including the large Satmar sect from Hungary and Romania, led by its rabbi Joel Teitelbaum. Manufacturing, which employed more than a million people in the city in 1950, attracted many Puerto Ricans during the following decade.</p><p>Reference: The Encyclopedia of New York City Second Edition by Kenneth T. Jackson (Editor), Lisa Keller (Editor), Nancy Flood (Editor); Call number: F128.3 .E75 2010</p>  </bioghist>
+<p>Williamsburg(h) is a neighborhood in northwestern Brooklyn, bounded on the east by the Queens County line, on the south by Flushing Avenue, on the west by the East River, and on the north by North 15th Street, then along McCarren Park's western and southern edges to the Brooklyn-Queens Expressway at Bayard Street. During the early 1930s many businesses in the neighborhood declared bankruptcy and many prosperous residents left. The Jewish community continued to grow, and a large number of Jewish refugees escaping Nazism moved in and formed Hasidic synagogues and schools; there were more than 20 sects from different parts of Europe, including the large Satmar sect from Hungary and Romania, led by its rabbi Joel Teitelbaum. Manufacturing, which employed more than a million people in the city in 1950, attracted many Puerto Ricans during the following decade.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Berck, Judith. "Williamsburg(h)." In The Encyclopedia of New York City, edited by Kenneth T. Jackson, 1403. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 2010. </item>
+    </list>
+  </bioghist>
   <relatedmaterial id="aspace_f6be7193a4e7ab12a7bf2abb63c1124c">
     <head>Related Materials</head>
 <p>Center for Brooklyn History holds the following related collections:</p><p>Julia and Morris Mandelowitz World War II correspondence (2017.008)</p><p>Edward B. Watson collection of World War I and World War II illustrations and cartoons (1977.278)</p><p>Angela Boglioli Oppizzi papers (2014.014) - The papers include a memoir written by Angela Boglioli Oppizzi in 1978 about her life in Brooklyn from the late 1930s through World War II that describes her education, work experiences, courtship, and reactions to events occurring during World War II.</p><p>Viebrock family papers (2001.009) - Letters of the Viebrock family of 1124 Flatbush Avenue in Brooklyn, including the correspondence of a World War II soldier.</p><p>E.S. 80 Night School scrapbooks (2008.020) -  The documents produced by the students touch upon American history, World War II experiences, their home countries, life in New York, and opinions on the school.</p><p>Alfred and Lucille Kolkin papers (ARC.048) - The Alfred and Lucille Kolkin papers span 1942 to 1965 and contain correspondence between Al and Lucy Kolkin during Al's Navy training and active service in the Pacific in World War II.</p><p>Puerto Rican Oral History Project records (1976.001) -- Guanill, Pedro, 1974 June 18, inclusive - In the interview, Pedro Guanill talks about his experiences as a factory worker, boxer and merchant seaman during the interwar and World War II period. He also describes the Williamsburg and Downtown neighborhoods of Brooklyn in the 1930s and 1940s.</p>  </relatedmaterial>
+  <phystech id="aspace_de3d3d9d924334b6c5e934ba188f6dd0">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
+  <altformavail id="aspace_55fca4e2e5d2abe2c1a52000bb12cca8">
+    <head>Existence and Location of Copies</head>
+<p>This collection is available on the library's digital collections portal under the call number prefix KVED.</p>  </altformavail>
   <controlaccess>
     <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
     <subject source="lcsh">World War, 1939-1945</subject>
