@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">pr471_delamar_mansion</eadid><filedesc><titlestmt><titleproper>Guide to the De Lamar Mansion Interior Photographs,<lb/>circa 1905,<lb/> <num>PR 471</num></titleproper><author>Joseph Ditta</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>May 2024</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-05-02 13:31:09 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>De Lamar Mansion interior photographs</unittitle>
+    <origination label="Creator">
+      <persname role="pht" source="naf">Ward, DeWitt Clinton</persname>
+    </origination>
+    <unitid>PR 471</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+      <extent altrender="carrier">28 11x15-inch photographs + 1 imprint sheet in 1 folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">circa 1905</unitdate>
+    <abstract id="aspace_0be895fda68333cdfa2f3b9501c10252">One exterior and twenty-seven interior photographs of the Joseph Raphael De Lamar House, a Beaux-Arts style mansion at 233 Madsion Avenue, Manhattan, designed by noted architect C. P. H. Gilbert and built in 1902–1905. Since 1973 the building has housed the Consulate General of the Republic of Poland in New York.</abstract>
+    <physloc id="aspace_dfb42ac3280cf66fe7d006d202fb5196">This collection may be stored offsite. To arrange to consult it, please go to <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</physloc>
+    <langmaterial id="aspace_31ae677096df048a14ec9c6f42088897">This is a collection of photographs; any text is in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_4184b8236ed926602cd0fdfe7a631e55">
+    <head>Access Restrictions</head>
+<p>This collection may be stored offsite. To arrange to consult it, please go to <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/library/visit">www.nyhistory.org/library/visit</extref>.</p>  </accessrestrict>
+  <acqinfo id="aspace_09047a2706a1985b0f04c7ab9500cc10">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Nancy Schumann, 2014. (Schuman's great-aunt, Adele Hermione Bueler, was De Lamar's chef.)</p>  </acqinfo>
+  <arrangement id="aspace_d120e0d9b866b954dda8952574e8c0e5">
+    <head>Arrangement</head>
+<p>The photographs are housed in one folder and remain in the order in which they were received. Holes punched in their left margins indicate they were once held in a post binder, the covers of which are not extant.</p>  </arrangement>
+  <bioghist id="aspace_f0e28421124bf8b99b944ad482d16cd1">
+    <head>Biographical / Historical</head>
+<p>Dutch-born financier Joseph Raphael De Lamar (1843–1918) made his primary fortune from mines he owned in Canada and the American west. He amassed an estate valued at $32 million (upwards of $700 million today). In 1902 he purchased for $250,000 a plot on the northeast corner of Madison Avenue and East 37th Street, in the Murray Hill section of Manhattan, and commissioned "mansion architect" C. P. H. Gilbert (1861–1952) to design there a house costing $500,000. The house, with an address of 233 Madsion Avenue, was completed in 1905. As befitted De Lamar's wealth, it contained lavishly decorated interiors spread out over six floors, as well as a rooftop dog run and a basement garage accessed by an elevator that raised and lowered vehicles from the street. De Lamar occupied his mansion for little more than a decade: he died in 1918. He bequeathed one third of his estate to his sole child, Alice (1895–1983). Her share did not include 233 Madison Avenue, which she vacated soon after her father's death. The remainder of De Lamar's estate went to the medical schools of Harvard, Columbia, and Johns Hopkins. In 1923 the schools sold the house to the National Democratic Club. In 1973 it was purchased by the Polish government, and since then has housed the Consulate General of the Republic of Poland in New York. The house was designated a landmark by the New York City Landmarks Preservation Commission in 1975.</p><p>[For more, see "Joseph Raphael De Lamar House, 233 Madison Avenue, C. P. H. Gilbert, 1905" in Michael C. Kathrens, <emph render="underline">Great Houses of New York, 1880–1930</emph> (New York: Acanthus Press, 2005), 155–160.]</p>  </bioghist>
+  <prefercite id="aspace_f662cd83dffaf839f9ab6ba3db00eb32">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as the "De Lamar Mansion Interior Photographs, PR 471, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society."</p>  </prefercite>
+  <processinfo id="aspace_ba5d137b2aae6df747314d9f734a60f8">
+    <head>Processing Information</head>
+<p>Archivist Joseph Ditta processed this collection in April-May 2024.</p>  </processinfo>
+  <scopecontent id="aspace_dcd70ea5a02f019cb58399827388f8f4">
+    <head>Scope and Contents</head>
+<p>Following one exterior view, the other twenty-seven photographs in this collection depict the various interiors of the Joseph Raphael De Lamar House at 233 Madison Avenue, designed in the Beaux-Arts style by "mansion architect" C. P. H. Gilbert and constructed in 1902–1905. A supplemental imprint sheet indicates the photographs were taken by "DE W. C. WARD" of New York. This was DeWitt Clinton Ward (d. 1933), noted photographer of the work of famous artists and sculptors. Ward likely took these views of the De Lamar Mansion shortly after its completion in 1905, and definitely before the sale of its contents in 1919.</p><p>While none of the photographs are identified, they depict the mansion's entrance vestibule, staircase, gallery, library, ballroom, dining room, breakfast rooms, and assorted bedrooms with their adjacent sitting rooms. A few photographs highlight individual furnishings that were also depicted in the <extref xlink:actuate="onRequest" xlink:href="https://archive.org/details/frick-31072002582536">Illustrated catalogue of the extremely costly furnishings, embellishments and interior decorations of the residence of the late Captain J.R. De Lamar, No. 233 Madison Avenue, New York City</extref> (1919), such as the "French inlaid kingwood and cuivre doré bed in the Louis XV style" (second sale, no. 376), the "Richly carved and gilded Vernis Martin grand piano in the Louis XV style by Steinway &amp; Sons" (second sale, no. 475), and the "Grand salon vitrine in the Louis XV style by Linke" (second sale, no. 485).</p>  </scopecontent>
+  <userestrict id="aspace_5d40b5db41362eff07834460b1af470a">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Antiques -- Private collections.</subject>
+    <subject source="lcsh">Art -- Private collections.</subject>
+    <subject source="lcsh">Photography of interiors.</subject>
+    <subject source="lcsh">Rich people -- Homes and haunts -- New York (State)  -- New York. </subject>
+    <geogname source="lcsh">Murray Hill (New York, N.Y.) -- Buildings, structures, etc.</geogname>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <persname source="library_of_congress_subject_heading">De Lamar, J. R. (Joseph Raphael), 1843-1918 -- Homes and haunts</persname>
+    <persname role="arc" source="library_of_congress_subject_heading">Gilbert, C. P. H. (Charles Pierrepont H.), 1861-1952</persname>
+  </controlaccess>
+  <dsc><c id="aspace_bed1b544a33e0a93e7a8e42f42584430" level="file"><did><unittitle>De Lamar Mansion interior photographs [29 items]</unittitle><unitdate datechar="creation" type="inclusive">circa 1905</unitdate><container id="aspace_47e18efe127cbfcc1d295109b0ccaf5f" label="Graphic Materials" type="Folder">1 (of 1)</container></did></c></dsc>
+</archdesc>
+</ead>
