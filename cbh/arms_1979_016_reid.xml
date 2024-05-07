@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_016_reid/">arms_1979_016_reid</eadid><filedesc><titlestmt><titleproper>Guide to the Gilbert Reid papers <num>1979.016</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 3, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:14:27 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1979_016_reid/">arms_1979_016_reid</eadid><filedesc><titlestmt><titleproper>Guide to the Gilbert Reid papers <num>1979.016</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 3, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-05-07 14:46:21 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,15 +10,17 @@
     </origination>
     <unitid>1979.016</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
-      <extent altrender="carrier">in five folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in two folders and two oversize folders</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1830/1845" type="inclusive">1830-1845</unitdate>
-    <abstract id="aspace_951155142d77f22d2c1c3edba58830b8">The Gilbert Reid papers span the period 1830 to 1885 and measure 0.3 linear feet. The collection consists of papers relating to both Reid's personal and business activities. Documents include notes on legal questions, drafts of letters regarding collection of finances, a check book, personal deeds, mortgages, agreements, title searches, and office records. Gilbert Reid Jr. (d. 1845) was a Brooklyn lawyer.</abstract>
+    <unitdate datechar="creation" normal="1835/1885" type="inclusive">1835-1885</unitdate>
+    <unitdate datechar="creation" normal="1835/1850" type="bulk">1835-1850</unitdate>
+    <abstract id="aspace_951155142d77f22d2c1c3edba58830b8">The Gilbert Reid papers relate to Reid's personal and business activities. Documents include notes on legal questions, drafts of letters regarding collection of finances, a check book, personal deeds, mortgages, agreements, title searches, and office records. Gilbert Reid Jr. was a Brooklyn lawyer.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_f76066262b89f5de37c1597e74776e17" label="Text" type="Box">A0090</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_08e09eb2a238fb7127578e6133cbcef8" label="Mixed Materials" type="Box">A0036</container>
+    <container altrender="Large Flat Box" id="aspace_351bb1ee0e2bcb581a50102919fa3df3" label="Mixed Materials" type="Box">OS-23</container>
   </did>
   <accessrestrict id="aspace_247ccaeb07f0915560e64001d841da9c">
     <head>Conditions Governing Access</head>
@@ -26,16 +28,41 @@
   <acqinfo id="aspace_ceb44be0f983a564fe3d98b6db7b7413">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Patrick J. Van Buskirk, 1979.</p>  </acqinfo>
+  <arrangement id="aspace_81bbb667ee484f4cbf5ce4029abd82c7">
+    <head>Arrangement</head>
+<p>The materials are arranged into two folders and two oversize folders by type (business and personal) and size.</p>  </arrangement>
+  <bioghist id="aspace_ac5952319eee6fd82f4daf2b6fb2bb64">
+    <head>Biographical note</head>
+<p>Gilbert Reid Jr. was a Brooklyn lawyer.</p>  </bioghist>
   <prefercite id="aspace_0a19a8e3d56fa78afc8f6d67ffe69f85">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Gilbert Reid papers, 1979.016, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Gilbert Reid papers, 1979.016, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_5f848b819e77b4e55e34f66b28077475">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_c862192867121878e2176e246129f9d7">
+    <head>Scope and Contents</head>
+<p>The Gilbert Reid papers relate to Reid's personal and business activities. Documents include notes on legal questions, drafts of letters regarding collection of finances, a check book, personal deeds, mortgages, agreements, title searches, and office records. Neighborhoods represented in the collection via property records include Brooklyn Heights (lots between Middagh, Cranberry, Columbia and Willow Streets and one at Henry and Pierrepont Streets) and Crown Heights (lots between Dean and Bergen Streets and Franklin and Classon Avenues). Surnames that appear in the collection include Sackett, Cowenhoven, and Vanderveer, and individuals include Lemuel Green and A.J. Spooner. The collection also includes an 1885 patent registered to David M. Bunnell for a method of drying grain.</p>  </scopecontent>
+  <userestrict id="aspace_c04c24dc185a16152cfff5542a4d0257">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <subject source="aat">Deeds</subject>
     <genreform source="aat">Mortgages</genreform>
-    <subject source="lcsh">Lawyers |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Lawyers -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Checkbooks</genreform>
     <genreform source="aat">Financial records</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Patents</genreform>
+    <genreform source="aat">Notes</genreform>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
+    <genreform source="aat">Wills</genreform>
+    <subject source="lcsh">Wills -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Decedents' estates</subject>
+    <subject source="lcsh">Decedents' estates -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Receipts (financial records)</genreform>
   </controlaccess>
   <dsc/>
 </archdesc>
