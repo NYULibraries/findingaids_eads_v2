@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1980_012_marguerite_doggett/">arms_1980_012_marguerite_doggett</eadid><filedesc><titlestmt><titleproper>Guide to the Marguerite V. Doggett papers <num>1980.012</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 10, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:15:25 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1980_012_marguerite_doggett/">arms_1980_012_marguerite_doggett</eadid><filedesc><titlestmt><titleproper>Guide to the Marguerite V. Doggett papers <num>1980.012</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 10, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-05-10 15:13:53 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,38 +10,48 @@
     </origination>
     <unitid>1980.012</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.4 Linear Feet</extent>
-      <extent altrender="carrier">in nine folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one box.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1975/1980" type="inclusive">1975-1980</unitdate>
-    <abstract id="aspace_80349b2c044b0683ff06c798fe022bd0">The Margureite V. Dogget papers span the period 1975 to 1980 and measure 0.4 linear feet. The papers primarily consist of an unedited manuscript of her book, <emph render="italic">Long Island Printing, 1791-1830: A Checklist of Imprints</emph>. Also included are press releases, reviews, and correspondence concerning the book, which was printed in 1978 by the Long Island Historical Society. Each printer documented in the book is listed chronologically by county, and town within county, with biographies of each of the printers. An appendix provides a list of authors associated with the printing industry in Long Island.</abstract>
+    <abstract id="aspace_80349b2c044b0683ff06c798fe022bd0">The Marguerite V. Doggett papers primarily consist of an unedited manuscript of her book, "Long Island Printing, 1791-1830: A Checklist of Imprints." Also included are press releases, reviews, and correspondence concerning the book, which was printed in 1978 by the Long Island Historical Society.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_69c1daeec0278c21b24029c070b662dc" label="Text" type="Box">A0094</container>
   </did>
-  <prefercite id="aspace_4bb1032af4f97521e05b81154045653b">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Marguerite V. Doggett papers, 1980.012, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_a68d3edca515f5a8d7295809b688498b">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The papers were formally accessioned in 1980.</p>  </acqinfo>
   <accessrestrict id="aspace_df1b59741fa66bfb58a0385af51a4796">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_a68d3edca515f5a8d7295809b688498b">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The papers were formally accessioned in 1980.</p>  </acqinfo>
+  <arrangement id="aspace_d63fcf6c66e1aac57a59e01f119c52da">
+    <head>Arrangement</head>
+<p>The collection is arranged into nine folders by type.</p>  </arrangement>
+  <prefercite id="aspace_4bb1032af4f97521e05b81154045653b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Marguerite V. Doggett papers, 1980.012, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_027aa3796201c2d0125d975ff527fe63">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_71b41cb1b574a90006e271896c3d2a57">
+    <head>Scope and Contents</head>
+<p>The Marguerite V. Doggett papers primarily consist of an unedited manuscript of her book, "Long Island Printing, 1791-1830: A Checklist of Imprints." Also included are press releases, reviews, and correspondence concerning the book, which was printed in 1978 by the Long Island Historical Society. Each printer documented in the book is listed chronologically by county, and town within county, with biographies of each of the printers. An appendix provides a list of authors associated with the printing industry in Long Island.</p>  </scopecontent>
+  <userestrict id="aspace_e5f223d2fd28856cca254b2c4a5b1eac">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Long Island (N.Y.)</geogname>
     <genreform source="aat">Manuscripts (document genre)</genreform>
     <genreform source="aat">Press releases</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <subject source="lcsh">Printing -- New York (State) -- Long Island</subject>
-    <subject source="lcsh">Printing |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Printing -- New York (State) -- Kings County</subject>
     <genreform source="aat">Correspondence</genreform>
     <subject source="lcsh">Authors, American -- New York (State) -- Long Island</subject>
     <corpname rules="dacs" source="local">Brooklyn Catholic Historical Society</corpname>
     <persname rules="dacs" source="naf">Doggett, Marguerite V.</persname>
-    <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_1cfae0a19ec0de5ed67b9d9d8e9ba165" level="file"><did><unittitle>Publication information</unittitle><unitdate datechar="creation" normal="1978/1978">circa 1978</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_3d38dacc36aa357c505194e008521292" label="Mixed Materials" type="Box">1</container><container id="aspace_93e0c1e23377b37a40d9bccfd28789f6" parent="aspace_3d38dacc36aa357c505194e008521292" type="Folder">1</container></did></c><c id="aspace_de7f434fad6855f9f327e3d433ca65af" level="file"><did><unittitle>News releases, clippings, reviews</unittitle><unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_cf82d9e80cc6dade9faffacda6f027f6" label="Mixed Materials" type="Box">1</container><container id="aspace_84b6f392c711cab8d282fcda6a1946d9" parent="aspace_cf82d9e80cc6dade9faffacda6f027f6" type="Folder">2</container></did></c><c id="aspace_efd66bce5636218f3bb647bb5466d17c" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1975/1979" type="inclusive">1975-1979</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_808eecb1cd603d0cb4ad96725d18f6d2" label="Mixed Materials" type="Box">1</container><container id="aspace_e37e98dc3844a216806a1e3fa2f0ff4c" parent="aspace_808eecb1cd603d0cb4ad96725d18f6d2" type="Folder">3</container></did></c><c id="aspace_dd4887a4e74ffee609039c00bf8c73e0" level="file"><did><unittitle>Text of "Long Island Printing"</unittitle><unitdate datechar="creation" normal="1978/1978">circa 1978</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_37b88d002c1c3a62a3cb4b845bc5ed40" label="Text" type="Box">1</container><container id="aspace_3cd3ff921ab85167a920e18bd8379441" parent="aspace_37b88d002c1c3a62a3cb4b845bc5ed40" type="Folder">4-7</container></did><scopecontent id="aspace_4a320699d2bdd5eba5e73653cbd6978b"><head>Scope and Contents</head><p>Includes preface, appendix, and bibliography.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
