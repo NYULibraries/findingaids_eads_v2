@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_196/">tam_196</eadid><filedesc><titlestmt><titleproper>David Greenberg Papers <num>TAM.196</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1/27/2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:56:56 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_196/">tam_196</eadid><filedesc><titlestmt><titleproper>Guide to the David Greenberg Papers <num>TAM.196</num></titleproper><author>Tamiment staff </author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1/27/2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-06-24 14:19:22 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>June 2024</date><item>Updated by Aki Snyder to reflect rehousing of materials</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
@@ -12,14 +12,14 @@
       <persname role="dnr" source="naf">Greenberg, David F.</persname>
     </origination>
     <unitid>TAM.196</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/830</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
+      <extent altrender="materialtype spaceoccupied">1.98 Linear Feet</extent>
+      <extent altrender="carrier">in 4 manuscript boxes and a half manuscript box</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1970/1989" type="inclusive">circa 1970s-1980s</unitdate>
+    <abstract id="aspace_82a6d8fb28f3e318d7ee15d3ffe564d5">David F. Greenberg is the author of <emph render="italic">Crime and Capitalism: Readings in Marxist Criminology</emph> and several other books, and a professor of sociology at New York University. This collection contains the manuscript of the unpublished anthology, "Behind Bars: The Prison Experiences of War Resisters," edited by David F. Greenberg and Beverly D. Houghton. The anthology contains essays by resisters to the Vietnam War regarding their experiences in various prisons and jails. The collection also includes material from the New American Movement (NAM): newspapers, internal discussion bulletins, and others.</abstract>
     <langmaterial id="aspace_c9684a431434a9a25b4ff44213864f58">Materials are in English</langmaterial>
-    <container altrender="Record carton" id="aspace_51947df7cf0d4494f15d48e496a57447" label="Mixed Materials [31142063293909]" type="Box">1</container>
-    <container altrender="Manuscript box - Legal - Half" id="aspace_8fd426a8533acee405e9f76118812c60" label="Mixed Materials [31142062763415]" type="Box">2</container>
   </did>
   <accessrestrict id="aspace_88e83afb3fd4cadeff9dd90b263036d8">
     <head>Conditions Governing Access</head>
@@ -31,7 +31,7 @@
     <head>Arrangement</head>
 <p>This collection has not been arranged by an archivist. Materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
   <bioghist id="aspace_787ba2b45c8475675022296da774e2d0">
-    <head>Historical/Biographical Note</head>
+    <head>Biographical Note</head>
 <p>David F. Greenberg is the author of <emph render="italic">Crime and Capitalism: Readings in Marxist Criminology</emph> and several other books, and a professor of sociology at New York University.</p>  </bioghist>
   <prefercite id="aspace_8a9cfdce842a1cccfd530112adcb4394">
     <head>Preferred Citation</head>
@@ -42,16 +42,19 @@
   <userestrict id="aspace_fead08ab81f82759b844bae02d7b4c70">
     <head>Conditions Governing Use</head>
 <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by David Greenberg was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <processinfo id="aspace_59ded99475aed6cfd84aef4fbecbf5ad">
+    <head>Processing Information</head>
+<p>Decisions about this collection made prior to 2024 have not been recorded.</p><p>In June 2024, materials from Box 1 were rehoused into four manuscript boxes (1, 3-5). At this time, materials were also placed in archival folders. </p>  </processinfo>
   <controlaccess>
-    <subject source="lcsh">Conscientious objectors |z United States.</subject>
-    <subject source="lcsh">Draft resisters |z United States.</subject>
+    <subject authfilenumber="(lcsh)sh2008101561" source="lcsh">Conscientious objectors--United States</subject>
+    <subject authfilenumber="(lcsh)sh85085287" source="lcsh">Draft resisters</subject>
     <subject source="lcsh">Vietnam War, 1961-1975 -- Protest movements -- United States.</subject>
-    <subject source="lcsh">Political prisoners |z United States |v Biography.</subject>
+    <subject authfilenumber="(lcsh)sh2007007937" source="lcsh">Political prisoners--Abuse of--United States</subject>
     <persname source="naf">Houghton, Beverly D. (Beverly Dodson), 1941-</persname>
     <persname role="dnr" source="naf">Greenberg, David F.</persname>
     <persname source="naf">Greenberg, David F.</persname>
     <corpname authfilenumber="(lccn)n81107277" source="naf">New American Movement (Organization)</corpname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_ba0b70dca3a00183f45559b03b30c321" level="file"><did><unittitle>Unprocessed Materials</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1002800</unitid><unitdate datechar="creation" type="inclusive">circa 1970s-1980s</unitdate><container altrender="Manuscript box - Legal" id="aspace_6da9409f45361657d46902adeb96e2b3" label="Mixed Materials [31142063293909]" type="Box">1</container></did></c><c id="aspace_53c02f6fd3e3e7990f29e11ce371705d" level="file"><did><unittitle>Unprocessed Materials</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1002801</unitid><unitdate datechar="creation" type="inclusive">circa 1970s-1980s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_275faf33e5d35d1fda8ecfdff0566491" label="Mixed Materials [31142062763415]" type="Box">2</container></did></c><c id="aspace_0f37137fbaacedd6796d7954dcdaa26f" level="file"><did><unittitle>Unprocessed Materials</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1002802</unitid><unitdate datechar="creation" type="inclusive">circa 1970s-1980s</unitdate><container altrender="Manuscript box - Legal" id="aspace_db9a44f49ed19255e1a1a787d5837427" label="Mixed Materials [31142066989701]" type="Box">3</container></did></c><c id="aspace_87430773f5653f6ff1b5cb8395d4cd71" level="file"><did><unittitle>Unprocessed Materials</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1002803</unitid><unitdate datechar="creation" type="inclusive">circa 1970s-1980s</unitdate><container altrender="Manuscript box - Legal" id="aspace_f4d0e3cfde41197041e5c7c12c957aab" label="Mixed Materials [31142066989719]" type="Box">4</container></did></c><c id="aspace_deaabe3907e038ea41109cec2cc54499" level="file"><did><unittitle>Unprocessed Materials</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1002804</unitid><unitdate datechar="creation" type="inclusive">circa 1970s-1980s</unitdate><container altrender="Manuscript box - Legal" id="aspace_47d3aadbe17a53b572b663a362f46d64" label="Mixed Materials [31142066989727]" type="Box">5</container></did></c></dsc>
 </archdesc>
 </ead>
