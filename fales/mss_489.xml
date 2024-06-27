@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_489/">mss_489</eadid><filedesc><titlestmt><titleproper>Guide to the Alysa Hornick Collection of Clubbing Ephemera <num>MSS.489</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>May 2017</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 17:03:04 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_489/">mss_489</eadid><filedesc><titlestmt><titleproper>Guide to the Alysa Hornick Collection of Clubbing Ephemera <num>MSS.489</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>May 2017</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-02-22 10:53:41 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>February 2024</date><item>Edited by Anna Björnsson McCormick to include information about potentially harmful materials in the collection.</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Fales Library and Special Collections</corpname>
@@ -9,19 +9,20 @@
       <persname rules="dacs" source="naf">Hornick, Alysa, 1981-</persname>
     </origination>
     <unitid>MSS.489</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2396</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">.5 linear feet</extent>
+      <extent altrender="materialtype spaceoccupied">.25 Linear Feet</extent>
       <extent altrender="carrier">in 1 manuscript box</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1995/2001" type="inclusive">1995-2001</unitdate>
     <abstract id="aspace_59ef21b85a4cf49f7d08924feb77387c">Alysa Hornick is a bibliographer and library professional based in New York City. Hornick was a minor figure in the goth club scene, primarily between 1999 and 2002, including stints as a go-go dancer and model. This collection consists of flyers, postcards, and other ephemera documenting the nightclubbing scene in New York City during the mid- and late-1990s and early 2000s, with particular emphasis on the club Mother and its events, such as Jackie 60. The ephemera in this collection mainly advertises parties, concerts, and other events at the underground-performance oriented clubs, as well as "goth" clubs, documenting the weekly themes and the larger social context of club culture in New York City. Figures such as Chi Chi Valenti, Johnny Dynell, dancer and choreographer Richard Move, and fashion designer Kitty Boots are prominently featured in the materials.</abstract>
     <physloc id="aspace_1df5737b72e63928976813f2fc34ba38">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
     <langmaterial id="aspace_b6825ed51ffcd2236b1b5b6144e22fdd">Materials are in English.</langmaterial>
-    <container altrender="Manuscript box - Legal - Half" id="aspace_3349fb6c6b2e49a4054748cfcd5ca1ed" label="Mixed Materials [31142063123171]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_aead3d24470412b830bf87eb3ccd9ecc" label="Mixed Materials [31142063123171]" type="Box">1</container>
   </did>
   <scopecontent id="aspace_6668d0308ab939363fc45c3012dba8ca">
     <head>Scope and Contents</head>
-<p>This collection consists of flyers, postcards, and other ephemera documenting the nightclubbing scene in New York City during the mid- and late-1990s and early 2000s, with particular emphasis on the club Mother and its events, such as Jackie 60. The ephemera in this collection mainly advertises parties, concerts, and other events at the underground-performance oriented clubs, as well as "goth" clubs, documenting the weekly themes and the larger social context of club culture in New York City. Figures such as Chi Chi Valenti, Johnny Dynell, dancer and choreographer Richard Move, and fashion designer Kitty Boots are prominently featured in the materials.</p>  </scopecontent>
+<p>This collection consists of flyers, postcards, and other ephemera documenting the nightclubbing scene in New York City during the mid- and late-1990s and early 2000s, with particular emphasis on the club Mother and its events, such as Jackie 60. The ephemera in this collection mainly advertises parties, concerts, and other events at the underground-performance oriented clubs, as well as "goth" clubs, documenting the weekly themes and the larger social context of club culture in New York City. Figures such as Chi Chi Valenti, Johnny Dynell, dancer and choreographer Richard Move, and fashion designer Kitty Boots are prominently featured in the materials.</p><p>Some postcards in this collection include sexually explicit and racist imagery.</p>  </scopecontent>
   <arrangement id="aspace_8bf133910deca78d570fc2e64cfacbaf">
     <head>Arrangement</head>
 <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
@@ -38,7 +39,7 @@
     <head>Preferred Citation</head>
 <p>Identification of item, date; Alysa Hornick Collection of Clubbing Ephemera; MSS 489; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
   <bioghist id="aspace_3bc85efcdc3bcf551f32432ac4817d8b">
-    <head>Biographical / Historical</head>
+    <head>Biographical</head>
 <p>Alysa Hornick is a bibliographer and library professional based in New York City. She holds a BA in Comparative Literature from New York University (2003), and an MLIS from Long Island University (2008). Hornick was a minor figure in the goth club scene, primarily between 1999 and 2002, including stints as a go-go dancer and model.</p>  </bioghist>
   <processinfo id="aspace_9748c554ea2903662720d151710be246">
     <head>Processing Information</head>
