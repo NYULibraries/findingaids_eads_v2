@@ -1,44 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1980_030_randolph/">arms_1980_030_randolph</eadid><filedesc><titlestmt><titleproper>Guide to the Maria S. Randolph papers <num>1980.030</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 11, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:15:56 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1980_030_randolph/">arms_1980_030_randolph</eadid><filedesc><titlestmt><titleproper>Guide to the Maria S. Randolph property records <num>1980.030</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 11, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-09 17:39:15 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
-    <unittitle>Maria S. Randolph papers</unittitle>
+    <unittitle>Maria S. Randolph property records</unittitle>
     <origination label="Creator">
-      <persname rules="dacs" source="local">Randolph, Maria S.</persname>
+      <persname role="fmo" rules="dacs" source="local">Randolph, Maria S.</persname>
     </origination>
     <unitid>1980.030</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
-      <extent altrender="carrier">in 12 folders</extent>
+      <extent altrender="carrier">in 7 folders and one oversize folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1888/1932" type="inclusive">1888-1932</unitdate>
-    <abstract id="aspace_4689883f0d28ae11cb5c94a90fe83b46">The Maria S. Randolph papers span the period 1888 to 1932 and measure 0.3 linear feet. The papers include tax notices and payments for lots owned by Maria S. Rudolph in the town of New Utrecht, Kings County. The town of New Utrecht became a section of the borough of Brooklyn when Brooklyn merged with the New York City and was absorbed into the Brooklyn neighborhoods of Bensonhurst, Bay Ridge, and Borough Park.</abstract>
+    <abstract id="aspace_4689883f0d28ae11cb5c94a90fe83b46">The Maria S. Randolph property records include tax notices and payments for lots owned by Rudolph in the town of New Utrecht, Kings County.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_44457088729cec7ff0549211cf414674" label="Text" type="Box">A0095</container>
   </did>
-  <prefercite id="aspace_f8a1e4f3ceeca3576b9dabef641b385d">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Maria S. Randolph papers, 1980.030, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_423f05251406e71b1d601c74d47a92c0">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Gertrude M. Paulson, 1952.</p>  </acqinfo>
   <accessrestrict id="aspace_7f06f931fa9993067d2498e13402f256">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_423f05251406e71b1d601c74d47a92c0">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Gertrude M. Paulson, 1952.</p>  </acqinfo>
+  <arrangement id="aspace_c37d445f204cf673a860de4150002cae">
+    <head>Arrangement</head>
+<p>The materials are arranged by lot number.</p>  </arrangement>
+  <bioghist id="aspace_8fdd7777ba75cf362d54d33f8553a859">
+    <head>Historical note</head>
+<p>The town of New Utrecht became a section of the borough of Brooklyn when Brooklyn merged with the New York City and was absorbed into the Brooklyn neighborhoods of Bensonhurst, Bay Ridge, and Borough Park.</p>  </bioghist>
+  <bioghist id="aspace_e69caeaaeb69e5c0cce47b1fd6837fd7">
+    <head>Biographical note</head>
+<p>Maria Ann Randolph, nee Stryker, was born August 25, 1849 to Joanna Stryker (d. Sept. 5, 1905) and Samuel Lott. Her maternal grandparents were Samuel and Ellen Stryker and her paternal grandparents were Henry Lott and Maria Bergen Lott. She was married to John Edgar Randolph. Maria Randolph passed away on December 7, 1932 and was buried at Green-Wood Cemetery.</p>  </bioghist>
+  <prefercite id="aspace_f8a1e4f3ceeca3576b9dabef641b385d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Maria S. Randolph papers, 1980.030, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_409e913c73ae71202304b28f2de7232d">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_7d89145d0da24b7bc308bdce98d02829">
+    <head>Related Materials</head>
+<p>New Utrecht land deeds and executor documents (1977.244)</p><p>Town of New Utrecht elections records (1977.023)</p><p>Kings County Historic Records Microfilm Collection (BCMS.0047)</p><p>Lott family papers (ARC.186)</p><p>There are many New Utrecht documents in the Teunis G. Bergen and Bergen family collection (ARC.006), which also includes material relating to the Lott and Stryker families.</p>  </relatedmaterial>
+  <scopecontent id="aspace_8a6bd364ff1559ec840dd3a1df0b63de">
+    <head>Scope and Contents</head>
+<p>The Maria S. Randolph property records include tax notices and payments for lots owned by Rudolph in the town of New Utrecht, Kings County. The lots are as follows:</p><p>Block 182, Lots 11 and 12</p><p>Block 99, Lots 26 and 27 - later Block 5767, Lot 69 (between 67th and 68th Streets/once Ovington Avenue and 12th and 13th Avenues)</p><p>Block 343, Lots 51 and 52 - later Block 5560, Lot 71 (between 66th and 67th Streets and 17th and 18th Avenues)</p><p>Block 256, Lots 54 and 55 - later Block 834, Lot 68 (between 55th and 56th Streets and 7th and 8th Avenues)</p>  </scopecontent>
+  <userestrict id="aspace_6d576678430192ed5e40d3167a6e5c58">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Borough Park (New York, N.Y.)</geogname>
     <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
     <genreform source="aat">Tax records</genreform>
-    <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <geogname source="lcsh">Bensonhurst (New York, N.Y.)</geogname>
     <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
-    <persname rules="dacs" source="local">Randolph, Maria S.</persname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_fe034fd0da40e8bd7b7e40b0b1c8c6fc" level="file"><did><unittitle>Town of New Utrecht tax assessments</unittitle><unitdate datechar="creation" normal="1888/1895" type="inclusive">1888-1895</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_94b9293d635a7785022dca73ba6b7b7f" label="Mixed Materials" type="Box">A0037</container><container id="aspace_1ee4ef46fb21dd440872e8f7d2d71a76" parent="aspace_94b9293d635a7785022dca73ba6b7b7f" type="Folder">1</container></did></c><c id="aspace_aca60006ed5f3aa522e7f2b38e64c9f5" level="file"><did><unittitle>Lots 11 and 12</unittitle><unitdate datechar="creation" normal="1905/1905">1905</unitdate><container altrender="Large Flat Box" id="aspace_5ba16cf8ae191cbda747370324b3f4a7" label="Mixed Materials" type="Box">OS-38</container></did></c><c id="aspace_fa5af81167417b9c6b67e8fd6871d31e" level="file"><did><unittitle>Lots 26 and 27</unittitle><unitdate datechar="creation" normal="1896/1904" type="inclusive">1896-1904</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_87648e6659d772f1fc9527e67ac5d137" label="Mixed Materials" type="Box">A0037</container><container id="aspace_abdb16e519c144ca3130e31b1b52dc01" parent="aspace_87648e6659d772f1fc9527e67ac5d137" type="Folder">2</container></did></c><c id="aspace_63a1e64d05df5d1b4249bf5d94eab92d" level="file"><did><unittitle>Lots 51 and 52</unittitle><unitdate datechar="creation" normal="1896/1908" type="inclusive">1896-1908</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_79a854f420553e2ea6b7fcdb38c676ca" label="Mixed Materials" type="Box">A0037</container><container id="aspace_b979770dda5fff4f4653845d3ee9de80" parent="aspace_79a854f420553e2ea6b7fcdb38c676ca" type="Folder">3</container></did></c><c id="aspace_8d4af502c79723681f4d416468a648b8" level="file"><did><unittitle>Lots 54 and 55</unittitle><unitdate datechar="creation" normal="1896/1901" type="inclusive">1896-1901</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7aa291099b37915e03571d50175131f8" label="Mixed Materials" type="Box">A0037</container><container id="aspace_f12ef11de53c79a5c966ac5233f2f76b" parent="aspace_7aa291099b37915e03571d50175131f8" type="Folder">4</container></did></c><c id="aspace_9722a4c22d0be64ea1666f18167f3e79" level="file"><did><unittitle>Lot 68</unittitle><unitdate datechar="creation" normal="1902/1925" type="inclusive">1902-1925</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c99a8eb146fe3f28383a7626867b21b7" label="Mixed Materials" type="Box">A0037</container><container id="aspace_606c4f0bd8bfbc5103956a32baeb382a" parent="aspace_c99a8eb146fe3f28383a7626867b21b7" type="Folder">5</container><container altrender="Large Flat Box" id="aspace_a9bec3c2ac442ff4914ce0ee2c387bfe" label="Mixed Materials" type="Box">OS-38</container></did></c><c id="aspace_2ef3a2a1fcfc2607f222b32a819337d7" level="file"><did><unittitle>Lot 69</unittitle><unitdate datechar="creation" normal="1905/1928" type="inclusive">1905-1928</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_bc5957a84a21eac7fc4557250a58e4db" label="Mixed Materials" type="Box">A0037</container><container id="aspace_4c501645e416a16c3ab4fa53de86da4c" parent="aspace_bc5957a84a21eac7fc4557250a58e4db" type="Folder">6</container><container altrender="Large Flat Box" id="aspace_9d6f9c8a691bf6232f9218e6b6f5c1b1" label="Mixed Materials" type="Box">OS-38</container></did></c><c id="aspace_ab4a3ff3846da0fe625b7e79068ae446" level="file"><did><unittitle>Lot 71</unittitle><unitdate datechar="creation" normal="1905/1932" type="inclusive">1905-1932</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_331e7711937c40d8613e5e34fa9b7e92" label="Mixed Materials" type="Box">A0037</container><container id="aspace_7dcadc2c8c543cc835a46b1913d97e6d" parent="aspace_331e7711937c40d8613e5e34fa9b7e92" type="Folder">7</container><container altrender="Large Flat Box" id="aspace_9cf65983aa06847b96b9f3f431d2a0f2" label="Mixed Materials" type="Box">OS-38</container></did></c></dsc>
 </archdesc>
 </ead>
