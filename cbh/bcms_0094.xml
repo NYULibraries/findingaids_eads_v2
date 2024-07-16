@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://dlib.nyu.edu/findingaids/html/bhs/bcms_0094/">bcms_0094</eadid><filedesc><titlestmt><titleproper>Guide to the Joan Kay postcard collection <num>BCMS.0094</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Brooklyn Collection</publisher><p><date>July 2024</date></p><address><addressline>128 Pierrepont St</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-16 20:00:10 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Collection</corpname>
+    </repository>
+    <unittitle>Joan Kay postcard collection</unittitle>
+    <origination label="source">
+      <persname role="com" source="local">Kay, Joan</persname>
+    </origination>
+    <unitid>BCMS.0094</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.1 Linear Feet</extent>
+      <extent altrender="carrier">in two card boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1900/1920" type="inclusive">circa early 20th century</unitdate>
+    <abstract id="aspace_e7f0c2589a48cee04bd75f4c305ec107">652 assorted Brooklyn postcards covering a wide array of Brooklyn subjects. Many of them bear messages and postage. The cards are a mix of photographic and illustrative, black and white and color/tinted.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_e0324d503609a76538d730783a9b0d36">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_f052b3c59e443ed57f3475cda285561b">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Joan Kay, 2011.</p>  </acqinfo>
+  <arrangement id="aspace_493367e2d4c59e1d76bd9b8d370a2ef6">
+    <head>Arrangement</head>
+<p>The postcards are arranged by subject.</p>  </arrangement>
+  <prefercite id="aspace_55b44d160b9f5252efef13e22658f63b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Joan Kay postcard collection, CBHM.0094, Box number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_2a7e6f645a66ee922cd4ac5b9da2be8d">
+    <head>Processing Information</head>
+<p>Collection had been housed in archival sleeves and boxes and arranged by subject at some point prior to 2015, possibly by the donor or by Brooklyn Collection staff. Formally processed by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_ce3110c669e52a04e88632a5fe5d0b8e">
+    <head>Related Materials</head>
+<p>Brooklyn postcards collection (BCMS.0060)</p><p>Collection of Flatbush postcards (V1991.067)</p><p>Brooklyn Bridge Postcard Collection (BCMS.0010)</p><p>Brooklyn Daily Eagle postcard albums (1977.257)</p><p>Early 20th century Brooklyn postcard collection (V1988.054)</p><p>Early 20th century photographic postcards of Brooklyn (V1990.066)</p><p>Allen J. Kone collection of Brooklyn postcards (2016.014)</p><p>Art Seidenberg collection of Prospect Park and Erasmus Hall High School postcards (2017.013)</p><p>Fred Snitzer collection of Kings County Postal ephemera (2013.003)</p>  </relatedmaterial>
+  <scopecontent id="aspace_ccd79d02ab263fb71b08500ddd21f38a">
+    <head>Scope and Contents</head>
+<p>652 assorted Brooklyn postcards covering a wide array of Brooklyn subjects. Many of them bear messages and postage. The cards are a mix of photographic and illustrative, black and white and color/tinted.</p>  </scopecontent>
+  <userestrict id="aspace_42409ccbbac318efc7a396811bb50ed9">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Postcards</genreform>
+    <genreform source="aat">Picture postcards</genreform>
+    <genreform source="aat">Photographic postcards</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Postage stamps</genreform>
+    <subject source="lcsh">Postal service -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Architecture -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Architecture -- New York (State) -- Kings County -- History</subject>
+    <subject source="lcsh">Banks and banking -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Bath Beach (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+    <geogname source="lcsh">Bensonhurst (New York, N.Y.)</geogname>
+    <subject source="lcsh">Business enterprises -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Cemeteries</subject>
+    <subject source="lcsh">Cemeteries -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Churches -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Clubs</subject>
+    <subject source="lcsh">Clubs -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Societies -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.) -- History</geogname>
+    <subject source="lcsh">Hospitals</subject>
+    <subject source="lcsh">Hospitals -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Libraries -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History, Military</geogname>
+    <subject source="lcsh">Military life</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History, Naval</geogname>
+    <subject source="lcsh">Navy-yards and naval stations -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">New York Naval Shipyard </geogname>
+    <subject source="lcsh">Monuments</subject>
+    <subject source="lcsh">Monuments -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Parks -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Portraits</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Politics and government</geogname>
+    <subject source="lcsh">Politics and culture -- United States</subject>
+    <subject source="lcsh">Restaurants</subject>
+    <subject source="lcsh">Restaurants -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Schools -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Streets -- Pictorial works</geogname>
+    <subject source="lcsh">Streets -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Exterior views</genreform>
+    <subject source="lcsh">Theaters</subject>
+    <subject source="lcsh">Theaters -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Transportation</subject>
+    <subject source="lcsh">Transportation -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Urban transportation</subject>
+    <persname role="com" source="local">Kay, Joan</persname>
+    <corpname rules="aacr" source="naf">Brooklyn Daily Eagle (Firm)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_3c9efadf3deb6c01df6b88745f56caec" level="file"><did><unittitle>Architecture and housing</unittitle><container altrender="Shoe Box 6" id="aspace_5117b57cc17706834a56692f530cb839" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_a029aa76ff4439d7413924741d4f0b61" level="file"><did><unittitle>Banks</unittitle><container altrender="Shoe Box 6" id="aspace_169eb90cd60bb10c802b129246078994" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_a0f2d90361c5d49d6456db882e4e2df6" level="file"><did><unittitle>Bath Beach</unittitle><container altrender="Shoe Box 6" id="aspace_43861cef5f19339196bc9728ac6baf67" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_2df685a1441c4d4d8561905a558b9c01" level="file"><did><unittitle>Bay Ridge</unittitle><container altrender="Shoe Box 6" id="aspace_10775ceff1da93971ee573119ac6f0ee" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_4163bd436e1178d4adf01a9654569740" level="file"><did><unittitle>Bensonhurst</unittitle><container altrender="Shoe Box 6" id="aspace_7e03110c3ea6cd7393dcbf76728934fb" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_10f52b34195e8e228dab8e50c0e34537" level="file"><did><unittitle>Brooklyn Daily Eagle postcards</unittitle><container altrender="Shoe Box 6" id="aspace_aeadd7acafa8e793d482c868ef3d5a1c" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_0134226833d34d8be30497dce4e2b4af" level="file"><did><unittitle>Business and Industry</unittitle><container altrender="Shoe Box 6" id="aspace_9321baf891d9221f1a0056e3554d3fcd" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_97902296748c5adfd33cc3d29d214336" level="file"><did><unittitle>Cemeteries</unittitle><container altrender="Shoe Box 6" id="aspace_a217cfaf32e11de69a1f3b0a87238bf4" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_ba32d6390bc6d61ca8f8f67ca409785a" level="file"><did><unittitle>Churches and religious organizations</unittitle><container altrender="Shoe Box 6" id="aspace_474ce330258e6a461a8c49512e82d944" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_917aee069a76721602f6bdd899768b4a" level="file"><did><unittitle>Clubs and societies</unittitle><container altrender="Shoe Box 6" id="aspace_003f521ba1bc34b1a26d3484d463c695" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_4baf41c09c3f639161f84b968c75a7ad" level="file"><did><unittitle>Coney Island</unittitle><container altrender="Shoe Box 6" id="aspace_aac39479a490e64de1d0727b31ab8243" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_b939ecf0234bc352d4334381dba19f3b" level="file"><did><unittitle>Flatbush</unittitle><container altrender="Shoe Box 6" id="aspace_2535d308da26cb9357ce9a777f4f7239" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_b69e739dfc895ac92a067f551bb4e1e9" level="file"><did><unittitle>General</unittitle><container altrender="Shoe Box 6" id="aspace_11a7ef345399d1caf3154691169956c0" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_28e29059c621ac719bf25aa786f07813"><head>Scope and Contents</head><p>One postcard with three-dimensional color image of flowers and handwritten message "Greeting from Brooklyn." One envelope with stamped return address "Wm. Rathcke, 514 Halsey Street, Brooklyn."</p></scopecontent></c><c id="aspace_6e56aab767ca903a4c2fe96699ed1b1e" level="file"><did><unittitle>Hospitals</unittitle><container altrender="Shoe Box 6" id="aspace_f7b0e8048e880d65305544a1c959a76f" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_4cdf3c57774d5cc23dbdb8c00fb00e21" level="file"><did><unittitle>Libraries</unittitle><container altrender="Shoe Box 6" id="aspace_224644ab09de5cd9c0688d97260d51b2" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_630cf911a600bf8577d30c70f81fc093" level="file"><did><unittitle>Military and Navy Yard</unittitle><container altrender="Shoe Box 6" id="aspace_c4651c5b59f0c69d17cc5bc9e57e5927" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_511cf58d3690420f129cf1352338723f" level="file"><did><unittitle>Monuments and Memorials</unittitle><container altrender="Shoe Box 6" id="aspace_ddbb2f745b353910cd7c58e81f24134f" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_b80bf38925107f32585809c7480a2a74" level="file"><did><unittitle>Parks</unittitle><container altrender="Shoe Box 6" id="aspace_9f104e3d5e3fd6e66787868075817437" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_65a66539909276aa71856b0ca1b67d16" level="file"><did><unittitle>Politics</unittitle><container altrender="Shoe Box 6" id="aspace_fdc1ddf67804e1fc02baf038fb317a76" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_4ac3947774c4f3d8e09b8369d5cc0c0a" level="file"><did><unittitle>Portraits</unittitle><container altrender="Shoe Box 6" id="aspace_48e099efae17b7a92f3e8710d6dbee5b" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_a05b2b8443825a25cf424f490a28c93f" level="file"><did><unittitle>Restaurants</unittitle><container altrender="Shoe Box 6" id="aspace_ebb4a549612aa894eee0e4a9aa2b82d4" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_d92c5e4144a18094641b45a6168a3025" level="file"><did><unittitle>Schools</unittitle><container altrender="Shoe Box 6" id="aspace_0b2f1002fcac3405decd381ab6cdba17" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_b18b15a84a87b7aabc9f1563f03948f9" level="file"><did><unittitle>Social Welfare</unittitle><container altrender="Shoe Box 6" id="aspace_6ed87487805d75a667232c39b975e331" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_6135220b2cde0ba81124c1bb65da0823" level="file"><did><unittitle>Street scenes and views</unittitle><container altrender="Shoe Box 6" id="aspace_60b100aaee4e7c40bf21555d201ece14" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_178ed6b79554e11ef001c02c34b32c60" level="file"><did><unittitle>Theaters and performing arts</unittitle><container altrender="Shoe Box 6" id="aspace_0105413ed53d6c17e935139c5f98d907" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_3f02743a73ad8d4898a39f6297b97f8b" level="file"><did><unittitle>Transportation</unittitle><container altrender="Shoe Box 6" id="aspace_941dc6c212b05a72dc2c1fcab737743a" label="Mixed Materials" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>
