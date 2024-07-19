@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1981_008_desosway/">arms_1981_008_desosway</eadid><filedesc><titlestmt><titleproper>Guide to the Cornelius Desosway receipt fragment <num>1981.008</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:32 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1981_008_desosway/">arms_1981_008_desosway</eadid><filedesc><titlestmt><titleproper>Guide to the Cornelius Desosway receipt fragment <num>1981.008</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-19 18:02:48 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,22 +13,34 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1820/1820" type="inclusive">1820</unitdate>
-    <abstract id="aspace_83a85d7365e352bf5f3d320fa1a4e3f2">Handwritten fragment of a receipt, dated 1820, between Cornelius Desosway and an individual residing in New York City whose first name is Gerardus.  The surname of the second individual is not included on the fragment.</abstract>
+    <unitdate datechar="creation" normal="1820/1820">1820</unitdate>
+    <abstract id="aspace_83a85d7365e352bf5f3d320fa1a4e3f2">Handwritten fragment of a receipt, dated 1820, between Cornelius Desosway and an individual residing in New York City whose first name is Gerardus.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_e45e3d782fab255a8211271e3227e412" label="Text" type="Box">A0096</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_2d53473f2ee7e87205f2bee7c95778f0" label="Text" type="Box">A0038</container>
   </did>
-  <acqinfo id="aspace_db3b66890e119634abef3b8009494c36">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown.  Formally accessioned in 1981.</p>  </acqinfo>
-  <prefercite id="aspace_90b9b77f87af76b0c24cce4ba80a1dde">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Cornelius Desosway receipt fragment, 1981.008, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_e91a968fbdded3eb9f315a78509e7eaa">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_db3b66890e119634abef3b8009494c36">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. Formally accessioned in 1981.</p>  </acqinfo>
+  <arrangement id="aspace_c620b0be1dacd5c69a2b9bd8f720d1e3">
+    <head>Arrangement</head>
+<p>This collection consists of a single document.</p>  </arrangement>
+  <prefercite id="aspace_90b9b77f87af76b0c24cce4ba80a1dde">
+    <head>Preferred Citation</head>
+<p>Cornelius Desosway receipt fragment, 1820, 1981.008; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_095cee0bb08201f89bb4847c95ab1099">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_a7279618ee7877cb376dafe982c36960">
+    <head>Scope and Contents</head>
+<p>Handwritten fragment of a receipt, dated 1820, between Cornelius Desosway and an individual residing in New York City whose first name is Gerardus. The surname of the second individual is not included on the fragment.</p>  </scopecontent>
+  <userestrict id="aspace_a2c7d58789ffb3073fba5947eec9113e">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Receipts (financial records)</genreform>
     <geogname source="lcsh">New York (N.Y.)</geogname>

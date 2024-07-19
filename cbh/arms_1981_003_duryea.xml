@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1981_003_duryea/">arms_1981_003_duryea</eadid><filedesc><titlestmt><titleproper>Guide to the James V. Duryea land deeds <num>1981.003</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:22 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1981_003_duryea/">arms_1981_003_duryea</eadid><filedesc><titlestmt><titleproper>Guide to the James V. Duryea land deeds <num>1981.003</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-19 17:55:27 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,33 +11,55 @@
     <unitid>1981.003</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
-      <extent altrender="carrier">in one folder.</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1837/1877" type="inclusive">1837, 1877</unitdate>
-    <abstract id="aspace_a765b729f7331101eaaf742b856a9684">Two deeds for land in Oyster Bay, Queens County, N.Y.  The first deed, dated 1837, is from Richard H. and Edward Pearsall to James V. Duryea, and the second deed, dated 1877, is from Duryea and his wife, Jane, to Phebe Amelia Van Cott.</abstract>
+    <abstract id="aspace_a765b729f7331101eaaf742b856a9684">Two deeds for land in Oyster Bay, Nassau County, N.Y. (at the time part of Queens County). The first deed, dated 1837, is from Richard H. and Edward Pearsall to James V. Duryea, and the second deed, dated 1877, is from Duryea and his wife, Jane, to Phebe Amelia Van Cott.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_403050ac957644c11ce3c60dbef70597" label="Text" type="Box">A0096</container>
+    <container altrender="Large Flat Box" id="aspace_873637afd7206e54e6c52fb00f1ef781" label="Mixed Materials" type="Box">OS-38</container>
   </did>
-  <processinfo id="aspace_61ab2eabe570c2e975f25d5d32ca8ea1">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
   <accessrestrict id="aspace_f97bad2a5d45684f4c1df71140e8a343">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <prefercite id="aspace_5b49e0c6ac8048b29a3ce34ee12d85ba">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); James V. Duryea land deeds, 1981.003, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <acqinfo id="aspace_9b41f0cfa777e75703f8800edc6e2d4b">
     <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown.  Formally accessioned in 1981.</p>  </acqinfo>
+<p>Source and date of acquisition unknown. Formally accessioned in 1981.</p>  </acqinfo>
+  <arrangement id="aspace_7ecf8b01b3904282167c721697ebf3a5">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <bioghist id="aspace_cb347e801b5b82fa3a49f5b4edaa9234">
+    <head>Biographical note</head>
+<p>The Duryea family were a multigenerational Brooklyn family of Dutch origin. The family's earliest ancestor in the region, Joost Duryea, settled in the town of New Utrecht, Kings County as early as 1672.</p>  </bioghist>
+  <prefercite id="aspace_5b49e0c6ac8048b29a3ce34ee12d85ba">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); James V. Duryea land deeds, 1981.003; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_61ab2eabe570c2e975f25d5d32ca8ea1">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_a682ea121c3e49ef78e1cd33c0be4248">
+    <head>Related Materials</head>
+<p>Duryea family papers (1977.384)</p><p>Brooklyn Historical Society Genealogical vertical files (ARC.313), Folder: Duryea</p><p>Oyster Bay deed (1977.476)</p><p>Henry Townsend Oyster Bay land deed (1974.050)</p><p>Robert Doty deeds (ARC.221)</p><p>Brooklyn Historical Society vertical files (ARC.315), Series 1: New York City and Long Island, Folder: Long Island -- Oyster Bay</p>  </relatedmaterial>
+  <scopecontent id="aspace_5c45603a75a8a6a72a2a1fb3af2a2dd3">
+    <head>Scope and Contents</head>
+<p>Two deeds for land in Oyster Bay, Nassau County, N.Y. (at the time part of Queens County). The first deed, dated 1837, is from Richard H. and Edward Pearsall to James V. Duryea, and the second deed, dated 1877, is from Duryea and his wife, Jane, to Phebe Amelia Van Cott.</p>  </scopecontent>
+  <userestrict id="aspace_ef7fdac12b73dcd5c916951a4bdac05c">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain.</p>  </userestrict>
   <controlaccess>
     <subject source="aat">Deeds</subject>
-    <geogname source="lcsh">Queens County (N.Y.)</geogname>
-    <subject source="lcsh">Land titles |z New York (State) |z Oyster Bay</subject>
-    <subject source="lcsh">Real property |z New York (State) |z Oyster Bay</subject>
+    <geogname source="lcsh">Nassau County (N.Y.)</geogname>
+    <subject source="lcsh">Land titles -- New York (State) -- Oyster Bay</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Oyster Bay</subject>
     <geogname source="lcsh">Oyster Bay (N.Y.)</geogname>
+    <subject source="lcsh">Acquisition of property -- New York (State) -- Nassau County</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Landowners -- New York (State) -- Long Island</subject>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Long Island (N.Y.) -- History</geogname>
+    <subject source="lcsh">Real property -- New York (State) -- Long Island</subject>
+    <geogname source="lcsh">Queens County (N.Y.) -- History</geogname>
     <persname source="local">Duryea, James V.</persname>
   </controlaccess>
   <dsc/>

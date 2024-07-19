@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1981_006_earle/">arms_1981_006_earle</eadid><filedesc><titlestmt><titleproper>Guide to the Genevieve Earle poem and photograph <num>1981.006</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:26 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1981_006_earle/">arms_1981_006_earle</eadid><filedesc><titlestmt><titleproper>Guide to the Genevieve Earle poem and photograph <num>1981.006</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 27, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-19 17:58:49 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -13,36 +13,51 @@
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
-    <abstract id="aspace_b84918990553beb5b38f29c643c00c95">This collection contains a poem written by Genevieve Earle to her nephew, Joseph K. Lane, on his 21st birthday, and one photograph of Earle standing on the steps of a home in Tupper Lake, N.Y.  Genevieve B. Earle (1883-1956) was head of the Brooklyn branch of the League of Women Voters, and was the first woman elected to the New York City Council, where she served as minority leader.</abstract>
+    <unitdate datechar="creation" normal="1938/1938">1938</unitdate>
+    <abstract id="aspace_b84918990553beb5b38f29c643c00c95">This collection contains a poem written by Genevieve Earle to her nephew, Joseph K. Lane, on his 21st birthday, and one photograph of Earle standing on the steps of a home in Tupper Lake, N.Y.  Genevieve B. Earle (1883-1956) was head of the Brooklyn branch of the League of Women Voters, and was the first woman elected to the New York City Council.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_f813ec6d2518a69a85023780d9fe94ea" label="Text" type="Box">A0096</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_31500ba4106d49433a0734ac22f2780f" label="Mixed Materials" type="Box">A0038</container>
   </did>
-  <bioghist id="aspace_81b3d03119379d25f5cf0b6f9ad3ae32">
-    <head>Biographical Note</head>
-<p>Genevieve B. Earle (1883-1956) was head of the Brooklyn branch of the League of Women Voters, and was the first woman elected to the New York City Council, where she served as minority leader.</p>  </bioghist>
-  <prefercite id="aspace_073a5aa309d0f6bfee48b8deb916c238">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Genevieve Earle poem and photograph, 1981.006, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <processinfo id="aspace_9bfa3e8e788c5f3fbc4c8d0849a2fefa">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
-  <scopecontent id="aspace_98f173c4f80433c06367bcd6fba2b957">
-    <head>Scope and Contents</head>
-<p>This collection contains a poem written by Genevieve Earle to her nephew, Joseph K. Lane, on his 21st birthday, and one photograph of Earle standing on the steps of a home in Tupper Lake, N.Y.</p>  </scopecontent>
   <accessrestrict id="aspace_a7b8d8aa1df82447c7d38ef13e0dde5c">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_07c241bbc8ff19f9e12de8a8d37d7ac0">
     <head>Immediate Source of Acquisition</head>
-<p>Gift of Joseph K. Lane, 1973.  Formally accessioned in 1981.</p>  </acqinfo>
+<p>Gift of Joseph K. Lane, 1973. Formally accessioned in 1981.</p>  </acqinfo>
+  <arrangement id="aspace_0acdd91dd46b304479520daf328eed94">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <bioghist id="aspace_81b3d03119379d25f5cf0b6f9ad3ae32">
+    <head>Biographical note</head>
+<p>Genevieve B. Earle (1883-1956) was head of the Brooklyn branch of the League of Women Voters, and was the first woman elected to the New York City Council, where she served as minority leader.</p>  </bioghist>
+  <prefercite id="aspace_073a5aa309d0f6bfee48b8deb916c238">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Genevieve Earle poem and photograph, 1981.006; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_9bfa3e8e788c5f3fbc4c8d0849a2fefa">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_1f886bd25df2cb8dbc4167f0a1cc520d">
+    <head>Related Materials</head>
+<p>Brooklyn Historical Society vertical files (ARC.315), Series 1: New York City and Long Island, Folder: Organizations -- League of Women Voters</p><p>Records of the Brooklyn Council for Social Planning (BCMS.0039), Series 7: Related non-government agencies, Subseries 7.5: Other related agencies, Folder: League of Women Voters</p>  </relatedmaterial>
+  <scopecontent id="aspace_98f173c4f80433c06367bcd6fba2b957">
+    <head>Scope and Contents</head>
+<p>This collection contains a poem written by Genevieve Earle to her nephew, Joseph K. Lane, on his 21st birthday, and one photograph of Earle standing on the steps of a home in Tupper Lake, N.Y.</p>  </scopecontent>
+  <userestrict id="aspace_baa87f7b2e7b4bf707ea44ef86991d0d">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Tupper Lake (N.Y.)</geogname>
     <genreform source="aat">Poems</genreform>
     <genreform source="aat">Photographs</genreform>
-    <subject source="lcsh">Women city council members |z New York (State) |z New York</subject>
+    <subject source="lcsh">Women city council members -- New York (State) -- New York</subject>
+    <subject source="lcsh">Poetry</subject>
+    <subject source="lcsh">American poetry -- Women authors</subject>
+    <subject source="lcsh">American poetry</subject>
+    <subject source="lcsh">American poetry -- 20th century</subject>
+    <subject source="lcsh">Women -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Women -- New York (State) -- New York</subject>
     <persname rules="aacr" source="naf">Earle, Genevieve B.</persname>
   </controlaccess>
   <dsc/>
