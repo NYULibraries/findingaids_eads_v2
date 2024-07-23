@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_408">mc_408</eadid><filedesc><titlestmt><titleproper>Guide to the Harry and Gladys Auerbach Collection of Nicholas U. Comito Sketches <num>MC.408</num></titleproper><author>Aki Snyder</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-06-13 13:12:30 -0400</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Harry and Gladys Auerbach Collection of Nicholas U. Comito Sketches</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Comito, Nicholas U., 1906-1990</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Auerbach, Harry, 1911-1999</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Auerbach, Gladys, 1917-2005</persname>
+    </origination>
+    <unitid>MC.408</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3518</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in 2 folders in a shared manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1930/1930">circa 1930</unitdate>
+    <abstract id="aspace_01bcc963c9849c223a2322f97704399d">Nicholas U. Comito (1909-1990) graduated from New York University's School of Commerce in 1930 and became an artist. Harry and Gladys Auerbach owned Comito's sketches and displayed them in their home. The Harry and Gladys Auerbach Collection of Nicholas U. Comito Sketches (circa 1930) consists of 8 sketches of NYU's Washington Square and University Heights campuses. The Washington Square campus sketches include drawings of the Washington Square Arch, the park, and Judson Memorial Church. The sketches of the University Heights campus depict the Hall of Fame for Great Americans.</abstract>
+    <physloc id="aspace_6924191db5240ad6775f5fe4f7e5634d">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_2bd2f00b28f4285e9e4487c93e5a4044">The materials in this collection are in English.</langmaterial>
+  </did>
+  <bioghist id="aspace_fa5de5b88b7ab1eebe10b41662b24f7b">
+    <head>Biographical Note</head>
+<p>Nicholas U. Comito (1909-1990) graduated from New York University's School of Commerce in 1930. He later studied at the National Academy of Design School in Italy and became an artist. During World War II, he served at Randolph Field in San Antonio, Texas as a member of the Army Air Corps. While at Randolph Field, Comito learned lithography under the tutelage of Alice Naylor. Between 1943 and 1944, his artwork was exhibited at the Dallas Museum of Art's Third  and Fifth Annual Texas Print Exhibition. Comito became known for his landscape and still life paintings; illustrations; and lithography.</p>  </bioghist>
+  <bioghist id="aspace_731f17272bc2a543300584447ecf2ffb">
+    <head>Biographical Note</head>
+<p>Harry Auerbach (1911-1999) served as a member and former President of the Brae Burn Country Club. He was also a Partner at H.J. Behrman and Company, LLP. He may have been a graduate of NYU. Gladys Auerbach (1917-2005) was a board member of United Cerebral Palsy of New York City. Harry and Gladys Auerbach owned the sketches found within this collection and displayed them for over 60 years in their homes in the Bronx, Stuyvesant Town, and Rye, New York.</p>  </bioghist>
+  <scopecontent id="aspace_497ba583cfc3e400481ae0d3523e2b08">
+    <head>Scope and Contents</head>
+<p>The Harry and Gladys Auerbach Collection of Nicholas U. Comito Sketches (circa 1930) consists of 8 sketches of NYU's Washington Square and University Heights campuses. The Washington Square campus sketches include drawings of the Washington Square Arch, the park, and Judson Memorial Church. The sketches of the University Heights campus depict the Hall of Fame for Great Americans.</p>  </scopecontent>
+  <arrangement id="aspace_4acc399ea5011a6eae1ed12c2e796970">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received.</p>  </arrangement>
+  <acqinfo id="aspace_8c3cc786d9691b304286c2d0fee84723">
+    <head>Immediate Source of Acquisition</head>
+<p>The Nicholas U. Comito sketches were originally owned by Harry and Gladys Auerbach and were donated to the University Archives in 2007 by Ken and Susan Auerbach (NYU '69), Harry and Gladys' children. The accession number associated with this collection is 2024.052.</p>  </acqinfo>
+  <custodhist id="aspace_48af25e886d53f2b312b2a3255de8c56">
+    <head>Custodial History</head>
+<p>Materials in this collection were transferred from the New York University Archives Photograph Collection (PHOTO 00001) in June 2024.</p>  </custodhist>
+  <processinfo id="aspace_bef08dca4b0c62afe8c7b2b0c14891cc">
+    <head>Processing Information</head>
+<p>In June 2024, Nicholas U. Comito's sketches were removed from the New York University Archives Photograph Collection (PHOTO 00001) and a new collection was created, MC 408. Materials were rehoused in an acid-free box and folders. Materials were described on the collection-level and inventoried at the file-level.</p>  </processinfo>
+  <prefercite id="aspace_3297c68e8ad0ee30c2c3554704055b58">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Harry and Gladys Auerbach Collection of Nicholas U. Comito Sketches; MC 408; box number; folder number or item identifier; New York University Archives, New York University</p>  </prefercite>
+  <userestrict id="aspace_6716ba01ffd018ee9f1b02693af7b6de">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <accessrestrict id="aspace_a29d43645abe0839dc7fb83c0d638dc7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="aat">Drawings</genreform>
+    <subject source="local">Washington Square Arch.</subject>
+    <geogname source="lcsh">Washington Square (New York, N.Y.)</geogname>
+    <persname role="dnr" rules="dacs" source="local">Auerbach, Harry, 1911-1999</persname>
+    <persname role="dnr" rules="dacs" source="local">Auerbach, Gladys, 1917-2005</persname>
+    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
+    <corpname authfilenumber="(lccn)n2007040399" source="naf">Judson Memorial Church (New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">New York University. Hall of Fame for Great Americans</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_e4f8ac68e2e14683887fcfdd1dba7372" level="file"><did><unittitle>Sketches of Washington Square Park</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1002556</unitid><unitdate datechar="creation" normal="1930/1930">circa 1930</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e43709af5af2d556ed6aecb5a25bdce" label="Mixed Materials [31142066996433]" type="Box">Shared University Archives 149</container><container id="aspace_8a97c5281354e714d9b07558f9f4455a" parent="aspace_3e43709af5af2d556ed6aecb5a25bdce" type="Folder">19</container></did></c><c id="aspace_ad49f75fb2de1fa89060fd4d4cf4d543" level="file"><did><unittitle>Sketches of the Hall of Fame for Great Americans at the University Heights Campus</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1002557</unitid><unitdate datechar="creation" normal="1930/1930">circa 1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_74ee422de13822ec88fa6244375382f8" label="Mixed Materials [31142066996433]" type="Box">Shared University Archives 149</container><container id="aspace_213f7846642cc150d35cb847cd1fc90f" parent="aspace_74ee422de13822ec88fa6244375382f8" type="Folder">20</container></did></c></dsc>
+</archdesc>
+</ead>
