@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_001_dick/">arms_1985_001_dick</eadid><filedesc><titlestmt><titleproper>Guide to the Dick family papers <num>1985.001</num></titleproper><author>Matthew Gorham (2011); Updated by John Zarrillo (2014)</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:42 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_001_dick/">arms_1985_001_dick</eadid><filedesc><titlestmt><titleproper>Guide to the Dick family collection <num>1985.001</num></titleproper><author>Matthew Gorham (2011); Updated by John Zarrillo (2014)</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-25 15:18:19 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
-    <unittitle>Dick Family papers</unittitle>
+    <unittitle>Dick family collection</unittitle>
     <origination label="Creator">
       <famname rules="dacs" source="naf">Dick family</famname>
     </origination>
@@ -17,31 +17,41 @@
     <unitid>1985.001</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder, one oversize folder, and two tintypes.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1840/1868" type="inclusive">1840-1868</unitdate>
-    <abstract id="aspace_5809aa2d08297c6512f204ce5ed6ad41">The Dick Family papers span ther period 1848 to 1860 and measure 0.1 linear feet. The papers include correspondence, wills, deeds, mortgages, military records, clippings, and illustrations.  Archibald L. Dick, engraver, Brooklyn, N.Y. (c. 1793-1856), was once a resident of 66 Fulton Street and his last residence was 157 Gold Street. James L. Dick (c. 1833-1868), an artist in Brooklyn, was Archibald Dick's son and also resided at 157 Gold Street. He was one of the founding members of the Brooklyn Art School and Academy of Design.</abstract>
+    <abstract id="aspace_5809aa2d08297c6512f204ce5ed6ad41">The Dick family collection includes correspondence, wills, deeds, mortgages, military records, clippings, illustrations and two tintypes. The collection relates primarily to Archibald L. Dick, an engraver, and James L. Dick, his son and an artist who was one of the founding members of the Brooklyn Academy of Design.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_424fc585f8b54d3987025959d9832622" label="Text" type="Box">A0097</container>
-    <container altrender="Shoe Box 13" id="aspace_c1a8023e5aa3e2760d6d8f0e0796235b" label="Graphic Materials" type="Box">Tintypes 1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_c0a6bf277f774da72a9a954f83b3d573" label="Mixed Materials" type="Box">A0038</container>
+    <container altrender="Shoe Box 13" id="aspace_971c328715978872816f516ba2c8f0be" label="Graphic Materials" type="Box">Tintypes 1</container>
+    <container altrender="Large Flat Box" id="aspace_cfbeb21a11c577e88eb075b0d3845674" label="Mixed Materials" type="Box">OS-38</container>
   </did>
-  <bioghist id="aspace_751dbf4c0ae86375ce957a143cca7458">
-    <head>Biographical note</head>
-<p>Archibald L. Dick, a Brooklyn engraver and one of the founding members of the Brooklyn Art School and Academy of Design, was once a resident of 66 Fulton Street.  His last residence was 157 Gold Street, where James L. Dick (c. 1833-1868), an artist in Brooklyn and Archibald Dick's son, also resided.</p>  </bioghist>
-  <prefercite id="aspace_eeb8b30fd0d6926fa99f574ad04bdcfe">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Dick family papers, 1985.001, Box and Folder number; Center for Brooklyn History, Brooklyn Public Library.</p>  </prefercite>
-  <scopecontent id="aspace_818c876935062c1f534210cc3b77e399">
-    <head>Scope and Contents</head>
-<p>The Dick Family papers span ther period 1848 to 1860 and measure 0.1 linear feet. The papers include correspondence, wills, deeds, mortgages, military records, clippings, and illustrations.</p>  </scopecontent>
   <accessrestrict id="aspace_fcc493797e7403a835d025e786f0fadc">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_1e53924e1e7f136e93a21187d9f15f98">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Clark S. Marlor, 1981.</p>  </acqinfo>
+  <arrangement id="aspace_cc0193aa1d59b6bd44e3a9cd852d6ef4">
+    <head>Arrangement</head>
+<p>The collection is arranged by type and size. Several oversize indentures are stored in an oversize box and the collection's two tintypes are housed separately from the documents and engravings.</p>  </arrangement>
+  <bioghist id="aspace_751dbf4c0ae86375ce957a143cca7458">
+    <head>Biographical note</head>
+<p>Archibald L. Dick (c. 1793-1856), a Brooklyn engraver, was once a resident of 66 Fulton Street. His last residence was 157 Gold Street, where James L. Dick (c. 1833-1868), an artist in Brooklyn and Archibald Dick's son, also resided. James Dick was one of the founding members of the Brooklyn Academy of Design in 1866.</p>  </bioghist>
+  <prefercite id="aspace_eeb8b30fd0d6926fa99f574ad04bdcfe">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Dick family papers, 1985.001, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_e1c2de9e525aae300a6dbcbea2d7e6f0">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_818c876935062c1f534210cc3b77e399">
+    <head>Scope and Contents</head>
+<p>The Dick family collection dates to 1848-1860 and includes correspondence, wills, deeds, mortgages, military records, clippings, engravings and tintypes.</p>  </scopecontent>
+  <userestrict id="aspace_4d9b6513de7f6283fd26c021b3260394">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Wills</genreform>
     <genreform source="aat">Correspondence</genreform>
@@ -49,8 +59,14 @@
     <genreform source="aat">Military records</genreform>
     <genreform source="aat">Clippings (information artifacts)</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Artists |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Businessmen |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Artists -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Businessmen -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Engravings</genreform>
+    <genreform source="aat">Tintypes (prints)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Indentures</genreform>
+    <genreform source="aat">Legal documents</genreform>
+    <genreform source="aat">Financial records</genreform>
     <persname rules="dacs" source="local">Dick, James L.</persname>
     <persname rules="aacr" source="naf">Dick, Archibald L.</persname>
     <famname rules="dacs" source="naf">Dick family</famname>
