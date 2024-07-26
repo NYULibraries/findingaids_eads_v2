@@ -1,44 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_008_yenni/">arms_1985_008_yenni</eadid><filedesc><titlestmt><titleproper>Guide to the Courtney Yenni papers <num>1985.008</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:07 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_008_yenni/">arms_1985_008_yenni</eadid><filedesc><titlestmt><titleproper>Guide to the Courtney Yenni papers <num>1985.008</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>August 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-26 14:28:37 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Courtney Yenni papers</unittitle>
     <origination label="Creator">
-      <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
-    </origination>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Yenni, Courtney</persname>
+      <persname role="fmo" rules="dacs" source="local">Yenni, Courtney</persname>
     </origination>
     <unitid>1985.008</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
-      <extent altrender="carrier">in five folders and one bound volume</extent>
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one half size manuscript box.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1841/1929" type="inclusive">1841-1929</unitdate>
-    <abstract id="aspace_342190c83634bfb919c0b6448b101625">The Courtney Yenni papers span the period 1841 to 1929 and measure contains two scrapbooks, four programs, and one letter. The programs are of the final performance at the Brooklyn Academy of Music on Montague Street in the Brooklyn Heights neighborhood, as well as the first performance at its new building in the Fort Greene neighborhood. Courtney Yenni was a Brooklyn resident who lived at 17 7th Avenue.</abstract>
+    <unitdate datechar="creation" normal="1875/1932" type="inclusive">1875-1932</unitdate>
+    <abstract id="aspace_342190c83634bfb919c0b6448b101625">The Courtney Yenni papers contain one scrapbook, theater programs, one clipping and one magazine. The programs include the final performance at the Brooklyn Academy of Music on Montague Street in the Brooklyn Heights neighborhood, as well as the first performance at its new building in the Fort Greene neighborhood.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_aa14aa01fa1f5c5df088419d467b353d" label="Text" type="Box">A0097</container>
   </did>
-  <prefercite id="aspace_327b31402ae6ea16064ee0a25f617817">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Courtney Yenni papers, 1985.008, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_1d0fca54c200a1b40c2cbfb7e42b621a">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Nancy Pearsall, 1983.</p>  </acqinfo>
   <accessrestrict id="aspace_afd5a51d3722f912e8c954b77560a9de">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_1d0fca54c200a1b40c2cbfb7e42b621a">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Courtney and Adele Yenni via Nancy Pearsall, 1983.</p>  </acqinfo>
+  <arrangement id="aspace_e2a797b98f84b20355b1f45184e3951c">
+    <head>Arrangement</head>
+<p>The collection is arranged by type.</p>  </arrangement>
+  <bioghist id="aspace_fa675cb20b702420aa81caba6543c71d">
+    <head>Biographical note</head>
+<p>Courtney Yenni was born in February 1890. His father, Frederick A. Yenni, was born in 1830 to a Swiss father on Canal Street in Manhattan, grew up in Brooklyn Heights, and lived at 17 7th Avenue for many years. He was in the kerosene business with Charles Gregory, and had a plant in Williamsburg. He died in 1901. Courtney Yenni's mother was Anna Deming and he had one sister, Frederica A. Yenni.</p><p>Courtney Yenni's half sister was Gertrude "Gertie" Livingston Yenni, born to F.A. Yenni and his first wife, Leonora C. Livingston. Gertie Yenni died on August 27, 1878 at age 19.</p><p>The family of Courtney Yenni's wife Mrs. Adele Yenni (nee Kornder) lived at 239 Garfield Place.</p>  </bioghist>
+  <prefercite id="aspace_327b31402ae6ea16064ee0a25f617817">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Courtney Yenni papers, 1985.008, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_b9b5673cd3b2960b5cb9c9fb0bf3a2ed">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_9389afc6d30ec16c63f295fd66c7d233">
+    <head>Related Materials</head>
+<p>Robert Livingston papers (1974.018)</p><p>Brooklyn and Manhattan theater and concert programs scrapbook (1977.205)</p><p>Brooklyn Institute of Arts and Sciences publications and ephemera (ARC.138), Series: Brooklyn Academy of Music</p><p>Brooklyn Playbills and Programs Collection (BCMS.0041), Folder: Brooklyn Academy of Music</p><p>Brooklyn Institute of Arts and Sciences records (ARC.011)</p><p>The Brooklyn Newsstand database includes full runs of both the Brooklyn Eagle and Brooklyn Life magazine.</p>  </relatedmaterial>
+  <scopecontent id="aspace_319ee5ec1f383bfb054ee1b2d52a1dbb">
+    <head>Scope and Contents</head>
+<p>The Courtney Yenni papers contain one scrapbook, several theater programs, one clipping and one magazine. The scrapbook seems to have been compiled at least in part by Yenni's half sister Gertrude "Gertie" Livingston Yenni, who died in 1878. It contains printed ephemera (some of which is quite colorful, and some of which has three dimensional elements), clippings (including several death and marriage notices for the Livingston and Yenni families), photographs and dried leaves.</p><p>The programs include the final performance at the Brooklyn Academy of Music on Montague Street in the Brooklyn Heights neighborhood, as well as the first performance at its new building in the Fort Greene neighborhood. The final performance at the Academy featured the singer Adelina Patti, who is also the subject of the 1974 clipping in the collection. There is also a program from the inaugural performance at Radio City Music Hall, which opened in 1932.</p>  </scopecontent>
+  <userestrict id="aspace_ec6a64a990db180e0614e2ad8ac0dce9">
+    <head>Conditions Governing Use</head>
+<p>The majority of the materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Concert programs</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Theaters |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Theaters -- New York (State) -- Kings County</subject>
     <genreform source="aat">Scrapbooks</genreform>
+    <genreform source="aat">Periodicals</genreform>
+    <genreform source="aat">Magazines (periodicals)</genreform>
+    <subject source="lcsh">American newspapers</subject>
+    <title source="local">Brooklyn eagle (Brooklyn, New York, N.Y.)</title>
+    <title source="local">Brooklyn life (Periodical)</title>
+    <genreform source="aat">Newspaper clippings</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">Radio City Music Hall -- New York, N.Y.</subject>
     <corpname rules="aacr" source="naf">Brooklyn Academy of Music</corpname>
+    <persname source="naf">Patti, Adelina, 1843-1919</persname>
+    <persname source="local">Yenni, Gertrude Livingston</persname>
+    <famname source="naf">Livingston family</famname>
+    <corpname source="local">Columbia Theatre (Brooklyn, New York, N.Y.)</corpname>
+    <corpname source="local">Philharmonic Society of Brooklyn</corpname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_1ed3fed15434bc01f857157659b12c8f" level="item"><did><unittitle>Scrapbook</unittitle><unitdate datechar="creation" normal="1875/1885" type="inclusive">1875-1885</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_de6ac47da178bda5295695e3207f6db5" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_1bd7420587ed5dbb98034fe35157dc6e"><head>Scope and Contents</head><p>This scrapbook has an elaborately decorated and gilded cloth cover. It contains printed ephemera, including trade cards, greeting cards (some with three-dimensional elements), calling cards, and poems; clippings, including many death and marriage notices for members of the Livingston and Yenni families and other prominent New York families; and some correspondence. It also contains several pages with dried plant matter attached.</p><p>Some items were loosely tucked into the pages of this scrapbook and those items have been foldered separately.</p></scopecontent></c><c id="aspace_e7acf5822d0efaabac00e873f5570bd6" level="file"><did><unittitle>Theater programs</unittitle><unitdate datechar="creation" normal="1878/1932" type="inclusive">1878-1932</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_af37a0b45f9475c69b4d3fcd3515c861" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_9a7b50f87c2204aa89af6f0717deaecb"><head>Scope and Contents</head><p>Includes programs from the Philharmonic Society of Brooklyn, 1878; Columbia Theatre, 1900; closing night at the Brooklyn Academy of Music's Montague Street location, featuring Adelina Patti, 1903; opening night at the new Brooklyn Academy of Music in Fort Greene, 1908; Casino Theatre (Manhattan), 1912; and the inaugural performance at Radio City Music Hall, circa 1932.</p></scopecontent></c><c id="aspace_3ec06ce6a1e994dda429d7a2f9956560" level="file"><did><unittitle>Periodicals and clippings</unittitle><unitdate datechar="creation" normal="1941/1974" type="inclusive">1906, 1974</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_ac7b6608a3044d0262f46851f39d283e" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_830f10f6ad0e4edc98db716af76fbc1a"><head>Scope and Contents</head><p>One 1906 issue of Brooklyn Life magazine; one 1974 clipping about Adelina Patti.</p></scopecontent><processinfo id="aspace_a6257e8d8923b05999b02dc90a808236"><head>Processing Information</head><p>The collection originally included one 1941 facsimile of the first issue of the Brooklyn Eagle (October 26, 1841) printed for its centennial. As the item was in poor condition and is easily findable elsewhere, the archivist discarded it.</p></processinfo></c></dsc>
 </archdesc>
 </ead>
