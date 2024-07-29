@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_022_carpendale/">arms_1985_022_carpendale</eadid><filedesc><titlestmt><titleproper>Guide to the Thomas C. Carpendale journal <num>1985.022</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:21 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_022_carpendale/">arms_1985_022_carpendale</eadid><filedesc><titlestmt><titleproper>Guide to the Thomas C. Carpendale journal <num>1985.022</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 18, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-29 18:06:22 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,29 +11,52 @@
     <unitid>1985.022</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1861/1861" type="inclusive">1861</unitdate>
-    <abstract id="aspace_8ff91bb11266f35adbfc5e4f79633889">Thomas C. Carpendale's journal describes a trip from New York to London in 1861. Notes in the journal are addressed to Carpendale's friend in Brooklyn, George A. Thome. The journal also includes illustrations and drawings of sea scenes from the voyage by Carpendale.</abstract>
+    <unitdate datechar="creation" normal="1861/1861">1861</unitdate>
+    <abstract id="aspace_8ff91bb11266f35adbfc5e4f79633889">Thomas C. Carpendale's journal describes a trip from New York to London in 1861. Notes in the journal are addressed to Carpendale's friend in Brooklyn, George A. Thorne. The journal also includes illustrations and drawings of sea scenes from the voyage by Carpendale.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_e4c43f78e528e07cd6556efc0a189e66" label="Text" type="Box">A0123</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_48406251177286e0f350705ab2648c30" label="Mixed Materials" type="Box">A0038</container>
   </did>
-  <prefercite id="aspace_8ba70e5455ff23bac32746d078168f41">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Thomas C. Carpendale journal, 1985.022, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_35591f22100419d696b5ccb4135a018b">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Patricia L. Faust, 1985.</p>  </acqinfo>
   <accessrestrict id="aspace_a21cb2a8880082f7ad14b295114d88c8">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_35591f22100419d696b5ccb4135a018b">
+    <head>Immediate Source of Acquisition</head>
+<p>Transfer from the Brooklyn Museum Library, date unknown. An inscription at the front of the volume reads "Bessie M. Thorne," presumably a relation of George A. Thorne, to whom the text is addressed. The item was officially accessioned in 1985.</p>  </acqinfo>
+  <arrangement id="aspace_14d95a255b2d889e61d3f62f36c3d763">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <bioghist id="aspace_71ef87d3bb2c67314ffaa910eb8a6a4f">
+    <head>Biographical note</head>
+<p>Thomas Coulson Carpendale was born in the early 1830s. He married Delphine J. Meunier in 1855 and they had three children, Edwin, Emma, and Luce. His friend George A. Thorne lived at 43 Sands Street, Brooklyn.</p><p>The Carpendales later settled in Montreal, where they are listed in the 1871 census of Canada. By the 1881 census, Delphine is listed as widowed, but still living in Montreal. In 1892, she and two of her children are listed in a New York City directory living in Manhattan.</p>  </bioghist>
+  <prefercite id="aspace_8ba70e5455ff23bac32746d078168f41">
+    <head>Preferred Citation</head>
+<p>Thomas C. Carpendale journal, 1861, 1985.022; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_41e59a27c05dd9b08a3ab18a72be8645">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_416f92bfd871c647e6a6cd71a5bb5004">
+    <head>Scope and Contents</head>
+<p>Thomas C. Carpendale's journal describes a trip from New York to London in August-September, 1861. Notes in the journal are addressed to Carpendale's friend in Brooklyn, George A. Thorne. The journal also includes illustrations and drawings of sea scenes and animals from the voyage by Carpendale, as well as a map of the ship's route across the Atlantic. There are also excerpts copied from literature, the Bible, and poetry, including verses by Carpendale himself. He also refers to the American Civil War, which had started some months before, as well as Confederate President Jefferson Davis. Carpendale and his family traveled on the ship Adriatic.</p>  </scopecontent>
+  <userestrict id="aspace_f73ff26b03bcda7c94213814b156bbbb">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Diaries</genreform>
     <subject source="lcsh">Transatlantic voyages</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Journals (accounts)</genreform>
+    <genreform source="aat">Drawings (visual works)</genreform>
+    <genreform source="lcsh">Manuscript maps</genreform>
+    <genreform source="aat">Poetry</genreform>
+    <subject source="lcsh">Literature</subject>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+    <subject source="lcsh">Seafaring life</subject>
+    <subject source="lcsh">Ships</subject>
+    <subject source="lcsh">Ships -- New York (State) -- New York</subject>
   </controlaccess>
   <dsc/>
 </archdesc>
