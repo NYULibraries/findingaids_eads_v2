@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_044_navy_yard_land_acquisition/">arms_1985_044_navy_yard_land_acquisition</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Navy Yard land acquisition records <num>1985.044</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 6, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:43 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_044_navy_yard_land_acquisition/">arms_1985_044_navy_yard_land_acquisition</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn Navy Yard land acquisition records <num>1985.044</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 6, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-31 18:47:50 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,37 +11,45 @@
     <unitid>1985.044</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+    <unitdate datechar="creation" normal="1940/1940">1940</unitdate>
     <abstract id="aspace_706680d94b27198daf06eca248ba3c8f">Records from the District Court of the United States for the Eastern District of New York detailing the acquisition of land for the expansion of the New York Naval Shipyard (commonly known as the Brooklyn Navy Yard), dated 1940.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_2ee4dcf911c9104255fc472e04307b16" label="Text" type="Box">A0102</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_aebc4fc9b357ba0024c36ffccad23734" label="Text" type="Box">A0039</container>
   </did>
-  <scopecontent id="aspace_699edbed879f046f30de4bd53bc31625">
-    <head>Scope and Contents</head>
-<p>Records from the District Court of the United States for the Eastern District of New York detailing the acquisition of land for the expansion of the New York Naval Shipyard (commonly known as the Brooklyn Navy Yard), dated 1940.</p>  </scopecontent>
   <accessrestrict id="aspace_8f87da1356e22be84a29e2312f5a6a8b">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <bioghist id="aspace_b903230735b254d12cb5cc621ff310c7">
-    <head>Historical note</head>
-<p>The origins of the Brooklyn Navy Yard, officially known as the New York Naval Shipyard, date back to 1801, when the United States Navy acquired what had previously been a small, privately owned shipyard in order to construct naval vessels. Historic vessels constructed or launched at the Navy Yard include Robert Fulton's steam frigate, the <emph render="italic">Fulton</emph>, the USS <emph render="italic">Arizona</emph>, the USS <emph render="italic">Missouri</emph>, and the USS <emph render="italic">Antietam</emph>. During the Civil War, the Navy Yard employed about 6,000 people. By 1938, it provided jobs for over 10,000 people. When the Defense Department ceased shipbuilding activities at the Navy Yard in 1966, 88 vessels had been manufactured at the facility. It had also grown to encompass 291 acres with 270 major buildings, 24 miles of railroad tracks, 23,278 linear feet of crane tracks, 18 miles of paved roads, 16,495 feet of berthing space, 9 piers, 6 dry docks, and 22 shops housing 98 different trades. In 1967, the Brooklyn Navy Yard was acquired by the City of New York and was converted for private commercial use.</p>  </bioghist>
   <acqinfo id="aspace_a3881eac3b3f6d14d04118854e69c53b">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition unknown. The records were formally accessioned in 1985.</p>  </acqinfo>
+  <arrangement id="aspace_c7cb5ebe3166250678380a3e361b6449">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <bioghist id="aspace_b903230735b254d12cb5cc621ff310c7">
+    <head>Historical note</head>
+<p>The origins of the Brooklyn Navy Yard, officially known as the New York Naval Shipyard, date back to 1801, when the United States Navy acquired what had previously been a small, privately owned shipyard in order to construct naval vessels. Historic vessels constructed or launched at the Navy Yard include Robert Fulton's steam frigate, the Fulton, the USS Arizona, the USS Missouri, and the USS Antietam. During the Civil War, the Navy Yard employed about 6,000 people. By 1938, it provided jobs for over 10,000 people. When the Defense Department ceased shipbuilding activities at the Navy Yard in 1966, 88 vessels had been manufactured at the facility. It had also grown to encompass 291 acres with 270 major buildings, 24 miles of railroad tracks, 23,278 linear feet of crane tracks, 18 miles of paved roads, 16,495 feet of berthing space, 9 piers, 6 dry docks, and 22 shops housing 98 different trades. In 1967, the Brooklyn Navy Yard was acquired by the City of New York and was converted for private commercial use.</p>  </bioghist>
   <prefercite id="aspace_413965e3760579216bc254289e31a6c5">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Brooklyn Navy Yard land acquisition records, 1985.044, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Brooklyn Navy Yard land acquisition records, 1985.044, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_7c74567c59e3ee794dc4d90453a5f502">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_699edbed879f046f30de4bd53bc31625">
+    <head>Scope and Contents</head>
+<p>Records from the District Court of the United States for the Eastern District of New York detailing the acquisition of land for the expansion of the New York Naval Shipyard (commonly known as the Brooklyn Navy Yard), dated 1940.</p>  </scopecontent>
+  <userestrict id="aspace_b822a87d8a4884e7c0c745a36a5df088">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Shipbuilding |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Court records |z United States</subject>
+    <subject source="lcsh">Shipbuilding -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Court records -- United States</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Kings County</subject>
     <corpname rules="aacr" source="naf">United States. District Court (New York : Eastern District)</corpname>
-    <corpname rules="aacr" source="naf">New York Naval Shipyard</corpname>
   </controlaccess>
   <dsc/>
 </archdesc>
