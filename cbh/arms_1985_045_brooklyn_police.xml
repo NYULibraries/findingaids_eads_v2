@@ -1,41 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_045_brooklyn_police/">arms_1985_045_brooklyn_police</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn police logbook <num>1985.045</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:47 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_045_brooklyn_police/">arms_1985_045_brooklyn_police</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn police logbook <num>1985.045</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-31 19:57:39 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Brooklyn police logbook</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="naf">New York (N.Y.). Police Department</corpname>
-    </origination>
     <unitid>1985.045</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one half size manuscript box.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1860/1863" type="inclusive">1860-1863</unitdate>
-    <abstract id="aspace_e0256f4dd89c39bf328e26214b833896">A logbook of arrests by police officers in Brooklyn, dated 1860 to 1863 and measuring 0.25 linear feet. The logbook records individuals who were arrested and booked by the Brooklyn Police. Each entry includes the name of the individual arrested, the date on which the arrest and booking took place, the time at which the person was booked, and the offense for which the person was arrested. The specific precinct to which this logbook belonged is not specified.</abstract>
+    <abstract id="aspace_e0256f4dd89c39bf328e26214b833896">A logbook of arrests by police officers in Brooklyn, 1860-1863. The logbook records individuals who were arrested and booked by the Brooklyn Police. Each entry includes the name of the individual arrested, the date on which the arrest and booking took place, the time at which the person was booked, and the offense for which the person was arrested.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_9bf990f9464e582491a884181cfb258b" label="Text" type="Box">A0123</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_3183db993bb2e08fe2ac4e4425d9129f" label="Mixed Materials" type="Box">1</container>
   </did>
-  <acqinfo id="aspace_9f460b5e697017034ec44e965674abe1">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Richard Winsche, 1981.</p>  </acqinfo>
-  <prefercite id="aspace_e3f453bb0cb1bb7b20f0f74cc45a54cd">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Brooklyn police logbook, 1985.045, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_c5c294dd4963e9f5651932e49f383d10">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_9f460b5e697017034ec44e965674abe1">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Richard Winsche, 1981.</p>  </acqinfo>
+  <arrangement id="aspace_49019ce80b7d7888050221563c321223">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <prefercite id="aspace_e3f453bb0cb1bb7b20f0f74cc45a54cd">
+    <head>Preferred Citation</head>
+<p>Description of entry, date; Brooklyn police logbook, 1985.045, page number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_5221b72ec46467774f1dcb5b0ad69f1b">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_6bf24250b7de53f340f5446ecf1616b1">
+    <head>Scope and Contents</head>
+<p>A logbook of arrests by police officers in Brooklyn, dated 1860 to 1863 and measuring 0.25 linear feet. The logbook records individuals who were arrested and booked by the Brooklyn Police. Each entry includes the name of the individual arrested, the date on which the arrest and booking took place, the time at which the person was booked, and the offense for which the person was arrested. The specific precinct to which this logbook belonged is not specified.</p>  </scopecontent>
+  <userestrict id="aspace_1d44bc56bfb9c011f579f21c69015649">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Law enforcement |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Police |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Law enforcement -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Police -- New York (State) -- Kings County</subject>
     <subject source="lcsh">Crime -- New York (State) -- Kings County</subject>
     <genreform source="aat">Logs (records)</genreform>
     <subject source="lcsh">Racial profiling in law enforcement -- New York (State) -- Kings County</subject>
-    <corpname rules="dacs" source="naf">New York (N.Y.). Police Department</corpname>
   </controlaccess>
   <dsc/>
 </archdesc>
