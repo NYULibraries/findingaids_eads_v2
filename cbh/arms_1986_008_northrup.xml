@@ -1,37 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_008_northrup/">arms_1986_008_northrup</eadid><filedesc><titlestmt><titleproper>Guide to the Northrup collection on Brooklyn history <num>1986.008</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 9, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:29 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_008_northrup/">arms_1986_008_northrup</eadid><filedesc><titlestmt><titleproper>Guide to the Northrup collection on Brooklyn history <num>1986.008</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 9, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-08-02 20:32:08 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
-    <unittitle>Northrup collection on Brooklyn history</unittitle>
+    <unittitle>Northrup collection on Brooklyn and Long Island history</unittitle>
     <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Northrup, Mrs.</persname>
     </origination>
     <origination label="Creator">
       <persname role="com" rules="dacs" source="local">Northrup, Mrs.</persname>
     </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Kings County Historical Society</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Ditmas, Charles A.</persname>
+    </origination>
     <unitid>1986.008</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
-      <extent altrender="carrier">in four folders</extent>
+      <extent altrender="carrier">in one folder and one flat file folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1908/1955" type="inclusive">1908-1955</unitdate>
-    <abstract id="aspace_7b0520453ce2c77aa68cc41c48889032">This collection contains items about various Brooklyn and New York historical events, including: one novelette entitled <emph render="italic">Crow Step</emph> about the Dutch in Brooklyn during the American Revolution, circa 1909 by Georgia Fraser; miscellaneous publications and clippings, dated 1917-1936, relating to Brooklyn families and events including the Bushwick Riot of 1696; and Hyde's Pocket Map of Queens, dated 1908.</abstract>
+    <abstract id="aspace_7b0520453ce2c77aa68cc41c48889032">This collection contains early 20th century clippings and publications relating to various Brooklyn and Long Island historical events.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_717e17e7fc7661b24667af736c4471fc" label="Text" type="Box">A0107</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_0d4afd28e2656508f3f8256d9ddeb434" label="Mixed Materials" type="Box">A0040</container>
+    <container id="aspace_77ad5b101ee6dba4e3c190909a3eb72e" label="Mixed Materials" type="Folder">Flat File</container>
   </did>
-  <prefercite id="aspace_77d10936bab555b2cfa474d1cccc79e3">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Northrup collection on Brooklyn history, 1986.008, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_0e4cc25411e22d2a631c066ce60b7657">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Mrs. Northrup, 1986.</p>  </acqinfo>
   <accessrestrict id="aspace_513eb448201b55961716940e7f1e7945">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_0e4cc25411e22d2a631c066ce60b7657">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. Northrup, 1986.</p>  </acqinfo>
+  <arrangement id="aspace_ba545e80170e0fe0b41e92ef5dc5b1ad">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <prefercite id="aspace_77d10936bab555b2cfa474d1cccc79e3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Northrup collection on Brooklyn and Long Island history, 1986.008, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_bfd57e132b82b19d45621620c4eced05">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024. At that time, preservation photocopies were created of all clippings and the originals discarded. Also, "Long Island" was added to the collection name to better reflect its contents.</p>  </processinfo>
+  <relatedmaterial id="aspace_88d8944b750528fad5ca4ad3acb0d802">
+    <head>Related Materials</head>
+<p>Crow-Step by Georgia Fraser, PZ3.F8627 C76 1910</p><p>The stone house at Gowanus by Georgia Fraser, E241.L8 F8 1909</p><p>Lott family papers (ARC.186)</p>  </relatedmaterial>
+  <scopecontent id="aspace_03b2903aac0d384bf407939f679f043f">
+    <head>Scope and Contents</head>
+<p>This collection contains clippings and publications about various Brooklyn and New York historical events. Topics include the Bushwick Riot of 1696; William Alexander, Earl of Stirling (in a booklet written by Charles Ditmas and published by the Kings County Historical Society); the Lott family; coats of arms of Colonial era American families; Henry Remsen and the Bank of the Manhattan Company; Brooklyn's first schoolteacher; the unveiling of a Battle of Brooklyn monument in Green-Wood Cemetery; and Newtown (oversize newspaper supplement in flat file). The collection also includes one Hyde's Pocket Map of Queens, dated 1908 (in flat file). Additionally, there is a set of clippings comprising a serialized version of Georgia Fraser's 1910 novel Crow-Step, which is a romance set during the Dutch colonial era in Brooklyn. A 1955 clipping from the Hanover Gazette covers an award won by Bill Cunningham, whose connection to the other contents of this collection is unclear.</p>  </scopecontent>
+  <userestrict id="aspace_3daaeab63aa8d8cb1363d0ac650aac2b">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Queens (New York, N.Y.)</geogname>
     <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
@@ -39,10 +61,24 @@
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Manuscripts (document genre)</genreform>
     <genreform source="aat">Publications</genreform>
-    <subject source="lcsh">Dutch Americans |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Dutch Americans -- New York (State) -- Kings County</subject>
     <genreform source="aat">Clippings (information artifacts)</genreform>
-    <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
+    <geogname source="lcsh">United States -- History -- Revolution, 1775-1783</geogname>
+    <geogname source="lcsh">Newtown (Queens County, N.Y.)</geogname>
+    <genreform source="aat">Coats of arms</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History -- Colonial period, ca. 1600-1775</geogname>
+    <geogname source="lcsh">Long Island (N.Y.) -- History -- Colonial period, ca. 1600-1775</geogname>
+    <subject source="lcsh">Teachers -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Education -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">American literature -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Literature</subject>
+    <subject source="lcsh">Long Island, Battle of, New York, N.Y., 1776</subject>
     <persname role="dnr" rules="dacs" source="local">Northrup, Mrs.</persname>
+    <famname source="naf">Lott family</famname>
+    <persname source="naf">Alexander, William, 1726-1783</persname>
+    <famname source="naf">Remsen family</famname>
+    <persname rules="dacs" source="local">Remsen, Henry</persname>
+    <corpname rules="aacr" source="naf">Green-Wood Cemetery (New York, N.Y.)</corpname>
   </controlaccess>
   <dsc/>
 </archdesc>
