@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_262_society_friendly_sons_st_patrick/">arc_262_society_friendly_sons_st_patrick</eadid><filedesc><titlestmt><titleproper>Guide to the Society of the Friendly Sons of St. Patrick in the City of New York 121st anniversary banquet program <num>ARC.262</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:15:34 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_262_society_friendly_sons_st_patrick/">arc_262_society_friendly_sons_st_patrick</eadid><filedesc><titlestmt><titleproper>Guide to the Society of the Friendly Sons of St. Patrick in the City of New York 121st anniversary banquet program <num>ARC.262</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 28, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-08-06 19:33:42 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,37 +10,48 @@
     </origination>
     <unitid>ARC.262</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder in one oversize box.</extent>
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1905/1905" type="inclusive">1905</unitdate>
-    <abstract id="aspace_b1d68bf8515e6c0c9eea5e96af958522" label="Abstract">Program from the 121st anniversary banquet of the Society of the Friendly Sons of St. Patrick in the City of New York, dating from 1905.</abstract>
+    <unitdate datechar="creation" normal="1905/1905">1905</unitdate>
+    <abstract id="aspace_b1d68bf8515e6c0c9eea5e96af958522">Program from the 121st anniversary banquet of the Society of the Friendly Sons of St. Patrick in the City of New York, dating from 1905.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Large Flat Box" id="aspace_4eb23070e4878d506e74833ee7a8c265" label="Mixed Materials" type="Box">1</container>
+    <container altrender="Large Flat Box" id="aspace_856e000db0e33ac0056010bb8f9a0216" label="Mixed Materials" type="Box">OS-38</container>
   </did>
-  <prefercite id="aspace_9778e8b4e77138e3d84b187b13d815bc">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Society of the Friendly Sons of St. Patrick in the City of New York 121st anniversary banquet program, ARC.262, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <bioghist id="aspace_4fba311bcf57b41d884c210e09a93131">
-    <head>Historical Note</head>
-<p>The Society of the Friendly Sons of St. Patrick in the City of New York was founded in 1784 as a charitable and social organization for Irish Americans residing in New York City.</p>  </bioghist>
-  <scopecontent id="aspace_5fab65f5455dbbf6a2ebd02f6d37c727">
-    <head>Scope and Contents</head>
-<p>Program from the 121st anniversary banquet of the Society of the Friendly Sons of St. Patrick in the City of New York, dating from 1905.</p>  </scopecontent>
-  <acqinfo id="aspace_83576d066bb5859a3c6afe80215bf032">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown.</p>  </acqinfo>
   <accessrestrict id="aspace_6ce2bdae7ef9af2d9278ad6645755122">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_83576d066bb5859a3c6afe80215bf032">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.</p>  </acqinfo>
+  <arrangement id="aspace_17b5381f08adedad216cdf2577d510e5">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
+  <bioghist id="aspace_4fba311bcf57b41d884c210e09a93131">
+    <head>Historical note</head>
+<p>The Society of the Friendly Sons of St. Patrick in the City of New York was founded in 1784 as a charitable and social organization for Irish Americans residing in New York City.</p>  </bioghist>
+  <prefercite id="aspace_9778e8b4e77138e3d84b187b13d815bc">
+    <head>Preferred Citation</head>
+<p>Society of the Friendly Sons of St. Patrick in the City of New York 121st anniversary banquet program, 1905, ARC.262; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_2fc8c78c8c4073d578b392245d4e3401">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_5fab65f5455dbbf6a2ebd02f6d37c727">
+    <head>Scope and Contents</head>
+<p>One program from the 121st anniversary banquet of the Society of the Friendly Sons of St. Patrick in the City of New York, dating from 1905.</p>  </scopecontent>
+  <userestrict id="aspace_eead0a0b723b4d3c9387cbfb3be8b632">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Programs (documents)</genreform>
-    <subject source="lcsh">Charities |z New York (State) |z New York</subject>
-    <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Societies, etc.</subject>
-    <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Anniversaries, etc.</subject>
-    <geogname source="lcsh">New York (N.Y.) |x Social life and customs</geogname>
+    <subject source="lcsh">Charities -- New York (State) -- New York</subject>
+    <subject source="lcsh">Irish Americans -- New York (State) -- New York -- Societies, etc.</subject>
+    <subject source="lcsh">Irish Americans -- New York (State) -- New York -- Anniversaries, etc.</subject>
+    <geogname source="lcsh">New York (N.Y.) -- Social life and customs</geogname>
+    <subject source="lcsh">Dinners and dining -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Dinners and dining</subject>
     <corpname rules="aacr" source="naf">Society of the Friendly Sons of Saint Patrick in the City of New York</corpname>
   </controlaccess>
   <dsc/>
