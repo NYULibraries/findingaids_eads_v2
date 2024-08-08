@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_034_kings_county_lien_law/">arms_1986_034_kings_county_lien_law</eadid><filedesc><titlestmt><titleproper>Guide to the Kings County lien law <num>1986.034</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:19:58 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_034_kings_county_lien_law/">arms_1986_034_kings_county_lien_law</eadid><filedesc><titlestmt><titleproper>Guide to the Kings County lien law <num>1986.034</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-08-08 20:35:34 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -11,28 +11,40 @@
     <unitid>1986.034</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.06 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1853/1853" type="inclusive">1853</unitdate>
-    <abstract id="aspace_11ffe6cb8f22368030120b5c1586958d">A booklet containing a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner's building an/or materials or land on which the contractors worked.</abstract>
+    <unitdate datechar="creation" normal="1853/1853">1853</unitdate>
+    <abstract id="aspace_11ffe6cb8f22368030120b5c1586958d">A booklet containing the text of a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner's building and/or materials or land on which the contractors worked.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_9424ed61f3651ea34521526554ba985c" label="Text" type="Box">A0108</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_30593741ce4d070009b0df958ee5a38f" label="Text" type="Box">A0040</container>
   </did>
-  <prefercite id="aspace_cabe88a32051f1af1a637a44fcd7563b">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Kings County lien law, 1986.034, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_38e75b1763ee64e208b3b296de99a09a">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition unknown. The item was formally accessioned in 1986.</p>  </acqinfo>
   <accessrestrict id="aspace_09788f6ddb33feca78ea123b25b4f613">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_38e75b1763ee64e208b3b296de99a09a">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The item was formally accessioned in 1986.</p>  </acqinfo>
+  <arrangement id="aspace_1edb8af426046f39c201c344adacb601">
+    <head>Arrangement</head>
+<p>This collection consists of a single item.</p>  </arrangement>
+  <prefercite id="aspace_cabe88a32051f1af1a637a44fcd7563b">
+    <head>Preferred Citation</head>
+<p>Kings County lien law, 1853, 1986.034; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <scopecontent id="aspace_b2612d5c78dd1f5010f7810faedc191b">
+    <head>Scope and Contents</head>
+<p>A booklet containing the text of a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner's building and/or materials or land on which the contractors worked.</p>  </scopecontent>
+  <userestrict id="aspace_309b8919f5220b260555377cb102ee0c">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
+  <processinfo id="aspace_220c3ed45b9d48350ed3282eca778644">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
   <controlaccess>
     <genreform source="aat">Booklets</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Real estate business |x Law and legislation |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Real estate business -- Law and legislation -- New York (State) -- Kings County</subject>
   </controlaccess>
   <dsc/>
 </archdesc>
