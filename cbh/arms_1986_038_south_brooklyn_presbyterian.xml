@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_038_south_brooklyn_presbyterian/">arms_1986_038_south_brooklyn_presbyterian</eadid><filedesc><titlestmt><titleproper>Guide to the South Brooklyn Presbyterian Church membership roll <num>1986.038</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:01 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_038_south_brooklyn_presbyterian/">arms_1986_038_south_brooklyn_presbyterian</eadid><filedesc><titlestmt><titleproper>Guide to the South Brooklyn Presbyterian Church membership roll <num>1986.038</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-08-09 20:05:12 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -10,30 +10,46 @@
     </origination>
     <unitid>1986.038</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.15 item</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1842/1874" type="inclusive">1842-1874</unitdate>
-    <abstract id="aspace_a1d3db1c8324f91eeaf0f479c34d1855">The South Brooklyn Presbyterian Church (also known as the South Presbyterian Church) was organized in 1842. The church edifice was completed at the corner of Clinton and Amity Streets in Brooklyn Heights in 1845. In 1875, the church was consolidated with the First Presbyterian Church and became known as the Clinton Street Presbyterian Church. The collection consist of one item: a membership roll, dated 1842 to 1874.</abstract>
+    <abstract id="aspace_a1d3db1c8324f91eeaf0f479c34d1855">This collection consists of one bound volume: a membership roll from the South Brooklyn Presbyterian Church, dated 1842 to 1874.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_0e96fe96cef36e4df368d2dc872a4e3e" label="Text" type="Box">A0108</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_1a0d2eb2a965ca3fba4138b22d7233bf" label="Mixed Materials" type="Box">A0041</container>
   </did>
-  <prefercite id="aspace_13e7e5c53ac1d5dfba09c8667959608b">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); South Brooklyn Presbyterian Church membership roll, 1986.038, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_20ad9c1f3403eb9dcda1fe86b27a2456">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_9a991389bb6e192c69f0c7546b29c4a3">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Edward Plunkett, 1986.</p>  </acqinfo>
+  <arrangement id="aspace_e4877afa6661c6fafbd286e0e675dd65">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <bioghist id="aspace_b9ba9367326d8d13c548e39b91f6a92f">
+    <head>Historical note</head>
+<p>The South Brooklyn Presbyterian Church (also known as the South Presbyterian Church) was organized in 1842. The church edifice was completed at the corner of Clinton and Amity Streets in Brooklyn Heights in 1845. In 1875, the church was consolidated with the First Presbyterian Church and became known as the Clinton Street Presbyterian Church.</p>  </bioghist>
+  <prefercite id="aspace_13e7e5c53ac1d5dfba09c8667959608b">
+    <head>Preferred Citation</head>
+<p>South Brooklyn Presbyterian Church membership roll, 1842-1874, 1986.038; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_3aede8923080737731635219a7e9d772">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <scopecontent id="aspace_a7f732119ff7ec7399fda4fcadd74f63">
+    <head>Scope and Contents</head>
+<p>This collection consist of one bound volume: a membership roll from the South Brooklyn Presbyterian Church, dated 1842 to 1874.</p>  </scopecontent>
+  <userestrict id="aspace_bd5f6921a105541e16f10a3ec34c13f0">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Membership lists</genreform>
-    <subject source="lcsh">Church membership |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church membership -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Presbyterian Church -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Cobble Hill (New York, N.Y.)</geogname>
     <corpname rules="dacs" source="local">South Brooklyn Presbyterian Church</corpname>
   </controlaccess>
   <dsc/>
