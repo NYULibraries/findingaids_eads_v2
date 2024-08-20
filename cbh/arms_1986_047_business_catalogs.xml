@@ -1,64 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_047_business_catalogs/">arms_1986_047_business_catalogs</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn and New York City business catalogs collection <num>1986.047</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:08 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_047_business_catalogs/">arms_1986_047_business_catalogs</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn and New York City business catalogs collection <num>1986.047</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>November 2, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-08-20 21:10:08 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Brooklyn and New York City business catalogs collection</unittitle>
-    <origination label="Creator">
-      <corpname source="local">Bedell Company</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Dr. Jaeger's Sanitary Woolen System Company</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname source="local">South Brooklyn Moulding Mill (Brooklyn, New York, N.Y.)</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">Bellows &amp; Company</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="aacr" source="naf">E. W. Bliss Company</corpname>
-    </origination>
     <unitid>1986.047</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-      <extent altrender="carrier">in six folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in three folders.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1870/1937" type="inclusive">1870-1937</unitdate>
     <abstract id="aspace_385b9e2414d2ce61efb0556f5ba91e03">This collection contains sales catalogs of businesses located in Brooklyn and New York City, including Bellows &amp; Company Wines, E.W. Bliss Company, South Brooklyn Moulding Mill, Abraham &amp; Straus, Dr. Jaeger's Sanitary Woolen System Company, and the Bedell Company.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_3cd43f794df68909041ac0d73f0e76b7" label="Text" type="Box">A0070</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_e8119a294dfe05f30c15481d2f20d7c8" label="Mixed Materials" type="Box">A0041</container>
   </did>
-  <prefercite id="aspace_1caa1b8685d3b339aec567814d8af320">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Brooklyn and New York City business catalogs collection, 1986.047, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <processinfo id="aspace_ca9ebe4cc2bca5627d628c654308e6b2">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
   <accessrestrict id="aspace_75c66c59a2fb0296c8e845a4b743b42a">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_f3ea190acddb8124e072fe62cbeb5a20">
     <head>Immediate Source of Acquisition</head>
-<p>Gift of Dwight B. Demeritt, Jr., 1986.</p>  </acqinfo>
+<p>The 1905-1906 Abraham &amp; Straus catalog was the gift of Harry Seeback, 1978, and was transferred to this collection from the Brooklyn Historical Society ephemera collection (ARC.272) in 1987. The remaining items were the gift of Dwight B. Demeritt, Jr., 1986.</p>  </acqinfo>
+  <arrangement id="aspace_66f6d3a775a4d396002e807b10289881">
+    <head>Arrangement</head>
+<p>This small collection is housed in three folders. The E.W. Bliss catalog is housed in its own folder, the three Abraham &amp; Straus catalogs are in another, and the remaining items are in the third.</p>  </arrangement>
+  <prefercite id="aspace_1caa1b8685d3b339aec567814d8af320">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn and New York City business catalogs collection, 1986.047, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_ca9ebe4cc2bca5627d628c654308e6b2">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
+  <relatedmaterial id="aspace_2f16d00535b6a9af1ddaee8955bb7b6c">
+    <head>Related Materials</head>
+<p>Brooklyn Historical Society ephemera collection (ARC.272)</p><p>Brooklyn ephemera collection (BCMS.0007)</p>  </relatedmaterial>
+  <scopecontent id="aspace_bdb4bd25d5854112937c2b3e999ea567">
+    <head>Scope and Contents</head>
+<p>This collection contains sales catalogs of businesses located in Brooklyn and New York City, including Bellows &amp; Company Wines, E.W. Bliss Company, South Brooklyn Moulding Mill, Abraham &amp; Straus, Dr. Jaeger's Sanitary Woolen System Company, and the Bedell Company.</p>  </scopecontent>
+  <userestrict id="aspace_9263befb8d5ad3fe7b83fa8d3b4e61d9">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Business enterprises |z New York (State) |z New York</subject>
-    <subject source="lcsh">Wine and wine making |z New York (State) |z New York</subject>
+    <subject source="lcsh">Business enterprises -- New York (State) -- New York</subject>
+    <subject source="lcsh">Wine and wine making -- New York (State) -- New York</subject>
     <genreform source="aat">Trade catalogs</genreform>
-    <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Canning and preserving |z New York (State) |z Kings County</subject>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce</geogname>
-    <subject source="lcsh">Mills and mill-work |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Metal-working machinery |z New York (State) |z Kings County</subject>
-    <geogname source="lcsh">New York (N.Y.) |x Commerce</geogname>
-    <subject source="lcsh">Molding (Founding) |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Department stores |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Clothing trade |z New York (State) |z New York</subject>
-    <subject source="lcsh">Clothing and dress |z New York (State) |z New York</subject>
+    <subject source="lcsh">Business enterprises -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Canning and preserving -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Commerce</geogname>
+    <subject source="lcsh">Mills and mill-work -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Metal-working machinery -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">New York (N.Y.) -- Commerce</geogname>
+    <subject source="lcsh">Molding (Founding) -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Department stores -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Clothing trade -- New York (State) -- New York</subject>
+    <subject source="lcsh">Clothing and dress -- New York (State) -- New York</subject>
     <corpname rules="dacs" source="local">Dr. Jaeger's Sanitary Woolen System Company</corpname>
+    <corpname source="naf">Abraham &amp; Straus</corpname>
     <corpname source="local">South Brooklyn Moulding Mill (Brooklyn, New York, N.Y.)</corpname>
     <corpname source="local">Bedell Company</corpname>
     <corpname rules="aacr" source="naf">Bellows &amp; Company</corpname>
