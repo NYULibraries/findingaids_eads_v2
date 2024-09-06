@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_841">tam_841</eadid><filedesc><titlestmt><titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection on Mobilization for Survival <num>TAM.841</num></titleproper><author>Lauren Stark</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>August 28, 2024</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-09-06 10:11:18 -0400</date>.</creation><langusage>Finding aid is written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection on Mobilization for Survival</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n85232924" rules="dacs" source="naf">Mobilization for Survival (Organization)</corpname>
+    </origination>
+    <unitid>TAM.841</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/3528</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.42 Linear Feet</extent>
+      <extent altrender="carrier">in 5 manuscript boxes and 1 half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1977/1984" type="inclusive">1977-1984</unitdate>
+    <abstract id="aspace_23662aa9e89884f95f0b7054b3f85990">Formed in 1977, Mobilization for Survival (MFS) is a national organization of local disarmament, anti-intervention, safe energy, religious and community organizations working for four goals: abolish nuclear weapons and power, stop military intervention, meet human needs, and reverse the arms race. The Tamiment Library and Robert F. Wagner Labor Archives Collection on Mobilization for Survival (1977-1984) contains materials created by Mobilization for Survival, including correspondence, press releases, newsletters, and reports.</abstract>
+    <physloc id="aspace_fd04de296d1da1a0808c741533ea6409">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_f5a8bb42944ba5dad89f64d7b7077c47">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_940423ba0bd63d840ebaa34570ff449c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_6c1151a7a56099d3a582c3e43fe53857">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred from Democratic Socialists of America Records (TAM 105) in August 2024.</p>  </acqinfo>
+  <bioghist id="aspace_28c731f4671beaf2eada6be2fa835203">
+    <head>Historical Note</head>
+<p>Formed in 1977, Mobilization for Survival (MFS) is a national organization of local disarmament, anti-intervention, safe energy, religious and community organizations working for four goals: abolish nuclear weapons and power, stop military intervention, meet human needs, and reverse the arms race. Activities of the organization include arranging educational programs, large teach-ins, development of resource materials, production of a newsletter, planning massive non-violent demonstrations and organizing local MFS chapters. As a multi-issue coalition MFS highlights the connections among nuclear weapons, military spending, and social and economic justice.</p>  </bioghist>
+  <custodhist id="aspace_fe1ef6e73804065b3070d5233eb61f7e">
+    <head>Custodial History</head>
+<p>This is an assembled collection of Mobilization for Survival Records (MFS) that were found within the DSA Records at the time of the DSA collection's processing. They were transferred to an assembled collection since they were created by Mobilization for Survival. Original provenance is unknown.</p>  </custodhist>
+  <processinfo id="aspace_8663e41963826a6b15a65c167e14e80d">
+    <head>Processing Information</head>
+<p>Materials were placed in acid-free folders and boxes.</p>  </processinfo>
+  <scopecontent id="aspace_c3333db0ac2c0c9bf8d27df97d9fc355">
+    <head>Content Description</head>
+<p>The Tamiment Library and Robert F. Wagner Labor Archives Collection on Mobilization for Survival (1977-1984) contains materials created by Mobilization for Survival. Materials include clippings, correspondence, fliers, documentation on training programs, reports from MSF chapters, documentation on various MFS campaigns, mailings, newsletters, and press releases.</p>  </scopecontent>
+  <userestrict id="aspace_f895dea3e8d2c91cb524d01816b61312">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <prefercite id="aspace_c5b79338863ee8fbee0a169cf2a8f789">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection on Mobilization for Survival; TAM 841; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <arrangement id="aspace_e9a248493e04c22bb34a1955d24f8143">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Anti-war demonstrations.</subject>
+    <subject source="lcsh">Peace movements</subject>
+    <subject source="lcsh">Antinuclear movement</subject>
+    <subject source="lcsh">Civil rights movements -- United States.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_f400dc4c4a1984035fc1a2792546f795" level="file"><did><unittitle>Correspondence, Newsletters, Press Releases, Calendars, and Brochures</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1005916</unitid><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_0cda96b433c68a91be7a86a91926d34e" label="Mixed Materials [31142066982474]" type="Box">1</container></did></c><c id="aspace_ce381e554b10dbdb603989eb91743ce1" level="file"><did><unittitle>Correspondence, Newsletters, Press Releases, Meeting Minutes, and Brochures</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1005917</unitid><unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_720fc2096c424886a49db725875f0ad5" label="Mixed Materials [31142066982482]" type="Box">2</container></did></c><c id="aspace_12313dec00c2942421c3c4b17065d6bb" level="file"><did><unittitle>Correspondence, Newsletters, Press Releases, Meeting Minutes, and Brochures</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1005918</unitid><unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="Manuscript box - Letter" id="aspace_9967e13c3325c94e7828bf763af73a43" label="Mixed Materials [31142066982490]" type="Box">3</container></did></c><c id="aspace_f275d062866b64e0ffda342a3cee0461" level="file"><did><unittitle>Correspondence, Newsletters, Press Releases, Meeting Minutes, and Brochures</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1005919</unitid><unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate><container altrender="Manuscript box - Letter" id="aspace_94bfb5e8b77a3f0d3537b8e3a527edb2" label="Mixed Materials [31142066982508]" type="Box">4</container></did></c><c id="aspace_38153c64bbe892d8657c7ebb8db0d8d7" level="file"><did><unittitle>Correspondence, Newsletters, Press Releases, Meeting Minutes, Budgets, and Brochures</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1005920</unitid><unitdate datechar="creation" normal="1981/1981">1981</unitdate><container altrender="Manuscript box - Letter" id="aspace_8b7822902ac67791ee76b20fc020eb29" label="Mixed Materials [31142066982516]" type="Box">5</container></did></c><c id="aspace_f934e703c9308d850181632f9b4c6c41" level="file"><did><unittitle>Correspondence, Newsletters, Press Releases, Meeting Minutes, Reports, and Brochures</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1005921</unitid><unitdate datechar="creation" normal="1979/1984" type="inclusive">1979-1984</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_32efbe52e945127b16dc896843aae574" label="Mixed Materials [31142066982524]" type="Box">6</container></did></c></dsc>
+</archdesc>
+</ead>
