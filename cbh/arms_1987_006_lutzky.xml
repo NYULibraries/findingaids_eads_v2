@@ -1,52 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1987_006_lutzky/">arms_1987_006_lutzky</eadid><filedesc><titlestmt><titleproper>Guide to the Irwin Lutzky collection <num>1987.006</num></titleproper><author>Matthew Gorham</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 11, 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:20:23 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1987_006_lutzky/">arms_1987_006_lutzky</eadid><filedesc><titlestmt><titleproper>Guide to the Irwin Lutzky collection <num>1987.006</num></titleproper><author>Matthew Gorham</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 11, 2012</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-09-17 19:54:11 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Irwin Lutzky collection</unittitle>
     <origination label="Creator">
-      <persname role="col" rules="dacs" source="local">Lutzky, Irwin</persname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Flatbush Historical Society</corpname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Flatbush Civic and Cultural Association</corpname>
+      <persname role="com" rules="dacs" source="local">Lutzky, Irwin</persname>
     </origination>
     <unitid>1987.006</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
-      <extent altrender="carrier">in five folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1922/1986" type="inclusive">1922-1986</unitdate>
-    <abstract id="aspace_e6545462b1b57d4771889cb4f3b2d76a">The Irwin Lutzky collection includes three certificates pertaining to Lutzky's childhood innoculations; miscellaneous publications, invitations, and programs belonging to Lutzky from such organizations as the Town of Flatbush Civic and Cultural Association and the Flatbush Historical Society; three photographs of Lutzky at Coney Island in 1944; and other miscellaneous materials relating to Brooklyn, N.Y. in the 1970s.</abstract>
+    <abstract id="aspace_e6545462b1b57d4771889cb4f3b2d76a">The Irwin Lutzky collection includes documents, publications, ephemera, and photographs from Lutzky's childhood and life in Brooklyn.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_113003d59c2ace6045ce5364bf17a217" label="Text" type="Box">A0141</container>
   </did>
-  <processinfo id="aspace_309e6da1aa5f26a5ee7044018a9ba570">
-    <head>Processing Information</head>
-<p>Minimally processed to the colleciton level.</p><p>Photographs which had been separated from the collection were reunited in November 2014.</p>  </processinfo>
-  <prefercite id="aspace_1c291a8c7853c3665a8c9ba5b392eea4">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Irwin Lutzky collection, 1987.006, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_aadf58354d4df36c20cfff76ecae0e77">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Irwin Lutzky, 1987.</p>  </acqinfo>
   <accessrestrict id="aspace_5088147a670dac6e6d4b9c466303337b">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_aadf58354d4df36c20cfff76ecae0e77">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Irwin Lutzky, 1987.</p>  </acqinfo>
+  <arrangement id="aspace_a07e2f57cd83cf4992886a36e3a61f11">
+    <head>Arrangement</head>
+<p>The collection is foldered by subject and arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_0aa808fadd2f896935bfff335ada5563">
+    <head>Biographical / Historical</head>
+<p>Irwin Lutzky was born to Russian immigrants Abraham and Sarah Lutzky on June 5, 1922 at 787 Grand Street in Brooklyn. He attended J.H.S. 128 in Bensonhurst, graduating in January 1938. Lutzky passed away on January 5, 2000.</p>  </bioghist>
+  <prefercite id="aspace_1c291a8c7853c3665a8c9ba5b392eea4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Irwin Lutzky collection, 1987.006, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_309e6da1aa5f26a5ee7044018a9ba570">
+    <head>Processing Information</head>
+<p>Originally minimally processed to the collection level, this collection was rehoused and the finding aid revised to the folder level by Dee Bowers in 2024.</p><p>Photographs which had been separated from the collection were reunited in November 2014. This collection originally included two artifacts (a button and napkin) which were separated to the museum collection and have not yet been reunited with the rest of the collection.</p>  </processinfo>
+  <scopecontent id="aspace_65a82dd5ae814616bd1cfc0fcd37cab9">
+    <head>Scope and Contents</head>
+<p>The Irwin Lutzky collection includes three certificates pertaining to Lutzky's childhood innoculations; miscellaneous publications, invitations, and programs belonging to Lutzky from such organizations as the Town of Flatbush Civic and Cultural Association and the Flatbush Historical Society; photographs of Coney Island in 1944; and other miscellaneous materials relating to Brooklyn in the 1970s.</p>  </scopecontent>
+  <userestrict id="aspace_80c4c489cda234cc1d5c37a009146ebc">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
     <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
     <genreform source="aat">Invitations</genreform>
     <genreform source="aat">Photographs</genreform>
     <genreform source="aat">Programs (documents)</genreform>
-    <subject source="lcsh">Medical care |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Medical care -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</geogname>
+    <geogname source="lcsh">Bensonhurst (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <genreform source="aat">Certificates</genreform>
+    <genreform source="aat">Birth certificates</genreform>
+    <genreform source="lcsh">School yearbooks</genreform>
+    <subject source="lcsh">Commencement ceremonies -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Nonprofit organizations -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">American Revolution Bicentennial (1976) -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.)</geogname>
+    <corpname rules="dacs" source="local">Flatbush Historical Society</corpname>
+    <corpname rules="dacs" source="local">Flatbush Civic and Cultural Association</corpname>
+    <corpname rules="dacs" source="local">Brooklyn Heights Association</corpname>
+    <corpname rules="dacs" source="naf">National Association of Negro Business and Professional Women's Clubs. Brooklyn Club</corpname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_f731ed44c0c4402d7f53708a9cb1b537" level="file"><did><unittitle>Birth and innoculation certificates</unittitle><unitdate datechar="creation" normal="1922/1929" type="inclusive">1922-1929</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_cb91aface57c8c212d74778fed1cf486" label="Mixed Materials" type="Box">1</container><container id="aspace_56e72819dd9f65598ed1e3cbc09348f5" parent="aspace_cb91aface57c8c212d74778fed1cf486" type="Folder">1</container></did></c><c id="aspace_ebe38d58644dc60f6c29a23858fd1e21" level="file"><did><unittitle>J.H.S 128</unittitle><unitdate datechar="creation" normal="1938/1938">1938</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_05310f14fa2b8f2ccfb072f2cdd0f137" label="Mixed Materials" type="Box">1</container><container id="aspace_a7b0a00e6bac64bf61a5f2bf48b76cbb" parent="aspace_05310f14fa2b8f2ccfb072f2cdd0f137" type="Folder">2</container></did><scopecontent id="aspace_b1fbe12c3cdfda3bd502132b4b8bfe1b"><head>Scope and Contents</head><p>Commencement program and Broadcaster yearbook, January 1938.</p></scopecontent></c><c id="aspace_250a53e43f7942a6d13d7bf57fc92388" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation" normal="1944/1944">1944</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_7e99d20a7802d602158a257a6bf1efb0" label="Graphic Materials" type="Box">1</container><container id="aspace_44f88e9a5652a8593d124c131099ee86" parent="aspace_7e99d20a7802d602158a257a6bf1efb0" type="Folder">3</container></did><scopecontent id="aspace_df69671b9cf981f8c5c3f6013a3d7110"><head>Scope and Contents</head><p>Four black and white photographs of Coney Island, including the Parachute Jump, boardwalk, and Wonderwheel. One photograph features a woman identified on the verso as Mrs. Choban, probably related to Irving Choban, who is mentioned in this collection's accession file.</p></scopecontent></c><c id="aspace_45f041ab2b25d668d32845e2e44a398e" level="file"><did><unittitle>Brooklyn organizations</unittitle><unitdate datechar="creation" normal="1963/1985" type="inclusive">1963-1985</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_dacb0cb337a44ac69074d3b294f5a9d4" label="Mixed Materials" type="Box">1</container><container id="aspace_c3a1f124042b05e4413d8bf8f2002e1e" parent="aspace_dacb0cb337a44ac69074d3b294f5a9d4" type="Folder">4</container></did><scopecontent id="aspace_df20e6c162ad4162f948eb49b5c1aa78"><head>Scope and Contents</head><p>Key Women, Inc., Brooklyn branch (1963); Brooklyn Club of the National Association of Negro Business &amp; Professional Women's Club, Inc. (1969); Brooklyn Heights Association (circa 1970s-1985); Long Island Historical Society (pre-1985).</p></scopecontent></c><c id="aspace_f7d0d1b2ff9e9d3da4901f9aad6a40ce" level="file"><did><unittitle>Neighborhood history</unittitle><unitdate datechar="creation" normal="1973/1984" type="inclusive">1973-1984</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_0b92250314347cf3530b2e08a377ec38" label="Mixed Materials" type="Box">1</container><container id="aspace_bcbbb3cdcb03ff452a25c825bbba5ac9" parent="aspace_0b92250314347cf3530b2e08a377ec38" type="Folder">5</container></did><scopecontent id="aspace_c38630bcd989036920477990d909ce87"><head>Scope and Contents</head><p>Boerum Hill, Brooklyn Heights, Prospect Park, South Brooklyn.</p></scopecontent></c><c id="aspace_ad27cc8ead3f91b9b442c0017e51d7da" level="file"><did><unittitle>Town of Flatbush Civic and Cultural Association, Inc.</unittitle><unitdate datechar="creation" normal="1974/1986" type="inclusive">1974-1986</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_61da6090f03bdefcffa6a3c5ef6e4b88" label="Mixed Materials" type="Box">1</container><container id="aspace_a4a4596d2c224694d8f4471052bd368e" parent="aspace_61da6090f03bdefcffa6a3c5ef6e4b88" type="Folder">6</container></did></c><c id="aspace_e00d69341a6e067a450bbcbfe64f08cf" level="file"><did><unittitle>Flatbush American Bicentennial events</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_fc82f7398c43db6e46488ec99247c00c" label="Mixed Materials" type="Box">1</container><container id="aspace_1be39abb4eae9dbffbb7fd1206182377" parent="aspace_fc82f7398c43db6e46488ec99247c00c" type="Folder">7</container></did></c><c id="aspace_4d79627e04bfa76ea7e742bbcc60de00" level="file"><did><unittitle>Flatbush Historical Society</unittitle><unitdate datechar="creation" normal="1976/1986" type="inclusive">1976-1986</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_aa34692b3d04c60ef3a2406bd98d3fb4" label="Mixed Materials" type="Box">1</container><container id="aspace_5f84226cf59dca1fc97c66e6244fc340" parent="aspace_aa34692b3d04c60ef3a2406bd98d3fb4" type="Folder">8</container></did></c><c id="aspace_445cff4d856fb01abe908330a2317415" level="file"><did><unittitle>Brooklyn Bridge</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">circa 1980s</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_23fb60b13282815f8982025e93c20264" label="Mixed Materials" type="Box">1</container><container id="aspace_2f7b7364b34836dfccf47683a895ea19" parent="aspace_23fb60b13282815f8982025e93c20264" type="Folder">9</container></did></c><c id="aspace_f58439bd3c19eda7d2f3699f09942961" level="file"><did><unittitle>Brooklyn College</unittitle><unitdate datechar="creation" normal="1980/1986" type="inclusive">1980-1986</unitdate><container altrender="Half Manuscript Box Letter" id="aspace_18e66093fe5faa678f827061ef7efbab" label="Mixed Materials" type="Box">1</container><container id="aspace_3869c1e7a3e7bbaf376f5a3d69261f0c" parent="aspace_18e66093fe5faa678f827061ef7efbab" type="Folder">10</container></did><scopecontent id="aspace_4fd652078f5ef1741d7deca13addd3d1"><head>Scope and Contents</head><p>50th anniversary sticker and April 1986 magazine.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
