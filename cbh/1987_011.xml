@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/1987_011">1987_011</eadid><filedesc><titlestmt><titleproper>Guide to the Peter Conover receipt book <num>1987.011</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 17 2024</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-09-18 15:23:20 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Peter Conover Receipt Book</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Conover, Peter</persname>
+    </origination>
+    <origination label="source">
+      <persname role="bsl" rules="dacs" source="local">Ross, Craig W.</persname>
+    </origination>
+    <unitid>1987.011</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Cubic Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1818/1841" type="inclusive">1818-1841</unitdate>
+    <abstract id="aspace_6acd1a13003ef37bac8d02bdafb107f5">The collection contains the receipt book of Peter Conover, an auctioneer in Brooklyn, N.Y.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_15c05c82f6ecb381af04d7d9b2d92aa7" label="Mixed Materials" type="Box">A0042</container>
+  </did>
+  <acqinfo id="aspace_3711eded01317c2ec6bf7888ac7023f2">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchased from Craig W. Ross, 1987.</p>  </acqinfo>
+  <arrangement id="aspace_8f808c64ab21834ce59fc974a13e5d7e">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <bioghist id="aspace_c12a98923bf1bd46729f43696c6d25e9">
+    <head>Biographical note</head>
+<p>Peter Conover was born to Rachel Bergen (1761-1817) and Jacob Conover (1750-1836) on April 16, 1783 in Middletown, NJ. On July 14, 1819, he married Catharine (1789-1846), born to Joost and Ann Stillwell of Gravesend, and widow of Nicholas Van Dyck of Red Hook. Conover was cousin to Garret Bergen and resided with him at one point in Gowanus. He served in the War of 1812 and in 1825 ran for sheriff, but lost to John Wyckoff of New Lots. At that time, he was living in Red Hook, where his father had also owned property. Conover died on January 4, 1842.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Bergen, Teunis G. The Bergen Family; Or The Descendants of Hans Hansen Bergen, One of the Early Settlers of New York and Brooklyn, L. I. Albany, NY: Joel Munsell, 1876, pp. 289-291.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_a93ab04e6fbc570fe3c94d6e75cce681">
+    <head>Preferred Citation</head>
+<p>Peter Conover receipt book, 1818-1841, 1987.011; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_344bce74bf2c9d2d22efc4a7b9696908">
+    <head>Processing Information</head>
+<p>This item was rehoused and the finding aid created by Dee Bowers in 2024. The biographical information cited in the accession file and reiterated in this finding aid was identified by Roger Mohovich, cataloguing librarian.</p>  </processinfo>
+  <relatedmaterial id="aspace_f91d09b8a30b6fa26c734401f26e4f0b">
+    <head>Related Materials</head>
+<p>Conover and Cowenhoven family papers (1974.141)</p><p>Teunis G. Bergen and Bergen family collection (ARC.006)</p><p>H.H. Seabrook papers (1980.036)</p>  </relatedmaterial>
+  <scopecontent id="aspace_cef0045682556e4629f2e7adbbb52ee1">
+    <head>Scope and Contents</head>
+<p>The collection contains the receipt book of Peter Conover, an auctioneer in Brooklyn, N.Y.</p>  </scopecontent>
+  <userestrict id="aspace_3f596bb2231d93cb0d5ba310df5bf80f">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <subject source="lcsh">Account books -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Accounts -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Account books</genreform>
+    <genreform source="aat">Financial records</genreform>
+    <subject source="lcsh">Families -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Auctions -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
+    <persname role="bsl" rules="dacs" source="local">Ross, Craig W.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
