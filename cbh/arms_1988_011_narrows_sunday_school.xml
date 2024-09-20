@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1988_011_narrows_sunday_school/">arms_1988_011_narrows_sunday_school</eadid><filedesc><titlestmt><titleproper>Guide to Narrows Sunday School record manuscript <num>1988.011</num></titleproper><author>Stephanie Coy</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 19, 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:09:31 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1988_011_narrows_sunday_school/">arms_1988_011_narrows_sunday_school</eadid><filedesc><titlestmt><titleproper>Guide to Narrows Sunday School record and minute book <num>1988.011</num></titleproper><author>Stephanie Coy</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>March 19, 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-09-20 14:59:43 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -9,69 +9,72 @@
       <corpname rules="dacs" source="local">Narrows Sunday School</corpname>
     </origination>
     <origination label="source">
-      <persname role="fmo" rules="dacs" source="local">Spande, Constance R.</persname>
+      <persname role="sll" rules="dacs" source="local">Spande, Constance R.</persname>
     </origination>
     <unitid>1988.011</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-      <extent altrender="carrier">in one folder</extent>
+      <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1834/1845" type="inclusive">1834-1845</unitdate>
-    <abstract id="aspace_d37c2c61621700b563e5f6398305b3bc">This collection consists of one item, a record and minute book kept by the Narrows Sunday School secretaries between 1834 and 1845. During this 11 year period, about 150 Sundays have recorded entries, with notes detailing class attendance by both teachers and students and frequent mention of the weather at the time. The behavior of the students as well as class trips, a sewing club, fundraising, collecting for missions, and exams are also noted.</abstract>
+    <abstract id="aspace_d37c2c61621700b563e5f6398305b3bc">This collection consists of one item, a record and minute book kept by the Narrows Sunday School secretaries between 1834 and 1845. During this 11 year period, about 150 Sundays have recorded entries, with notes detailing class attendance by both teachers and students and frequent mention of the weather at the time.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_747ca12e111d71500726533571e870e0" label="Text" type="Box">A0044</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_7eabfe1231193a76e2d0b47a4afc0a8a" label="Mixed Materials" type="Box">A0043</container>
   </did>
-  <scopecontent id="aspace_211de38d23081e6c17de0786ca3eec7d">
-    <head>Scope and Contents</head>
-<p>The records of the Narrows Sunday School were kept in a volume printed for the purpose at Philadelphia, 1832, by the American Sunday School Union. The book is softbound with worn marbled boards. There are entries on more than 75 pages, with each page bearing records of two Sundays in tabular form for activities and attendance of teachers and scholars. There are approximately 150 Sundays over an 11 year period, 1834-1845, which leaves gaps in the chronology.</p><p>The manuscript entries were made with some irregularity in a few hands, presumably as different persons became secretary. Some of the secretaries, including one Mrs. Williamson, are identified in the text. The records document how many students and teachers attended the school, with separate columns for male and female. The numbers of scholars actually present varied from as many as about 37 female and 23 male to far fewer – about 17 in total. The female teachers also outnumbered the male; sometimes ten or eleven were present.</p><p>There are notes on founding a sewing club, raising money for the school, trips to New Utrecht, collections for missions, scholars' exams at Flatbush, preparations for anniversary events, and so on. There are also frequent notes on weather, especially as it influences attendance.</p><p>This manuscript record reveals the individual personality and social outlook of teachers in Kings County in the mid nineteenth century. It documents the early history of a Brooklyn based religious education institution that still remains active to this day (2015). It is an important portrait of the early Dutch settlers in Brooklyn, especially as pertains to the influential Van Brunt and Bennett families.</p>  </scopecontent>
   <accessrestrict id="aspace_b44ca7fd2db8efcbdd8bfb3a89a7b2a9">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <bioghist id="aspace_80447778b5ae3623b8c68bed4f44baf8">
-    <head>Historical note</head>
-<p>The Narrows Sunday School was established in 1825 by John Carpenter, MD. It is said that the first meeting was held in a barn, but shortly after the class was moved to a new building on 88th Street in Fort Hamilton, then a village around the Fort Hamilton army base, now in the Brooklyn neighborhood of Bay Ridge. The building was near the residence of J. Holmes Van Brunt, whose family played a large role in supplying teachers for the students at the Sunday school. This is evidenced by the names written on the flyleaf of the manuscript: William Barkuloo, superintendent; Francis E. Berrier, secretary; Nicholas Van Brunt, librarian; Sarah Berrier, treasurer. Teachers: Mrs. Albert N. Van Brunt, Mrs. Jacques Van Brunt; Mrs. Sarah Berrier; Mrs. J. Remsen Bennett; Miss Ruth T. Cortelyou; Miss Ida Cortelyou; Miss Mary Van Brunt; Miss Mary M. Bennett; Miss Sarah Bennett; Peter Rouget; Rulef Van Brunt; Holmes Van Brunt; J. Remsen Bennett; John Bennett; Mr. Bernard Larzelire. The school has been in continuous existence except for a short period of time after Dr. Carpenter moved to New Utrecht, then a village, now in the Brooklyn neighborhood of Bensonhurst. The school remained in the same building in New Utrecht until it was given a permanent home in the chapel of the (Dutch) Reformed Church (now New Utrecht Reformed Church), established in 1677 and later moved to its current location on 84th St. and 18th Ave. during the patronage of Rev. John Currie, DD in 1828. The Church and the Sunday School are still active in the community and represent a long standing history of Dutch settlement in Southern Brooklyn.</p><p>Sources:</p><p>Former owner correspondence, 1988</p><p>History of the Friends of Historic New Utrecht. Retrieved from <extref xlink:href="http://www.historicnewutrecht.org/History.html">http://www.historicnewutrecht.org/History.html</extref></p>  </bioghist>
-  <userestrict id="aspace_7a653b0e409f1d69d3804ad8e7da293a">
-    <head>Conditions Governing Use</head>
-<p>Manuscript is in the public domain.</p>  </userestrict>
   <acqinfo id="aspace_1333aa28e1a794d999adc41da7d681b4">
     <head>Immediate Source of Acquisition</head>
 <p>Purchased from Constance R. Spande, 1988.</p>  </acqinfo>
+  <arrangement id="aspace_64a0fd03279badb0526985003e829f9b">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <bioghist id="aspace_80447778b5ae3623b8c68bed4f44baf8">
+    <head>Historical note</head>
+<p>The Narrows Sunday School was established in 1825 by John Carpenter, MD. It is said that the first meeting was held in a barn, but shortly after the class was moved to a new building on 88th Street in Fort Hamilton, then a village around the Fort Hamilton army base, now in the Brooklyn neighborhood of Bay Ridge. The building was near the residence of J. Holmes Van Brunt, whose family played a large role in supplying teachers for the students at the Sunday school. This is evidenced by the names written on the flyleaf of the manuscript: William Barkuloo, superintendent; Francis E. Berrier, secretary; Nicholas Van Brunt, librarian; Sarah Berrier, treasurer. Teachers: Mrs. Albert N. Van Brunt, Mrs. Jacques Van Brunt; Mrs. Sarah Berrier; Mrs. J. Remsen Bennett; Miss Ruth T. Cortelyou; Miss Ida Cortelyou; Miss Mary Van Brunt; Miss Mary M. Bennett; Miss Sarah Bennett; Peter Rouget; Rulef Van Brunt; Holmes Van Brunt; J. Remsen Bennett; John Bennett; Mr. Bernard Larzelire. The school has been in continuous existence except for a short period of time after Dr. Carpenter moved to New Utrecht, then a village, now in the Brooklyn neighborhood of Bensonhurst. The school remained in the same building in New Utrecht until it was given a permanent home in the chapel of the (Dutch) Reformed Church (now New Utrecht Reformed Church), established in 1677 and later moved to its current location on 84th Street and 18th Avenue during the patronage of Rev. John Currie, DD in 1828. The Church and the Sunday School are still active in the community and represent a long standing history of Dutch settlement in Southern Brooklyn</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>Former owner correspondence, 1988.</item>
+      <item>History of the Friends of Historic New Utrecht. Retrieved from http://www.historicnewutrecht.org/History.html</item>
+    </list>
+  </bioghist>
   <prefercite id="aspace_39bb1c20657bfc7ec42f1f97f0838efc">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Narrows Sunday School record manuscript, 1988.011, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Narrows Sunday School record and minute book, 1834-1845, 1988.011; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_e4814cb16816cbe23b1a941e0e7f9232">
+    <head>Processing Information</head>
+<p>This collection was rehoused and the finding aid revised by Dee Bowers in 2024.</p>  </processinfo>
   <relatedmaterial id="aspace_d155eafbcf21f6142c54052acc3c9c32">
     <head>Related Materials</head>
-<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
-      <head>Missing Title</head>
-      <item>1973.131, Female Union Society for the Promotion of Sabbath Schools records, 1825-1827</item>
-      <item>1973.299, Reformed Dutch Church of East Williamsburg Sunday School minute book, 1856-1902</item>
-      <item>1978.013, Old Bushwick Reformed Church Sunday School meeting minutes, 1870-1877</item>
-      <item>ARC.109, First Unitarian Congregational Society of Brooklyn records, 1790-1972</item>
-      <item>ARC.218, Henry Reed Stiles papers, circa 1855-1884</item>
-      <item>ARC.242, Religious organizations of Brooklyn collection, 1828 – 1986</item>
-    </list>
-  </relatedmaterial>
+<p>Female Union Society for the Promotion of Sabbath Schools records (1973.131)</p><p>Reformed Dutch Church of East Williamsburg Sunday School minute book (1973.299)</p><p>Old Bushwick Reformed Church Sunday School meeting minutes (1978.013)</p><p>First Unitarian Congregational Society of Brooklyn records (ARC.109)</p><p>Henry Reed Stiles papers (ARC.218)</p><p>Religious organizations of Brooklyn collection (ARC.242)</p>  </relatedmaterial>
+  <scopecontent id="aspace_211de38d23081e6c17de0786ca3eec7d">
+    <head>Scope and Contents</head>
+<p>The records of the Narrows Sunday School were kept in a volume printed for the purpose at Philadelphia, 1832, by the American Sunday School Union. The book is softbound with worn marbled boards. There are entries on more than 75 pages, with each page bearing records of two Sundays in tabular form for activities and attendance of teachers and scholars. There are approximately 150 Sundays over an 11 year period, 1834-1845, which leaves gaps in the chronology.</p><p>The manuscript entries were made with some irregularity in a few hands, presumably as different persons became secretary. Some of the secretaries, including one Mrs. Williamson, are identified in the text. The records document how many students and teachers attended the school, with separate columns for male and female. The numbers of scholars actually present varied from as many as about 37 female and 23 male to far fewer – about 17 in total. The female teachers also outnumbered the male; sometimes ten or eleven were present.</p><p>There are notes on founding a sewing club, raising money for the school, trips to New Utrecht, collections for missions, scholars' exams at Flatbush, preparations for anniversary events, behavior of students, and so on. There are also frequent notes on weather, especially as it influences attendance.</p><p>This manuscript record reveals the individual personality and social outlook of teachers in Kings County in the mid nineteenth century. It documents the early history of a Brooklyn based religious education institution that has remained active into the 21st century. It is an important portrait of the early Dutch settlers in Brooklyn, especially as pertains to the influential Van Brunt and Bennett families.</p>  </scopecontent>
+  <userestrict id="aspace_7a653b0e409f1d69d3804ad8e7da293a">
+    <head>Conditions Governing Use</head>
+<p>This item is in the public domain.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Fort Hamilton (New York, N.Y.)</geogname>
     <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
     <genreform source="aat">Logs (records)</genreform>
-    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Religious education of children |z New York (State) |z Kings County</subject>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
+    <subject source="lcsh">Religious institutions -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Religious education of children -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Religious life and customs</geogname>
     <genreform source="aat">Minutes</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">School children--New York (State)--Kings County</subject>
-    <subject source="lcsh">Sabbath schools |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Sunday schools |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Schools -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">School children -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Sabbath schools -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Sunday schools -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Bensonhurst (New York, N.Y.)</geogname>
-    <geogname source="lcsh">New Utrecht (New York, N.Y.) |x History</geogname>
+    <geogname source="lcsh">New Utrecht (New York, N.Y.) -- History</geogname>
     <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
+    <subject source="lcsh">Dutch Americans -- New York (State) -- Kings County</subject>
     <famname source="naf">Van Brunt family</famname>
     <famname source="naf">Bennett family</famname>
-    <persname role="fmo" rules="dacs" source="local">Spande, Constance R.</persname>
+    <persname role="sll" rules="dacs" source="local">Spande, Constance R.</persname>
     <corpname rules="dacs" source="local">Narrows Sunday School</corpname>
   </controlaccess>
   <dsc/>
