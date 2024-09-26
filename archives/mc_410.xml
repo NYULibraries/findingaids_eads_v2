@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_410/">mc_410</eadid><filedesc><titlestmt><titleproper>Guide to the Merideth Wright Collection on University Heights <num>MC.410</num></titleproper><author>Janet Bunde, Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>September 2024</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-09-06 10:59:54 -0400</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Merideth Wright Collection on University Heights</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Wright, Merideth</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Wright, Merideth</persname>
+    </origination>
+    <unitid>MC.410</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3531</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 folder in shared housing</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1967/1969" type="inclusive">1967-1969</unitdate>
+    <abstract id="aspace_04ae7942dbb3f5730c4c6231e74835a2">Merideth Wright attended the University Heights campus at New York University from Fall 1967-Spring 1969, and was involved in the inaugural class of the Metropolitan Leadership Program, which was devoted to interdisciplinary education. The Merideth Wright Collection on University Heights (dated circa 1967-1969) consists of photographs (prints, negatives, and contact sheets) of NYU students at the University Heights campus, including students at demonstrations on campus in 1968, and students attending the 1967 March on the Pentagon against the Vietnam War. The photographs document specific actions of student activism and organizing at the University Heights campus, as well as the broader context of campus activism in the late 1960s.</abstract>
+    <langmaterial id="aspace_3c9c750116b5984f417596b9f6494d4b">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_535bd880002d05f5ceae1adf946772ae">
+    <head>Scope and Contents</head>
+<p>The Merideth Wright Collection on University Heights (dated circa 1967-1969) consists of photographs (prints, negatives, and contact sheets) of NYU students at the University Heights campus, including students at demonstrations on campus in 1968, and students attending the 1967 March on the Pentagon against the Vietnam War. The photographs document specific actions of student activism and organizing at the University Heights campus, as well as the broader context of campus activism in the late 1960s. The collection also includes a color photographic print of the view from Wright and Frances Pinter's dormitory room on the sixth floor of Silver Hall.</p>  </scopecontent>
+  <arrangement id="aspace_288ca19a24a9f6615cb89ac7912e0879">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <accessrestrict id="aspace_ad51fc7cb3b022f8c62e32f606383158">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_da3c8ce0853e684a818386016884c8e1">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_11e7274a2f2efd1b9a0aead5972de3c7">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Merideth Wright in July 2024; the accession number associated with this gift is 2024.066.</p>  </acqinfo>
+  <prefercite id="aspace_f3199343609b0ea43c8fe7e463f74387">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Merideth Wright Collection on University Heights; MC 410; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_6a8df9a2176eaaef269ca6d352b6aff7">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in an archival folder and box, and described on the collection-level.</p>  </processinfo>
+  <bioghist id="aspace_9b917b39abaa28a2a187a4c4ab4a46d4">
+    <head>Biographical Note</head>
+<p>Merideth Wright attended the University Heights campus at New York University from Fall 1967-Spring 1969, and was involved in the inaugural class of the Metropolitan Leadership Program, which was devoted to interdisciplinary education.</p>  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Photographs.</genreform>
+    <subject source="lcsh">Students -- Political activity</subject>
+    <subject source="lcsh">Student movements.</subject>
+    <subject source="lcsh">Students -- Civil rights</subject>
+    <subject source="lcsh">College students -- Political activity -- New York (N.Y.)</subject>
+    <subject source="lcsh">Civil rights demonstrations.</subject>
+    <subject source="lcsh">Civil rights movements -- United States.</subject>
+    <subject source="lcsh">Vietnam War, 1961-1975 -- Protest movements.</subject>
+    <persname role="dnr" rules="dacs" source="local">Wright, Merideth</persname>
+    <corpname rules="dacs" source="local">New York University. University Heights</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_5b23f4578fe9eb360f9cb759226908b4" level="file"><did><unittitle>Photographs</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1007994</unitid><unitdate datechar="creation" normal="1967/1969" type="inclusive">1967-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_2f5263f8dac66ca47a3b35c935f8b5af" label="Mixed Materials [31142067003577]" type="box">Shared University Archives 156</container><container id="aspace_e757ae07341be41fc36634ff4aca56cf" parent="aspace_2f5263f8dac66ca47a3b35c935f8b5af" type="folder">1</container></did></c></dsc>
+</archdesc>
+</ead>
