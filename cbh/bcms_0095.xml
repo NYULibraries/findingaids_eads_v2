@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">bcms_0095</eadid><filedesc><titlestmt><titleproper>Guide to the Cowenhoven receipt books <num>BCMS.0095</num></titleproper><author>Sarah Quick, Archivist</author></titlestmt><publicationstmt><publisher>Brooklyn Collection</publisher><address><addressline>128 Pierrepont St</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-09-27 20:08:18 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Brooklyn Collection</corpname>
+    </repository>
+    <unittitle>Cowenhoven receipt books</unittitle>
+    <unitid>BCMS.0095</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 Linear Feet</extent>
+      <extent altrender="carrier">in 1 small flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1782/1830" type="inclusive">1782-1830</unitdate>
+    <abstract id="aspace_440edcdd3b07e05b92f9adc70fc899c8">This collection includes two handwritten receipt books from members of the Cowenhoven family living in Kings County. The earlier book, dating 1782-1787 is likely the receipt book of Nicholas Cowenhoven (1744-1793). A later book belonging to Gerretta Cowenhoven (1763-1863) dates 1814-1830.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_eb257796a631c508e077a3c1eccd4930">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <phystech id="aspace_058fa110217accd588b9fa94c6b706a8">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.  </p><p>The materials in this collection are stored offsite and advance notice is required for use. Please contact cbhreference@bklynlibrary.org at least two weeks prior to research visit. </p>  </phystech>
+  <userestrict id="aspace_7ef01f089102115834445d118cb622d2">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain.</p>  </userestrict>
+  <prefercite id="aspace_9d716366ebe2fa264c39346bc443fe80">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Cowenhoven receipt books, BCMS.0095, Box number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <acqinfo id="aspace_f9e8b432887749e2156757cb866f7875">
+    <head>Immediate Source of Acquisition</head>
+<p>The Gerretta Cowenhoven receipt book was purchased from The Kelmscott Bookshop in 2019. The Nicholas Cowenhoven receipt book was purchased 1882, presumably from Richard H. Benson and S. Benson, whose names have been inscribed on the interior cover.</p>  </acqinfo>
+  <processinfo id="aspace_15de25bb58267419c237d0999a4ece9f">
+    <head>Processing Information</head>
+<p>This collection combines accession 2019.003 and a receipt book formerly cataloged as 974.723 C87.</p>  </processinfo>
+  <relatedmaterial id="aspace_d97c1890de24ee2b41f1bf127daa1dba">
+    <head>Related Materials</head>
+<p>Conover and Cowenhoven family papers (1974.141)</p><p>
+John R. Couwenhoven papers (1973.167)</p><p>
+Kings County Historic Records Microfilm Collection (BCMS.0047)</p><p>
+Teunis G. Bergen and Bergen family collection (ARC.006)</p>  </relatedmaterial>
+  <scopecontent id="aspace_534097ea249981c8555e8921784489ab">
+    <head>Scope and Contents</head>
+<p>This collection includes two handwritten receipt books from members of the Cowenhoven family living in Kings County. The earlier book, dating 1782-1787 is likely the receipt book of Nicholas Cowenhoven (1744-1793). Receipts are for a range of goods and services, including wood, shoe making, beef, mutton, labor, and livestock. Several payments come from the families of early Dutch settlers, including the Lefferts, Bergen, Vanderbilt, Vorhees, Wykoff, Lott, Stillwell, Remsen, Van Pelt, and Van Brunt families. This book includes entries for the sale of Jack, a Black man enslaved by Nicholas Cowenhoven sold to Peter Lefferts on January 26, 1782, and Cuffee, a Black man enslaved by Nicholas Cowenhoven sold to Rutergt A. Van Brunt on behalf of his father, Adrian Van Brunt on July 4, 1785. Entries for "my son Nicholas Cowenhoven" are likely from his mother, Catharina Remsen (1716-1786).  </p><p>A later book belonging to Gerretta Cowenhoven (1763-1863) dates 1814-1830 and includes receipts for a range of goods and services including rent for a home on Maiden Lane, manure delivery, flour, medical care, surveying, repairs, and blacksmith services. An 1823 entry notes Gerretta as executor of the will of Tunis Tiebout (1722-1823).</p>  </scopecontent>
+  <bioghist id="aspace_6f2a250fed9c818af0c8a16bc59ee41b">
+    <head>Biographical Note</head>
+<p>The Cowenhoven family (alternate spellings include Couwenhoven, Kouwenhoven, and Covenhoven) were descended from the common ancestor Wolphert Gerritson Van Kouwenhoven, who emigrated from the Netherlands to the town of New Utrecht in the Dutch colony of New Netherland (later New York) in the 17th century.  </p><p>Nicholas Couwenhoven (1744-1793) was the great-great-grandson of Wolphert Gerritson Van Kouwenhoven. Nicholas was a lawyer, landowner, and enslaver who married into the Lott family. According to transactions detailed in his receipt book, he and his wife Jannetje Lott (1745-1817) held at least two enslaved Black men in their household, Jack and Cuffee, who were sold by Cowenhoven in 1782 and 1785.  </p><p>Gerretta (Gerritje) Tiebout (1763-1863) married into the Cowenhoven family in 1785. Gerretta's husband John Remsen Cowenhoven (1761-1811) was the nephew of Nicholas Cowenhoven. By the time Gerretta's receipt book was in use she was a widow raising several children. Receipts show an income from renting rooms in a building on Maiden Lane, but it's unclear if this was also her residence. She was buried in the Vechte-Cowenhoven family burying ground.  </p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Slavery -- New York (State) -- Kings County</subject>
+    <subject source="local">Enslaved people -- bills of sale</subject>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <subject source="lcsh">Rent -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Commerce</subject>
+    <subject source="lcsh">Commodity exchanges -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Debt</subject>
+  </controlaccess>
+  <dsc><c id="aspace_26bd357657a6abaf7386bf691d56d76e" level="file"><did><unittitle>Nicholas Cowenhoven receipt book</unittitle><unitdate datechar="creation" normal="1782/1787" type="inclusive">1782-1787</unitdate><container altrender="Shoe Box 10" id="aspace_342057172dae7ecfaa91c504692f7852" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_eeb14a00fc1ef22aa61c86d8bf5bec03" level="file"><did><unittitle>Geretta Cowenhoven receipt book</unittitle><unitdate datechar="creation" normal="1814/1830" type="inclusive">1814-1830</unitdate><container altrender="Shoe Box 10" id="aspace_26dbe0e61bb1b7cf2bdf0c50f4b3906b" label="Mixed Materials" type="Box">1</container></did></c></dsc>
+</archdesc>
+</ead>
