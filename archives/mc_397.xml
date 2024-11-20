@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_397">mc_397</eadid><filedesc><titlestmt><titleproper>Guide to the Robert Miller Heiberg Collection on New York University <num>MC.397</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>November 2024</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-11-11 20:36:57 UTC</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Robert Miller Heiberg Collection on New York University</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Heiberg, Robert Miller</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Chrisman, Karen</persname>
+    </origination>
+    <unitid>MC.397</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3541</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 linear foot</extent>
+      <extent altrender="carrier">in 2 manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1933/1937" type="inclusive">1933-1937</unitdate>
+    <abstract id="aspace_42d06227742339a22429a6b89538d0e2">Robert Miller Heiberg (1916-1981) graduated from New York University's School of Commerce, Accounts, and Finance in 1937. The Robert Miller Heiberg Collection on New York University (dated 1933-1937) consists of materials documenting Heiberg's experiences as a student at New York University. Materials include correspondence, publications, programs, and other ephemera. The collection also includes The Violet yearbooks from 1933-1937.</abstract>
+    <physloc id="aspace_9e037a8464d05219fe409d7fafd57037" label="Location Note">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_8e87f30ab0feb2e07fc187bf3c575893">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_2f75846fb7601dbc4a3471dcf61e0a86">
+    <head>Scope and Contents</head>
+<p>The Robert Miller Heiberg Collection on New York University (dated 1933-1937) consists of materials documenting Heiberg's experiences as a student at New York University. Materials include correspondence, publications, programs, and other ephemera. The collection also includes The Violet yearbooks from 1933-1937.</p>  </scopecontent>
+  <arrangement id="aspace_c24df083360336b25cb261eb7d0a214c">
+    <head>Arrangement</head>
+<p>Materials are arranged alphabetically.</p>  </arrangement>
+  <accessrestrict id="aspace_0a539cb3dadb2cf4703450f8b368b3e5">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_3b8391aa49482301f60753fb4e2dcd5c">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_7b60bd135ad56b10f03e2081f2a67357">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Karen Chrisman, daughter of Robert Miller Heiberg, in February 2024. The accession number associated with this gift is 2024.073.</p>  </acqinfo>
+  <prefercite id="aspace_1503a830d57ee5c08b6a92cfa98d3ef2">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Robert Miller Heiberg Collection on New York University; MC 397; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <bioghist id="aspace_06c384a8a99b5f3e946108c47f8600c1">
+    <head>Historical Note</head>
+<p>Robert Miller Heiberg (1916-1981) graduated from New York University's School of Commerce, Accounts, and Finance in 1937.</p>  </bioghist>
+  <appraisal id="aspace_5963383a5183641d442c859a69880347">
+    <head>Appraisal</head>
+<p>Newspaper clippings have been appraised out of this collection.</p>  </appraisal>
+  <processinfo id="aspace_d412e4c5b7d1cd326d355e1a57da5388">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival boxes and folders, described on the collection-level, and inventoried on the folder-level.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Universities and Colleges -- Alumni and alumnae.</subject>
+    <subject source="lcsh">College students -- New York (N.Y.)</subject>
+    <persname role="dnr" rules="dacs" source="local">Chrisman, Karen</persname>
+  </controlaccess>
+  <dsc><c id="aspace_d672306b0327151221e006470709e5bd" level="file"><did><unittitle>Commencement Program</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012955</unitid><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_686deef5334809451fc8eb5107a157ff" label="Mixed Materials [31142067147168]" type="Box">1</container><container id="aspace_6536e07944e70183ae18c7ec3eca99f6" parent="aspace_686deef5334809451fc8eb5107a157ff" type="Folder">1</container></did></c><c id="aspace_95b749d3888f3d065ceb4b2ba53619f6" level="file"><did><unittitle>Correspondence</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012956</unitid><unitdate datechar="creation" normal="1933/1944" type="inclusive">1933-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_4266b2b395ab8dd33e3ed87b9b141e87" label="Mixed Materials [31142067147168]" type="Box">1</container><container id="aspace_f8cc3a1490c19cfff62dbb8263138bc6" parent="aspace_4266b2b395ab8dd33e3ed87b9b141e87" type="Folder">2</container></did></c><c id="aspace_fd5fab9de705ac73fdd4eee73084782a" level="file"><did><unittitle>Ephemera</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012957</unitid><unitdate datechar="creation" normal="1937/1942" type="inclusive">1937-1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_00ebee4d514a8b143de9bfa724a35a8c" label="Mixed Materials [31142067147168]" type="Box">1</container><container id="aspace_2bebdb276fd7ba8e1db961b2ccc94df7" parent="aspace_00ebee4d514a8b143de9bfa724a35a8c" type="Folder">3</container></did></c><c id="aspace_466a2b826ddc3b6137bdb51f8bfe87af" level="file"><did><unittitle>Varsity Track Members (for 1937 Yearbook Photograph)</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012958</unitid><unitdate datechar="creation" normal="1935/1937" type="inclusive">circa 1935-1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_769cee21c2f9b99d8caa9999035e4e32" label="Mixed Materials [31142067147168]" type="Box">1</container><container id="aspace_1417748ace0723856c98f22791c30f37" parent="aspace_769cee21c2f9b99d8caa9999035e4e32" type="Folder">4</container></did></c><c id="aspace_eb5fe0491d04d6455f6a918f167a3d86" level="file"><did><unittitle><emph render="italic">The Violet</emph></unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012959</unitid><unitdate datechar="creation" normal="1934/1934">1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_98a221e331d7612a1ff6fde599c2221e" label="Mixed Materials [31142067147168]" type="Box">1</container><container id="aspace_d524295a4977bc39fc65016c4c97ca44" parent="aspace_98a221e331d7612a1ff6fde599c2221e" type="Folder">5</container></did></c><c id="aspace_c05f9c08586404f1022a21b9b0f03243" level="file"><did><unittitle><emph render="italic">The Violet</emph></unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012960</unitid><unitdate datechar="creation" normal="1935/1935">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_e32b87b7171c0ec7abc45396cae10ca4" label="Mixed Materials [31142067147168]" type="Box">1</container><container id="aspace_fdefc16ee5ba17b0d935a4c6e8be58c4" parent="aspace_e32b87b7171c0ec7abc45396cae10ca4" type="Folder">6</container></did></c><c id="aspace_0fa74763ace4c07fff9a4e591d8eabd6" level="file"><did><unittitle><emph render="italic">The Violet</emph></unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012961</unitid><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_b749bc57ea98218a45b9bbafac452e11" label="Mixed Materials [31142067147176]" type="Box">2</container><container id="aspace_1fb26e20f1c5c36df086d41d31d3d87d" parent="aspace_b749bc57ea98218a45b9bbafac452e11" type="Folder">1</container></did></c><c id="aspace_2589913149917436d5e3f6e26ffa50f7" level="file"><did><unittitle><emph render="italic">The Violet</emph></unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1012962</unitid><unitdate datechar="creation" normal="1937/1937">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_324908df0f4be8499b2e9fea2ec2fbf9" label="Mixed Materials [31142067147176]" type="Box">2</container><container id="aspace_ae2ee622d95e700bf536e5e421b03e92" parent="aspace_324908df0f4be8499b2e9fea2ec2fbf9" type="Folder">2</container></did></c></dsc>
+</archdesc>
+</ead>
