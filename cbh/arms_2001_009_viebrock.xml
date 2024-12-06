@@ -1,42 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2001_009_viebrock/">arms_2001_009_viebrock</eadid><filedesc><titlestmt><titleproper>Guide to the Viebrock family papers <num>2001.009</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 17, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:35 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2001_009_viebrock/">arms_2001_009_viebrock</eadid><filedesc><titlestmt><titleproper>Guide to the Elsie Viebrock letters and ephemera <num>2001.009</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 17, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-12-06 20:21:10 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
-    <unittitle>Viebrock family papers</unittitle>
+    <unittitle>Elsie Viebrock letters and ephemera</unittitle>
     <origination label="Creator">
       <famname source="local">Viebrock family</famname>
     </origination>
     <unitid>2001.009</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1075</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
-      <extent altrender="carrier">in two folders</extent>
+      <extent altrender="carrier">in two folders.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate>
-    <abstract id="aspace_f2aa577fad4d783515ccd8dff8cc9fd5">Letters of the Viebrock family of 1124 Flatbush Avenue in Brooklyn, including the correspondence of a World War II soldier.  Additional items include one bulletin of the Lutheran Church of the Redeemer, located at Ditmas Avenue between East 21st and 22nd Streets in Brooklyn, and one monthly news publication of the Confectioners and Ice Cream Manufacturer's Association.</abstract>
+    <abstract id="aspace_f2aa577fad4d783515ccd8dff8cc9fd5">Correspondence of Elsie Viebrock of Flatbush, including letters from her nephew Erwin and son Theodore from their postings in World War II. Theodore Viebrock was killed in a military plane crash in France on November 13, 1944.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_1e5bd6c241aef1adb264f8d113c7dd8e" label="Text" type="Box">A0012</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_9ae93c34c465222271ed6ab03efb6ab3" label="Text" type="Box">A0111</container>
   </did>
-  <prefercite id="aspace_a498554d97e764f75c85c8b6fd938fd7">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Viebrock family papers, 2001.009, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <processinfo id="aspace_bf5dbbf763d54d63105d1200a7352e45">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
   <accessrestrict id="aspace_de24acb3dfb62a9e216688e6df38bf28">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_2a5bdeafb20c90d93a3535aed1daf574">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Ruth Perlman, 2001.</p>  </acqinfo>
+  <arrangement id="aspace_c428bca4839c49b00d49ba64f2528444">
+    <head>Arrangement</head>
+<p>The correspondence is arranged by sender and date and the ephemera is filed after the correspondence.</p>  </arrangement>
+  <bioghist id="aspace_5b1b70d0df8ef985e7a500a8f3161762">
+    <head>Biographical note</head>
+<p>Elsie Viebrock and her husband John were both born in Germany. They lived in the Bronx and in Queens before moving to 1124 Flatbush Avenue in the Flatbush neighborhood of Brooklyn. Their son Theodore C. "Ted" Viebrock was born on November 26, 1919 and their daughter Eleanor was born about ten years later.</p><p>Ted gradauted from Bushwick Evening High School in 1938 and from NYU in 1942, where he was a member of the Psi Upsilon fraternity's Delta chapter. He enlisted in the army on June 29, 1942. He was a second lieutenant. On November 13, 1944 he was on board a B-26 Marauder Bomber, nicknamed "Patsy," which crashed near Plottes, France. The entire crew was killed. Ted's body was returned to the US in 1948 and he was buried at Long Island National Cemetery.</p>  </bioghist>
+  <phystech id="aspace_2b7cb304c54827e2be9c1b219957199a">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>The collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_a498554d97e764f75c85c8b6fd938fd7">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Elsie Viebrock letters and ephemera, 2001.009, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_bf5dbbf763d54d63105d1200a7352e45">
+    <head>Processing Information</head>
+<p>Originally minimally processed to the collection level, this collection's finding aid was revised by Dee Bowers in December 2024. At that time, the collection was renamed from "Viebrock family papers" to "Elsie Viebrock letters and ephemera" to better reflect its contents.</p>  </processinfo>
+  <scopecontent id="aspace_43a9cac18a119021ae5b7538ebb9fa9e">
+    <head>Scope and Contents</head>
+<p>Correspondence of Elsie Viebrock of 1124 Flatbush Avenue, including letters from her nephew Erwin and son Theodore ("Ted") from their postings in World War II. There is also a telegram from Ted, and two letters from Ted's sister Eleanor, as well as two birthday cards addressed to Elsie. Additional items include one bulletin of the Lutheran Church of the Redeemer, located at Ditmas Avenue between East 21st and 22nd Streets in Brooklyn, and one monthly news publication of the Confectioners and Ice Cream Manufacturer's Association.</p>  </scopecontent>
+  <userestrict id="aspace_4a4984624ff1004eeabc5840861f7098">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Correspondence</genreform>
-    <subject source="lcsh">Soldiers |x Family relationships |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Soldiers -- Family relationships -- New York (State) -- Kings County</subject>
     <subject source="lcsh">World War, 1939-1945</subject>
-    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <genreform source="aat">Greeting cards</genreform>
+    <genreform source="aat">Ephemera</genreform>
+    <genreform source="aat">Printed ephemera</genreform>
+    <genreform source="aat">Envelopes</genreform>
+    <geogname source="lcsh">United States -- Armed Forces -- World War, 1939-1945</geogname>
+    <subject source="lcsh">World War, 1939-1945 -- New York (State) -- Kings County</subject>
     <famname source="local">Viebrock family</famname>
   </controlaccess>
   <dsc/>
