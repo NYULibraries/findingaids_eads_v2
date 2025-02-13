@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">pm3_kubik_twa</eadid><filedesc><titlestmt><titleproper>Guide to the Shirley Kubik TWA Hostess Collection<lb/>1957-1958<lb/> <num>PM 3</num></titleproper><author>Marybeth Kavanagh</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>February 2025</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-02-13 13:20:40 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Shirley Kubik TWA Hostess collection</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Kubik, Shirley, 1934-2023</persname>
+    </origination>
+    <unitid>PM 3</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1102</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+      <extent altrender="carrier">in 1 document box, 2 flat boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1957-1958</unitdate>
+    <abstract id="aspace_4f9c3d01b9da383ee8cd36fa90a0185f">This collection consists of material related to Shirley Kubik (1934-2023) and her career as a hostess with Trans World Airlines (TWA) from 1957-1958. Included are photographs, training manuals, performance reviews, flight diaries and notebooks, dining menus, and two TWA hostess hats.</abstract>
+    <physloc id="aspace_075cf6987372cb4d79536ee021541ac5">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_70a7df56fa24bffd594b09f31d6ceeb7">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_b2c297cf6cabcf524e60cd2ae141560b">
+    <head>Arrangement</head>
+<p>Collection is arranged by format.</p>  </arrangement>
+  <bioghist id="aspace_55cd1a2afb3f4c33a410047643d060bb">
+    <head>Biographical / Historical</head>
+<p>Shirley Kubik was born in Cicero, Illinois on September 21, 1934 to Edward and Edna (Stepka) Kubik. After graduating from high school, Kubik competed in local beauty contests, winning several. In 1957, Kubik was hired as an air hostess with Trans World Airlines (TWA). She resigned from TWA in 1958 to marry Charles Ettner. Kubik died on March 18, 2023.</p>  </bioghist>
+  <accessrestrict id="aspace_5addd219c352f2e984d619234cc69c15">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_8e193428d48336ea65be1393ba7682c8">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_0bd2c705fa76aab01bad97360660b54f">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Susan Mennenga, 2023.</p>  </acqinfo>
+  <prefercite id="aspace_072f57e44a0d601ccde0f1c0ad302770">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Shirley Kubik TWA Hostess collection, PM 3, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_85f7e6902d157a857974e86a37e72f9a">
+    <head>Processing Information</head>
+<p>Arranged and described by Marybeth Kavanagh, Processing Archivist, February 2025.</p>  </processinfo>
+  <scopecontent id="aspace_800a0844a43c24974fe8a6965f0fb4a8">
+    <head>Scope and Contents</head>
+<p>
+This collection consists of material related to Shirley Kubik (1934-2023) and her career as a hostess with Trans World Airlines (TWA) from 1957-1958.The material was gathered by Kubik in the course of her employment.</p><p>Personal papers includes correspondence, recruiting and training material, performance reviews and memoranda relaying positive comments from passengers, and flight records. These records, found here in both bound and loose formats, include date, flight and airplane numbers, crew names, destination and origin locations, arrival and departure times, and other notes about the flights on which Kubik worked. </p><p>Also contained in the collection is Kubik's TWA luggage tag and parking pass, and two of her TWA hostess uniform hats. There is some additional TWA ephemera, as well as some menus from restaurants and nightclubs Kubik visited during her career. </p><p>Other material includes twenty-five (25) black-and-white,  and six (6) color photographs; and newspaper clippings provide some context for Kubik's experience as an air hostess in the 1950s.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Air travel</subject>
+    <subject source="lcsh">Airlines</subject>
+    <subject source="lcsh">Flight attendants</subject>
+    <subject source="lcsh">Occupational training for women--United States.</subject>
+    <subject source="lcsh">Women -- Employment -- United States -- History.</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Logbooks.</genreform>
+    <genreform source="aat">Personal papers.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Printed ephemera.</genreform>
+    <genreform source="aat">Training manuals.</genreform>
+    <corpname rules="rda" source="naf">Trans World Airlines</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_3bb4b490816d22eb8f5e33366b16686e" level="file"><did><unittitle>Personal papers</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314729</unitid><unitdate datechar="creation" type="inclusive">1957</unitdate><container id="aspace_d5b80bca980d94e39c92275f0c9f114c" label="Mixed Materials" type="Box">1</container><container id="aspace_2d52d48a715650cbafdbc93fe098a16c" parent="aspace_d5b80bca980d94e39c92275f0c9f114c" type="Folder">1</container></did></c><c id="aspace_9e609d1afc25d92d1c327daf228b1326" level="file"><did><unittitle>Personal papers</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314730</unitid><unitdate datechar="creation" type="inclusive">1958</unitdate><container id="aspace_adb48751cd7e8eead1cd1ae7c917912b" label="Mixed Materials" type="Box">1</container><container id="aspace_47aee8d470c98f63526d92285d287d89" parent="aspace_adb48751cd7e8eead1cd1ae7c917912b" type="Folder">2</container></did></c><c id="aspace_3820234eb335da28387143cd1b4a3d10" level="file"><did><unittitle>Flight Diary</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314736</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_cab7e5155d15582c92dd3c6ca18629a8" label="Mixed Materials" type="Box">2</container><container id="aspace_c7f210c4686b4626f5dc300b3ec34286" parent="aspace_cab7e5155d15582c92dd3c6ca18629a8" type="Folder">1</container></did></c><c id="aspace_53ab6de4c5c12606aca8486d23d8966a" level="file"><did><unittitle>Logbook</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314735</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_dd211d179f8692681c01c0db38fdf39d" label="Mixed Materials" type="Box">2</container><container id="aspace_251a2ac9e4a17e11942465a3c758aca5" parent="aspace_dd211d179f8692681c01c0db38fdf39d" type="Folder">2</container></did></c><c id="aspace_7762a08a52faf78efe1397540364f127" level="file"><did><unittitle>Photographs, black-and-white</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314727</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_29bb405ea3949fe5bd0f583812f9cf1c" label="Mixed Materials" type="Box">1</container><container id="aspace_41001cd398cb2f9b0e1b85a970d8c545" parent="aspace_29bb405ea3949fe5bd0f583812f9cf1c" type="Folder">3</container></did></c><c id="aspace_d06642b1679e696c383583c08690a11a" level="file"><did><unittitle>Photographs, color</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314731</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_339583a9909f6219bf5e40c3f727f94f" label="Mixed Materials" type="Box">1</container><container id="aspace_1e12a8edfe9a5e9f191b068c55f9a8f5" parent="aspace_339583a9909f6219bf5e40c3f727f94f" type="Folder">4</container></did></c><c id="aspace_135ecd9bfe001a6a840963ca0c4fe5f9" level="file"><did><unittitle>Periodical clippings</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314737</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_65e4499b4390cdbfbf6bd2673f124841" label="Mixed Materials" type="Box">2</container><container id="aspace_c4242a52d9eddd540621f2584884fa5f" parent="aspace_65e4499b4390cdbfbf6bd2673f124841" type="Folder">3</container></did></c><c id="aspace_e2be1526c94a5feaccf100d75e444263" level="file"><did><unittitle>TWA ephemera</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314732</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_b8c5362ace1dffe0c87368b1f9132af1" label="Mixed Materials" type="Box">1</container><container id="aspace_cf831a612ca18c56a4ef51b81a2b0b6e" parent="aspace_b8c5362ace1dffe0c87368b1f9132af1" type="Folder">5</container></did></c><c id="aspace_6db22eab224f13e92a85bebc02492544" level="file"><did><unittitle>TWA parking permit and luggage tag</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314734</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_a5d9172c3813a0de2ba69be733098b8f" label="Mixed Materials" type="Box">1</container><container id="aspace_a09ef86173b0d88b1761aa7bbe405df4" parent="aspace_a5d9172c3813a0de2ba69be733098b8f" type="Folder">7</container></did></c><c id="aspace_d6153344816b888f408c2fae5c5bc209" level="file"><did><unittitle>TWA uniform caps</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314738</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_c1421c5f7afe325a7adb275e6012cfb5" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_597e735838116d894db905a8a699e8ab" level="file"><did><unittitle>Other ephemera</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314733</unitid><unitdate datechar="creation" type="inclusive">1957-1958</unitdate><container id="aspace_1e0ae0b37d45fb2b17da7698f683a1e9" label="Mixed Materials" type="Box">1</container><container id="aspace_d601f7a79f4df6aabced2ff44e0d6882" parent="aspace_1e0ae0b37d45fb2b17da7698f683a1e9" type="Folder">6</container></did><scopecontent id="aspace_39a4d5b37bbaace0512540477df80644"><head>Scope and Contents</head><p>Menus and other printed material from restaurants and nightclubs, some with personal notes written on them.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
