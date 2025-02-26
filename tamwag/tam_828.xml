@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_828">tam_828</eadid><filedesc><titlestmt><titleproper>Guide to the Joan Greenbaum, Julie Millstein, and Paul Millstein Collection on Computer People for Peace <num>TAM.828</num></titleproper><author>Shannon O'Neill and Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>November 2023</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-21 14:30:39 -0500</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Joan Greenbaum, Julie Millstein, and Paul Millstein Collection on Computer People for Peace</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Greenbaum, Joan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Millstein, Julie</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Millstein, Paul</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Greenbaum, Joan</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Millstein, Julie</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Millstein, Paul</persname>
+    </origination>
+    <unitid>TAM.828</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/3479</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.5 linear feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1968/1978" type="inclusive">1968-1978</unitdate>
+    <abstract id="aspace_739e5244c7eae5055f2585c101a92167">Computer People for Peace (CPP) was formed in 1968 and was active through 1974. It organized technology workers in the anti-war movement. In the course of their activities, the CPP posted bail for Sundiata Acoli (one of the Panther 21), and addressed Congress in 1972 about the right to privacy, the dangers of misused technology, and the potential harms misused computer technology can cause to society. The group authored an Electronic Bill of Rights, and published a newsletter called <emph render="italic">Interrupt</emph>. CPP was also amongst the groups in 1971 who formed a lawsuit against the NYPD's surveillance of private citizens.Joan Greenbaum is a Professor Emerita at the CUNY Graduate Center, an author, activist, computer programmer and technologist, and political economist. She is a member of the executive board of the Professional Staff Congress (PSC), a cooperative member of Three Arrows, and was a research fellow at NYU's AI Now. In the 1960s and 1970s, Greenbaum was founder of and activist with Computer People for Peace. Julie Millstein served as the CPP Corresponding Secretary and Paul Millstein served in leadership capacities for the organization. The Joan Greenbaum, Julie Millstein, and Paul Millstein Collection on Computer People for Peace (dated 1968-1978) consists of materials documenting the philosophies and activities of Computer People for Peace (CPP). Materials include correspondence, photographs, ephemera, a complete set of the group's newsletter <emph render="italic">Interrupt</emph>, and issues of <emph render="italic">Datamation</emph> that feature CPP. The collection documents CPP's organizing efforts against American involvement in the Vietnam War, as well as broader campaigns about intersections of technology, privacy, surveillance, corporate racism, and unemployment as a result of automation. The collection also documents mid- and late-20th century efforts to create a responsible and equitable technology industry.</abstract>
+    <physloc id="aspace_165e53102cb1031b2e7ab7dd95575c1f">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_8cc136e00404db95affdc1f9cab243a1">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_9fca96b0a2648e7875255d4773d765d3">
+    <head>Scope and Contents</head>
+<p>The Joan Greenbaum, Julie Millstein, and Paul Millstein Collection on Computer People for Peace (dated 1968-1978) consists of materials documenting the philosophies and activities of Computer People for Peace (CPP). Materials include correspondence, photographs, ephemera, a complete set of the group's newsletter <emph render="italic">Interrupt</emph>, and issues of <emph render="italic">Datamation</emph> that feature CPP. The collection documents CPP's organizing efforts against American involvement in the Vietnam War, as well as broader campaigns about intersections of technology, privacy, surveillance, corporate racism, and unemployment as a result of automation. The collection also documents mid- and late-20th century efforts to create a responsible and equitable technology industry.</p>  </scopecontent>
+  <arrangement id="aspace_6ebe110836b31d85e6f0a6b6d9fb923f">
+    <head>Arrangement</head>
+<p>Materials are in alphabetic order.</p>  </arrangement>
+  <accessrestrict id="aspace_5c1087e5e06bd7f02e610a69d0aba83c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_8aada7ba31c73bc428bc0928afc5d291">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_231d788d3ce23808d73bdb1a13b8c78c">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Joan Greenbaum and Julie and Paul Millstein in August 2023; the accession number associated with this gift is 2023.103.</p>  </acqinfo>
+  <custodhist id="aspace_921104ddff7e70bffe2073e1676974dc">
+    <head>Custodial History</head>
+<p>This collection is jointly created and donated by Joan Greenbaum and Julie and Paul Millstein. Materials collected and donated by Joan Greenbaum include several issues of Interrupt, fliers, and documentation of CPP's support for the Panther 21. Materials collection and donated by Julie and Paul Millstein include a bound volume of the complete set of Interrupt, issues of Datamation that feature CPP, correspondence and photographs.</p>  </custodhist>
+  <prefercite id="aspace_25a491b93f56ed30a37ad1e6be38c1e7">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Guide to the Joan Greenbaum, Julie Millstein, and Paul Millstein Collection on Computer People for Peace; TAM 828; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_3b784fe8ef578db10bd3e492bf2a7cb3">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival folders and boxes, described on the collection-level, and inventoried at the folder-level.</p>  </processinfo>
+  <bioghist id="aspace_179169a5d30e0dd824fad963ae71c484">
+    <head>Historical Note</head>
+<p>Computer People for Peace (CPP) was formed in 1968 and was active through 1974. It organized technology workers in the anti-war movement. In the course of their activities, the CPP posted bail for Sundiata Acoli (one of the Panther 21), and addressed Congress in 1972 about the right to privacy, the dangers of misused technology, and the potential harms misused computer technology can cause to society. The group authored an Electronic Bill of Rights, and published a newsletter called <emph render="italic">Interrupt</emph>. CPP was also amongst the groups in 1971 who formed a lawsuit against the NYPD's surveillance of private citizens.</p><p>
+Joan Greenbaum is a Professor Emerita at the CUNY Graduate Center, an author, activist, computer programmer and technologist, and political economist. She is a member of the executive board of the Professional Staff Congress (PSC), a cooperative member of Three Arrows, and was a research fellow at NYU's AI Now. In the 1960s and 1970s, Greenbaum was founder of and activist with Computer People for Peace. </p><p>Julie Millstein served as the CPP Corresponding Secretary and Paul Millstein served in leadership capacities for the organization.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Vietnam War, 1961-1975 -- Protest movements.</subject>
+    <subject source="lcsh">Vietnam War, 1961-1975.</subject>
+    <subject source="lcsh">Peace movements</subject>
+    <subject source="lcsh">Information technology -- Political aspects</subject>
+    <persname role="dnr" rules="dacs" source="local">Greenbaum, Joan</persname>
+    <persname role="dnr" rules="dacs" source="local">Millstein, Julie</persname>
+    <persname role="dnr" rules="dacs" source="local">Millstein, Paul</persname>
+    <corpname authfilenumber="(lccn)nr93000986" source="naf">Computer People for Peace</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_0461b60352e1781765a7d737fe51cd49" level="file"><did><unittitle>CIA Documents</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/987935</unitid><unitdate datechar="creation" normal="1969/1978" type="inclusive">1969-1978</unitdate><container altrender="Manuscript box - Letter" id="aspace_3d62aad3359ba8aa5506d60224800521" label="Mixed Materials [31142046521897]" type="Box">1</container><container id="aspace_de9448b9c99882b8bdd46d50c6abcf12" parent="aspace_3d62aad3359ba8aa5506d60224800521" type="Folder">1-2</container></did></c><c id="aspace_885d503e39b799ecfa9d236a38d1373c" level="file"><did><unittitle>Correspondence and Ephemera</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/987936</unitid><unitdate datechar="creation" normal="1969/1971" type="inclusive">1969-1971</unitdate><container altrender="Manuscript box - Letter" id="aspace_8cf49dc48b55187c53e478e02b95dfdc" label="Mixed Materials [31142046521897]" type="Box">1</container><container id="aspace_6682a2dbb4405824ed427f3bc5c71e41" parent="aspace_8cf49dc48b55187c53e478e02b95dfdc" type="Folder">3</container></did></c><c id="aspace_cfa51cc19df959b2328a477316d369fd" level="file"><did><unittitle><emph render="italic">Datamation</emph></unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/987937</unitid><unitdate datechar="creation" normal="1969/1969">1969</unitdate><container altrender="Manuscript box - Letter" id="aspace_e4f73f02ed0f0184ae93b151d55ed185" label="Mixed Materials [31142046521897]" type="Box">1</container><container id="aspace_b1ec77e8c823c99c8bb98d6accb2d630" parent="aspace_e4f73f02ed0f0184ae93b151d55ed185" type="Folder">4</container></did></c><c id="aspace_a64849c368b1682f26876520b47c87de" level="file"><did><unittitle><emph render="italic">Interrupt</emph></unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/987938</unitid><unitdate datechar="creation" normal="1968/1973" type="inclusive">1968-1973</unitdate><container altrender="Manuscript box - Letter" id="aspace_40ff6a833d880b02418c690b0474893f" label="Mixed Materials [31142046521897]" type="Box">1</container><container id="aspace_2f54ea20f0d2090aa25b1065597f5e04" parent="aspace_40ff6a833d880b02418c690b0474893f" type="Folder">5</container></did></c><c id="aspace_66db4a5cb53ce04202b55e123d64f99e" level="file"><did><unittitle>Panther 21 Support</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/987939</unitid><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container altrender="Manuscript box - Letter" id="aspace_4f430907666b3b992ce520155ff0dacd" label="Mixed Materials [31142046521897]" type="Box">1</container><container id="aspace_1c29bb046666bb41bcd620923785e96d" parent="aspace_4f430907666b3b992ce520155ff0dacd" type="Folder">6</container></did></c></dsc>
+</archdesc>
+</ead>
