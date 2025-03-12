@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0031">cbhm_0031</eadid><filedesc><titlestmt><titleproper>Guide to the Alpha Phi Alpha Fraternity, Gamma Iota Lambda chapter records <num>CBHM.0031</num></titleproper><author>Alice Griffin</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>March 2025</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt><notestmt><note><p>This finding aid only reflects donated digital photographs and will be updated when the rest of the collection is processed.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-03-12 20:42:39 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Alpha Phi Alpha Fraternity, Gamma Iota Lambda chapter records</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Dwyer, Jessy</persname>
+    </origination>
+    <origination label="source">
+      <persname authfilenumber="n 89607574" role="dnr" source="naf">McKenzie, Andre</persname>
+    </origination>
+    <unitid>CBHM.0031</unitid>
+    <unitid type="aspace_uri">/repositories/5/resources/2005</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.47 Gigabytes</extent>
+      <extent altrender="carrier">in 324 files.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1905/2010" type="inclusive">1905-2010</unitdate>
+    <abstract id="aspace_6325e1d7592ec853dc5d3ad77ed2f916">The Alpha Phi Alpha Fraternity, Gamma Iota Lambda chapter records consists of digital surrogates mostly of photographs but also includes event programs, tickets, brochures and obituaries from 1905-2010.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_a476308cdf41a80b3e792f419834c31d">
+    <head>Scope and Contents</head>
+<p>The Alpha Phi Alpha Fraternity, Gamma Iota Lambda chapter records consists of digital surrogates mostly of photographs but also includes event programs, tickets, brochures and obituaries. The photographs depict fraternity gatherings, awards ceremonies, anniversaries, and meetings on Long Island, in Brooklyn, and other locations. The photographs also depict the gatherings of the Alpha Wives of Brooklyn and Long Island, which raised funds for scholarships.</p><p>Some of the photographs were housed in an album with captions written under the items. In most cases these captions were written by member John R. Rice, Jr. Other photographs had inscriptions on the reverse, or had separate caption documents. All of this information has been added to the item record on CBH's digital collections.</p>  </scopecontent>
+  <bioghist id="aspace_39aa2b002cda2804d8194bf7ab35ecbe">
+    <head>Historical Note</head>
+<p>Alpha Phi Alpha Fraternity, Inc., the first intercollegiate Greek-letter fraternity established for African American men, was founded on December 4, 1906 at Cornell University in Ithaca, New York by seven college men who recognized the need for a strong bond of brotherhood among African descendants in the United States. The fraternity initially served as a study and support group for minority students who faced racial prejudice, both educationally and socially, at Cornell.</p><p>The founders, known to their brethren as the 'seven jewels,' along with early leaders of the fraternity, laid a firm foundation for Alpha Phi Alpha's principles of scholarship, fellowship, good character, and the uplifting of humanity. The organization has been interracial since 1945.</p><p>Alpha Phi Alpha chapters were established at other colleges and universities, many of them historically Black institutions, soon after the founding at Cornell. The first alumni chapter was established in 1911. The Gamma Iota Lambda Chapter was chartered in Brooklyn in 1945 with the aim of advancing the well-being of Black Brooklynites and established programs to promote education, health and justice in their neighborhoods. Among the membership are attorneys, civic leaders, architects, clergy, educators, physicians, and veterans. Prominent members include Dr. Hobart S. Jarrett (1915-2005), Alton Burton (1925-2018), and Myles A. Paige (1898-1983).</p>  </bioghist>
+  <accessrestrict id="aspace_8ae8f9f3ef470cac27b5b5000d9591ba">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ab9d6ca12e10d89caac02a4e37315c4d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Andre McKenzie, 2024.</p>  </acqinfo>
+  <arrangement id="aspace_be8b30ee987f83961bf99b7e693139e4">
+    <head>Arrangement</head>
+<p>The files have been assigned call numbers in numerical order in the order in which they were scanned from the donor's files. ALPH_0001 through ALPH_0184 are stored in a photo album and the rest of the materials are stored in two folders.</p>  </arrangement>
+  <originalsloc id="aspace_58e7ee5a2e1a4a4ceff3a10444eceaea">
+    <head>Existence and Location of Originals</head>
+<p>The originals have been retained by the donor.</p>  </originalsloc>
+  <phystech id="aspace_41c9dbcda4ab9b5ea4acae76b02a06e7">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This is a digital-only collection and is available on our digital collections portal under the call number prefix ALPH.</p>  </phystech>
+  <prefercite id="aspace_1a4b241df6b8d8884eed16200edbff2d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Alpha Phi Alpha Fraternity, Gamma Iota Lambda chapter records, CBHM.0031; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_a545d74b800cc71bffe848fb8cc4db20">
+    <head>Processing Information</head>
+<p>The digital files were created and cataloged by Special Collections Cataloger, Deborah Tint, and the finding aid was written by Archivist, Alice Griffin.</p><p>The physical materials in this collection, donated by Jessy Dwyer in 2024, have not yet been processed.</p>  </processinfo>
+  <userestrict id="aspace_69a1a10002d271003ed367b6847fac56">
+    <head>Conditions Governing Use</head>
+<p>Copyright retained by the owner. Please consult library staff for further details and assistance.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Clubs</subject>
+    <subject source="lcsh">African American fraternal organizations</subject>
+    <subject source="lcsh">Fraternal organizations -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">African Americans</subject>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="lcsh">Newsletters</genreform>
+    <genreform source="aat">Group portraits</genreform>
+    <genreform source="aat">Color prints (photographs)</genreform>
+    <genreform source="local">Letters</genreform>
+    <genreform source="aat">Admission tickets</genreform>
+    <genreform source="aat">Brochures</genreform>
+    <persname role="dnr" source="local">Dwyer, Jessy</persname>
+    <corpname source="naf">Alpha Phi Alpha Fraternity</corpname>
+    <corpname source="local">Alpha Phi Alpha Fraternity. Gamma Iota Lambda Chapter (Brooklyn, N.Y.)</corpname>
+    <persname authfilenumber="n 89607574" role="dnr" source="naf">McKenzie, Andre</persname>
+    <persname role="dpc">Sutton, Ozell, 1925-2015</persname>
+    <persname role="dpc">Broady, Tolly R. (Tolly Rupert), 1917-1986</persname>
+    <persname role="dpc">Ray, Sandy F.</persname>
+    <persname role="dpc">Paige, Myles, -1983</persname>
+    <persname role="dpc">Robeson, Paul, Jr., 1927-2014</persname>
+    <persname role="dpc">Tandy, Vertner W., 1885-1949</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
