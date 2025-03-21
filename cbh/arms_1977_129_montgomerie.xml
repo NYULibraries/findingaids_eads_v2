@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_129_montgomerie/">arms_1977_129_montgomerie</eadid><filedesc><titlestmt><titleproper>Guide to the John Montgomerie broadside <num>1977.129</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 31, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-20 17:41:30 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract and scope and contents notes.</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_129_montgomerie/">arms_1977_129_montgomerie</eadid><filedesc><titlestmt><titleproper>Guide to the John Montgomerie broadside <num>1977.129</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.
+
+Revised and expanded description of this collection was made possible thanks to the generosity of The Robert David Lion Gardiner Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 31, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-03-21 17:54:36 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract and scope and contents notes.</item></change><change><date>March 2025</date><item>Additional subject headings added by Dee Bowers.</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -9,16 +11,17 @@
       <persname rules="aacr" source="naf">Montgomerie, John</persname>
     </origination>
     <unitid>1977.129</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/302</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1720/1740" type="inclusive">circa 1730</unitdate>
-    <abstract id="aspace_8832e4f93d0a6e31e82e9cd314466d75">One broadside, dated circa 1730, issued by John Montgomerie (d. 1731), governor of the Provinces of New York and New Jersey.  The broadside announces the death of Richard Shaw, his wife, and three enslaved people as a result of a fire in Shaw's home in the Suffolk County town of East Hampton, and solicits assistance for Shaw's surviving family from the citizens of New York.</abstract>
+    <abstract id="aspace_8832e4f93d0a6e31e82e9cd314466d75">One broadside, dated circa 1730, issued by John Montgomerie (d. 1731), governor of the Provinces of New York and New Jersey. The broadside announces the death of Richard Shaw, his wife, and three enslaved people as a result of a fire in Shaw's home in the Suffolk County town of East Hampton, and solicits assistance for Shaw's surviving family from the citizens of New York.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_a46f6b730bc306d172253fa0fe756f0e" label="Text" type="Box">A0017</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_2a57ea44e30f94870075a9eee5bbf210" label="Text" type="Box">A0017</container>
   </did>
   <accessrestrict id="aspace_f4b3601e75e4743e08dda1fbd5a2f77a">
     <head>Conditions Governing Access</head>
@@ -29,24 +32,44 @@
   <bioghist id="aspace_b79026bebf557376cf566aff1847c849">
     <head>Biographical note</head>
 <p>John Montgomerie (d. 1731) was governor of the English Provinces of New York and New Jersey from 1728 to 1731.</p>  </bioghist>
+  <bioghist id="aspace_acb96080f340a2d2257951748041e442">
+    <head>Historical note</head>
+<p>East Hampton is part of Suffolk County. The European settlement of the Town of East Hampton in Long Island was undertaken in 1648 by a group of English Puritan families who had initially migrated from England to the colonies of Connecticut and Massachusetts. The settlers purchased the town land, comprising 31,000 acres and belonging to the Montaukett Tribe, from the Connecticut and Massachusetts governors. In 1664, East Hampton became part of the province of New York, later to become New York State.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Town of East Hampton. "Town of East Hampton History." Accessed April 18, 2011. http://www.town.east-hampton.ny.us/HtmlPages/TownofEastHamptonHistory.htm</item>
+    </list>
+  </bioghist>
   <prefercite id="aspace_406cbf57594f97b05767ec6fe8ba91c1">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); John Montgomerie broadside, 1977.129, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+<p>John Montgomerie broadside, circa 1730, 1977.129, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <processinfo id="aspace_5da52cc4c500a4abf09c45dea06008b9">
     <head>Processing Information</head>
 <p>Oppressive descriptive language was remediated from the abstract and scope and contents notes in this finding aid as part of an anti-racist descriptive language audit performed in December 2020.</p>  </processinfo>
   <scopecontent id="aspace_accb377d04172c192ad54e42df51bd10">
     <head>Scope and Contents</head>
-<p>One broadside, dated circa 1730, issued by John Montgomerie, governor of the Provinces of New York and New Jersey.  The broadside announces the death of Richard Shaw, his wife, and three enslaved people as a result of a fire in Shaw's home in the Suffolk County town of East Hampton, and solicits assistance for Shaw's surviving family from the citizens of New York.</p>  </scopecontent>
+<p>One broadside, dated circa 1730, issued by John Montgomerie, governor of the Provinces of New York and New Jersey. The broadside announces the death of Richard Shaw, his wife, and three enslaved people as a result of a fire in Shaw's home in the Suffolk County town of East Hampton, and solicits assistance for Shaw's surviving family from the citizens of New York.</p>  </scopecontent>
   <userestrict id="aspace_066d2a3497c392d407463b4f691b0529">
     <head>Conditions Governing Use</head>
 <p>This item is in the public domain.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Broadsides (notices)</genreform>
-    <subject source="lcsh">Fires |x Casualties |z New York (State) |z East Hampton</subject>
+    <subject source="lcsh">Fires -- Casualties -- New York (State) -- East Hampton</subject>
     <geogname source="lcsh">East Hampton (N.Y.)</geogname>
     <subject source="lcsh">Charity</subject>
     <subject source="lcsh">African Americans -- New York (State) -- East Hampton</subject>
+    <geogname source="lcsh">East Hampton (N.Y.) -- History</geogname>
+    <geogname source="lcsh">Suffolk County (N.Y.) -- History</geogname>
+    <geogname source="lcsh">Suffolk County (N.Y.)</geogname>
+    <subject source="lcsh">Families -- New York (State) -- Suffolk County</subject>
+    <subject source="lcsh">African Americans -- New York (State) -- Suffolk County</subject>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Long Island (N.Y.) -- History</geogname>
+    <subject source="lcsh">Slaveholders -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Slavery -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Families -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Disaster relief -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">African Americans -- New York (State) -- Long Island</subject>
+    <geogname source="lcsh">Long Island (N.Y.) -- History -- Colonial period, ca. 1600-1775</geogname>
   </controlaccess>
   <dsc/>
 </archdesc>
