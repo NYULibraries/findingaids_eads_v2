@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_221_doty/">arc_221_doty</eadid><filedesc><titlestmt><titleproper>Guide to the Robert Doty deeds <num>ARC.221</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 10, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:11:06 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_221_doty/">arc_221_doty</eadid><filedesc><titlestmt><titleproper>Guide to the Robert Doty deeds <num>ARC.221</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation. Revised and expanded description of this collection was made possible thanks to the generosity of The Robert David Lion Gardiner Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>June 10, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-03-27 15:36:12 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -15,36 +15,64 @@
       <persname source="local">Tappin, George</persname>
     </origination>
     <unitid>ARC.221</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1447</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
       <extent altrender="carrier">in two folders.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1803/1805" type="inclusive">1803-1805</unitdate>
-    <abstract id="aspace_74661fcd508b1bc11517bf7066c2f9f9">Three land deeds, dated 1803 and 1805, between Robert Doty, an African American of Jericho in the town of Oyster Bay, Queens County, and George and Jeremiah Tappin, also of Oyster Bay.</abstract>
+    <unitdate datechar="creation" normal="1803/1805" type="inclusive">1803, 1805</unitdate>
+    <abstract id="aspace_74661fcd508b1bc11517bf7066c2f9f9">Three land deeds, dated 1803 and 1805, between Robert Doty, an African American of Jericho in the town of Oyster Bay, Queens County (now Nassau County), and George and Jeremiah Tappin, also of Oyster Bay.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_3c669bcdf632ef8e3d6c75443e27d08d" label="Text" type="Box">A0051</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_100778a4c2495441e8bd3d8eb7c321cf" label="Mixed Materials" type="Box">A0057</container>
   </did>
-  <prefercite id="aspace_eac6003812611e94f5f0095fbb57b2eb">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Robert Doty deeds, ARC.221, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
   <accessrestrict id="aspace_89ae4da25438d05492918b4e6fe8a679">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
-  <processinfo id="aspace_daddf0c123f9d9e50a89a779ee27ee97">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p><p>The collection combines the accessions 1977.215 and 1977.505.</p>  </processinfo>
   <acqinfo id="aspace_8b4a7db9a17e3bf7b89b3decc926c98e">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition for accession 1977.215 are unknown.  Accession 1977.505 was the gift of John C. Gardiner, 1954.  The collection was formally accessioned in 1977.</p>  </acqinfo>
+  <arrangement id="aspace_0bda9cd6fa21138172c4f60d180b0b5f">
+    <head>Arrangement</head>
+<p>This small collection is housed in two folders by accession number.</p>  </arrangement>
+  <otherfindaid id="aspace_a30153c137199b88b39bc4ec582c6625">
+    <head>Other Finding Aids</head>
+<p>A transcription of these documents is in the collection's digital accession file and available to researchers upon request. The transcription was created by Cecilia Wright, made possible thanks to the generosity of The Robert David Lion Gardiner Foundation.</p>  </otherfindaid>
+  <prefercite id="aspace_eac6003812611e94f5f0095fbb57b2eb">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Robert Doty deeds, ARC.221, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_daddf0c123f9d9e50a89a779ee27ee97">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. The collection combines the accessions 1977.215 and 1977.505.</p><p>This finding aid was revised by Dee Bowers in 2025. Portions of the revised description were written by Cecilia Wright as part of a project to assess and improve access to archival collections in CBH's holdings that relate to Long Island, made possible thanks to the generosity of The Robert David Lion Gardiner Foundation.</p>  </processinfo>
+  <scopecontent id="aspace_1d89152390def90b47d76647655f0347">
+    <head>Scope and Contents</head>
+<p>Accession 1977.505 consists of a May 1803 land deed marking the $275 sale of a property between Robert Doty of Jericho, Long Island and Jeremiah Tappin, of Cedar Swamp, Long Island, contingent upon Doty being unable to raise $275 by May of 1804 and defaulting. In this document Doty is noted to be an African American, and had previously purchased the land from George Tappin (this last name is spelled variously as "Tappen," "Tappan," and "Tappin" throughout these documents).</p><p>Accession 1977.215 contains a document labeled "Robert Doty Deed" on one side, with the words "Help, oh help thou God of Christian/Save a mother from despare [sic]/Cruel whitemen steal" written on the other. This work is titled "The destressed [sic] Mother." The accession also contains two indentured deeds in which George Tappen and Elizabeth Tappen, husband and wife, sell their property to Doty. One is dated February 1, 1803, in which Doty purchases the Tappens' lot of land and tenement for $525, the back of this document contains a written statement from the judge Jordan Seaman confirming that this was done willingly with no coercion. In the second deed, one which occurred on May 14, 1805, Robert Doty buys another parcel of land from George and Elizabeth Tappen for 42 pounds.</p>  </scopecontent>
+  <userestrict id="aspace_4b3c00e17d663a7875bd11462764567d">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Oyster Bay (N.Y.)</geogname>
-    <subject source="lcsh">Land titles |z New York (State) |z Oyster Bay</subject>
-    <subject source="lcsh">Real property |z New York (State) |z Oyster Bay</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- Oyster Bay</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Oyster Bay</subject>
     <subject source="lcsh">African Americans -- New York (State) -- Oyster Bay</subject>
     <geogname source="lcsh">Queens County (N.Y.)</geogname>
     <subject source="aat">Deeds</subject>
+    <geogname source="lcsh">Nassau County (N.Y.)</geogname>
+    <subject source="lcsh">Real property -- New York (State) -- Nassau County</subject>
+    <subject source="lcsh">Acquisition of property -- New York (State) -- Nassau County</subject>
+    <geogname source="lcsh">Jericho (Nassau County, N.Y.)</geogname>
+    <subject source="lcsh">African Americans</subject>
+    <subject source="lcsh">African diaspora</subject>
+    <subject source="lcsh">African Americans -- United States</subject>
+    <subject source="lcsh">African Americans -- New York (State) -- Queens County</subject>
+    <subject source="lcsh">African Americans -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">African Americans -- New York (State) -- Long Island -- Population</subject>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Long Island (N.Y.) -- History</geogname>
+    <subject source="lcsh">Landowners -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- Long Island</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Long Island</subject>
     <persname source="local">Doty, Robert</persname>
     <persname source="local">Tappin, George</persname>
     <persname source="local">Tappin, Jeremiah</persname>
