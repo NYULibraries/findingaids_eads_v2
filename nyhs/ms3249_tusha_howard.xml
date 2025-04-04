@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/ms3249_tusha_howard/">ms3249_tusha_howard</eadid><filedesc><titlestmt><titleproper>Guide to the Tusha Howard letters<lb/>1963<lb/> <num>MS 3249</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>April 2025</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-04-04 10:20:39 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Tusha Howard letters</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Howard, Tusha</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Howard, Tom</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Wulf, Deirdre, 1938-</persname>
+    </origination>
+    <unitid>MS 3249</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1106</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.21 Linear feet</extent>
+      <extent altrender="carrier">in one flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1963</unitdate>
+    <abstract id="aspace_6bb7327acbbbb4773ac38f832dae1e57">This collection documents British citizen Tusha Howard's 1963 visit to New York City to await the birth of her first grandchild. Her 19 letters home, written to her husband and children, describe her impressions of New York and her excursions in the city and beyond. Also included are two letters from her daughter, Deirdre Wulf, and one letter from her husband, Tom Howard. Her husband's photographs of New York City are included (57 Kodachrome slides). Tusha Howard's letters and Tom Howard's photographs have been published as a book: <title render="italic">America Proper: A First Visit to New York City, 1963</title> (edited and published by Laura Wulf, 2022).</abstract>
+    <physloc id="aspace_354bd58448265f5fe75b295b30be8f45">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_ae5dbfedabdb360cadec887d301d9e35">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_a01f65e638bb72a2888c4ddc6c6fb3ff">
+    <head>Arrangement</head>
+<p>Materials in the collection are organized by format and chronologically.</p>  </arrangement>
+  <bioghist id="aspace_c3438eb6e9d99234e176ceb9c827cc45">
+    <head>Biographical / Historical</head>
+<p>Gertrude "Tusha" Howard was born in South Wales, U.K. in 1911. She met Tom Howard in London in 1927, married him, and had four children: Nicholas (Nicky), Charles, Deirdre (Dee), and John.</p><p>Her daughter Deirdre married Melvin Wulf, an American civil liberties lawyer, and settled in New York. The letters in this collection document Tusha Howard's visit to New York in 1963 for the birth of Deirdre's daughter, Laura Wulf (Tusha and Tom's first grandchild).</p>  </bioghist>
+  <accessrestrict id="aspace_81457f2e919c2a1e61af6eab47f3b810">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_c2e0c50dc7008673db37caedd8d15a57">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_13e84f7c0ccce0ae5806d54484f3c8c2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Laura M. Wulf, 2024.</p>  </acqinfo>
+  <prefercite id="aspace_da5b16d02bd5024c0f0fc448423b5e51">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Tusha Howard letters, MS 3249, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_f881545db768db641763220c14b7c6fe">
+    <head>Processing Information</head>
+<p>Letters were transferred to archival folders and slides were transferred to archival sleeves.</p>  </processinfo>
+  <scopecontent id="aspace_2c2a31c9beff7f50a44a13e4739e26de">
+    <head>Scope and Contents</head>
+<p>In 1963, Tusha Howard's daughter Deirdre Wulf was expecting Tusha's first grandchild. Deirdre lived in New York City, so Tusha and a friend travelled from England to New York and spent nine months living and working in the city. Her letters home -- written to her husband Tom, her son Charles and his wife Vita, and her sons Nicky and John -- describe her transatlantic voyage on the S.S. United States, her impressions of New York City, her apartment on Carmine Street in Greenwich Village, her efforts to find a suitable job in New York, her daily activities, and her travels to other places on the East Coast, including Washington, D.C. and Cape Cod. She also comments on the push to end segregation in the United States and President John F. Kennedy's assassination.</p><p>Also included in the collection are 57 photographs (Kodachrome slides) taken by Tom Howard during his visit to New York in 1963 (Tom joined Tusha in New York in October 1963 after their granddaughter Laura was born). He photographed famous landmarks, including the New York downtown skyline, the Empire State Building, and the original Pennsylvania Station, as well as street scenes and the buildings where Tusha and Deirdre lived. The slides also include family photos, and there are two 8"x10" prints of a photograph of members of the Howard extended family.</p><p>Finally, the collection includes two typescript drafts of a biographical sketch of Tusha Howard written by her daughter Deirdre for inclusion in <title render="italic">America Proper: A First Visit of New York City, 1963</title>.</p>  </scopecontent>
+  <relatedmaterial id="aspace_3f8e3d98465e8d4ebd85d11845485f78">
+    <head>Related Materials</head>
+<p>Many of the letters and photographs in this collection were printed in <extref xlink:actuate="onRequest" xlink:href="https://nyhistory.primo.exlibrisgroup.com/permalink/01NYU_NYHS/186u31g/alma990087556520107873">America Proper: A First Visit to New York City, 1963</extref> by Tusha Howard and Tom Howard (published by Laura Wulf, 2022).</p>  </relatedmaterial>
+  <controlaccess>
+    <geogname source="lcsh">Manhattan (New York, N.Y.) -- Description and travel.</geogname>
+    <geogname source="lcsh">New York (N.Y.) -- Description and travel.</geogname>
+    <geogname source="lcsh">New York (State)  -- Description and travel.</geogname>
+    <geogname source="lcsh">Manhattan (New York, N.Y.) --  Photographs.</geogname>
+    <subject source="lcsh">African Americans  -- Civil rights.</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Slides (photographs)</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Color photographs.</genreform>
+    <persname rules="dacs" source="naf">Kennedy, John F. (John Fitzgerald), 1917-1963</persname>
+    <persname authfilenumber="(lccn)no2020136394" rules="rda" source="naf">Wulf, Melvin L., 1927-2023</persname>
+  </controlaccess>
+  <dsc><c id="aspace_744d2f3f370103c7526e73a0d8ad9e7b" level="file"><did><unittitle>Tusha Howard letters to her family</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314857</unitid><unitdate datechar="creation" type="inclusive">1963 March 21-1963 July 19</unitdate><container id="aspace_a8af7327260525cc08cd04c411c84cc8" label="Text" type="Box">1</container><container id="aspace_c1600bd5edc438bac8503ab73a8677e8" parent="aspace_a8af7327260525cc08cd04c411c84cc8" type="Folder">1</container></did><scopecontent id="aspace_3b6b7de77ccd3464f97c27fc7f3bd26f"><head>Scope and Contents</head><p>Letters are from Tusha Howard unless otherwise noted<lb/>
+Deirdre Wulf letter to Charles and Vita, Wednesday, March 21, [1963]<lb/>
+Letter to Nicky and John, Saturday, April 13, [1963]<lb/>
+Letter to Tom and boys, Saturday, [April] 20, [1963]<lb/>
+Letter to Tom and boys, Saturday, May 5, [1963]<lb/>
+Letter to Vita and Charles, May 10, 1963<lb/>
+Letter to Tom, Wednesday, [May 15, 1963]<lb/>
+Letter to Tom, Sunday, May 26, [1963] (with a photocopy of the letter)<lb/>
+Letter to Tom and the rest of the family, Friday, May 31, [1963] (with a partial photocopy of the letter)<lb/>
+Letter to Tom, Sunday, June 16, [1963]<lb/>
+Letter to Tom, June 22, [1963]<lb/>
+Letter to Vita, July 10, [1963]<lb/>
+Letter to Charles and Vita, July 18, [1963]<lb/>
+Letter to Nicky and John, July 19, [1963]</p></scopecontent></c><c id="aspace_6995660144777662ca89aa3b30976967" level="file"><did><unittitle>Tusha Howard letters to her family</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314860</unitid><unitdate datechar="creation" type="inclusive">1963 August 20-1963 December 26</unitdate><container id="aspace_f4b2684b04724e55b711c6d2d42dcd6f" label="Text" type="Box">1</container><container id="aspace_3173e7c99dc617c6861ada6d199828c7" parent="aspace_f4b2684b04724e55b711c6d2d42dcd6f" type="Folder">2</container></did><scopecontent id="aspace_3d98b2ad4967046850cf78f6a7929ed9"><head>Scope and Contents</head><p>Letters are from Tusha Howard unless otherwise noted<lb/>
+Deirdre Wulf letter to Tom, August 20, 1963<lb/>
+Letter to Tom, August 22, 1963<lb/>
+Letter to Tom, [August 29, 1963]<lb/>
+Tom Howard letter to Charles and Vita, Thursday, [October 10?, 1963] (postmarked October 13, 1963)<lb/>
+Letter to Charles and Vita, October 28, 1963<lb/>
+Letter to Nicky and John, Tuesday, [November 12, 1963]<lb/>
+Letter to John, [November 26, 1963]<lb/>
+Letter to Vita and Charlie, Wednesday, December 11, [1963]<lb/>
+Letter to Vita, Tuesday, [December 17, 1963]<lb/>
+Letter to Charles and Vita, Thursday, December 26, [1963]<lb/></p></scopecontent></c><c id="aspace_816d395a8db34e45d911c3ac82dc92c4" level="file"><did><unittitle>57 Kodachrome slides of New York City</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314861</unitid><origination label="Creator"><persname rules="rda" source="local">Howard, Tom</persname></origination><unitdate datechar="creation" type="inclusive">1963</unitdate><container id="aspace_0a81d9e31a5a7484d94efd757e9a4916" label="Graphic Materials" type="Box">1</container><container id="aspace_3d8d9e8e8abee54639f40441c50e5f01" parent="aspace_0a81d9e31a5a7484d94efd757e9a4916" type="Folder">3</container></did><scopecontent id="aspace_2bf772979a4ff05332253be9f6bded53"><head>Scope and Contents</head><p>Sleeve 1<lb/>
+Corner of East 23rd Street and Third Avenue from roof of 220 East 23rd Street<lb/>
+Corner of East 23rd Street and Third Avenue from roof of 220 East 23rd Street<lb/>
+Skyscrapers on Wall Street and Manhattan Island<lb/>
+Typical New York street (between Bedford and Bleecker Streets)<lb/>
+Women's prison Sixth Avenue and 9th Street<lb/>
+Women's prison Sixth Avenue and 9th Street<lb/>
+West 13th Street between Sixth and Seventh Avenues, looking west<lb/>
+West 30th Street and Sixth Avenue<lb/>
+West 16th Street between Seventh and Eighth Avenues, looking west<lb/>
+33rd Street and Seventh Avenue<lb/>
+33rd Street and Seventh Avenue<lb/>
+Pennsylvania Station on Eighth Avenue<lb/></p><p>Sleeve 2<lb/>
+East 32nd Street and Lexington Avenue<lb/>
+231 West 13th Street<lb/>
+Times Square, Broadway to left<lb/>
+Times Square by Broadway<lb/>
+[Empire State Building]<lb/>
+Jones Street and Bleecker Street, looking north<lb/>
+West 22nd Street and Eighth Avenue, looking northeast<lb/>
+West 24th Street and Fifth Avenue<lb/>
+[Subway car interior]<lb/>
+[Boat in harbor, New York]<lb/>
+West 50th Street and Broadway<lb/>
+Fifth Avenue at Madison Square<lb/></p><p>Sleeve 3<lb/>
+Lower Manhattan skyline<lb/>
+Lower Manhattan skyline<lb/>
+Sheridan Square, Greenwich Village<lb/>
+West 41st Street between Seventh and Eighth Avenues, looking east<lb/>
+East 40th Street between Third Avenue and Lexington Avenue, looking northwest<lb/>
+East 32nd Street and Third Avenue, looking west<lb/>
+8 New Street off Wall Street<lb/>
+West 16th Street and Sixth Avenue, southwest corner<lb/>
+West 16th Street and Sixth Avenue, northwest corner<lb/>
+121-125 Watts Street<lb/>
+East 32nd Street and Third Avenue<lb/>
+Evening from top of the Empire State Building<lb/></p><p>Sleeve 4<lb/>
+West 26th Street and Ninth Avenue<lb/>
+West Side piers<lb/>
+Atlantic Crossing, S.S. United States<lb/>
+Atlantic Crossing, S.S. United States<lb/>
+Tusha on S.S. United States<lb/>
+Judy Greene and Dee, 231 West 13th Street<lb/>
+Mel and Dee, Troy, NY<lb/>
+Judy Honigsbaum and Mel, Troy, NY<lb/>
+26 24th Street, Troy, NY<lb/>
+Laura, 231 West 13th Street<lb/>
+Howard family, 1969<lb/>
+Jack Wulf, Vivian, Tusha, and Cadillac, Oct. 1963<lb/></p><p>Sleeve 5<lb/>
+Deirdre and Laura<lb/>
+Vita in London<lb/>
+Joan and Peter Novick and Phil Greene, 231 West 13th Street<lb/>
+Mel and Dee, 231 West 13th Street<lb/>
+Christmas dinner, Joan and Peter Novick, Phil and Judy Greene, and Dee, 231 West 13th Street<lb/>
+Tusha Bravo Howard<lb/>
+Thomas Hulley Howard<lb/>
+Dee and Grace Paley, Washington Square Park<lb/>
+View from 40 Chapel Street dining room</p></scopecontent></c><c id="aspace_2695bae10579f8dfd5edff8bea06ee27" level="file"><did><unittitle>2 8"x10" photographs of members of the Howard family</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314862</unitid><unitdate datechar="creation" type="inclusive">1960s</unitdate><container id="aspace_4e875d96f34a8f3ef5a097abd0eddeea" label="Graphic Materials" type="Box">1</container><container id="aspace_8dd140f24c8521e2fae4204da56cf951" parent="aspace_4e875d96f34a8f3ef5a097abd0eddeea" type="Folder">4</container></did><scopecontent id="aspace_2a7bf0d5f5e41771219aa7a52119e982"><head>Scope and Contents</head><p>A black-and-white print and a color print of the same family photo.</p></scopecontent></c><c id="aspace_dc1f8880f578667e63bb3d2e0709a98c" level="file"><did><unittitle>Biographical sketch of Gertrude "Tusha" Bravo Howard by her daughter, Deirdre Wulf</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314863</unitid><origination label="Creator"><persname rules="rda" source="local">Wulf, Deirdre, 1938-</persname></origination><unitdate datechar="creation" type="inclusive">2022 or earlier</unitdate><container id="aspace_fbdb3af7c925c55cad5db73a05ae6cf9" label="Text" type="Box">1</container><container id="aspace_a5cc3598df8d7b6f6f275137d1d45303" parent="aspace_fbdb3af7c925c55cad5db73a05ae6cf9" type="Folder">5</container></did><scopecontent id="aspace_bcdec83dbbd0cf2f4efc71b181d54750"><head>Scope and Contents</head><p>Two drafts of a biographical sketch of Tusha Howard, written by her daughter, Deirdre Wulf.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
