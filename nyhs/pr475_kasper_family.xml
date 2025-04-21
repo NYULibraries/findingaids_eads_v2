@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/pr475_kasper_family/">pr475_kasper_family</eadid><filedesc><titlestmt><titleproper>Guide to the Kasper family photographs and ephemera<lb/>1948-1951<lb/> <num>PR 475</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>April 2025</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-04-21 13:17:09 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Kasper family photographs and ephemera</unittitle>
+    <origination label="Creator">
+      <famname rules="rda" source="local">Kasper (Family)</famname>
+    </origination>
+    <unitid>PR 475</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1108</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.21 Linear feet</extent>
+      <extent altrender="carrier">in one flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1948-1951</unitdate>
+    <abstract id="aspace_6418190c84584caa5d122ce838e3aadc">A collection of photographs and printed ephemera that focuses on Carol and Marvin Kasper, two children living in Stuyvesant Town in the late 1940s and early 1950s. The collection covers their leisure activities (Stuyvesant Town Spring Festival, costume parade and contest, playground, Carol's participation in dance classes) and their school life at Public School 50 on East 20th Street.</abstract>
+    <physloc id="aspace_24e3ea25d4ebd4f2b17e6c15c5c5d1c2">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_4bfc1e1adf983a2f3296e476eb6a6494">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_a209ff5e9bb5445e552be7069f7c30cb">
+    <head>Arrangement</head>
+<p>The collection is organized by subject matter.</p>  </arrangement>
+  <bioghist id="aspace_a47d533114b1ac1610599f421fba0fdd">
+    <head>Biographical / Historical</head>
+<p>Stuyvesant Town is a large residential development on the East Side of Manhattan between 14th Street and 20th Street and First Avenue and Avenue C. Construction on the complex started in 1942, but the first building did not open until 1947.<lb/></p><p>Irving and Anne Kasper and their children, Marvin and Carol, moved from Brooklyn to Stuyvesant Town in the late 1940s. The photographs in this collection were taken not long after the opening of Stuyvesant Town. Carol Hannan (née Kasper) compiled this collection.</p>  </bioghist>
+  <accessrestrict id="aspace_aac7531f0f234bc1140eccc959cf23e9">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_7b952cbacfb66503a3c5d2a88ffd6b8e">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New York Historical, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_11f96044752445c6c082ca01a761fe9a">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Freddie Hannan (née Carol Kasper), 2024.</p>  </acqinfo>
+  <prefercite id="aspace_8d61dcab300676d09a34c9bbdafa8d46">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Kasper family photographs and ephemera, PR 475, Department of Prints, Photographs, and Architectural Collections, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_baed43225568e2377d3c659ce879bc35">
+    <head>Processing Information</head>
+<p>Photographs and ephemera were rehoused in archival sleeves and folders.</p>  </processinfo>
+  <scopecontent id="aspace_97218e370bbc422ae389ed9056536c6c">
+    <head>Scope and Contents</head>
+<p>This collection consists of candid photographs and assorted ephemera that document the life of the Kasper children, Carol and Marvin, in the early days of Stuyvesant Town. Activities covered included the 1949 Stuyvesant Town Spring Festival, a Stuyvesant Town costume parade and contest in 1950, free time on the playground, and street shots in front of a nearby shoe store. The collection also includes photographs and ephemera from the children's local school, P.S. 50 on East 20th Street, and Carol Kasper's dance school, Town and Village School of the Dance on First Avenue. Finally, the collection includes a photograph of Marvin Kasper that was used in an underwear advertisment in <emph render="italic">The New York Daily News</emph>.</p>  </scopecontent>
+  <relatedmaterial id="aspace_581f5c67c76b5e4e91995f7852307304">
+    <head>Related Materials</head>
+<p>The Center for Brooklyn History holds the Kasper Family Collection (BCMS.0080), an archival collection that documents the Kasper family's time in Brooklyn before they moved to Stuyvesant Town.</p>  </relatedmaterial>
+  <controlaccess>
+    <geogname source="lcsh">Stuyvesant Town (New York, N.Y.)</geogname>
+    <subject source="lcsh">Dance -- Study and teaching -- New York (State)  -- New York</subject>
+    <subject source="lcsh">Halloween costumes -- New York (State)  -- New York</subject>
+    <subject source="lcsh">Maypoles -- New York (State)  -- New York</subject>
+    <subject source="lcsh">Playgrounds -- New York (State)  -- New York</subject>
+    <subject source="lcsh">Children -- New York (State)  -- New York -- Photographs.</subject>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Report cards.</genreform>
+    <genreform source="aat">Newsletters.</genreform>
+    <persname rules="rda" source="local">Hannan, Carol "Freddie" (Kasper), 1943-</persname>
+    <persname rules="rda" source="local">Kasper, Marvin, 1941-</persname>
+  </controlaccess>
+  <dsc><c id="aspace_1f6faaffa2d3e460d77d4c1ccb3f3a08" level="file"><did><unittitle>Stuyvesant Town Spring Festival</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315549</unitid><unitdate datechar="creation">1949 May 21</unitdate><container id="aspace_3bff7538287939172bfa8c5a8a9fb4d2" label="Mixed Materials" type="Box">1</container><container id="aspace_82c85d3b69c179c9f50ef95165510198" parent="aspace_3bff7538287939172bfa8c5a8a9fb4d2" type="Folder">1</container></did><scopecontent id="aspace_b4827adf047cfa2f880040aaac4916f5"><head>Scope and Contents</head><p>Eight 2"x3" black-and-white photographs of the Spring Festival at Stuyvesant Town in 1949. The photographs show a maypole dance, a "Dutch" dance, and children in costume. Several photographs feature Carol and Marvin Kasper. Also included is a newspaper clipping about the Spring Festival, a Hallmark gift bag that previously housed the clipping, and a photocopy of the clipping.</p></scopecontent></c><c id="aspace_67149d4baef7a43e68bb6c2189bc9b12" level="file"><did><unittitle>Stuyvesant Town photographs</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315551</unitid><unitdate datechar="creation" type="inclusive">1950</unitdate><container id="aspace_6e8d420f5fd34cbeaaa4537fe23a9bf7" label="Graphic Materials" type="Box">1</container><container id="aspace_e88b292ef6a4e1c73d8769496745fb08" parent="aspace_6e8d420f5fd34cbeaaa4537fe23a9bf7" type="Folder">2</container></did><scopecontent id="aspace_d49ea970a3d38c96ac6e7b5626d18eb2"><head>Scope and Contents</head><p>Ten 3"x4.5" black-and-white photographs of Carol and Marvin Kasper participating in activities in and near Stuyvesant Town:<lb/></p><p>3 photographs of a local shoe store contest near Stuyvesant Town from June 1950<lb/></p><p>3 photographs of the Stuyvestant Town costume parade and contest in 1950<lb/></p><p>4 photographs of the Kasper children playing on a Stuyvesant Town playground in 1950</p></scopecontent></c><c id="aspace_2eec0a9e740780f96d92618e4ef73fea" level="file"><did><unittitle>Public School 50 ephemera</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315552</unitid><unitdate datechar="creation" type="inclusive">1948-1950</unitdate><container id="aspace_51d21fd6c7ab9855f0ea467aab25deab" label="Mixed Materials" type="Box">1</container><container id="aspace_4c88534042964dd2b13b6c02da3b7cb6" parent="aspace_51d21fd6c7ab9855f0ea467aab25deab" type="Folder">3</container></did><scopecontent id="aspace_3bbf9821fe3aae61a193d527470ac682"><head>Scope and Contents</head><p>Ephemera from Carol Kasper's elementary school years at P.S. 50, 211 East 20th Street. The collection includes:<lb/></p><p>Carol Kasper's report cards for 1948, 1949, and 1950 (first, second, and third grade)<lb/></p><p>P.S. 50 Parent News, vol. 1, no. 4 (May, 1950)<lb/></p><p>8"x10" black-and-white photograph of Public School 50, Class 1-3 [1948?]<lb/></p><p>Photocopy of the above photograph with Carol Kasper's annotations<lb/></p><p>Email printout of some of Carol Kasper's memories of second grade at P.S. 50</p></scopecontent></c><c id="aspace_5958c2138fba49dcf070ea35defc1d50" level="file"><did><unittitle>Town and Village School of the Dance photographs and ephemera</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315553</unitid><unitdate datechar="creation" type="inclusive">1950</unitdate><container id="aspace_1f7923fafed17d6bca9d8e1680d17240" label="Mixed Materials" type="Box">1</container><container id="aspace_bfb7223802074a921008c41cd60bafe2" parent="aspace_1f7923fafed17d6bca9d8e1680d17240" type="Folder">4</container></did><scopecontent id="aspace_7d49b26b5911fb494c991eea0a9c1c4f"><head>Scope and Contents</head><p>Two 8"x10" black-and-white photographs of Carol Kasper's dance class at Town and Village School of the Dance, 367 First Avenue, accompanied by a program for a dance performance and a pamphlet for the dance school<lb/></p><p>Photograph of a Town and Village School of the Dance performance of <emph render="italic">Peter and the Wolf</emph>, June 17, 1950<lb/></p><p>Printed program for <emph render="italic">Peter and the Wolf</emph><lb/></p><p>Photograph of a Town and Village School of the Dance performance of <emph render="italic">Swan Lake</emph>, June, 1951<lb/></p><p>Printed pamphlet from 1950 for Town and Village School of the Dance, including information about classes and registration</p></scopecontent></c><c id="aspace_4fe704d6180f3337f2e842da277e37e5" level="file"><did><unittitle>Marvin Kasper underwear advertisement photographs</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315554</unitid><unitdate datechar="creation">approximately 1950</unitdate><container id="aspace_bbc46b6c28626cf4fb308391e4776cd8" label="Graphic Materials" type="Box">1</container><container id="aspace_61c24cfba7f2f6d0be34955e80740bdd" parent="aspace_bbc46b6c28626cf4fb308391e4776cd8" type="Folder">5</container></did><scopecontent id="aspace_6c633dceabbd8aae0f8b95f6c540ed4e"><head>Scope and Contents</head><p>One 8"x10" black-and-white photograph of Marvin Kasper and an unidentified man wearing boxer shorts and one photocopy of a black-and-white photograph from the same photo shoot. The photograph appeared in <emph render="italic">The New York Daily News</emph> as part of an advertisement for father and son underwear.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
