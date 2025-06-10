@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_422/">mc_422</eadid><filedesc><titlestmt><titleproper>Guide to the Matthew Wise Collection on the Joseph Smalley AIDS Memorial Quilt Panel <num>MC.422</num></titleproper><author>Aki Snyder</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>May 2025</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-06-04 15:39:23 UTC</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Matthew Wise Collection on the Joseph Smalley AIDS Memorial Quilt Panel</unittitle>
+    <origination label="source">
+      <persname authfilenumber="(lccn)no2021139428" role="dnr" rules="dacs" source="naf">Wise, Matthew W., 1961-</persname>
+    </origination>
+    <unitid>MC.422</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3567</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in 2 folders in a shared manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+    <abstract id="aspace_ddb33b12e7d35fef9197622c762ba294">Joseph Smalley (1959-1991) was a librarian at New York University who died on May 4, 1991 of AIDS related complications. Matthew Wise is the Metadata Librarian for Music &amp; Recorded Sound at New York University and was part of a committee established to design an AIDS memorial quilt panel to commemorate Smalley's library career. The Matthew Wise Collection on the Joseph Smalley AIDS Memorial Quilt Panel (dated 1991-1992) documents the creation of Smalley's quilt panel by members of New York University Libraries. The collection contains photographs, correspondence, memorandum, NYU Library newsletters, an article abstract written by Smalley, and brochures related to the 1991 AIDS Memorial Quilt Tour.</abstract>
+    <langmaterial id="aspace_1b8808622592b054fb6987b559e8c1a8">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_e706533a346d0c57e90aafae0016bcd5">
+    <head>Scope and Contents</head>
+<p>The Matthew Wise Collection on the Joseph Smalley AIDS Memorial Quilt Panel (dated 1991-1992) documents the creation of Joseph Smalley's quilt panel by members of New York University Libraries. The collection contains photographs of Smalley's quilt panel and the making of it; correspondence about Smalley and the quilt panel; memorandum about Smalley, his death, and the creation of the memorial quilt panel; NYU Library newsletters that discuss the memorial quilt panel; an article abstract written by Smalley; documents about how to create an AIDS Memorial Quilt panel and design templates; and a brochure about the 1991 AIDS Memorial Quilt Tour.</p>  </scopecontent>
+  <arrangement id="aspace_84ea8544faec6e0d024e72ddd4a8ca95">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received.</p>  </arrangement>
+  <accessrestrict id="aspace_392903cdf75504967e5a4f7b78df248d">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_6e9ac924f051968e171f1be17ddcdd62">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <prefercite id="aspace_6eb4775346e0232422bb4aa373486dc3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Matthew Wise Collection on the Joseph Smalley AIDS Memorial Quilt Panel; MC 422; box number; folder number or item identifier; New York University Archives, New York University</p>  </prefercite>
+  <bioghist id="aspace_63277710f22cfac3763e17c6440d3071">
+    <head>Biographical Note</head>
+<p>Joseph Smalley (1959-1991) was a librarian at New York University. Prior to working at NYU, Smalley worked at the Meadville-Lombard Theological Seminary, the Merriam Center Library, the New York Public Library, the Oxford Public Library, the University of Chicago Library, and the Wayne State University Library. Smalley died on May 4, 1991 of AIDS related complications. After his death, the  NYU Library Faculty Council designed a panel for the Names Project AIDS Quilt to commemorate Smalley's library career.</p>  </bioghist>
+  <bioghist id="aspace_908e2d14528aa54b9261a902689d9b94">
+    <head>Biographical Note</head>
+<p>As of 2025, Matthew Wise is the Metadata Librarian for Music &amp; Recorded Sound at New York University. During the creation of Joseph Smalley's AIDS memorial quilt panel, Wise served as a member of the Sewing Committee. He was also a contributor and managed contributions toward the materials fund.</p>  </bioghist>
+  <acqinfo id="aspace_1e39d90f406e68c9f3a84565278508de">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in the Matthew Wise Collection on the Joseph Smalley AIDS Memorial Quilt Panel were donated to the University Archives in December 1994 by Matthew Wise. The accession number associated with this collection is 2025.026.</p>  </acqinfo>
+  <custodhist id="aspace_948712f1f8dbace4bef0156bed3f8537">
+    <head>Custodial History</head>
+<p>Materials in this collection were transferred from the New York University Archives Portrait Files (MC 319) and New York University Archives Biographical Files (MC 317) in May 2025. The paper materials from MC 317 once filled a scrapbook, but was disassembled at the time of donation.</p>  </custodhist>
+  <processinfo id="aspace_72cd05858e01ed4638ed5832b83be5b2">
+    <head>Processing Information</head>
+<p>In May 2025, photographs and paper materials related to Joseph Smalley's AIDS memorial quilt panel were removed from the 
+New York University Archives Portrait Files (MC 319) and New York University Archives Biographical Files (MC 317); and a new collection was created, MC 422. Materials were placed into acid-free folders and rehoused into an acid-free shared manuscript box. Materials were described on the collection-level and inventoried at the file-level.</p>  </processinfo>
+  <controlaccess>
+    <subject authfilenumber="(homoit)homoit0000025" source="homoit"> AIDS awareness</subject>
+    <subject source="lcsh">AIDS activists -- New York (N.Y.)</subject>
+    <subject authfilenumber="(lcsh)sh90005342" source="lcsh">NAMES Project AIDS Memorial Quilt</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Memorandums.</genreform>
+    <subject source="lcsh">Academic libraries -- New York (N.Y.)</subject>
+    <persname authfilenumber="(lccn)no2021139428" role="dnr" rules="dacs" source="naf">Wise, Matthew W., 1961-</persname>
+    <persname rules="dacs" source="local">Smalley, Joseph</persname>
+  </controlaccess>
+  <dsc><c id="aspace_f34c3e47aa63ff01d7b08104e5bd47c1" level="file"><did><unittitle>AIDS Memorial Quilt Panel Photographs</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1035382</unitid><unitdate datechar="creation" normal="1991/1991">circa 1991</unitdate><container altrender="Manuscript box - Legal" id="aspace_73ba4bb10b78b5958dd328784bcb4d53" label="Mixed Materials [31142067003577]" type="Box">Shared University Archives 156</container><container id="aspace_cb34e40143809d2c53c7a738e16fdbe3" parent="aspace_73ba4bb10b78b5958dd328784bcb4d53" type="Folder">12</container></did></c><c id="aspace_e996195cf28bedb5d032d2a124fa8aec" level="file"><did><unittitle>Papers and Photographs</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1035383</unitid><unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_3a67c2669312acda02326427c0404761" label="Mixed Materials [31142067003577]" type="Box">Shared University Archives 156</container><container id="aspace_5974d10283345ca0071c164167f8a9b4" parent="aspace_3a67c2669312acda02326427c0404761" type="Folder">13</container></did></c></dsc>
+</archdesc>
+</ead>
