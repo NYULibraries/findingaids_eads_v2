@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/cbh/v1995_063_molow_coney_island">v1995_063</eadid><filedesc><titlestmt><titleproper>Guide to the Bert H. Molow Coney Island photographs <num>V1995.063</num></titleproper><author>Kevin Dao</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>2024</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-01 17:18:51 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/cbh/v1995_063_molow_coney_island">v1995_063</eadid><filedesc><titlestmt><titleproper>Guide to the Bert H. Molow Coney Island photographs <num>V1995.063</num></titleproper><author>Kevin Dao</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>2024</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-01 16:06:56 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
@@ -12,6 +12,7 @@
       <persname role="dnr" rules="dacs" source="local">Molow, Bert H.</persname>
     </origination>
     <unitid>V1995.063</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1990</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
       <extent altrender="carrier">in one folder</extent>
@@ -21,7 +22,7 @@
     <langmaterial>
       <language langcode="eng">English</language>
 .    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_41cde91a0d41f6e241dc14e68f7a1d84" label="Graphic Materials" type="Box">Prints by accession 12</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_1cc2e39ace447ae02e46dd9716d41944" label="Graphic Materials" type="Box">Prints by accession 11</container>
   </did>
   <accessrestrict id="aspace_bb3db0a33dc09f9b90a03f35e906a4d8">
     <head>Conditions Governing Access</head>
