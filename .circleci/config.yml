@@ -49,7 +49,7 @@ workflows:
       - deploy-dev:
           filters:
             branches:
-              ignore: master
+              only: master
       - deploy-prod:
           filters:
             branches:
