@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_855">tam_855</eadid><filedesc><titlestmt><titleproper>Guide to the Richard B. Gregg Papers <num>TAM.855</num></titleproper><author>Aki Snyder</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>July 2025</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-07-25 15:36:38 UTC</date>.</creation><langusage>Description is written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Richard B. Gregg Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Gregg, Richard B.</persname>
+    </origination>
+    <unitid>TAM.855</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/3577</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in a folder in a shared manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1936/1936">1936</unitdate>
+    <abstract id="aspace_8862b028f7c78f17afe70c634865f7c3">Richard B. Gregg (1885–1974) was an American social philosopher and pacifist influenced by Mahatma Gandhi's philosophy. The Richard B. Gregg Papers (dated 1936) contain a typed summary of Gregg's trip to England with reflections on meetings he had with various peoples as he promoted non-violence as a tactic of social change. The collection also contains a postcard written by Gregg to Mabel Bosworth promoting his book, <emph render = "italic">The Power of Non-Violence</emph>. Photocopies of the typed trip summary, postcard, and <emph render = "italic">The Power of Non-Violence</emph> book cover also exist in the collection.</abstract>
+    <langmaterial id="aspace_8e49a882f96ab4153b06cc534b2da4fe">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_6ac384cd70e3e1b4b9b6c44919335722">
+    <head>Scope and Contents</head>
+<p>The Richard B. Gregg Papers (dated 1936) contain a typed summary of Gregg's trip to England with reflections on meetings he had with various peoples as he promoted non-violence as a tactic of social change. This was written in 1936 while Gregg was onboard the <emph render = "italic">S.S. Bremen</emph>. The collection also contains a postcard written by Gregg to Mabel Bosworth promoting his book, <emph render = "italic">The Power of Non-Violence</emph>. Photocopies of the typed trip summary, postcard, and <emph render = "italic">The Power of Non-Violence</emph> book cover also exist in the collection.</p>  </scopecontent>
+  <accessrestrict id="aspace_a2370185879fbfc72c1dad50ad924bad">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_71249f67e87e2c596d6722687687d656">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <arrangement id="aspace_8f91a6ccd62a336e17e0f92414abb916">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were found in the repository.</p>  </arrangement>
+  <custodhist id="aspace_ecd128632e6449b1917f80eb26033443">
+    <head>Custodial History</head>
+<p>Materials in this collection were transferred from the Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Subjects (PE 029) in July 2025.</p>  </custodhist>
+  <acqinfo id="aspace_d9d0466a00b9aae327f9c7e368d25bcd">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials were found in the repository in July 2025. The accession number associated with this collection is 2025.071.</p>  </acqinfo>
+  <bioghist id="aspace_06f7cc1f0c8caa3b60f8b39aacfef44d">
+    <head>Biographical Note</head>
+<p>Richard B. Gregg (1885–1974) was an American social philosopher and pacifist influenced by Mahatma Gandhi's philosophy. He formulated an early Western theory of nonviolent resistance, which informed the work of figures such as Martin Luther King Jr. and Bayard Rustin. He also connected his pacifist views to a broader idea of deliberate and simple living, which he called "voluntary simplicity." His book, <emph render = "italic">The Power of Non-Violence</emph> (Philadelphia: J. B. Lippincott, 1934), introduced Gandhi's teachings to Western audiences. It was revised in 1944 (2nd edition) and again in 1959 (3rd edition), the latter including a foreword by Martin Luther King Jr.</p>  </bioghist>
+  <prefercite id="aspace_e4a4fb2b5cdd267f3e2fd272356b9e2d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Richard B. Gregg Papers; TAM 855; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_f490f422169c4d356787dc298ed16bdf">
+    <head>Processing Information</head>
+<p>Materials were placed in an archival folder and was labled to reflect the contents. The folder was then added to Shared Tamiment Box 200.</p>  </processinfo>
+  <controlaccess>
+    <title source="local">The Power of Non-Violence</title>
+    <subject authfilenumber="(lcsh)sj2021055916" source="lcsh">Nonviolence</subject>
+    <genreform source="aat">Postcards.</genreform>
+    <genreform source="aat">Personal papers.</genreform>
+    <genreform source="aat">Photocopies.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_5c0eacdf5d9784aa227efc37c0ac0a24" level="file"><did><unittitle>Typed Trip Summary, Postcard, and Photocopies</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1037825</unitid><unitdate datechar="creation" normal="1936/1936">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0d8f9cc50ea70242ed11f7192b4da17" label="Mixed Materials [31142062712818]" type="Box">Shared Tamiment 200</container><container id="aspace_9aed74140a0c40ff3c76b354d3840a6e" parent="aspace_d0d8f9cc50ea70242ed11f7192b4da17" type="Folder">31</container></did></c></dsc>
+</archdesc>
+</ead>
