@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/mc_115/">mc_115</eadid><filedesc><titlestmt><titleproper>Guide to the Ernest Gustave Lemcke Manuscript <num>MC.115</num></titleproper><author>Stacey Flatt</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>July 2025</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-11 19:53:40 UTC</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Ernest Gustave Lemcke Manuscript</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Lemcke, Ernest Gustave, 1877-1964</persname>
+    </origination>
+    <unitid>MC.115</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3017</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.10 Linear Feet</extent>
+      <extent altrender="carrier">in 1 folder in a shared half manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1904/1964" type="inclusive">circa 1904-1964</unitdate>
+    <abstract id="aspace_1b9885bd0078ea6595f87d9861c27f46">Ernest Gustave Lemcke (1877-1964) was an historian, author, and book publisher. The Ernest Gustave Lemcke Manuscript consists of Lemcke's handwritten manuscript on the early history of England, written between approximately 1904 and 1964.</abstract>
+    <langmaterial id="aspace_39fc37eb7a1bc576b60421770b285e2c">Materials in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_6a5c27bc17d1d147ab51095ecae13f89">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_b7457cdff581754857f64b1fffe66058">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated in February 1992. The accession number associated with this accession is 92.013.</p>  </acqinfo>
+  <bioghist id="aspace_fbf48d45f18f366a6c4ccaf90fc9dacd">
+    <head>Biographical Note</head>
+<p>Ernest Gustave Lemcke, (1877-1964) was an historian, author, and book publisher. He graduated from Columbia University in 1898. He co-owned Lemcke &amp; Buechner, a book publisher, seller, and importer in New York City, circa early 1900s to 1964.</p><p>Sources: 
+<lb/>
+<lb/>
+Online copy of book <emph render="italic">Columbia University in the City of New York: General Catalogue, 1784-1912</emph>, Burr Printing House, New York, 1912
+<lb/>
+<lb/>
+The Ernest G. Lemcke Collection (MS 141) at the University of New Hampshire, https://library.unh.edu/find/archives/collections/ernest-g-lemcke-1877
+Viewed on 7/29/2025.
+<lb/>
+<lb/>
+"Ernest G. Lemcke" The New York Times, May 2, 1964, https://www.nytimes.com/1964/05/02/archives/article-1-no-title-106964904.html
+Viewed on July 29, 2025.
+<lb/>
+<lb/>
+Lemcke, Ernest Gustav. The Tribal Hidage, or, First English Census, [192-?].
+The New-York Historical Society</p>  </bioghist>
+  <custodhist id="aspace_26a37276b4a7486571bb75a376bf0da0">
+    <head>Custodial History</head>
+<p>The accession record notes: "Handwritten history of early England written in a small ledger. Unable to find Lemcke in either faculty or student roles for the period, however, the inside cover contains inscription: 'Gift to NYU Library, if wanted, if not, throw'". </p><p>It is unclear whether Lemcke donated the ledger to NYU before the 1992 accession date (he died in 1964). The donor remains unknown.</p>  </custodhist>
+  <prefercite id="aspace_fc6a7a0f2e07abe73b716ff217e39a4e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Ernest Gustave Lemcke Manuscript; MC 115; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_8befdbda5df3dbb5a9f38635ca27097e">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2025 are unknown. In 2025 the ledger was placed in a legal-sized folder, and also required notes and fields in the resource record were completed or created.</p>  </processinfo>
+  <relatedmaterial id="aspace_b504b2fb006fce986a319a6cbc2e8fe4">
+    <head>Related Materials</head>
+<p>The Ernest G. Lemcke Collection (MS 141) at the University of New Hampshire Library, https://library.unh.edu/find/archives/collections/ernest-g-lemcke-1877 
+Viewed on 7/29/2025.</p>  </relatedmaterial>
+  <scopecontent id="aspace_6bb3fbb8d9d003715ac7b9269a82f806">
+    <head>Scope and Contents</head>
+<p>This collection consists of a 1904 ledger which had been repurposed as a notebook containing Lemcke's handwritten manuscript on an early history of England, written circa 1904-1964.</p>  </scopecontent>
+  <userestrict id="aspace_193b59bce601abe664d8f9f5937020b0">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Manuscripts</genreform>
+    <geogname authfilenumber="(lccn)sh85056730" source="lcsh">Great Britain -- History -- Anglo-Saxon period, 449-1066</geogname>
+  </controlaccess>
+  <dsc><c id="aspace_e51e83872047de26a1b55212842abd60" level="file"><did><unittitle>Unpublished Manuscript</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/842797</unitid><unitdate datechar="creation" normal="1904/1964" type="inclusive">circa 1904-1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_eaa04e5a8e75ba54af06dcac029d709c" label="Mixed Materials [31142063057668]" type="Box">Shared University Archives 018</container><container id="aspace_cb54ef99c8f3ecb8e95f8f745f19ccf6" parent="aspace_eaa04e5a8e75ba54af06dcac029d709c" type="Folder">3</container></did></c></dsc>
+</archdesc>
+</ead>
