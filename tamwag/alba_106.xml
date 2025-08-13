@@ -1,32 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_106/">alba_106</eadid><filedesc><titlestmt><titleproper>Leland Stowe Papers <num>ALBA.106</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-20 16:35:30 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_106/">alba_106</eadid><filedesc><titlestmt><titleproper>Guide to the Leland Stowe Papers <num>ALBA.106</num></titleproper><author>Stacey Flatt</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>August 2025</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-08-12 17:18:31 UTC</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
     </repository>
     <unittitle>Leland Stowe Papers</unittitle>
     <origination label="Creator">
-      <persname source="naf">Stowe, Leland, 1899-1994</persname>
+      <persname authfilenumber="(lccn)n83019043" source="naf">Stowe, Leland, 1899-1994</persname>
+    </origination>
+    <origination label="source">
+      <persname authfilenumber="(lccn)n83019043" role="dnr" source="naf">Stowe, Leland, 1899-1994</persname>
+    </origination>
+    <origination label="source">
+      <corpname authfilenumber="(lccn)n80072552" role="fmo" source="naf">Brandeis University</corpname>
     </origination>
     <unitid>ALBA.106</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/145</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
+      <extent altrender="materialtype spaceoccupied">0.50 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1920/1994" type="inclusive">circa 1920s-1990s</unitdate>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
+    <unitdate datechar="creation" normal="1986/1986">February 1986</unitdate>
+    <abstract id="aspace_6c0e611a71c62f8e5e48cdef5325e922">Leland Stowe (1899-1994) was an American journalist, author, and professor, best known for his war correspondence reporting. The Leland Stowe Papers (1986) contain sections of Stowe's unpublished book, <emph render="italic">Between the Crossfires: The Case History of a Foreign Correspondent Investigated by the FBI</emph>. These sections contain a compilation of his FBI file, letters, and press clippings which all relate to the FBI's investigation of Stowe after he publicly supported the Spanish Republican's cause while covering the Spanish Civil War as a foreign correspondent in the 1930s.</abstract>
+    <langmaterial id="aspace_93b80525bb293206d0b8f2f78e06eebb">Materials are in English.</langmaterial>
   </did>
-  <scopecontent id="aspace_80b48858d97f568b1fbcdac459ebe27b">
-    <head>Scope and Contents</head>
-<p>The collection consists of two large files, compiled by Leland Stowe, a prominent liberal journalist, titled "Between the Crossfires: The Case History of a Foreign Correspondent Investigated by the FBI...for His Support of the Spanish Republic," containing FBI files, clippings and ephemera, with Stowe's introductions and annotations.</p>  </scopecontent>
   <accessrestrict id="aspace_bd8527b53e83e1a59ac7db2e29aa4c7c">
     <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_fe5f93bcee964e02c49d188918ce2368">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred from Brandeis University in January 2001. The accession number associated with this transfer is 2001.076.</p>  </acqinfo>
+  <arrangement id="aspace_ad749e5c9b18e887e957ff7e7ca6f92a">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_1b44d0f98e097d927644756140d27162">
+    <head>Biographical Note</head>
+<p>Leland Stowe (1899-1994) was an American journalist, author, and professor, best known for his war correspondence reporting. He worked as a foreign correspondent in Paris in 1926 for the <emph render="italic">New York Herald Tribune</emph>, and eventually won a Pulitzer Prize in 1930 for his coverage of The Hague conference on reparations. 
+Stowe covered the Spanish Civil War in the 1930s on behalf of the <emph render="italic">New York Herald Tribune</emph> and was later investigated by the Federal Bureau of Investigation after he publicly supported the Spanish Republican's cause during the war. 
+During World War II, he worked as a war correspondent for the <emph render="italic">Chicago Daily News</emph> and the <emph render="italic">The New York Post</emph>. He later became Director of Radio Free Europe's News and Information Service in the 1950s and in 1955 joined the University of Michigan as a journalism professor. He also contributed to <emph render="italic">Reader's Digest</emph> as an editor and staff writer.</p>  </bioghist>
+  <custodhist id="aspace_d981b8cbf10c2d10726c4bc007395a34">
+    <head>Custodial History</head>
+<p>Donated by Leland Stowe to the Abraham Lincoln Brigade Archives and deposited at Brandeis University in 1986. The collection was transferred to the Tamiment Library and Robert F. Wagner Labor Archives in January 2001 as part of the relocation of the ALBA collections from Brandeis to New York University.</p>  </custodhist>
+  <prefercite id="aspace_682b2d763c8e5f6ce4adad8684327648">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Leland Stowe Papers; ALBA 106; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_88a32354a9350f5ffc00037abf4024ec">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2025 are unknown. 
+<lb/>
+<lb/>
+In 2025 the material was rehoused into multiple acid-free folders to help stabilize the papers which were badly warped. Fields and description were added to the record to comply with local content standards.</p>  </processinfo>
+  <relatedmaterial id="aspace_278cacfa01f43ed239e5bcbaebd73549">
+    <head>Related Materials</head>
+<p>Leland Stowe Papers from The Newberry Library Modern Manuscripts and Archives, July 25, 2025, https://archives.newberry.org/repositories/2/archival_objects/85749</p>  </relatedmaterial>
+  <scopecontent id="aspace_80b48858d97f568b1fbcdac459ebe27b">
+    <head>Scope and Contents</head>
+<p>This collection contains sections of Leland Stowe's unpublished book <emph render="italic">Between the Crossfires: The Case History of a Foreign Correspondent Investigated by the FBI</emph>, which was a compilation of notated copies of his FBI file, letters, and press clippings, all related to the FBI's investigation of Stowe after he publicly supported the Spanish Republican's cause during the Spanish Civil War in the 1930s.</p><p>Source: Leland Stowe Papers from The Newberry Library Modern Manuscripts and Archives, July 25, 2025, https://archives.newberry.org/repositories/2/archival_objects/85749</p>  </scopecontent>
   <userestrict id="aspace_6e997d92a2a4e6d9f6d57260863466e9">
     <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
-  <dsc></dsc>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archives. For more information, special.collections@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Drafts (documents)</genreform>
+    <subject source="lcsh">United States. Federal Bureau of Investigation -- Evaluation</subject>
+    <subject source="lcsh">Spanish Civil War, Spain, 1936-1939</subject>
+    <subject source="lcsh">Journalists -- United States.</subject>
+    <subject authfilenumber="(lccn)sh85050493" source="lcsh">Foreign correspondents</subject>
+    <persname authfilenumber="(lccn)n83019043" role="dnr" source="naf">Stowe, Leland, 1899-1994</persname>
+    <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
+    <corpname authfilenumber="(lccn)n80072552" role="fmo" source="naf">Brandeis University</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_8fc8dbcdef62253ce34ade17fdd39b85" level="file"><did><unittitle>Unpublished Book Sections -- <emph render="italic">Between the Crossfires: The Case History of a Foreign Correspondent Investigated by the FBI</emph></unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/790002</unitid><unitdate datechar="creation" normal="1986/1986">February 1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_86eaf914afb88300a3983cfd0d5cfa6d" label="Mixed Materials [31142062756195]" type="Box">1</container><container id="aspace_c3000683a0454f9cdf6c3703085428c6" parent="aspace_86eaf914afb88300a3983cfd0d5cfa6d" type="Folder">1-6</container></did></c></dsc>
 </archdesc>
 </ead>
