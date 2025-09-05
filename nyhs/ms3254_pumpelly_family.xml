@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/ms3254_pumpelly_family/">ms3254_pumpelly_family</eadid><filedesc><titlestmt><titleproper>Guide to the Pumpelly Family Papers<lb/>1807-1915<lb/> <num>MS 3254</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>August 2025</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-09-05 14:20:45 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Pumpelly family papers</unittitle>
+    <origination label="Creator">
+      <famname authfilenumber="(lccn)n2021006406" rules="rda" source="naf">Pumpelly family</famname>
+    </origination>
+    <unitid>MS 3254</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1115</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.21 Linear feet</extent>
+      <extent altrender="carrier">in one flat manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1807-1915</unitdate>
+    <abstract id="aspace_f517cf555d08509d59d6bcc39a65a432">A small collection of wills, letters, drawings, certificates, and genealogical research documenting the Pumpelly family of Owego, Tioga County, New York in the 19th and early 20th centuries.</abstract>
+    <physloc id="aspace_2d5d1fc85ea9b0349d5ffcb9703bef8b">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_624935d59edcef2bb094cd838105e29c">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_a790330c32d367eca728d2d67959ba11">
+    <head>Arrangement</head>
+<p>The collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_ecfdc46eede52377d1d02b58403a2fbe">
+    <head>Biographical / Historical</head>
+<p>The Pumpelly family represented in this collection was mostly based in Owego, Tioga County, New York, though descendants also moved to other states including Pennsylvania and New Jersey.<lb/> 
+•	Colonel Daniel Pixley (1741-1807), whose will is the oldest document in the collection, was born in 1741 in Stockbridge, MA and fought in the Revolutionary War. He moved to Owego, Tioga County, NY by around 1790, managing about 3000 acres of property there. He died and was buried in Owego.<lb/>
+•	Mary Pixley Pumpelly (1777-1848) was Daniel Pixley's daughter with his second wife, Lydia Patterson. She was born in 1777 in Owego and married James Pumpelly (1775-1845) in 1805 (this was her second marriage). They had four children, including George James Pompelly (1809-1873).<lb/>
+•	George James Pompelly was born in Owego in 1809. He studied law and entered his father's land office. He married his cousin, Susan Isabella Pumpelly, in 1832. The couple had five children, including Josiah Collins Pumpelly, George Brinkerhoff Pumpelly, and Mary (Pumpelly) Thompson, all represented in this collection.<lb/>
+•	Mary (Pumpelly) Thompson (1845-1924) married the American landscape painter Alfred Wordsworth Thompson (1840-1896) in 1876. Alfred Wordsworth Thompson was born in Baltimore and studied art in Paris. He opened a studio in New York City and exhibited works at the National Academy of Design, becoming a member there in 1875. He and his wife eventually settled in Summit, NJ, and Mary Thompson continued to live there after Thompson's death.<lb/>
+•	George Brinkerhoff Pumpelly (1842-1921) was born in Owego and married Adelaide Woodford (1852-1929) in 1874. The couple lived in Candor, Tioga County, New York.<lb/>
+•	Josiah Collins Pumpelly (1839-1920) was born in Owego and attended Rutgers College and Columbia College Law School. He married Margaret Downing in 1876 and Mary Amelia Harmer in 1896. He and his wife lived in Summit, NJ in the years before his death. He was active in numerous clubs and organizations in the New York area.</p>  </bioghist>
+  <accessrestrict id="aspace_aebcb91cf0f6a9eed06969c4514b6e09">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_14a71d9c6cbed6063abee496439fe8b6">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New York Historical, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_34d60c1f06239e694cb0ffd200679b73">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Margaret Pumpelly Finnegan, 2025.</p>  </acqinfo>
+  <prefercite id="aspace_de6f4ca0a935101c17b718df118dd0ca">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Pumpelly Family Papers, MS 3254, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_9324a240a6be0d792e2d53934eeeeb62">
+    <head>Processing Information</head>
+<p>Items were transferred to archival folders.</p>  </processinfo>
+  <scopecontent id="aspace_8125740f5d06a3f123086e6d352c260f">
+    <head>Scope and Contents</head>
+<p>This collection documents the history of the Pumpelly family from the early 19th century to the early 20th century. It includes the 1807 will of David Pixley (1741-1807), who served in the Revolutionary War and owned land around Owego, Tioga County, New York; the 1846 will of his daughter, Mary (Pixley) Pumpelly (1777-1848); letters from Mary's son, George James Pumpelly (1809-1873), to Henry Baker; sketches and letters by and to Alfred Wordsworth Thompson (1840-1896) and his wife, Mary (Pumpelly) Thompson (1845-1924), who was the daughter of George James Pumpelly; a postmaster general certificate and a postcard for George Brinkerhoff Pumpelly (1842-1921, son of George James Pumpelly) and his wife, Adelaide (Woodford) Pumpelly (1852-1929); and a folder of genealogical research about the Pumpelly family, including a biographical sketch written by Josiah Collins Pumpelly (1839-1920), another son of George James Pumpelly.<lb/> 
+Of particular note are the early wills of David Pixley and Mary Pumpelly, the sketches of painter Alfred Wordsworth Thompson, and a letter from Thompson to his wife.</p>  </scopecontent>
+  <relatedmaterial id="aspace_6404c785260fb557e0ac1e1b659908dd">
+    <head>Related Materials</head>
+<p>The New York Historical holds other items related to the Pumpelly family, including <extref xlink:actuate="onRequest" xlink:href="https://nyhistory.primo.exlibrisgroup.com/permalink/01NYU_NYHS/186u31g/alma990050312400107873">receipts signed by George James Pumpelly from 1837</extref>, <extref xlink:actuate="onRequest" xlink:href="https://nyhistory.primo.exlibrisgroup.com/permalink/01NYU_NYHS/186u31g/alma990041753040107873">letters written to James Pumpelly</extref>, and <extref xlink:actuate="onRequest" xlink:href="https://nyhistory.primo.exlibrisgroup.com/permalink/01NYU_NYHS/186u31g/alma990007680870107873">diaries written by Mary Pumpelly Thompson</extref>.</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Wills.</genreform>
+    <genreform source="aat">Letters (correspondence)</genreform>
+    <genreform source="aat">Business letters.</genreform>
+    <genreform source="aat">Sketches.</genreform>
+    <genreform source="aat">Biographies (documents)</genreform>
+    <genreform source="aat">Certificates.</genreform>
+    <geogname authfilenumber="(lcsh)n81043395" source="lcsh">Tioga County (N.Y.) -- Genealogy</geogname>
+    <geogname source="lcsh">New York (State)  -- Genealogy.</geogname>
+    <persname rules="rda" source="local">Pixley, David, 1741-1807</persname>
+    <persname rules="rda" source="local">Pumpelly, Mary Pixley, 1777-1848</persname>
+    <persname rules="rda" source="local">Pumpelly, George J. (George James), 1809-1873</persname>
+    <persname rules="rda" source="local">Thompson, Mary Pumpelly, 1845-1924</persname>
+    <persname authfilenumber="(lccn)n99270962" rules="rda" source="naf">Thompson, Alfred Wordsworth, 1840-1896</persname>
+    <persname rules="rda" source="local">Pumpelly, George Brinkerhoff, 1842-1921</persname>
+    <persname authfilenumber="(lccn)no2001037461" rules="rda" source="naf">Pumpelly, Josiah C. (Josiah Collins), 1839-1920</persname>
+  </controlaccess>
+  <dsc><c id="aspace_19a820461dbb62d1d6e08b18ad51277e" level="file"><did><unittitle>David Pixley will</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315841</unitid><unitdate datechar="creation">1807 August 5</unitdate><container id="aspace_a2940601b7d3a3b9c07369732292ec29" label="Mixed Materials" type="Box">1</container><container id="aspace_bf7c08a0b3cc006b9b40d212a884ad51" parent="aspace_a2940601b7d3a3b9c07369732292ec29" type="Folder">1</container></did><scopecontent id="aspace_ce403d862cace2069e6a3501f5829715"><head>Scope and Contents</head><p>Last will and testament of David Pixley, signed August 5, 1807 and witnessed by William Jones and Charles Pumpelly. Certified by Eleazar Dana, Surrogate: "I certify that the foregoing will is recorded in book at pages 15, 16, 17 and 18 of the Records of the Surrogate for the County of Broome the 12th day of November, 1807."</p></scopecontent></c><c id="aspace_5d5850c5aba752573c5fbb4dda759459" level="file"><did><unittitle>Mary Pumpelly will</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315838</unitid><unitdate datechar="creation">1846 September 7</unitdate><container id="aspace_341e1d20f446c7b4ff0ea50c31440a10" label="Mixed Materials" type="Box">1</container><container id="aspace_bb29c4de17909abf6c5fadb67705ddc5" parent="aspace_341e1d20f446c7b4ff0ea50c31440a10" type="Folder">2</container></did><scopecontent id="aspace_18e045c9cbdf7b380e714a468d8cc48f"><head>Scope and Contents</head><p>The last will and testament of Mary (Pixley) Pumpelly, witnessed by John M. Parker and George Bacon, both of Owego, Tioga County, New York, on September 7, 1846, and proved by Charles P. Avery, county judge of Tioga County, on July 10, 1848.</p></scopecontent></c><c id="aspace_41ae6d5844a38acd3b03668eaa520dbd" level="file"><did><unittitle>George Pumpelly letters to Henry Baker</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315846</unitid><unitdate datechar="creation" type="inclusive">1869 October 8-1869 November [8?]</unitdate><container id="aspace_cd6a454db705a299a7acb7b7e591de9e" label="Mixed Materials" type="Box">1</container><container id="aspace_2a3416f61260c8f6ec1931967a15c8c7" parent="aspace_cd6a454db705a299a7acb7b7e591de9e" type="Folder">3</container></did><scopecontent id="aspace_4ab156d0f5e202c67e1e0d25fb97519c"><head>Scope and Contents</head><p>Includes the following autograph letters signed from George J. Pumpelly to Henry Baker. All letters discuss the sale of land.<lb/></p><p>
+•	Owego, 1869 October 8, discussing the sale of land<lb/></p><p>•	Owego, 1869 November [8?], with envelope that is postmarked Nov. 8<lb/></p><p>•	Owego, 1869 December 20<lb/></p><p>•	Owego, 1869 December 28<lb/></p><p>Also includes a letter to Henry Baker from a Mr. Hunt, dated Owego, 1866 April 4, with a postmarked envelope</p></scopecontent></c><c id="aspace_2d30d2e1268a5658286d3cee75655c1a" level="file"><did><unittitle>Alfred Wordsworth Thompson and Mary Pumpelly letters and sketches</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315871</unitid><unitdate datechar="creation" type="inclusive">1864-1907 November 1</unitdate><container id="aspace_3a3bdcfac15929b7eeb6a4257f080a52" label="Mixed Materials" type="Box">1</container><container id="aspace_cc7c296624920959fe348e44ae4d3299" parent="aspace_3a3bdcfac15929b7eeb6a4257f080a52" type="Folder">4</container></did><scopecontent id="aspace_fe914332b6e831fd7f0b937a61ca9b0c"><head>Scope and Contents</head><p>Includes the following:<lb/>
+•	4 sheets of ink sketches of officers in uniform by Alfred Wordsworth Thompson, with notes about the colors and materials of the uniforms, undated.<lb/>
+•	1 pencil sketch of a woman and two men by Alfred Wordsworth Thompson, with the note "Aremberg Sep. 1864" in the corner.<lb/>
+•	Autograph letter signed from Alfred Wordsworth Thompson to "my dear little Flipitygibit" [Mary Pumpelly Thompson], undated, with a sketch, discussing his trip from Owego to New York, how much he misses her, etc. The page with the sketch is dated 1857 Oct. 7, but this seems too early to be the date of this letter.<lb/>
+•	Autograph letter signed from George Folsom to Mr. [Alfred Wordsworth] Thompson, Boston, 1896 May 26, discussing Thompson's paintings and Folsom's efforts to sell them.<lb/>
+•	Typed letter signed from [Arthur] D'Hervilly at the Metropolitan Museum of Art to Mrs. A. Wordsworth Thompson, 1907 August 31, asking her to send a biographical sketch of her husband for the Museum's Catalogue of Paintings, with Mary Thompson's notes about Alfred Wordsworth Thompson in pencil on the verso.<lb/>
+•	Typed letter fragment from an unknown person at Bruton Church, Williamsburg, Virginia to Mary Pumpelly Thompson, 1907 November 1, discussing possible memorials at the church in her husband's memory.<lb/>
+•	Clipping of a review by Francis A. Durivage discussing Alfred Wordsworth Thompson's painting on display at the New York Academy of Design, approximately 1888.</p></scopecontent></c><c id="aspace_f53052a33013b29cbeba57b61e675d47" level="file"><did><unittitle>George B. Pumpelly certificate and Adelaide Pumpelly postcard</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315895</unitid><unitdate datechar="creation">1875</unitdate><container id="aspace_60fc93e90091a960b32215a4d1e9abf9" label="Mixed Materials" type="Box">1</container><container id="aspace_b9071c598771ee5f00be2b3a3b4e1cf0" parent="aspace_60fc93e90091a960b32215a4d1e9abf9" type="Folder">5</container></did><scopecontent id="aspace_8ef370f3e97171d28315d023b5cd46d7"><head>Scope and Contents</head><p>Includes an official document from Marshall Jewell, at the time the Postmaster General of the United States, appointing George B. Pumpelly as postmaster "at Swartwood, in the County of Chemung, State of New York, in November 1875. Also includes a postcard from "A.J.S." to Mrs. [Adelaide] Pumpelly in West Candor, N.Y.</p></scopecontent></c><c id="aspace_d432f8dc1c3fd0b184149e0f581eea8c" level="file"><did><unittitle>Pumpelly family genealogical research</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315894</unitid><unitdate datechar="creation" type="inclusive">1903-1915</unitdate><container id="aspace_18bb2ff8968b3d53d825d6c4ef9816d2" label="Mixed Materials" type="Box">1</container><container id="aspace_2c93cce95286db1cc79b8b7c89a6c507" parent="aspace_18bb2ff8968b3d53d825d6c4ef9816d2" type="Folder">6</container></did><scopecontent id="aspace_981a5975d0a4c3e2f118da73b7d2bee6"><head>Scope and Contents</head><p>Genealogial research on the Pumpelly family. Includes the following documents:<lb/>
+•	Pedigree of George Brinkerhoff Pumpelly, compiled by the Rev. M.E. Dwight, Registrar of Pedigrees, New York Genealogical Society, January, 1904<lb/>
+•	Josiah Collins Pumpelly. A.M. L.L.B., [1903 or later]<lb/>
+•	A Memoranda as to James Kent Pumpelly by J.C. Pumpelly, his brother, [1915 or later]<lb/>
+•	Memorandum Historical Pumpelly Family, undated<lb/>
+•	A small printed coat of arms, with manuscript note: "Marge This is the Pumpelly 'Coat of Arms'"</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
