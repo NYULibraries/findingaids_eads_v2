@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_856">tam_856</eadid><filedesc><titlestmt><titleproper>Guide to the Betty Bressi Papers <num>TAM.856</num></titleproper><author>Daniella Occhineri, Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>August 2025</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-09-05 13:12:08 UTC</date>.</creation><langusage>Description is written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Betty Bressi Papers</unittitle>
+    <origination label="Creator">
+      <persname authfilenumber="lccn(n  77011970 )" source="naf">Bressi, Betty</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Visconti, Susan</persname>
+    </origination>
+    <unitid>TAM.856</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/3579</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.42 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1981/2004" type="inclusive">1981-2004</unitdate>
+    <abstract id="aspace_510a80ffcda7cc7d86bdbccea5b49f0c">Betty Bressi was a teacher and artist who was recruited to teach in camps in which Japanese Americans were incarcerated during World War II. Bressi taught in the Jerome War Relocation Center in Arkansas, although her time at the facility ended before World War II concluded. The Betty Bressi Papers (dated 1981-2004) consist of materials created and collected by Bressi documenting her sustained interest in issues surrounding Japanese American incarceration during World War II, Japanese American activism, and the redress movement. Materials include newspaper and magazine articles that document the trajectory of the redress movement, media portrayals of Japanese American activism, and public discourse concerning the concept of reparations. The collection also includes programs and playbills from theatrical productions by the Pan Asian Repertory Theatre. The collection provides rare documentation from white actors involved in the incarceration of Japanese Americans, which is recounted through Bressi's unpublished memoir "Teaching at Jerome Relocation Center." Bressi's active collecting of newspaper coverage of the redress movement, her correspondence with editors regarding their coverage of Japanese American incarceration, and her sustained contact with Madeleine Sugimoto (one of her students at Jerome) and her father, artist Henry Sugimoto, reflects the impact of her experiences on her perspectives after World War II.</abstract>
+    <physloc id="aspace_abb6159c2c17fe98f35f4be65674b752" label="Location Note">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_e25bde8800eee36dc89f251d2df1186b">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_515054904abe0a6441f47eadf27a4f61">
+    <head>Scope and Contents</head>
+<p>The Betty Bressi Papers (dated 1981-2004) consist of materials created and collected by Bressi documenting her sustained interest in issues surrounding Japanese American incarceration during World War II, Japanese American activism, and the redress movement. Materials include newspaper and magazine articles that document the trajectory of the redress movement, media portrayals of Japanese American activism, and public discourse concerning the concept of reparations. The collection also includes programs and playbills from theatrical productions by the Pan Asian Repertory Theatre. The collection provides rare documentation from white actors involved in the incarceration of Japanese Americans, which is recounted through Bressi's unpublished memoir "Teaching at Jerome Relocation Center." Bressi's active collecting of newspaper coverage of the redress movement, her correspondence with editors regarding their coverage of Japanese American incarceration, and her sustained contact with Madeleine Sugimoto (one of her students at Jerome) and her father, artist Henry Sugimoto, reflects the impact of her experiences on her perspectives after World War II. Included in the collection is a copy of a print that Sugimoto gifted to her, as well as a copy of a painting she herself made of Jerome.</p>  </scopecontent>
+  <arrangement id="aspace_6944fee61fc3875bad7a371ee1ca0fac">
+    <head>Arrangement</head>
+<p>Materials are arranged alphabetically.</p>  </arrangement>
+  <accessrestrict id="aspace_21b88f27134f35e5277f1faf840c7985">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_0638beb8607388aef61727bd4c2f13f5">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_64a0fd1bec9f5b9f04ec82414f2a1a2f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Susan Visconti, Bressi's niece, in July 2025; the accession number associated with this gift is 2025.076.</p>  </acqinfo>
+  <custodhist id="aspace_4451169aa83f5eebcaf7784e7ace8207">
+    <head>Custodial History</head>
+<p>One folder of newspaper clippings from the Betty Bressi Papers was identified as being located in the archives office of the Asian/Pacific/American Institute at NYU in 2023. There is no information about the provenance of these materials or how or why they were transferred to NYU. After being contacted by A/P/A, Susan Visconti, Bressi's niece, reviewed her aunt's possessions for related materials that were later transferred to NYU.</p>  </custodhist>
+  <otherfindaid id="aspace_63770da796787776c943d8a0ebdefdaa">
+    <head>Other Finding Aids</head>
+<p>An item-level inventory produced while surveying the materials is available in the collection file.</p>  </otherfindaid>
+  <prefercite id="aspace_c14d063ba8d7436f9f3cb35f5045236a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Betty Bressi Papers; TAM 856; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <bioghist id="aspace_deb45ac112171ad9de7ef3412d93139c">
+    <head>Biographical Note</head>
+<p>Betty Bressi (died 2014) was a teacher and artist. As a student at St. Joseph's College, studying towards a degree in education, she was recruited to teach in camps in which Japanese Americans were incarcerated during World War II. Bressi taught in the Jerome War Relocation Center in Arkansas, although her time at the facility ended before World War II concluded. Bressi never forgot her time spent at the Jerome camp, and remained invested in issues concerning Japanese American activism and the redress movement.</p>  </bioghist>
+  <phystech id="aspace_fadb57e29d71f5eeb0957563b8dab5ee">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact NYU Special Collections (special.collections@nyu.edu, 212-998-2596) with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <subject source="lcsh">World War, 1939-1945.</subject>
+    <subject source="lcsh">Teachers</subject>
+    <subject source="unescot">Concentration camps</subject>
+    <subject authfilenumber="(wikidata)Q108878050" source="wikidata">Japanese American removal, 1942-1945</subject>
+    <subject source="lcsh">Japanese Americans -- Reparations.</subject>
+    <subject source="lcsh">Japanese Americans -- Civil rights</subject>
+    <subject source="lcsh">Japanese Americans -- History -- 20th century.</subject>
+    <persname role="dnr" rules="dacs" source="local">Visconti, Susan</persname>
+  </controlaccess>
+  <dsc><c id="aspace_bb54cf13faa33a9302129d8110cdd075" level="file"><did><unittitle>Articles</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1039749</unitid><unitdate datechar="creation" normal="1982/2001" type="inclusive">1982-2001</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e6eb053398707178868637b4f3ecbd6" label="Mixed Materials [31142062694701]" type="Box">1</container><container id="aspace_ed18dbef3ed5d18dfd0b45d7d38c0889" parent="aspace_3e6eb053398707178868637b4f3ecbd6" type="Folder">1-2</container></did></c><c id="aspace_6258bd938f2db585ca9edd62a685189d" level="file"><did><unittitle>Correspondence, Ephemera, and Newsletters</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1039750</unitid><unitdate datechar="creation" normal="1982/2004" type="inclusive">1982-2004</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9bbb647834406dd863b0088b862be97" label="Mixed Materials [31142062694701]" type="Box">1</container><container id="aspace_3ff44dd712db0a1f10f6e5339cd01e6f" parent="aspace_c9bbb647834406dd863b0088b862be97" type="Folder">3</container></did></c><c id="aspace_2d3ef083195506495a3638fd822d894b" level="file"><did><unittitle>Pan Asian Repertory Theatre</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1039751</unitid><unitdate datechar="creation" normal="1981/1985" type="inclusive">1981-1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_a6517c944d897a5dca1d9396f38e1ec1" label="Mixed Materials [31142062694701]" type="Box">1</container><container id="aspace_c3562e637671b8ff726a54eabfd7073d" parent="aspace_a6517c944d897a5dca1d9396f38e1ec1" type="Folder">4</container></did></c><c id="aspace_e7ffe3d4105078cd538f067303b40167" level="file"><did><unittitle>"Teaching at Jerome Relocation Center"</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1039752</unitid><unitdate datechar="creation" normal="1981/2004" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e5d550a2122029440932ef62ee620b02" label="Mixed Materials [31142062694701]" type="Box">1</container><container id="aspace_85a45b215229fb731b82ad239acf598c" parent="aspace_e5d550a2122029440932ef62ee620b02" type="Folder">5</container></did></c><c id="aspace_9184cb4bb5a7a4dd24959db7664ef87a" level="file"><did><unittitle>Print of Painting of Jerome War Relocation Center</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/1039753</unitid><unitdate datechar="creation" normal="1981/2004" type="inclusive">undated</unitdate><container altrender="Flat Box - 12 x 15" id="aspace_5f09d902e2a3f0f82f2d488d87f68d8f" label="Mixed Materials [31142066984058]" type="Box">Shared Tamiment 196</container><container id="aspace_a3fc5c0cdf5443e259c88534af2cfdd2" parent="aspace_5f09d902e2a3f0f82f2d488d87f68d8f" type="Folder">4</container></did></c><c id="aspace_5b0900b3f700fdb789b83ad1fc2ad22c" level="file"><did><unittitle>Audio Recording -- WBAI Executive Order 9066</unittitle><unitid>cuid44738</unitid><unitid type="aspace_uri">/repositories/2/archival_objects/1039779</unitid><unitdate datechar="creation" normal="1981/2004" type="inclusive">undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_09d4adff34b2ce8618ddb4be39d79fd4" label="Audio [31142062712925]" type="Box">Shared Tamiment 202</container><container id="aspace_ec6380a3123f5a617233312cd7a84e09" parent="aspace_09d4adff34b2ce8618ddb4be39d79fd4" type="audiocassette">cuid44738</container></did></c></dsc>
+</archdesc>
+</ead>
