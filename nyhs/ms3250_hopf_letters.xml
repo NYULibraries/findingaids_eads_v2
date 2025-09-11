@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/ms3250_hopf_letters/">ms3250_hopf_letters</eadid><filedesc><titlestmt><titleproper>Guide to the Ernest Hopf letters to Alice Lightner<lb/>1931-1933<lb/> <num>MS 3250</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>March 2025</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-03-21 15:12:09 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/ms3250_hopf_letters/">ms3250_hopf_letters</eadid><filedesc><titlestmt><titleproper>Guide to the Ernest Hopf letters to Alice Lightner<lb/>1931-1933<lb/> <num>MS 3250</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>March 2025</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-09-11 14:59:01 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>New-York Historical Society</corpname>
@@ -12,16 +12,16 @@
     <unitid type="aspace_uri">/repositories/2/resources/1103</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">.21 Linear feet</extent>
-      <extent altrender="carrier">7 folders in one flat manuscript box</extent>
+      <extent altrender="carrier">8 folders in one flat manuscript box</extent>
     </physdesc>
-    <unitdate datechar="creation" type="inclusive">1931-1933</unitdate>
+    <unitdate datechar="creation" type="inclusive">1910-1971 (bulk 1931-1933)</unitdate>
     <abstract id="aspace_5a9251145531822f74c7dc4d17cc4eaa">This collection of letters, written by German-American artist Ernest Hopf to his wife-to-be, American author Alice Lightner, provides a glimpse into the life of a struggling artist in New York during the Great Depression. Hopf also travels to Germany in 1933 and comments on the hardships Germans are experiencing and the rise of the Third Reich.</abstract>
     <physloc id="aspace_fcfb682148599efe561abde9867d5c63">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
     <langmaterial id="aspace_11508e7db2b163574451fe2f529646c8">The documents in the collection are in English. Hopf's birth certificate is in German.</langmaterial>
   </did>
   <arrangement id="aspace_e46019b5aa3c6136073d00eaa78627a8">
     <head>Arrangement</head>
-<p>The letters are organized chronologically. Hopf's birth certificate is in the last folder.</p>  </arrangement>
+<p>The letters are organized chronologically. Hopf's birth certificate and three separate drawings are in the final two folders.</p>  </arrangement>
   <bioghist id="aspace_aec1d9397ff5f2b436995fbc58e43bcd">
     <head>Biographical / Historical</head>
 <p>Ernest Hopf (1910-1999) was a German-American artist born in Slawentzitz [Sławięcice, Poland] while it was part of Germany. He emigrated to the United States by the early 1930s and settled in New York. He married Alice Lightner, the recipient of these letters, in 1935. Hopf was most well known for his screenprints. He worked as an artist for the Works Progress Administration in the 1930s. His work is held by the National Gallery of Art and other institutions. </p><p>Alice Lightner Hopf (1904-1988) was an American writer who wrote both young adult science fiction (as A.M. Lightner) and youth nature books (as Alice Hopf). She was born in Detroit, Michigan, graduated from Vassar College in 1927, and moved to New York, where she met and married Ernest Hopf. The couple had one son.</p>  </bioghist>
@@ -53,7 +53,7 @@
     <genreform source="aat">Sketches.</genreform>
     <persname authfilenumber="(lccn)n79061069" rules="rda" source="naf">Hopf, Alice L. (Alice Lightner), 1904-1988</persname>
   </controlaccess>
-  <dsc><c id="aspace_dbfecc57541f9c7a30906567ba67eef0" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314740</unitid><unitdate datechar="creation" type="inclusive">1931 September-1931 November</unitdate><container id="aspace_78d73a641c6938068491dc0ce7e6a2dc" label="Mixed Materials" type="Box">1</container><container id="aspace_3dd7c2986877f749704a81ca60402b64" parent="aspace_78d73a641c6938068491dc0ce7e6a2dc" type="Folder">1</container></did><scopecontent id="aspace_ad9cfa006f2c283ccadcc54f5ff72618"><head>Scope and Contents</head><p>September 1, 1931 letter with envelope (sketch on envelope)<lb/>
+  <dsc><c id="aspace_dbfecc57541f9c7a30906567ba67eef0" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314740</unitid><unitdate datechar="creation" type="inclusive">1931 September-1931 November</unitdate><container id="aspace_30528aa27b133d3f75d84625947cdaa8" label="Mixed Materials" type="Box">1</container><container id="aspace_8da8058bbb1a2594bac096876bcff60e" parent="aspace_30528aa27b133d3f75d84625947cdaa8" type="Folder">1</container></did><scopecontent id="aspace_ad9cfa006f2c283ccadcc54f5ff72618"><head>Scope and Contents</head><p>September 1, 1931 letter with envelope (sketch on envelope)<lb/>
 <lb/>
 September 3, 1931 letter with envelope (sketch on envelope)<lb/>
 <lb/>
@@ -67,7 +67,7 @@ September [17?], 1931 letter with envelope (sketches on letter, day from postmar
 <lb/>
 October 13, 1931 letter with envelope (sketch on envelope)<lb/>
 <lb/>
-November 13, 1931 letter with envelope</p></scopecontent></c><c id="aspace_39e9826c05d5196b3a3975ff337ceb95" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314764</unitid><unitdate datechar="creation" type="inclusive">1931 December-1932 July</unitdate><container id="aspace_4f0d127ad4e74b453e57a6edefd47a2d" label="Mixed Materials" type="Box">1</container><container id="aspace_1dd2da2052ace3b0dc87feec2a0756cb" parent="aspace_4f0d127ad4e74b453e57a6edefd47a2d" type="Folder">2</container></did><scopecontent id="aspace_e43f0b95f66f21a0181025ed1cd4b13b"><head>Scope and Contents</head><p>December 30, 1931 letter with envelope (sketches on envelope)<lb/>
+November 13, 1931 letter with envelope</p></scopecontent></c><c id="aspace_39e9826c05d5196b3a3975ff337ceb95" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314764</unitid><unitdate datechar="creation" type="inclusive">1931 December-1932 July</unitdate><container id="aspace_ce48f59513a3cdf98e5297fb1f822be9" label="Mixed Materials" type="Box">1</container><container id="aspace_9f5ffb705842aad19638673c50595f34" parent="aspace_ce48f59513a3cdf98e5297fb1f822be9" type="Folder">2</container></did><scopecontent id="aspace_e43f0b95f66f21a0181025ed1cd4b13b"><head>Scope and Contents</head><p>December 30, 1931 letter with envelope (sketches on envelope)<lb/>
 <lb/>
 January 6, 1932 envelope only<lb/>
 <lb/>
@@ -89,7 +89,7 @@ July 5, 1932 letter with envelope<lb/>
 <lb/>
 July 12, 1932 letter with envelope<lb/>
 <lb/>
-July, 1932</p></scopecontent></c><c id="aspace_e4d2a2010c83eeb576c617d045f2d15a" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314781</unitid><unitdate datechar="creation" type="inclusive">1932 August-1932 December</unitdate><container id="aspace_4ebd9d3aa23688e9a1fc33d7b65faa9f" label="Mixed Materials" type="Box">1</container><container id="aspace_a1d44f68d36c0d46e4683cb9ca2de5c3" parent="aspace_4ebd9d3aa23688e9a1fc33d7b65faa9f" type="Folder">3</container></did><scopecontent id="aspace_788b4fbe48024e6a2f90e6680832e67b"><head>Scope and Contents</head><p>August 1932 letter<lb/>
+July, 1932</p></scopecontent></c><c id="aspace_e4d2a2010c83eeb576c617d045f2d15a" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314781</unitid><unitdate datechar="creation" type="inclusive">1932 August-1932 December</unitdate><container id="aspace_0d57451a55ba39ad45d1ee2de764580c" label="Mixed Materials" type="Box">1</container><container id="aspace_15b163755549295aa51275be777c6e27" parent="aspace_0d57451a55ba39ad45d1ee2de764580c" type="Folder">3</container></did><scopecontent id="aspace_788b4fbe48024e6a2f90e6680832e67b"><head>Scope and Contents</head><p>August 1932 letter<lb/>
 <lb/>
 August 14, 1932 letter<lb/>
 <lb/>
@@ -115,7 +115,7 @@ December 6, 1932 letter<lb/>
 <lb/>
 December 26, 1932 letter with envelope<lb/>
 <lb/>
-December 28, 1932 letter</p></scopecontent></c><c id="aspace_329e4570c354d2be0e69166084ce7fef" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314782</unitid><unitdate datechar="creation" type="inclusive">1933 January-1933 May</unitdate><container id="aspace_23d6a6f5fe2e7349cc0c4b8359ef130b" label="Mixed Materials" type="Box">1</container><container id="aspace_2e97b970bf115332d5528194ead502e9" parent="aspace_23d6a6f5fe2e7349cc0c4b8359ef130b" type="Folder">4</container></did><scopecontent id="aspace_67ae69023545dfe5f98861339d0e25df"><head>Scope and Contents</head><p>"New Years Eve 1932-1933" [December 31, 1932 and January 1, 1933] letter<lb/>
+December 28, 1932 letter</p></scopecontent></c><c id="aspace_329e4570c354d2be0e69166084ce7fef" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314782</unitid><unitdate datechar="creation" type="inclusive">1933 January-1933 May</unitdate><container id="aspace_30df771da0b618b0bdde1e4985be101f" label="Mixed Materials" type="Box">1</container><container id="aspace_89fd821f8c8597df5580048796d7b8b2" parent="aspace_30df771da0b618b0bdde1e4985be101f" type="Folder">4</container></did><scopecontent id="aspace_67ae69023545dfe5f98861339d0e25df"><head>Scope and Contents</head><p>"New Years Eve 1932-1933" [December 31, 1932 and January 1, 1933] letter<lb/>
 <lb/>
 April 29, 1933 letter with envelope<lb/>
 <lb/>
@@ -127,7 +127,7 @@ May 21, 1933 letter with envelope<lb/>
 <lb/>
 May 26, 1933 letter with envelope<lb/>
 <lb/>
-May 30, 1933 letter with envelope</p></scopecontent></c><c id="aspace_d1fbd92133c2db5fc6463ff79daf0241" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314783</unitid><unitdate datechar="creation" type="inclusive">1933 June-1933 July</unitdate><container id="aspace_df74ff6abde829f667b052cb25215304" label="Mixed Materials" type="Box">1</container><container id="aspace_ec5bd0fd7d0ac06ee90ed32cc38b10e6" parent="aspace_df74ff6abde829f667b052cb25215304" type="Folder">5</container></did><scopecontent id="aspace_e893f39c35d1489560bd5edf7548656c"><head>Scope and Contents</head><p>June 14, 1933 letter with envelope<lb/>
+May 30, 1933 letter with envelope</p></scopecontent></c><c id="aspace_d1fbd92133c2db5fc6463ff79daf0241" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314783</unitid><unitdate datechar="creation" type="inclusive">1933 June-1933 July</unitdate><container id="aspace_09d0f1e74da13ac40c2dd43a06d76f02" label="Mixed Materials" type="Box">1</container><container id="aspace_c5681c0cfcb69a5e060f39d76bdc8193" parent="aspace_09d0f1e74da13ac40c2dd43a06d76f02" type="Folder">5</container></did><scopecontent id="aspace_e893f39c35d1489560bd5edf7548656c"><head>Scope and Contents</head><p>June 14, 1933 letter with envelope<lb/>
 <lb/>
 June 17, 1933 letter with envelope<lb/>
 <lb/>
@@ -145,7 +145,7 @@ July 13, 1933 letter<lb/>
 <lb/>
 July 15, 1933 letter with envelope<lb/>
 <lb/>
-July 24, 1933 letter with envelope</p></scopecontent></c><c id="aspace_951b9d5722f176e617e36880dd468232" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314784</unitid><unitdate datechar="creation" type="inclusive">1933 August-1933 December</unitdate><container id="aspace_85839cff3c9bb1068d00b03aad992477" label="Mixed Materials" type="Box">1</container><container id="aspace_099d1b6ef6fb50fb6132f821b4cea376" parent="aspace_85839cff3c9bb1068d00b03aad992477" type="Folder">6</container></did><scopecontent id="aspace_cb55b93166a98e8f03e42f574bee70fb"><head>Scope and Contents</head><p>August 6 and 10, 1933 letter with envelope<lb/>
+July 24, 1933 letter with envelope</p></scopecontent></c><c id="aspace_951b9d5722f176e617e36880dd468232" level="file"><did><unittitle>Ernest Hopf letters to Alice Lightner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314784</unitid><unitdate datechar="creation" type="inclusive">1933 August-1933 December</unitdate><container id="aspace_6d346102fb089bd76a3f09b2656bfccd" label="Mixed Materials" type="Box">1</container><container id="aspace_3d6baf97abca4de3bc46836faa4f5769" parent="aspace_6d346102fb089bd76a3f09b2656bfccd" type="Folder">6</container></did><scopecontent id="aspace_cb55b93166a98e8f03e42f574bee70fb"><head>Scope and Contents</head><p>August 6 and 10, 1933 letter with envelope<lb/>
 <lb/>
 August 18, 1933 letter with envelope and 5 black and white postcards<lb/>
 <lb/>
@@ -155,6 +155,9 @@ Undated [1933?] postcard with "Gluckspilze" print on verso<lb/>
 <lb/>
 December 26, 1933 letter with envelope<lb/>
 <lb/>
-December 29, 1933 letter</p></scopecontent></c><c id="aspace_a08300ee9d325d968d278dcccb66a703" level="file"><did><unittitle>Ernest Hopf birth certificate</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314833</unitid><unitdate datechar="creation">1910 February 8</unitdate><container id="aspace_6057ba775a314008f5ccf6753a595530" label="Mixed Materials" type="Box">1</container><container id="aspace_957a3e5fcdf4c463b9d942918946e461" parent="aspace_6057ba775a314008f5ccf6753a595530" type="Folder">7</container></did></c></dsc>
+December 29, 1933 letter</p></scopecontent></c><c id="aspace_a08300ee9d325d968d278dcccb66a703" level="file"><did><unittitle>Ernest Hopf birth certificate</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/314833</unitid><unitdate datechar="creation">1910 February 8</unitdate><container id="aspace_b3a5efa9ba6e68f56f632a6891d98028" label="Mixed Materials" type="Box">1</container><container id="aspace_096bb1f00c072936e940e6bc6a9b4c18" parent="aspace_b3a5efa9ba6e68f56f632a6891d98028" type="Folder">7</container></did></c><c id="aspace_2f6eaff678a8e8fad3a26ae2e52a9412" level="file"><did><unittitle>Ernest Hopf drawings</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315946</unitid><unitdate datechar="creation" type="inclusive">1947-1971</unitdate><container id="aspace_26dc0c4e89bb40c8a0b5aa84ddb50610" label="Graphic Materials" type="Box">1</container><container id="aspace_cbc91e9b71e9f93e96dcfd44cb3b02ee" parent="aspace_26dc0c4e89bb40c8a0b5aa84ddb50610" type="Folder">8</container></did><scopecontent id="aspace_e6037c42acfa916c59eec6d546fdba9c"><head>Scope and Contents</head><p>Three drawings by Ernest Hopf.<lb/><lb/>
+The first drawing is black ink or charcoal and depicts an urban industrial scene with a smokestack, powerlines, a crane, and two pedestrians walking on a sidewalk lined by a high fence. A "Vote for McKeen" sign appears on a building to the left. Signed "Hopf '47" in the lower right corner. 23 x 20 cm.<lb/><lb/>
+The second drawing is ink and watercolor and shows a town on a river with a bridge for the railroad in the center. A train is passing by to the right. Signed "E. Hopf '48" in the lower right corner. 19 x 24 cm.<lb/><lb/>
+The third drawing is ink and watercolor and shows boats by a pier. It is signed "E.H." in the lower right corner and appears on the front of a Christmas card. The inside of the card reads, "Merry Christmas and a Happy New Year Alice + Ernest Hopf '71." Image 9 x 13 cm., card 13 x 19 cm.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
