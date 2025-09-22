@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2025_018">2025_018</eadid><filedesc><titlestmt><titleproper>Guide to the Simon and Sophie Gerson photographs <num>2025.018</num></titleproper><author>Alice Griffin</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>May 2025</date></p><address><addressline>Brooklyn Public Library</addressline><addressline>128 Pierrepont St.</addressline><addressline>Brooklyn, NY 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-09-22 14:14:23 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Simon and Sophie Gerson photographs</unittitle>
+    <origination label="source">
+      <persname role="dnr">Gerson, Frieda</persname>
+    </origination>
+    <unitid>2025.018</unitid>
+    <unitid type="aspace_uri">/repositories/5/resources/2006</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">16.9 Megabytes</extent>
+      <extent altrender="carrier">in 2 TIFF files.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1931/1975" type="inclusive">1931, circa 1965</unitdate>
+    <abstract id="aspace_ff0153f27b288b5c7e3fba0f110ed8c7">Two images of communist journalists, politicians, and labor organizers and activists Sophie Melvin Gerson and Simon "Si" Gerson.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+    </langmaterial>
+  </did>
+  <scopecontent id="aspace_a477ca11b418c1806dce3c9929b2e689">
+    <head>Scope and Contents</head>
+<p>Two scans of photographic prints depicting communist journalists, politicians, and labor organizers and activists Sophie Melvin Gerson and Simon "Si" Gerson. One photograph shows the Gersons outside of New York City Hall on their wedding day in 1931 and the second photograph shows the Gersons at a meeting in the Daily Worker New York offices in the 1960s.</p>  </scopecontent>
+  <bioghist id="aspace_ce1140909eb388c7bf4bb43ecef67791">
+    <head>Biographical Note</head>
+<p>Simon "Si" Gerson was born on January 23, 1909 in Manhattan. He attended the City College of New York where he met labor activist Sophie Melvin. They married in 1932. Gerson was a reporter and editor for the Daily Worker. In 1937, Gerson was appointed to be Manhattan Borough President Stanley M. Isaac's executive assistant. Gerson served in the U.S. Army in the Pacific theater in World War II. He then managed Communist candidate Peter Cacchione's campaign for New York City Council. Cacchione served from 1941 to 1947 when he died from a heart attack. Gerson was named to fill in Cacchione's seat and the Gerson family moved to Brooklyn in 1948. Gerson was then forced to run in a borough-wide race. He was endorsed by the American Labor Party and the Communist Party and won the election. He died on December 26, 2004.</p><p>Sophie Gerson, née Melvin, was born on February 22, 1910 in Ukraine. Gerson and her family moved to the Brownsville neighborhood of Brooklyn and Gerson started volunteering to support striking workers when she was a teenager. She became a member of the Young Communist League and went down to Gastonia, North Carolina in 1929 to help with the Loray Mill strike. During the Great Depression, she worked for the New York Department of Welfare. In 1948, the Gersons moved to Bensonhurst, Brooklyn where they lived for the rest of their lives. Sophie and Simon Gerson had two children, William and Deborah. Later in her life, Gerson was active in the National Council of Senior Citizens. Sophie Gerson died on March 21, 2006.</p>  </bioghist>
+  <arrangement id="aspace_8d69cff0f6e6692ae4fd62f4b150c0a0">
+    <head>Arrangement</head>
+<p>This collection is not arranged in any particular order.</p>  </arrangement>
+  <accessrestrict id="aspace_08728cef310f878df955bcd3bc8ccb2f">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_a601788bbf50a1ed6ee2610477469ce6">
+    <head>Conditions Governing Use</head>
+<p>Copyright retained by the owner. Please consult library staff for further details and assistance.</p>  </userestrict>
+  <acqinfo id="aspace_51013b31da5357013b2e326328cc774c">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Frieda Gerson, 2025.</p>  </acqinfo>
+  <phystech id="aspace_70051aa0c8ca732b1333d8b1602e9b46">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This is a digital-only collection and is available on our digital collections portal.</p>  </phystech>
+  <prefercite id="aspace_37be3040a0e7ad485e99cb0ed57bde52">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known), Object ID; Simon and Sophie Gerson photographs, 2025.018; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <originalsloc id="aspace_f4a4a147f2f193ae1e826dd3c1c9d50f">
+    <head>Existence and Location of Originals</head>
+<p>The original prints are held by Frieda Gerson and the Gerson family.</p>  </originalsloc>
+  <relatedmaterial id="aspace_78d044bddd88ed6bd453c3abfc6e149d">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related materials in its collection: </p><p>- An interview with Simon and Sophie Gerson in the Jeffrey Gerson Brooklyn politics research collection (2013.021)</p><p>The Tamiment Library and Robert F. Wagner Archives holds the Simon W. and Sophie Gerson Papers (TAM.330).</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Jewish communists</subject>
+    <subject source="lcsh">Press, communist</subject>
+    <persname role="dnr">Gerson, Frieda</persname>
+    <persname authfilenumber="n 90675316" rules="local" source="local">Gerson, Simon W.</persname>
+    <persname>Gerson, Sophie (Sophie Melvin)</persname>
+    <corpname authfilenumber="nb2007004886" source="naf">Daily Worker (New York)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
