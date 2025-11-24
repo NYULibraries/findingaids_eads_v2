@@ -16,6 +16,15 @@ hermes_deploy: &hermes_deploy
       docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index -concurrent=true
       # timeout 60m sh -c 'until docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master jobStatus -job=specialcollections-git-trigger-index -wait=false; do sleep 5; done'
 
+hermes_deploy_solr4: &hermes_deploy_solr4
+  run:
+    name: Deploy via Hermes (Solr 9 + Solr 4)
+    command: |
+      # trigger Solr 9 indexing (existing job)
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index -concurrent=true
+      # trigger Solr 4 indexing (new job with -solr4-tmp suffix)
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index-solr4-tmp -concurrent=true
+
 version: 2
 jobs:
   deploy-prod:
@@ -40,7 +49,7 @@ jobs:
           command: |
             echo 'export HERMES_HOST=https://hermes-dev.library.nyu.edu' >> $BASH_ENV
             echo 'export HERMES_SECRET=$HERMES_SECRET_DEV' >> $BASH_ENV
-      - <<: *hermes_deploy
+      - <<: *hermes_deploy_solr4
 
 workflows:
   version: 2
