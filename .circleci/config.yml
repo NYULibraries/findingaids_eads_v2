@@ -9,11 +9,11 @@ auth_quay: &auth_quay
     command: |
       docker login -u "$QUAY_USERNAME" --password "$QUAY_PASSWORD" quay.io
 
-# hermes_deploy: &hermes_deploy
-#   run:
-#     name: Deploy via Hermes
-#     command: |
-#       docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index -concurrent=true
+hermes_deploy: &hermes_deploy
+  run:
+    name: Deploy via Hermes
+    command: |
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index -concurrent=true
       # timeout 60m sh -c 'until docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master jobStatus -job=specialcollections-git-trigger-index -wait=false; do sleep 5; done'
 
 hermes_deploy_solr4: &hermes_deploy_solr4
