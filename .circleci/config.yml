@@ -22,8 +22,8 @@ hermes_deploy_solr4: &hermes_deploy_solr4
     command: |
       # trigger Solr 9 indexing (existing job)
       docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index -concurrent=true
-      # trigger Solr 4 indexing (new job with -solr4-tmp suffix)
-      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index-solr4-tmp -concurrent=true
+      # trigger Solr 4 indexing (new job with -solr4 suffix)
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-go-index-solr4 -concurrent=true
 
 version: 2
 jobs:
