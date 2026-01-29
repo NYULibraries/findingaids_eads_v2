@@ -1,76 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_119_laurens/">arms_1974_119_laurens</eadid><filedesc><titlestmt><titleproper>Guide to the Henry and John Laurens papers <num>1974.119</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>February 22, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:55 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_119_laurens/">arms_1974_119_laurens</eadid><filedesc><titlestmt><titleproper>Guide to the William Gilmore Simms collection of Henry and John Laurens papers <num>1974.119</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>February 22, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-01-29 15:15:15 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2026</date><item>Collection reprocessed and finding aid revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
-    <unittitle>Henry and John Laurens papers</unittitle>
+    <unittitle>William Gilmore Simms collection of Henry and John Laurens papers</unittitle>
     <origination label="Creator">
-      <persname rules="aacr" source="naf">Laurens, Henry</persname>
+      <persname rules="aacr" source="naf">Laurens, Henry, 1724-1792</persname>
     </origination>
     <origination label="Creator">
-      <persname rules="aacr" source="naf">Laurens, John</persname>
+      <persname source="naf">Laurens, John, 1754-1782</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="col">Simms, William Gilmore, 1806-1870</persname>
     </origination>
     <unitid>1974.119</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/155</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.82 Linear Feet</extent>
-      <extent altrender="carrier">in two manuscript boxes.</extent>
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in two manuscript boxes and one oversize folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1773/1790" type="inclusive">1773-1790</unitdate>
-    <abstract id="aspace_030322d55bbd9fd641d91c412553e9b8">The collection contains correspondence, reports, and memoirs of Henry Laurens (1724-1792), as well as memoirs of his son John Laurens (1754-1782).</abstract>
+    <unitdate datechar="creation" normal="1770/1960" type="inclusive">primarily 19th-20th century copies of 18th century originals</unitdate>
+    <abstract id="aspace_030322d55bbd9fd641d91c412553e9b8">Transcriptions of correspondence and other documents of onetime Continental Congress president Henry Laurens (1724-1792) and his son John Laurens (1754-1782) who served as military secretary to George Washington during the Revolutionary War. The papers were collected by Southern historian William Gilmore Simms (1806-1870).</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_d2a3148ddb1bf9cf834878a9d0f33cc6" label="Text" type="Box">1974.119 Box 2 of 2</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_a81e2a2bfa8eb72af4a8e422d2ae7d50" label="Text" type="Box">1974.119 Box 1 of 2</container>
+    </langmaterial>
   </did>
-  <scopecontent id="aspace_a6f550db4cfb49ba226d1fc8cede185a">
-    <head>Scope and Contents</head>
-<p>The Henry and John Laurens papers date from 1773 to 1790 and measure 0.83 linear feet. The collection contains correspondence, reports, and memoirs of Henry Laurens, as well as memoirs of his son John Laurens. A large portion of the the correspondence originates from Richard Henry Lee, Rawlins Lowndes, Baron DeKalb, John Lewis Gervais, General Lachlan McIntosh, Jonathan Trumbull, John Wells, Jr., and David Hartley. Historically significant correspondents include John Adams, General Robert Howe, John Jay, and Thomas Paine. The correspondence and reports contains discussion of civil matters of the southern states and military activity during the Revolutionary War period. In addition, the collection contains typed transcriptions of the manuscript memoirs of both Henry and John Laurens. Lastly, an index of correspondents and subjects covered in the papers is included.</p>  </scopecontent>
-  <bioghist id="aspace_049b4489b22c9fe68550ef7cc59c74e6">
-    <head>Biographical note</head>
-<p>Henry Laurens (1724-1792) was a native of Charleston, S.C. Laurens served as President of the Continental Congress from 1777 to 1778.</p><p>John Laurens (1754-1782), the eldest surviving son of Henry Laurens and Eleanor Ball, was born in Charleston, S.C. Against his father's wishes, John Laurens joined the Continental Army under George Washington in 1777.  </p>    <list numeration="arabic" type="ordered">
-      <head>Sources</head>
-      <item>Biographical Dictionary of the United States Congress. "Laurens, Henry, (1724-1792)." Accessed February 24, 2011. http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000121</item>
-    </list>
-  </bioghist>
   <accessrestrict id="aspace_c016129490b3da18053225f4f68b1940">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
-  <custodhist id="aspace_f1c4382fe60a54b841239a42bbcc16ee">
-    <head>Custodial History</head>
-<p>This collection was purchased from W. Gilmore Simms of South Carolina and donated to the Long Island Historical Society (now the Brooklyn Historical Society) in 1868. After being transcribed, the papers were sold in 1960. As such, this collection now consists of transcriptions of the papers originally donated to LIHS.</p>  </custodhist>
   <acqinfo id="aspace_3963056ba64bf5a27310ea7848adc445">
     <head>Immediate Source of Acquisition</head>
-<p>Gift of J. Carson Brevoort, 1868.</p>  </acqinfo>
+<p>Purchase from William Gilmore Simms, 1868.</p><p>Funds for the purchase were the gift of J. Carson Brevoort, Simeon B. Chittenden, A.A. Low, George S. Stephenson, Henry Sheldon, Frederick R. Fowler, J.P. Robinson, F. Woodruff, C.D. Wood, Milan Hulbert, Charles Storrs, James Prentice, John C. Barnes, Joseph Battell, Henry Sanger, Alfred S. Barnes, Henry E. Pierrepont, and Charles J. Lowrey.</p>  </acqinfo>
+  <bioghist id="aspace_049b4489b22c9fe68550ef7cc59c74e6">
+    <head>Biographical note</head>
+<p>Henry Laurens (1724-1792) was born in Charleston, South Carolina. Laurens served as President of the Continental Congress from 1777 to 1778. He was elected Minister to Holland by the Continental Congress in 1779. When he sailed for that post in 1780, he was captured on the voyage and held a prisoner in the Tower of London. He was released in 1781 in exchange for Lord Cornwallis. Thereafter, he was appointed one of the peace commissioners and signed the preliminary treaty of Paris in 1782, returning to the United States in 1784.</p><p>John Laurens (1754-1782), the eldest surviving son of Henry Laurens and Eleanor Ball, was also born in Charleston. He was educated in England. Against his father's wishes, John Laurens joined the Continental Army under George Washington in 1777. He served as aide-de-camp to Washington. He was captured during the fall of Charleston in May 1780 but was freed as part of a prisoner exchange in November of that year. After his release, he was selected by Washington to serve as a special envoy to King Louis XVI of France. After negotiating for relief supplies for the American army, he rejoined the war. Laurens was killed in a British ambush in August 1782.</p><p>William Gilmore Simms (1806-1870) was an author and historian known for his knowledge of the American South. He edited several Southern newspapers and journals, and also served in the South Carolina legislature from 1844-1846. During his lifetime, he accumulated one of the largest collections of Revolutionary War manuscripts in the country, much of which was lost when his home was burned during the Civil War. The manuscripts of which this collection are transcriptions survived, and were sold to the Long Island Historical Society in 1868.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources</head>
+      <item>Biographical Dictionary of the United States Congress. "Laurens, Henry, (1724-1792)." Accessed February 24, 2011. http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000121</item>
+      <item>"John Laurens". Encyclopedia Britannica. Accessed January 26, 2026. https://www.britannica.com/biography/John-Laurens</item>
+      <item>"William Gilmore Simms, 1806-1870." Encyclopedia of Southern Culture. Wilson, Charles Reagan and William Ferris, eds. University of North Carolina Press, 1989. Accessed January 26, 2026 via Documenting the American South. https://docsouth.unc.edu/southlit/simms1/bio.html</item>
+      <item>Busick, Sean R. A Sober Desire for History: William Gilmore Simms as Historian. Univ. of South Carolina Press, 2005.</item>
+    </list>
+  </bioghist>
+  <custodhist id="aspace_f1c4382fe60a54b841239a42bbcc16ee">
+    <head>Custodial History</head>
+<p>This collection was purchased from William Gilmore Simms of South Carolina by the Long Island Historical Society in 1868. After being transcribed, the papers were sold in 1960.</p>  </custodhist>
   <prefercite id="aspace_9c1b38cb34bc649496658682c4af3eb2">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Henry and John Laurens papers, 1974.119, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); William Gilmore Simms collection of Henry and John Laurens papers, 1974.119, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <processinfo id="aspace_07a230a74ef2fd6b32d7c08041a3b5a8">
     <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
+<p>Originally minimally processed to the collection level, this collection was reprocessed by Dee Bowers in January 2026.</p>  </processinfo>
   <relatedmaterial id="aspace_f744adb2ab239527e12ba9993361edc5">
     <head>Related Materials</head>
-<p>Papers of Henry Laurens are also available at the South Carolina Historical Society, Historical Society of Pennsylvania, and New-York Historical Society, among others.</p>  </relatedmaterial>
+<p>The Army correspondence of Colonel John Laurens in the years 1777-8 / now first printed from original letters to his father, Henry Laurens, president of Congress ; with a memoir by Wm. Gilmore Simms. New York : Bradford Club, 1867.</p><p>Papers of Henry Laurens are also available at the South Carolina Historical Society, Historical Society of Pennsylvania, and the New York Historical, among others.</p>  </relatedmaterial>
+  <scopecontent id="aspace_a6f550db4cfb49ba226d1fc8cede185a">
+    <head>Scope and Contents</head>
+<p>Transcriptions of correspondence and other documents of Henry Laurens and his son John Laurens, taken from the originals collected by writer and historian William Gilmore Simms. The original documents were acquired by the Long Island Historical Society in 1868 and these transcriptions were presumably created sometime between that acquisition and the originals' sale at auction in 1960. The transcriptions are typed but also have handwritten notes regarding the condition or notable aspects of the original documents.</p><p>A large portion of the correspondence originates from Richard Henry Lee, Rawlins Lowndes, Baron DeKalb, John Lewis Gervais, General Lachlan McIntosh, Jonathan Trumbull, John Wells, Jr., and David Hartley. Historically significant correspondents include John Adams, General Robert Howe, John Jay, and Thomas Paine. The correspondence and reports contain discussion of civil matters of the southern states and military activity during the Revolutionary War period. An index of correspondents and subjects covered in the papers is also included.</p><p>The collection also includes a set of black and white printed portraits of Henry Laurens and a black and white engraving of Charleston, South Carolina.</p>  </scopecontent>
+  <userestrict id="aspace_ad69fa756a6e619043eaaac0474e69ef">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. </p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The borrower assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <genreform source="aat">Reports</genreform>
     <genreform source="aat">Correspondence</genreform>
-    <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
+    <genreform source="aat">Reports</genreform>
+    <geogname source="lcsh">United States -- History -- Revolution, 1775-1783</geogname>
     <geogname source="lcsh">South Carolina</geogname>
-    <geogname source="lcsh">United States |x Politics and government |y Revolution, 1775-1783</geogname>
-    <genreform source="aat">Memoirs</genreform>
-    <persname rules="aacr" source="naf">Howe, Robert</persname>
-    <persname rules="aacr" source="naf">Jay, John</persname>
-    <persname rules="aacr" source="naf">Paine, Thomas</persname>
-    <persname rules="aacr" source="naf">Adams, John</persname>
+    <geogname source="lcsh">United States -- Politics and government -- Revolution, 1775-1783</geogname>
+    <subject source="lcsh">Military biography</subject>
+    <genreform source="aat">Military records</genreform>
+    <subject source="lcsh">Military life</subject>
+    <geogname source="lcsh">Charleston (S.C.)</geogname>
+    <subject source="lcsh">Politicians -- South Carolina</subject>
+    <geogname source="lcsh">South Carolina -- Politics and government</geogname>
+    <genreform source="aat">Portraits</genreform>
+    <genreform source="aat">Engravings</genreform>
+    <persname source="naf">Howe, Robert, 1732-1786</persname>
+    <persname source="naf">Jay, John, 1745-1829</persname>
+    <persname source="naf">Paine, Thomas, 1737-1809</persname>
+    <persname source="naf">Adams, John, 1735-1826</persname>
     <corpname rules="aacr" source="naf">United States. Continental Congress</corpname>
-    <persname rules="aacr" source="naf">McIntosh, Lachlan</persname>
-    <persname rules="aacr" source="naf">Lowndes, Rawlins</persname>
-    <persname rules="aacr" source="naf">Lee, Richard Henry</persname>
-    <persname rules="aacr" source="naf">Gervais, John Lewis</persname>
+    <persname source="naf">McIntosh, Lachlan, 1725-1806</persname>
+    <persname source="naf">Lowndes, Rawlins, 1721-1800</persname>
+    <persname source="naf">Lee, Richard Henry, 1732-1794</persname>
+    <persname source="naf">Gervais, John Lewis, 1741-1798</persname>
     <corpname rules="aacr" source="naf">United States. Continental Army</corpname>
-    <persname rules="aacr" source="naf">De Kalb, Johann</persname>
+    <persname source="naf">De Kalb, Johann, 1721-1780</persname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_0d269507d5448ce9318230d6c8fd30d3" level="file"><did><unittitle>Civil correspondence</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456746</unitid><unitdate datechar="creation" normal="1845/1868" type="inclusive">circa mid-19th century typed transcriptions of 1770s-1780s originals</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_acb95cdc1d63162972e85aaba65de494" label="Text" type="Box">1</container></did><scopecontent id="aspace_30c540cda8617bb425472f3bf702c5de"><head>Scope and Contents</head><p>Cover page reads: Correspondence of the Revolution. Chiefly civil, and chiefly relating to the affairs of the Southern States. Arranged in order of date by W. Gilmore Simms (212 papers).</p></scopecontent></c><c id="aspace_b993d741e6278b64ed484321dd851db8" level="file"><did><unittitle>Military correspondence</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456747</unitid><unitdate datechar="creation" normal="1845/1868" type="inclusive">circa mid-19th century typed transcriptions of 1770s-1780s originals</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4fa875ed7a8524b634704c7101fbc182" label="Text" type="Box">1</container></did><scopecontent id="aspace_94cabbb83672067eee2f6090b849d87c"><head>Scope and Contents</head><p>Cover page reads: Correspondence of the Revolution. Chiefly military. Arranged in order of date by W. Gilmore Simms. 154 articles.</p></scopecontent></c><c id="aspace_872cf5120fce064cfb91fc9956de4d7f" level="file"><did><unittitle>American Autograph Shop printing of Gen. Lachlan McIntosh letter</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456748</unitid><unitdate datechar="creation" normal="1937/1937">1937 printing of 1777 original</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c45ab32cf5b6d6e5e3b1a17b8bd8f642" label="Text" type="Box">1</container></did><processinfo id="aspace_c5bf6104e422182ca16111dec9e4b665"><head>Processing Information</head><p>This item must have been added to the collection at a later date as the date of acquisition far precedes its publication.</p></processinfo><scopecontent id="aspace_41a010706643e165e4aa5cfd579aa690"><head>Scope and Contents</head><p>Cover reads in part: A Historical Duel. A letter written by Brigadier General Lachlan McIntosh to Colonel John Laurence, military secretary to General Washington, three days after the death of Button Gwinnett, being a true relation of the duel…printed here for the first time, from the recently acquired original letter for a few friends and clients by The American Autograph Shop: Christmas 1937.</p></scopecontent></c><c id="aspace_3bf4fb35998d872ccebadf10bee9584a" level="file"><did><unittitle>John Laurens memoir correspondence</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456749</unitid><unitdate datechar="creation" normal="1849/1849">circa mid-19th century typed transcriptions of 1770s-1780s originals</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_e242a9846a6a2a7110c97ea5179bdb3d" label="Text" type="Box">1</container><container altrender="Full Manuscript Box Legal" id="aspace_b47c8340c754c597c578d5eaa2c1d75e" label="Text" type="Box">2</container></did><scopecontent id="aspace_b3edd1fc966d36479d421542458461cf"><head>Scope and Contents</head><p>A set of typed transcriptions of correspondence of John Laurens, presumably for use in a "memoir," or biography, to be written by historian William Gilmore Simms. Cover page reads: Memoir of the Life of Col. John Laurens. With his original correspondence. Now first collected and edited by W. Gilmore Simms. 1849.</p></scopecontent></c><c id="aspace_0d32ad5cc26704ee30695085e03ed48a" level="file"><did><unittitle>Henry Laurens memoir correspondence</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456750</unitid><unitdate datechar="creation" normal="1849/1849">circa mid-19th century typed transcriptions of 1770s-1780s originals</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_508ca7d7f450a05ae88bd1f81b9fc5ca" label="Text" type="Box">2</container></did><scopecontent id="aspace_15ecc441e0f43c306d0ce5f594a9c298"><head>Scope and Contents</head><p>A set of typed transcriptions of correspondence of Henry Laurens, presumably for use in a "memoir," or biography, to be written by historian William Gilmore Simms. Cover page reads: Memoir of the life of Hon. Henry Laurens. With his original correspondence. Now first collected and edited by W. Gilmore Simms. 1849.</p></scopecontent></c><c id="aspace_dd67144521cd436e741ce494e63a18a8" level="file"><did><unittitle>Index to correspondence</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456751</unitid><container altrender="Full Manuscript Box Legal" id="aspace_c980f3dac3fdc3b476e5c007572fd44a" label="Text" type="Box">2</container></did></c><c id="aspace_d82f4b46abcf2352869e243f69cca6a4" level="file"><did><unittitle>Henry Laurens portraits</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456752</unitid><unitdate datechar="creation" normal="1800/1899" type="inclusive">circa 18th-19th centuries</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_98b126b37adb05974a9e0fe9ae81eecf" label="Graphic Materials" type="Box">2</container></did><processinfo id="aspace_f908b6896e8f853fcc23458c7df50b22"><head>Processing Information</head><p>These items were discovered among the Charles Beaumont collection on the sale of Gilbert Stuart's portaits of U.S. Presidents (1974.017) by BHS archivists in 2011. As they were not included in the original inventory of that accession, they were removed to this collection.</p></processinfo><scopecontent id="aspace_766ac64f8381bd15eefcb05797e568e7"><head>Scope and Contents</head><p>Includes a black and white print of John Singleton Copley's 1782 portrait; a black and white engraving published 1780 by Fielding &amp; Walker after Joseph Booth and engraved by Charles Knight; A.H. Ritchie black and white engraving as printed in Frank Moore's Historical Series, 1861; black and white engraving after C.W. Peale, engraved by Neagle, printed by B. Rogers, and published by Joseph Delaplaine, 1816; and a black and white engraving after Alonzo Chappel, published by Johnson &amp; Fry, circa 1862.</p></scopecontent></c><c id="aspace_1fc519f8b0fbb97a437885af316a7b64" level="file"><did><unittitle>View of Charlestown engraving</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/456753</unitid><unitdate datechar="creation" normal="1762/1762">1762</unitdate><container altrender="Large Flat Box 3" id="aspace_1ef693892efabe8956a8661c273f7e3e" label="Graphic Materials" type="Box">OS-6</container></did><processinfo id="aspace_987b0ea15372c2924379211501d557e5"><head>Processing Information</head><p>This item was discovered among the Charles Beaumont collection on the sale of Gilbert Stuart's portaits of U.S. Presidents (1974.017) by BHS archivists in 2011. As it was not included in the original inventory of that accession, it was removed to this collection.</p></processinfo><scopecontent id="aspace_0440491a4cf438cac8feb30e50ccab38"><head>Scope and Contents</head><p>Black and white line engraving. An Exact Prospect of Charlestown, the Metropolis of the Province of South Carolina. After work by Bishop Roberts (d. 1739), engraved by William Henry Toms (c. 1700-1765).</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
