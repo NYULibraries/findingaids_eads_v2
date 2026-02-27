@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2012_017_coleman_slides/">arms_2012_017_coleman_slides</eadid><filedesc><titlestmt><titleproper>Guide to the William R. Coleman collection of New York City waterfront pollution slides <num>2012.017</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-09-21 17:30:08 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2012_017_coleman_slides/">arms_2012_017_coleman_slides</eadid><filedesc><titlestmt><titleproper>Guide to the William R. Coleman collection of New York City waterfront pollution slides <num>2012.017</num></titleproper><author>John Zarrillo</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>September 2015</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-02-27 14:52:16 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>William R. Coleman collection of New York City waterfront pollution slides</unittitle>
     <origination label="source">
-      <persname role="dnr" source="local">Coleman, William Roger</persname>
+      <persname role="dnr" source="local">Coleman, William R. "Bill"</persname>
     </origination>
     <origination label="Creator">
-      <persname role="pht" source="local">Coleman, William Roger</persname>
+      <persname role="pht" source="local">Coleman, William R. "Bill"</persname>
     </origination>
     <unitid>2012.017</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1170</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
       <extent altrender="carrier">in one slide box</extent>
@@ -20,21 +21,18 @@
     <abstract id="aspace_b45a55f8ef2d9a3efda54f13867a35fd">The collection contains 147 35mm color transparency slides of pollution along Newtown Creek, the East River, the Hudson River, and other New York City waterfront areas, taken by William R. Coleman when he was working as a student assistant in the United States Attorney's Office for the Southern District of New York in 1971. The photographs were taken while he toured the harbor with the Army Corps of Engineers.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Long slide box" id="aspace_75ead4f15a7190c90d9dfbfc9b9cbc53" label="Graphic Materials" type="Box">1</container>
+    </langmaterial>
+    <container altrender="Long slide box" id="aspace_67398f17958dd1937739ae574c951fec" label="Graphic Materials" type="Box">1</container>
   </did>
-  <otherfindaid id="aspace_5cbf3e8a50f02bd4b9dd2549f2acb817">
-    <head>Other Finding Aids</head>
-<p>An index to the slides is available in the collection's accession file. Please consult library staff for more information.</p>  </otherfindaid>
   <userestrict id="aspace_e84cdbb6ff92e3208ea6826e8d9f9cf4">
     <head>Conditions Governing Use</head>
-<p>Rights held by Brooklyn Historical Society. For information regarding rights and reproductions, please see the <extref xlink:href="http://www.brooklynhistory.org/library/reproduction.html">Photocopies and Reproductions</extref> page on our website.</p>  </userestrict>
+<p>Copyright to photographs held by Brooklyn Public Library.</p>  </userestrict>
   <accessrestrict id="aspace_acbe0e823df9a7ef9f0749d0556b8513">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
   <prefercite id="aspace_7199a6f56d137d66cc6fd5b9ba674b6d">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); William R. Coleman collection of New York City waterfront pollution slides, 2012.017, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); William R. Coleman collection of New York City waterfront pollution slides, 2012.017, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <acqinfo id="aspace_fdb3a8f1c4494de033d3b579c3ef04bf">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of William R. Coleman, 2012.</p>  </acqinfo>
@@ -49,16 +47,16 @@
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Color slides</genreform>
     <genreform source="aat">Photographs</genreform>
-    <subject source="lcsh">Pollution |z New York (State) |z New York</subject>
-    <subject source="lcsh">Ecology |z New York (State) |z New York</subject>
+    <subject source="lcsh">Pollution -- New York (State) -- New York</subject>
+    <subject source="lcsh">Ecology -- New York (State) -- New York</subject>
     <geogname source="lcsh">East River (N.Y.)</geogname>
     <geogname source="lcsh">Manhattan (New York, N.Y.)</geogname>
     <geogname source="lcsh">Hudson River (N.Y. and N.J.)</geogname>
-    <subject source="lcsh">Piers |z New York (State) |z New York</subject>
-    <subject source="lcsh">Waterfronts |z New York (State) |z New York</subject>
+    <subject source="lcsh">Piers -- New York (State) -- New York</subject>
+    <subject source="lcsh">Waterfronts -- New York (State) -- New York</subject>
     <geogname source="lcsh">Greenpoint (New York, N.Y.)</geogname>
     <geogname source="lcsh">Newtown Creek (Kings County-New York County, N.Y.)</geogname>
-    <persname role="dnr" source="local">Coleman, William Roger</persname>
+    <persname role="dnr" source="local">Coleman, William R. "Bill"</persname>
   </controlaccess>
   <dsc/>
 </archdesc>
