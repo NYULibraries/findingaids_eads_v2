@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_017_carley/">arc_017_carley</eadid><filedesc><titlestmt><titleproper>Guide to the Walter A. Carley collection
- <num>ARC.017</num></titleproper><author>Anna Wolf</author><sponsor>This finding aid was transcribed as part of the project, 'Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation,' funded by the Council on Library and Information Resources.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 1, 2007</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-12-12 18:33:49 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_017_carley/">arc_017_carley</eadid><filedesc><titlestmt><titleproper>Guide to the Walter A. Carley collection
+ <num>ARC.017</num></titleproper><author>Anna Wolf</author><sponsor>This finding aid was transcribed as part of the project, 'Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation,' funded by the Council on Library and Information Resources.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>April 1, 2007</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-03-02 16:15:34 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>March 2026</date><item>Revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Walter A. Carley collection</unittitle>
     <origination label="Creator">
@@ -13,19 +13,18 @@
     <unitid type="aspace_uri">/repositories/3/resources/1243</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
-      <extent altrender="carrier">in two record cartons, one manuscript box and one oversize box.</extent>
+      <extent altrender="carrier">in two record cartons, one manuscript box and two oversize folders.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1905/1956" type="inclusive">1905-1956</unitdate>
     <abstract id="aspace_601b53da549ef23df3bbc631306a572c">The Walter A. Carley collection contains souvenir programs, posters and ephemera from the Knights of Columbus and Greenpoint Peoples Regular Democratic Organization along with business records, meeting minutes, and correspondence. The collection also includes periodicals, news clippings, personal papers, photographs, and postcards.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
     </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_f478e1985c6d74523d3217768701edc1" label="Text" type="Box">ARC.017 3 of 3</container>
-    <container altrender="Record Carton" id="aspace_d213d8df0a3b431d4cd8acbba66e55d5" label="Text" type="carton">ARC.017 2 of 3</container>
-    <container altrender="Record Carton" id="aspace_5f95907fb912317fa56636fac7f2459f" label="Text" type="carton">ARC.017 1 of 3</container>
-    <container altrender="Large Flat Box 11" id="aspace_a2d76a112d7a45c774c7b1eac4916b36" label="Graphic Materials" type="Box">1</container>
-    <container id="aspace_a7ddda2f60c2b6e82a3df20e579121b3" label="Graphic Materials" type="Box">1 Postcard Collection</container>
-    <container altrender="Large Flat Box 18" id="aspace_ccac5e72e55db508318244aa76a11647" label="Graphic Materials" type="Box">Oversize Prints by Accession 10</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_5f739bd7172b62a0b643b19b4c2af6f7" label="Mixed Materials" type="Box">3</container>
+    <container altrender="Record Carton" id="aspace_e126d4047d55a16e47185159c98198c9" label="Mixed Materials" type="Box">2</container>
+    <container altrender="Record Carton" id="aspace_9584def4211dbcc0701fc332a387d3d7" label="Mixed Materials" type="Box">1</container>
+    <container altrender="Large Flat Box 11" id="aspace_cb61a7c40b0d5d4e728c29c7ce8dc9d5" label="Graphic Materials" type="Box">Shared</container>
+    <container altrender="Large Flat Box 18" id="aspace_615584e80289df880c192a7141e6bfcf" label="Graphic Materials" type="Box">Oversize Prints by Accession 10</container>
   </did>
   <accessrestrict id="aspace_49c4fea98e3c17b8870606677aa1d01c">
     <head>Conditions Governing Access</head>
