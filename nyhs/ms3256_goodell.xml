@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/ms3256_goodell/">ms3256_goodell</eadid><filedesc><titlestmt><titleproper>Guide to Alfred T. Goodell's California Gold Rush reminiscences<lb/>approximately 1851, 1900s, 1995<lb/> <num>MS 3256</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>March 2026</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-04-06 10:07:30 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Alfred T. Goodell's California Gold Rush reminiscences</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Goodell, Alfred T., 1826-1903</persname>
+    </origination>
+    <unitid>MS 3256</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1117</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.29 Linear feet</extent>
+      <extent altrender="carrier">in one custom clamshell box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">approximately 1851, 1900s, 1995</unitdate>
+    <abstract id="aspace_0f470eb6242ba29779ceeec9a5c34026">This collection includes various papers about Alfred T. Goodell's time as a Forty-Niner during the California Gold Rush, including a manuscript scroll, two typescripts, five tintypes, and documents related to the possible publication of his memoir.</abstract>
+    <physloc id="aspace_ccfa052cdd5a20abc0dca946906ae1f3">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_4b2af915b5204d98fc15733aa08f8107">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_c2aa2e63322e4e405283a9553e0d39de">
+    <head>Arrangement</head>
+<p>The collection is arranged by type of material.</p>  </arrangement>
+  <bioghist id="aspace_523f779fb104c8d4ee1091e848710a73">
+    <head>Biographical / Historical</head>
+<p>According to material in this collection, Alfred T. Goodell was born in 1826 in Granville, NY. He later moved to New York City and spent time in California and Oregon during the California Gold Rush (he left New York in 1849 and spent several years out West).</p>  </bioghist>
+  <accessrestrict id="aspace_63b96f2ffb61276a7a4918025386915c">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_1099516a72d111ba97f7656fe9683a2a">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New York Historical, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_a93ef94c76b110b4bfb034450d6a365a">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Virginia Shultz-Charette, 2025.</p>  </acqinfo>
+  <prefercite id="aspace_c5bd0adf92ebc0a43c871c884b6afee7">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Alfred T. Goodell's California Gold Rush reminiscences, MS 3256, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_125987c4b06ac1e2693d2f290af05c35">
+    <head>Processing Information</head>
+<p>The collection was rehoused in a custom clamshell box.</p>  </processinfo>
+  <scopecontent id="aspace_ce3b625e20ecf502f27432db567d0c9d">
+    <head>Scope and Contents</head>
+<p>This collection documents Alfred T. Goodell's time as a Forty-Niner during the California Gold Rush. A manuscript scroll (believed to be in Goodell's hand, though this cannot be confirmed) discusses his travels from Oregon to Butte City on the Sacramento River and his time as a prospector in California. The collection also includes two typescripts, one that transcribes the scroll and a longer typescript that draws from additional notes by Goodell that are not present in this collection. The longer typescript discusses his early life, voyage by boat around Cape Horn to San Francisco, efforts to find gold in California, trip by boat to Oregon to run a store, a return trip through Southern Oregon and Northern California for additional prospecting, and his final return through Panama to New York. Also included are five tintypes, one of Goodell and his wife and four of unidentified subjects (though the men in the other images may be Forty-Niners), a copyright application submitted by Goodell's heirs, and correspondence with a press interested in publishing his memoir.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">California -- Description and travel.</geogname>
+    <geogname authfilenumber="sh 85018877" source="lcsh">California -- Gold discoveries.</geogname>
+    <subject source="lcsh">Gold mines and mining -- California.</subject>
+    <subject source="lcsh">Indians of North America.</subject>
+    <subject source="lcsh">Ocean travel.</subject>
+    <geogname authfilenumber="sh 85095427" source="lcsh">Oregon -- Description and travel.</geogname>
+    <genreform authfilenumber="300134759" source="aat">tintypes (photographs)</genreform>
+    <genreform source="aat">Manuscripts (documents)</genreform>
+    <genreform source="aat">Typescripts.</genreform>
+    <genreform source="aat">Letters (correspondence)</genreform>
+    <genreform authfilenumber="300027798" source="aat">copyright certificates</genreform>
+    <genreform source="aat">Memoirs.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_3fe53574e1aeebd7afb94ed14582b749" level="item"><did><unittitle>Manuscript scroll, "Life in the gold fields of California: leaves from the diary of a Forty-Niner"</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315987</unitid><unitdate datechar="creation" type="inclusive">1851 or later</unitdate><container id="aspace_a2d83b41bf9e50ccd94bf75f7cb893df" label="Text" type="Box">1</container><container id="aspace_35f3ab42fdce199bec58f0566d82d5f9" parent="aspace_a2d83b41bf9e50ccd94bf75f7cb893df" type="roll">1</container></did><scopecontent id="aspace_3984d5cbb18e63f91e580567dbfcfba7"><head>Scope and Contents</head><p>The scroll (220 cm x 22 cm) starts in 1851, though it is possible that Goodell composed these notes at a later time. He does not sign his name on the manuscript, but it is written on the verso in another hand. In this text, which begins with "In the spring of '51," Goodell describes his travels from Oregon to Northern California and provides details of his party's efforts to find gold during the California Gold Rush. He and his party have frequent interactions with local Indian tribes, some amicable and others hostile. He comments on the difficulties of the terrain, especially fast-moving rivers they need to ford. He also discusses difficulties obtaining supplies, inflated prices for necessities, and the "sharpers and speculators" who set up gambling operations to take money from the Forty-Niners.</p><p>Folder 1 of this collection includes a typed transcription of the text on this scroll and a much longer typescript that recounts Goodell's travels to and from California and goes into more detail about his time there.</p></scopecontent></c><c id="aspace_319688b94621db0dd1d13fef0a85c976" level="file"><did><unittitle>Typescripts (2) of Life in the gold fields of California: leaves from the diary of a Forty-Niner</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315988</unitid><unitdate datechar="creation" type="inclusive">1900s</unitdate><container id="aspace_e9d80fd20187d7929304c3988b1e8589" label="Text" type="Box">1</container><container id="aspace_573a413dba05de1c545b39828b87041e" parent="aspace_e9d80fd20187d7929304c3988b1e8589" type="Folder">1</container></did><scopecontent id="aspace_d5cb687f3828ffe349540d10ca204772"><head>Scope and Contents</head><p>The first typescript (5 pages), "Life in the Gold Fields of California: Leaves from the Diary of a Forty-Niner," is a transcription of the manuscript scroll in this collection.<lb/></p><p>The second typescript is untitled (53 pages) and begins with Goodell's family's move to Waterford, Saratoga in 1832. After some brief comments on his childhood and education, Goodell describes his efforts to earn money selling daguerreotypes in New York, Rhode Island, and Pennsylvania. He ultimately sells his "Daguerrean Gallery" at the corner of North William Street and Chatham Street in NYC and joins a company called "The Island City Mining and Trading Association of New York City" to travel to California to prospect for gold. Goodell provides detailed information about outfitting the boat, hiring a crew, and sailing from New York to California via Cape Horn, including a visit to the Galapagos Islands where they hunt sea lions and terrapins.<lb/></p><p>After arriving in San Francisco, the company breaks up, liquidates its assets, and splits the money between the members. Goodell joins a group travelling up the San Joaquin River to dig for gold. He recounts jumping someone else's claim and working it with a partner. He is constantly noting how much the gold he finds is worth and how much he is having to pay for food, tools, lodging, etc. He also provides accounts of fording creeks and rivers, meeting with various other men, and encountering Indians.<lb/></p><p>After he has made a comfortable sum prospecting gold, Goodell returns to San Francisco and sets out for Oregon with plans to open a store there. He recounts various adventures in Oregon. Then he and a small party return to California by land and begin mining operations again near Yreka and Redding. Eventually he books passage to return to New York via the "Nicaragua route." The later parts of this typescript closely follow the text of the scroll and the first typescript, though this typescript includes many additional details. </p><p>Note that page 29 is missing from the typescript.</p></scopecontent></c><c id="aspace_d603eb4dcad83c7a0bfe67c97e6b3e45" level="file"><did><unittitle>Tintypes (5) of Alfred T. Goodell and others</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315989</unitid><unitdate datechar="creation" type="inclusive">1800s</unitdate><container id="aspace_2e45bd594268f938388aea56597295d8" label="Graphic Materials" type="Box">1</container><container id="aspace_a154ea950f43d541b5d1e3230ddb2169" parent="aspace_2e45bd594268f938388aea56597295d8" type="Folder">2</container></did><scopecontent id="aspace_7d7aec3e40b1d919f2a25e229516f2fe"><head>Scope and Contents</head><p>Includes 5 tintypes:<lb/>
+1. Image of a woman standing to the left and a man sitting to the right, wearing formal clothing. A note on the back of the paper frame indicates that these people are Mr. and Mrs. Alfred Goodell.<lb/>
+2. Image of 6 men in work clothes, presumably Forty-Niners<lb/>
+3. Image of a seated man to the left and a standing young man to the right<lb/>
+4. Image of a man seated between two girls<lb/>
+5. Image of a boy</p></scopecontent></c><c id="aspace_37f938448c3ba1f342e871a7c0c17cba" level="file"><did><unittitle>Copyright application for "Diary of a 49er"</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/315990</unitid><unitdate datechar="creation">1995</unitdate><container id="aspace_dea9bc8ade0f94be04b60e7f8ca49208" label="Text" type="Box">1</container><container id="aspace_d884301023bedf4c4b8e41cf08f28418" parent="aspace_dea9bc8ade0f94be04b60e7f8ca49208" type="Folder">3</container></did><scopecontent id="aspace_4ae18039cee64dd72b6cc33552021d28"><head>Scope and Contents</head><p>Includes a copyright application for "Diary of a 49er," submitted to the United States Copyright Office in 1995 by Norma Thomsen and Jean Prindle as descendants of Alfred T. Goodell. Also includes a typed letter to Norma Thomsen from Robin L. Jones, an "author relations representative" at Dorrance Publishing Co., concerning possible publication of the manuscript.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
