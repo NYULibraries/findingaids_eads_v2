@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2026_004">2026_004</eadid><filedesc><titlestmt><titleproper>Guide to the Beach-Nut Bugle newsletters <num>2026.004</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>April 23, 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-04-24 15:09:36 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Beach-Nut Bugle newsletters</unittitle>
+    <origination label="Creator">
+      <persname role="col" source="local">Deutsch, Murray, 1924-2022</persname>
+    </origination>
+    <origination label="source">
+      <persname source="local">Deutsch, Janice M.</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Brighton Beach Bath and Racquet Club</corpname>
+    </origination>
+    <unitid>2026.004</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2017</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1976/1987" type="inclusive">1976-1987</unitdate>
+    <abstract id="aspace_a16ac854e93b2a7f9196e0b9429a1790">Newsletters from 1976-1987 published and distributed by the Brighton Beach Bath and Racquet Club (BBBRC), which existed from 1907-1994.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_199c209ed9b20a7374f523a463b6485b" label="Mixed Materials" type="Box">A0045</container>
+  </did>
+  <accessrestrict id="aspace_0c9e08b1f697ef0f126a69a0fc22607e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_130cb7120f201e9e3bd27004aee35347">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Janice M. Deutsch, 2026.</p>  </acqinfo>
+  <arrangement id="aspace_dafdbc5858d2f7fca10040b0df7afbb5">
+    <head>Arrangement</head>
+<p>The collection is arranged chronologically in a single folder.</p>  </arrangement>
+  <bioghist id="aspace_b2698fe449df7d82ded9197e1be3df9e">
+    <head>Historical note</head>
+<p>The Brighton Beach Bath and Racquet Club was a private athletic club established in 1907 as the Brighton Beach Baths. It was located at 3205 Coney Island Avenue. At one time advertised as the world's largest beach resort, the club had over 13,000 members by the 1960s. The club had handball courts, three swimming pools, steam rooms, and space for card games and mah-jongg, as well as a band shell for musical performances and other entertainments. The club closed in 1994 and the site was sold in 1997, later becoming the Oceana Condominium and Club.</p>    <list numeration="arabic" type="ordered">
+      <head>Source:</head>
+      <item>Jackson, Kenneth T. "Brighton Beach Bath and Racquet Club." In The Encyclopedia of New York City, edited by Kenneth T. Jackson, 158. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 2010.</item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_12878431ca8e698302960a599e9d0883">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_af532a03cbb039a8224ef88a19dac4a2">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Beach-Nut Bugle newsletters, 2026.004, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_eb336ea3256c8b78fd34bfd9e06f196d">
+    <head>Processing Information</head>
+<p>Processed by Dee Bowers upon acquisition in 2026.</p>  </processinfo>
+  <relatedmaterial id="aspace_6ffd86f407d0af48f61f7e5db867bf4d">
+    <head>Related Materials</head>
+<p>Brighton Beach Baths free daily concerts playbills in the Brooklyn playbills and programs collection (BCMS.0041)</p><p>Brighton Beach photographs in the N. Jay Jaffee photographs (CBHM.0010)</p><p>Beach Journal in the Local newspapers on microfilm collection (BCMS.0028)</p><p>Brooklyn newsletter collection (ARC.174)</p>  </relatedmaterial>
+  <scopecontent id="aspace_89776801ecc1f57c853136aa7358d1bf">
+    <head>Scope and Contents</head>
+<p>Newsletters from 1976-1987 published and distributed by the Brighton Beach Bath and Racquet Club (BBBRC), which existed from 1907-1994. The newsletters cover local events and goings-on and include many photographs of community members and events, as well as advertisements for local businesses. Events include beauty contests, concerts, comedy shows, and sporting events.</p><p>Some issues are duplicated in the collection. The earliest issue, from October 1976, is quite discolored and damaged, but still legible. The remaining issues have some rips and creases but are mostly in good condition.</p>  </scopecontent>
+  <userestrict id="aspace_4cc093e0739e3c3736b423c8d1fb81c2">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brighton Beach (New York, N.Y.)</geogname>
+    <genreform source="lcsh">Newsletters</genreform>
+    <subject source="lcsh">Clubs</subject>
+    <subject source="lcsh">Clubs -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Sports -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</geogname>
+    <subject source="lcsh">Beaches -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Concerts -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Beauty contests</subject>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Athletic clubs -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Private clubs -- New York (State) -- Kings County</subject>
+    <persname role="fmo" source="local">Deutsch, Janice M.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
