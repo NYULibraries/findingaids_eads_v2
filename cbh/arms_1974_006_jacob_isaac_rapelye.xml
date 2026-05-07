@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_006_jacob_isaac_rapelye/">arms_1974_006_jacob_isaac_rapelye</eadid><filedesc><titlestmt><titleproper>Guide to the Jacob and Isaac Rapelye papers <num>1974.006</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 28, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:16:55 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_006_jacob_isaac_rapelye/">arms_1974_006_jacob_isaac_rapelye</eadid><filedesc><titlestmt><titleproper>Guide to the Jacob and Isaac Rapelye papers <num>1974.006</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>April 28, 2010</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-05-07 16:35:15 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Jacob and Isaac Rapelye papers</unittitle>
     <origination label="Creator">
@@ -12,20 +12,21 @@
       <persname source="local">Rapelye, Isaac</persname>
     </origination>
     <unitid>1974.006</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/119</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.67 Linear Feet</extent>
+      <extent altrender="materialtype spaceoccupied">2.06 Linear Feet</extent>
       <extent altrender="carrier">in one oversize box.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1812/1820" type="inclusive">1812-1820</unitdate>
-    <abstract id="aspace_3806bf2d449644a9035fca29bb686fd5" label="Abstract">The Jacob and Isaac Rapelye papers contain four documents relating to Jacob and Isaac Rapelye, members of the prominent Rapelye family of New York and descendents of Joris Jansen de Rapalie, an early settler of Long Island.  The documents span the period 1812 to 1820 and are honorary in nature, celebrating the establishment of Isaac's medical career, Jacob's military appointments during the War of 1812, and Jacob's political appointments in the State of South Carolina.</abstract>
+    <abstract id="aspace_3806bf2d449644a9035fca29bb686fd5" label="Abstract">The Jacob and Isaac Rapelye papers contain four documents relating to Jacob and Isaac Rapelye, members of the prominent Rapelye family of New York and descendents of Joris Jansen de Rapalie, an early settler of Long Island. The documents span the period 1812 to 1820 and are honorary in nature, celebrating the establishment of Isaac's medical career, Jacob's military appointments during the War of 1812, and Jacob's political appointments in the State of South Carolina.</abstract>
     <langmaterial>
-      <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Large Flat Box 14" id="aspace_12b2dca90c81131305ab031d4674560b" label="Text" type="Box">OS-35</container>
+      <language langcode="eng" scriptcode="Latn">English</language>
+    </langmaterial>
+    <container altrender="Large Flat Box 14" id="aspace_58adc12d8394b15954b699daf9f30aa5" label="Text" type="Box">OS-35</container>
   </did>
   <prefercite id="aspace_6091f11bc2965616f09df388b830a10a">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Jacob and Isaac Rapelye papers, 1974.004, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Jacob and Isaac Rapelye papers, 1974.004, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <accessrestrict id="aspace_99f553c07c6ddb5e0478f7f5abc18e56">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
@@ -34,7 +35,7 @@
 <p>Minimally processed to the collection level.</p>  </processinfo>
   <scopecontent id="aspace_ec4f085d6917eb398c142bd3291e76ff">
     <head>Scope and Content</head>
-<p>The Jacob and Isaac Rapelye papers include four items celebrating the achievements of Isaac and Jacob Rapelye during the period 1812 to 1820.  Items include Isaac's medical diploma issued by the College of Physicans and Surgeons, as well as Jacob's military appointments during the War of 1812, which included that of First Lieutenant in the Battalion of the Artillery of the State of New York (signed by Governor Daniel Tomkins) and First Lieutenant of Volunteers in the Service of the United States (signed by President James Madison).  Finally, the collection also includes Jacob's appointment as Deputy Secretary of the State of South Carolina in 1816.  All items are housed in an oversize box.</p>  </scopecontent>
+<p>The Jacob and Isaac Rapelye papers include four items celebrating the achievements of Isaac and Jacob Rapelye during the period 1812 to 1820. Items include Isaac's medical diploma issued by the College of Physicans and Surgeons, as well as Jacob's military appointments during the War of 1812, which included that of First Lieutenant in the Battalion of the Artillery of the State of New York (signed by Governor Daniel Tomkins) and First Lieutenant of Volunteers in the Service of the United States (signed by President James Madison). Finally, the collection also includes Jacob's appointment as Deputy Secretary of the State of South Carolina in 1816.</p>  </scopecontent>
   <acqinfo id="aspace_fd17e57a38971b42b7fe39f58b858821">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Augustus Rapelye, 1895.</p>  </acqinfo>
@@ -47,16 +48,22 @@
       <item>Stiles, Henry R. <emph render="italic">A History of the City of Brooklyn</emph>. Bowie, MD: Heritage Books, 1993.</item>
     </list>
   </bioghist>
+  <userestrict id="aspace_ecd483761862dbbe3ae4c3c146beb7fa">
+    <head>Conditions Governing Use</head>
+<p>Materials in this collection are in the public domain.</p>  </userestrict>
+  <phystech id="aspace_b3ffb46585156d6214d446f689483868">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
   <controlaccess>
-    <subject source="lcsh">Medical colleges |z New York (State) |z New York</subject>
-    <geogname source="lcsh">South Carolina |x Politics and government</geogname>
-    <subject source="lcsh">Politicians |z South Carolina</subject>
+    <subject source="lcsh">Medical colleges -- New York (State) -- New York</subject>
+    <geogname source="lcsh">South Carolina -- Politics and government</geogname>
+    <subject source="lcsh">Politicians -- South Carolina</subject>
     <genreform source="aat">Certificates</genreform>
     <subject source="aat">Military commissions</subject>
-    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y War of 1812</geogname>
-    <subject source="lcsh">Soldiers |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-    <subject source="lcsh">Physicians |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- History -- War of 1812</geogname>
+    <subject source="lcsh">Soldiers -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Families -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Physicians -- New York (State) -- Kings County</subject>
     <persname source="local">Rapelye, Jacob</persname>
     <persname source="local">Rapelye, Isaac</persname>
   </controlaccess>
