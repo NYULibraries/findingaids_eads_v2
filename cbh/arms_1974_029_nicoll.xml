@@ -1,53 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_029_nicoll/">arms_1974_029_nicoll</eadid><filedesc><titlestmt><titleproper>Guide to the William Nicoll land grants <num>1974.029</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 25, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:18 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_029_nicoll/">arms_1974_029_nicoll</eadid><filedesc><titlestmt><titleproper>Guide to the William Nicoll land grants <num>1974.029</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>October 25, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-05-07 15:53:56 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>William Nicoll land grants</unittitle>
     <origination label="Creator">
       <persname source="local">Nicoll, William</persname>
     </origination>
     <unitid>1974.029</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/131</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.67 Linear Feet</extent>
+      <extent altrender="materialtype spaceoccupied">2.06 Linear Feet</extent>
       <extent altrender="carrier">in one oversize box.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1684/1804" type="inclusive">1684-1804</unitdate>
-    <unitdate datechar="creation" normal="1684/1701" type="bulk">1684-1701</unitdate>
-    <abstract id="aspace_701598c8fa2b1afddc1fd4b301f04cf5">This collection contains 11 grants issued to William Nicoll for land in the Province of New York, many relating to the town of Islip in Suffolk County.</abstract>
+    <unitdate datechar="creation" normal="1686/1804" type="inclusive">1686-1804</unitdate>
+    <abstract id="aspace_701598c8fa2b1afddc1fd4b301f04cf5">This collection contains 11 documents, mostly land grants, issued to William Nicoll for land in the Province of New York, relating to the towns of Islip and Huntington in Suffolk County.</abstract>
     <langmaterial>
-      <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Large Flat Box 14" id="aspace_b35dbe877e6e005545f43408dd88aad1" label="Text" type="Box">OS-35</container>
+      <language langcode="eng" scriptcode="Latn">English</language>
+    </langmaterial>
   </did>
   <accessrestrict id="aspace_c4cb5d19f1ee8593a86259c5ab12b174">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
   <processinfo id="aspace_fb3bdee3006bfa551651291aefdca579">
     <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
+<p>Originally minimally processed to the collection level, this collection was reprocessed to the file level by Alice Griffin in May 2026. All folder titles provided by the archivist.</p>  </processinfo>
   <prefercite id="aspace_bcdca7f2044ddcc7f276bf931842b68f">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); William Nicoll land grants, 1974.029, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); William Nicoll land grants, 1974.029, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <acqinfo id="aspace_100548b9d733082be09180778b149d35">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Mrs. Frances A. Johnson and Mrs. William G. Nicoll, 1922.</p>  </acqinfo>
   <bioghist id="aspace_0edefae0a160d752b4c9fa548df55050">
     <head>Biographical Note</head>
-<p>William Nicolls (1657-1723) was a lawyer and politician.  He was appointed Queens County Clerk in 1683 and became Attorney General of the Province of New York in 1687.  In 1701 he represented Suffolk County in the Assembly and in 1702 became Speaker.</p>  </bioghist>
+<p>William Nicolls (1657-1723) was a lawyer and politician. He was appointed Queens County Clerk in 1683 and became Attorney General of the Province of New York in 1687. In 1701 he represented Suffolk County in the Assembly and in 1702 became Speaker.</p>  </bioghist>
   <scopecontent id="aspace_afe9af1d44d33a42833c3d57df04f567">
     <head>Scope and Contents</head>
-<p>This collection contains 11 grants issued to William Nicoll for land in the Province of New York, many relating to the town of Islip in Suffolk County.</p>  </scopecontent>
+<p>This collection contains 11 grants issued to William Nicoll for land in the Province of New York, relating to the towns of Islip and Huntington in Suffolk County.</p>  </scopecontent>
+  <arrangement id="aspace_b581da489bbbfbaacf01fd61280b262b">
+    <head>Arrangement</head>
+<p>This collection is arranged chronologically.</p>  </arrangement>
+  <userestrict id="aspace_ef3f9d2e7af80761e6e4c5ccbe6f88a6">
+    <head>Conditions Governing Use</head>
+<p>Material in this collection is in the public domain.</p>  </userestrict>
+  <phystech id="aspace_7700ea1217fb604e1359f533d6b9304d">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <scopecontent id="aspace_90f6905d240d5733f48cc82b096ae9a8">
+    <head>Scope and Contents</head>
+<p>This collection contains 11 documents, mostly land grants, issued to William Nicoll for land in the Province of New York, relating to the towns of Islip and Huntington in Suffolk County. One document is a court decision issued by Daniel Horsmanden regarding a land dispute between Nicoll and Gilbert Burger.</p>  </scopecontent>
+  <relatedmaterial id="aspace_751dafc6246a2c687df245f6689a57a6">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related collections: </p><p>- Nathaniel R. Howell Suffolk County, Nassau County, and Queens County deeds collection (1977.243), 1766-1934</p><p>The Office of the Suffolk County Clerk holds deeds from the mid-to-late 1600s. </p>  </relatedmaterial>
   <controlaccess>
-    <subject source="lcsh">Land titles |z New York (State) |z New York</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- New York</subject>
     <genreform source="aat">Land grants</genreform>
     <geogname source="lcsh">Islip (N.Y.)</geogname>
-    <subject source="lcsh">Land titles |z New York (State) |z Suffolk County</subject>
-    <subject source="lcsh">Real property |z New York (State) |z Suffolk County</subject>
-    <subject source="lcsh">Real property |z New York (State) |z New York</subject>
+    <subject source="lcsh">Land titles -- New York (State) -- Suffolk County</subject>
+    <subject source="lcsh">Real property -- New York (State) -- Suffolk County</subject>
+    <subject source="lcsh">Real property -- New York (State) -- New York</subject>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">Suffolk County (N.Y.)</geogname>
+    <geogname source="local">Sachem's Neck</geogname>
+    <geogname source="lcsh">Huntington (N.Y.)</geogname>
     <persname source="local">Nicoll, William</persname>
+    <persname rules="aacr" source="naf">Limerick, Thomas Dongan, Earl of</persname>
+    <persname>Palmer, John</persname>
+    <persname>Burger, Gilbert</persname>
+    <persname>Ash, John</persname>
+    <persname authfilenumber="n  85088650" source="naf">Fletcher, Benjamin, 1640-1703</persname>
+    <persname>Gibb, Andrew</persname>
+    <persname>Thompson, William</persname>
+    <persname>Horsmanden, Daniel, 1694-1778</persname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_4fb12c7580c714f5b84050e22807b6d7" level="file"><did><unittitle>Grants to William Nicoll signed by Thomas Dongan</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468982</unitid><unitdate datechar="creation" normal="1684/1686" type="inclusive">1684-1686</unitdate><container altrender="Large Flat Box 14" id="aspace_66a3aba4272fef36a3137fe28a92ce91" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_8fdac4809445946747101bac621131e0" parent="aspace_66a3aba4272fef36a3137fe28a92ce91" type="Folder">1</container></did></c><c id="aspace_67f74daa224566f414ded9e31ebbbe9d" level="file"><did><unittitle>Two grants attached to each other and signed by John Palmer</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468983</unitid><unitdate datechar="creation" normal="1692/1692">1692</unitdate><container altrender="Large Flat Box 14" id="aspace_7a01ef4abf115184fe97272a6c89f4fd" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_97894f31f4ec289c61aceda4f38bd2af" parent="aspace_7a01ef4abf115184fe97272a6c89f4fd" type="Folder">2</container></did></c><c id="aspace_3bd8c24bd2c0c7a4bf44cf6e45f6ead2" level="file"><did><unittitle>Grant signed by William Nicoll for Suffolk County land</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468984</unitid><unitdate datechar="creation" normal="1695-10-20/1695-10-20">October 20, 1695</unitdate><container altrender="Large Flat Box 14" id="aspace_d37b6eedf9b15be9abf33933bad1c87d" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_c94f8d7726b36d28162ca7b6898f48f5" parent="aspace_d37b6eedf9b15be9abf33933bad1c87d" type="Folder">3</container></did></c><c id="aspace_a3db483993c8b5600c2c7c36191d97ae" level="file"><did><unittitle>Grant between John Ash and William Nicoll</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468985</unitid><unitdate datechar="creation" normal="1696-12-13/1696-12-13">December 13, 1696</unitdate><container altrender="Large Flat Box 14" id="aspace_45be6dc0c7d9b7c6397fd6fa0d0e7912" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_e87bdd7d74274cbdf29839d3da1ef11d" parent="aspace_45be6dc0c7d9b7c6397fd6fa0d0e7912" type="Folder">4</container></did><scopecontent id="aspace_0daff6530f30f7b6f2879bbcb7401074"><head>Scope and Contents</head><p>Includes wax seal.</p></scopecontent></c><c id="aspace_21e720d2bd99f86981b3eef3a3a0a48e" level="file"><did><unittitle>Confirmatory grant for land and pond to William Nicoll, signed by Benjamin Fletcher</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468986</unitid><unitdate datechar="creation" normal="1697-09-20/1697-09-20">September 20, 1697</unitdate><container altrender="Large Flat Box 14" id="aspace_8f38047383ba7db394e4e064388adf87" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_89a103fa45d3d51015cb1d5ed288e29d" parent="aspace_8f38047383ba7db394e4e064388adf87" type="Folder">5</container></did><scopecontent id="aspace_aef51fb43dd3e2d26adadd8f5f948f0d"><head>Scope and Contents</head><p>Includes broken dangling seal.</p></scopecontent></c><c id="aspace_85da813745dbdfbf5f3cf5547deb10b5" level="file"><did><unittitle>Land grants between William Nicoll and Andrew Gibb</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468987</unitid><unitdate datechar="creation" normal="1701-02-17/1701-02-17">February 17, 1701</unitdate><container altrender="Large Flat Box 14" id="aspace_7f42ffc63251a56bdd199ab516dca179" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_f64442d6b5c575d976778f4af92d0489" parent="aspace_7f42ffc63251a56bdd199ab516dca179" type="Folder">6</container></did><scopecontent id="aspace_4b874d5710408836d91f8c686fdd50a3"><head>Scope and Contents</head><p>Includes wax seal.</p></scopecontent></c><c id="aspace_69fe709a119cd4f841051050e414a048" level="file"><did><unittitle>Land grant between William Nicoll, Gilbert Burger, and William Thompson</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468988</unitid><unitdate datechar="creation" normal="1769-07-22/1769-07-22">July 22, 1769</unitdate><container altrender="Large Flat Box 14" id="aspace_beaa708775e5bb2518c3d9e53cf5ce5a" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_1add738a8970bdb5cb65093f4400d60c" parent="aspace_beaa708775e5bb2518c3d9e53cf5ce5a" type="Folder">7</container></did></c><c id="aspace_7f1c7ee0757da809d2dd000fabf659ba" level="file"><did><unittitle>Court decision from Daniel Horsmanden</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468989</unitid><unitdate datechar="creation" normal="1769-07-29/1769-07-29">July 29, 1769</unitdate><container altrender="Large Flat Box 14" id="aspace_736bcae8f29a02a384f4e4054c251d87" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_7ef192a7f3d8e6b53329fad380129d59" parent="aspace_736bcae8f29a02a384f4e4054c251d87" type="Folder">8</container></did></c><c id="aspace_5068465531092c2c29ce7b162f2e9a00" level="file"><did><unittitle>Huntington land grant</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/468990</unitid><unitdate datechar="creation" normal="1804-08-20/1804-08-20">August 20, 1804</unitdate><container altrender="Large Flat Box 14" id="aspace_6af18e007ce16d15c548c4194801a2d0" label="Mixed Materials" type="Box">OS-35</container><container id="aspace_6c41ba5da56330471cf89978feb23c83" parent="aspace_6af18e007ce16d15c548c4194801a2d0" type="Folder">9</container></did><scopecontent id="aspace_cd6049b64bc77e1be94bc9ef54f944a6"><head>Scope and Contents</head><p>Includes dangling wax seal. Ribbon attaching wax seal to document has broken.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
