@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_662">mss_662</eadid><filedesc><titlestmt><titleproper>Guide to the Dolores Brandon Sound Recordings on Richard Foreman <num>MSS.662</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>May 2026</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-05-13 17:13:51 UTC</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Dolores Brandon Sound Recordings on Richard Foreman</unittitle>
+    <origination label="Creator">
+      <persname authfilenumber="(lccn)n  97856080 " rules="dacs" source="naf">Brandon, Dolores</persname>
+    </origination>
+    <origination label="source">
+      <persname authfilenumber="(lccn)n  97856080 " role="dnr" rules="dacs" source="naf">Brandon, Dolores</persname>
+    </origination>
+    <unitid>MSS.662</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/3615</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 Linear Feet</extent>
+      <extent altrender="carrier">in 3 items in shared housing</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 audiocassettes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 sound tape reels</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+    <abstract id="aspace_0c767962ffd2dfe0aec1ab107e50fca7">Dolores Brandon is a poet, memoirist, essayist, radio producer and journalist whose work focuses on literary, visual, and performing arts. This collection consists of interview recordings of Dolores Brandon in conversation with Richard Foreman. The collection also includes interviews of Arnold Aronson and David Patrick Kelly discussing Foreman. Materials include two audiocassettes and one audio reel.</abstract>
+    <langmaterial id="aspace_b5c7b2345b0cd7388af8917331985912">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_2ee739ee1edf1071e43d083028638adb">
+    <head>Scope and Contents</head>
+<p>This collection consists of interview recordings of Dolores Brandon in conversation with Richard Foreman. The collection also includes interviews of Arnold Aronson and David Patrick Kelly discussing Foreman. Materials include two audiocassettes and one audio reel.</p>  </scopecontent>
+  <arrangement id="aspace_3eb24c66345df4ea6a3a53ef5581fc25">
+    <head>Arrangement</head>
+<p>Materials are arranged alphabetically.</p>  </arrangement>
+  <accessrestrict id="aspace_17f40a6bf87c792a72dfbe6c2e6b7760">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_c4e7569e92cb35c401278a356a33e589">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_3590dd8df75e573d1cfb0b82d478e67a">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Dolores Brandon in May 2026; the accession number associated with this gift is 2026.025.</p>  </acqinfo>
+  <phystech id="aspace_65bddc9bb6072eaf0adec9ca41fc2826">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact NYU Special Collections (special.collections@nyu.edu, 212-998-2596) with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <prefercite id="aspace_dd1ff06003bcae78348ba7ef79e2ae34">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Dolores Brandon Sound Recordings of Richard Foreman; MSS 662; box number; folder number or item identifier; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_f867b2f77f43cba6bfa38e03ae7e22bb">
+    <head>Processing Information</head>
+<p>At the time of accessioning materials were rehoused in archival boxes, described at the collection-level, and inventoried at the item-level.</p>  </processinfo>
+  <bioghist id="aspace_9979b74162fd469bf05e313ef61c56c4">
+    <head>Biographical Note</head>
+<p>Dolores Brandon is a poet, memoirist, essayist, radio producer and journalist whose work focuses on literary, visual, and performing arts.</p>  </bioghist>
+  <controlaccess>
+    <genreform authfilenumber="(lccn)gf2011026594" source="lcsh">Sound recordings</genreform>
+    <subject source="lcsh">Playwriting.</subject>
+    <subject source="lcsh">Experimental theater</subject>
+    <subject source="lcsh">American drama -- 20th century.</subject>
+    <persname authfilenumber="(lccn)n  97856080 " role="dnr" rules="dacs" source="naf">Brandon, Dolores</persname>
+    <persname source="naf">Foreman, Richard</persname>
+  </controlaccess>
+  <dsc><c id="aspace_4c6a32ebbabd766e889846c7611f9550" level="file"><did><unittitle>Arnold Aronson</unittitle><unitid>cuid44695</unitid><unitid type="aspace_uri">/repositories/3/archival_objects/1056849</unitid><unitdate datechar="creation" normal="1997-02-11/1997-02-11">1997 February 11</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_e77a561612a8418942d49b302d8fe7ee" label="Audio [31142062692515]" type="Box">Shared Fales 161</container><container id="aspace_e0f58fb5a192a9baa7d10eade38cc4b7" parent="aspace_e77a561612a8418942d49b302d8fe7ee" type="audiocassette">cuid44695</container></did></c><c id="aspace_0d840a002019c5d96ae9dc186307e504" level="file"><did><unittitle>David Patrick Kelly</unittitle><unitid>cuid44696</unitid><unitid type="aspace_uri">/repositories/3/archival_objects/1056850</unitid><unitdate datechar="creation" normal="1997-02-03/1997-02-03">1997 February 3</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f00e31dafea0e2229ccccd90f9f5057" label="Audio [31142066794416]" type="Box">Shared Fales 160</container><container id="aspace_954123037176ba531d035a1fbcea1cc6" parent="aspace_0f00e31dafea0e2229ccccd90f9f5057" type="Quarter_Inch_Audio_Reel">cuid44696</container></did></c><c id="aspace_7efb6fbed4dd539e5f9ca9b30bde9a39" level="file"><did><unittitle>Richard Foreman</unittitle><unitid>cuid44697</unitid><unitid type="aspace_uri">/repositories/3/archival_objects/1056851</unitid><unitdate datechar="creation" normal="1997-01-22/1997-01-22">1997 January 22</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_4732ef13476fe61f2e8a5acd00877bd2" label="Audio [31142062692515]" type="Box">Shared Fales 161</container><container id="aspace_9174b8a73a414ecd01c9125d207b121f" parent="aspace_4732ef13476fe61f2e8a5acd00877bd2" type="audiocassette">cuid44697</container></did></c></dsc>
+</archdesc>
+</ead>
