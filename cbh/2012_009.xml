@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2012_009">2012_009</eadid><filedesc><titlestmt><titleproper>Guide to the Abraham Ravett Brighton Beach photographs <num>2012.009</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>May 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-05-18 16:02:11 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Abraham Ravett Brighton Beach photographs</unittitle>
+    <origination label="Creator">
+      <persname role="pht" source="local">Ravett, Abraham</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="local">Ravett, Abraham</persname>
+    </origination>
+    <unitid>2012.009</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2018</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      <extent altrender="carrier">in two manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1982/1984" type="bulk">1982-1984</unitdate>
+    <unitdate datechar="creation" normal="1982/2013" type="inclusive">1982-1984, 2013</unitdate>
+    <abstract id="aspace_2fa9e8aec6f46b25470ea883e8d6e759">192 large format black and white photographic negatives and corresponding prints by Abraham Ravett of Brighton Beach scenes and people from summer 1982 and March 1984, as well as two shot notebooks and one book of the photographer's work.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_5dd7ef8278bad2de94eac7c56cd39f33">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_d4a36ef35ede9601cfda6b61288c40a3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Abraham Ravett, 2012.</p>  </acqinfo>
+  <arrangement id="aspace_4fdb00c4689988a7ebe43293e5aadeee">
+    <head>Arrangement</head>
+<p>The photographer numbered each negative and its correponding print and arranged them in numerical order, which is also roughly chronological with some exceptions. The collection has retained the photographer's original order.</p>  </arrangement>
+  <otherfindaid id="aspace_579c920309dcf9eeec94c0f7a9f348e2">
+    <head>Other Finding Aids</head>
+<p>There is an item level listing of the images in the collection in its accession file, available to researchers upon request.</p>  </otherfindaid>
+  <phystech id="aspace_2be18d3ebe7423ec02ef0668abf94c8a">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_81d05349b6543ffa6615e0794d0923bc">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Abraham Ravett Brighton Beach photographs, 2012.009, photograph number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_77af7151b8ee7928e351bec382cb1ea8">
+    <head>Processing Information</head>
+<p>The collection was originally stored in a small metal chest. The archivist rehoused the materials in acid-free folders and boxes but maintained the photographer's original order. The metal chest was discarded.</p><p>Also included was a piece of card with shot notes on pieces of masking tape attached. The adhesive on the tape was deteriorating and the pieces were coming loose. The archivist photocopied the item for preservation and discarded the original.</p>  </processinfo>
+  <relatedmaterial id="aspace_6cde373aadcdba0df9cb44394de1bd7d">
+    <head>Related Materials</head>
+<p>Ravett, Abraham. Brighton Beach : photographs. 2013. Call number TR659.8.R38 B7 2013</p><p>N. Jay Jaffee photographs (CBHM.0010)</p><p>Series 7: Brighton Beach in the Brooklyn location scouting photographs collection (CBHM.0017)</p><p>George Cohen photographs (accession 2013.0007) - available on CBH's digital collections under the call number prefix COHEN.</p>  </relatedmaterial>
+  <scopecontent id="aspace_b36ccd319bc5e25490a8c399aef16dc8">
+    <head>Scope and Contents</head>
+<p>192 large format photographic negatives and corresponding prints by Abraham Ravett of Brighton Beach scenes and people from summer 1982 and March 1984. Two handwritten shot list notebooks in chronological order from June (blue) and July (green) 1982. One 2013 book "Brighton Beach: Photographs by Abraham Ravett" with images from these negatives.</p><p>The negatives are black and white, 8x10", shot with a Wista view camera. The prints are black and white and approximately 8x10 (some are slightly larger).</p><p>Subjects include neighborhood residents of all ages, but especially senior citizens, including Ravett's mother; the beach and boardwalk; local businesses; street scenes, including the elevated subway tracks that run through the neighborhood; parks and playgrounds; homes and architecture; and the housing development Trump Village.</p>  </scopecontent>
+  <userestrict id="aspace_7a5cd2b2f53ac4ea4948a546f60ae95d">
+    <head>Conditions Governing Use</head>
+<p>Photographer retains copyright.</p><p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brighton Beach (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Street photography</subject>
+    <geogname source="local">Ocean Parkway (New York, N.Y.)</geogname>
+    <subject source="lcsh">Railroads, Elevated -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Subway stations -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Subways -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Boardwalks -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Beaches -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Children -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Senior centers -- New York (State)</subject>
+    <subject source="lcsh">Barbershops -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Grocery trade -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Clothing and dress -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Playgrounds -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Streets -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Parks -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Older people</subject>
+    <subject source="lcsh">Older people -- New York (State) -- Kings County</subject>
+    <persname role="dnr" source="local">Ravett, Abraham</persname>
+  </controlaccess>
+  <dsc><c id="aspace_6ff5dcf092885d0d40951c7b262a508a" level="item"><did><unittitle>"Brighton Beach: Photographs by Abraham Ravett"</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496087</unitid><unitdate datechar="creation" normal="2013/2013">2013</unitdate><container altrender="Full Manuscript Box Letter" id="aspace_2ded9668b7d2aff8362809b2c9e28cf6" label="Books" type="Box">1</container><container id="aspace_6769e7643d05dcfa0cd9af0ca6d627e5" parent="aspace_2ded9668b7d2aff8362809b2c9e28cf6" type="Folder">1</container></did><altformavail id="aspace_4940411e8d4f8e7abe93272908394748"><head>Existence and Location of Copies</head><p>There is an additional copy of this book shelved in the CBH library under the call number TR659.8.R38 B7 2013.</p></altformavail></c><c id="aspace_c11756f7f179a5229925b97aed08b44e" level="file"><did><unittitle>Shot notebooks</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496088</unitid><unitdate datechar="creation" normal="1982-06/1982-07" type="inclusive">June-July 1982</unitdate><container altrender="Full Manuscript Box Letter" id="aspace_bfa0c589b723567ba10d95779994458d" label="Mixed Materials" type="Box">1</container><container id="aspace_8f52c6751adb1ddc2f44f51db7556fc9" parent="aspace_bfa0c589b723567ba10d95779994458d" type="Folder">2</container></did><scopecontent id="aspace_8d767c8be55476d122427918e51fb746"><head>Scope and Contents</head><p>Also includes a preservation photocopy of a piece of board with shot notes on pieces of masking tape.</p></scopecontent></c><c id="aspace_ba783a36ae9b9da178aa68aeede63ef4" level="file"><did><unittitle>Negatives and prints BB1 - BB80</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496089</unitid><unitdate datechar="creation" normal="1982-06/1982-06">June 1982</unitdate><container altrender="Full Manuscript Box Letter" id="aspace_793d4ce828fb19c56d7b50db384d6876" label="Mixed Materials" type="Box">1</container><container id="aspace_f02d9835ce9401c1a74db758e0327f99" parent="aspace_793d4ce828fb19c56d7b50db384d6876" type="Folder">3-10</container></did><scopecontent id="aspace_41feb900c26942e888552cc9df37837b"><head>Scope and Contents</head><p>Named individuals in these photographs include Mrs. Bloom, Mr. and Mrs. Wolfish, Esther Friedenberg, Jack Harris, Mr. Noodelman, Mr. Moss, and Mr. Nadler.</p><p>Identified locations include Trump Village, Club 28, Ocean Parkway, Brighton Street, the boardwalk, and the alleyway between Brighton 7th and 8th Streets.</p></scopecontent></c><c id="aspace_97083226abdf5c61351348e5773fedbd" level="file"><did><unittitle>Negatives and prints BB81-BB200</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496090</unitid><unitdate datechar="creation" normal="1982-05/1984-03" type="inclusive">May-August 1982, March 1984</unitdate><container altrender="Full Manuscript Box Letter" id="aspace_0ec87ce526137ccbad2add3de8cdabeb" label="Mixed Materials" type="Box">2</container><container id="aspace_72cfe9f4f6a79cf8b4affbf0089cf4bf" parent="aspace_0ec87ce526137ccbad2add3de8cdabeb" type="Folder">1-12</container></did><scopecontent id="aspace_db110c465837bf1438c2426ad2987abc"><head>Scope and Contents</head><p>Named individuals in these images include David Lam, Lawrence Cohen, Vincent Commiss, Mr. Leonard, Mr. and Mrs. Baver, Mr. Newman, Evelyn Reiss, Mr. and Mrs. Wolfish, Esther Friedenberg, Jack Harris, Morris Schindelheim, Rebecca Gormazano, and Mr. and Mrs. G. Segal.</p><p>Identified locations include Coney Island Avenue, Marine Apartments, Brighton Beach Avenue, Trump Village, Brighton 7th Street, Youth World, Ocean Parkway, the boardwalk, and Neptune Avenue.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
