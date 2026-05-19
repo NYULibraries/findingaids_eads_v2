@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1992_030_gru/">arms_1992_030_gru</eadid><filedesc><titlestmt><titleproper>Guide to the Michael Gru register of legal cases and press clippings <num>1992.030</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>October 12, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:15:13 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1992_030_gru/">arms_1992_030_gru</eadid><filedesc><titlestmt><titleproper>Guide to the Michael Gru register of legal cases and press clippings <num>1992.030</num></titleproper><author>Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>October 12, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-05-19 20:06:17 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>May 2026</date><item>Revised by Dee Bowers to add biographical information</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Michael Gru register of legal cases and press clippings</unittitle>
     <origination label="Creator">
       <persname source="local">Gru, Michael</persname>
     </origination>
     <unitid>1992.030</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1031</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.42 Linear Feet</extent>
       <extent altrender="carrier">in two half manuscript boxes.</extent>
@@ -17,26 +18,48 @@
     <abstract id="aspace_a67f80a0288fac4bdddf4ca0fcf71d9a">Two-volume register of Brooklyn lawyer Michael Gru's legal cases for the period 1875 to 1900, as well as a book of press clippings regarding cases in which Gru was involved.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Half Manuscript Box Legal" id="aspace_d10da0fb650fd93e1858dc91c408e093" label="Text" type="Box">1992.030 1 of 2</container>
-    <container altrender="Half Manuscript Box Legal" id="aspace_63d86c8aa099ac84183790d2ecd1c6a3" label="Text" type="Box">1992.030 2 of 2</container>
+    </langmaterial>
+    <container altrender="Half Manuscript Box Legal" id="aspace_0c39a3cf7349df59ead526cec16d00a0" label="Mixed Materials" type="Box">1</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_3812315feda218adb216e4b33c8a6de8" label="Mixed Materials" type="Box">2</container>
   </did>
-  <prefercite id="aspace_8925acc62eb7bf242a35ab8572775ff8">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Michael Gru register of legal cases and press clippings, 1992.030, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <processinfo id="aspace_4d85a8a9cd1b57ca6a4115ddfcb17b6b">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
   <accessrestrict id="aspace_dc41fa185d5830e498a26823812ed583">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_3516ab748bb05dddb3c1d49b3e266391">
     <head>Immediate Source of Acquisition</head>
 <p>Gift of Maurice Duitz, 1992.</p>  </acqinfo>
+  <bioghist id="aspace_788cdbb9667d0b70d51a052a6eaf8aa8">
+    <head>Biographical note</head>
+<p>Michael Gruschenko was born in approximately 1854 or 1855 to Mr. and Mrs. James Gruschenko on West 31st Street in Manhattan. The family moved to Brooklyn when Michael was 8 years old. He was one of 18 children born to the couple, including his youngest brother George and his oldest brother Joseph, as well as his sister Mrs. Hannah Robinson.</p><p>Michael and George opened a law office together in Brooklyn at 26 Court Street in 1880. Both brothers started using the shortened surname Gru around 1879. Michael had been admitted to the bar in September 1873 or 1878 after attending either Columbia Law School or New York Law School (sources conflict). He had also clerked for United States Commissioner David C. Winslow, and worked with Bernard "Barney" Hughes.</p><p>In June 1889, Michael married Nancy Kaiser. Michael was described in the Brooklyn Eagle's announcement of his marriage as a "well known and popular lawyer and politician." He was active in politics and philanthropy and was a member of the Royal Arcanum, Zeredatha Lodge of Free Masons, the Elks, B and P.O. of E. No. 22, the Manhasset Club, the Union Democratic Club of the Tenth Ward, the Hebrew Orphan Asylum of Brooklyn, the Hebrew Benevolent Association, and the Home Circle. He also served as counsel for the Hamilton Co-operative Building and Loan Association as well as other State Building and Loan Associations, several furniture dealers, one of John Y. McCane's brothers, and "heirs in large estates" (Brooklyn Citizen, 1899).</p><p>Michael Gru died in June 1900 and was survived by his wife. At that time, the couple was living at 397 Union Street in Brooklyn. His funeral was conducted by Rev. Dr. Louis Pulvermacher, who was the first president of Congregation Mount Sinai. He was buried in the family plot in Washington Cemetery.</p>    <list type="ordered">
+      <head>Sources</head>
+      <item>"Tenth Ward [officers]." Brooklyn Eagle, January 30, 1877, p4. Accessed via newspapers.com May 19, 2026.</item>
+      <item>"Young Lawyers - Michael Gru." Brooklyn Daily Times, March 29, 1884, p6. Accessed via newspapers.com May 19, 2026.</item>
+      <item>"The Rev. John Jones: Lawyer Michael Gru would like to meet him." Brooklyn Daily Times, December 8, 1888, p1. Accessed via newspapers.com May 19, 2026.</item>
+      <item>"Gru-Kaiser [marriage announcement]." Brooklyn Eagle, June 19, 1889, p6. Accessed via newspapers.com May 19, 2026.</item>
+      <item>"Prominent Members of the Bar of Kings County - Michael Gru." Brooklyn Citizen, December 10, 1889, p46. Accessed via newspapers.com May 19, 2026.</item>
+      <item>[Legal notice regarding Michael Gru estate case]. Brooklyn Citizen, July 20, 1896, p8. Accessed via newspapers.com May 19, 2026.</item>
+      <item>[Michael Gru death notice]. Brooklyn Eagle, June 8, 1900, p6. Accessed via newspapers.com May 19, 2026.</item>
+      <item>[Michael Gru death notice]. Brooklyn Citizen, June 9, 1900, p2. Accessed via newspapers.com May 19, 2026.</item>
+      <item>"Funeral of Michael Gru." Brooklyn Eagle, June 11, 1900, p2. Accessed via newspapers.com May 19, 2026.</item>
+      <item>"57 Years a Practicing Lawyer is the Record of George Gru, 78." Brooklyn Times Union, June 28, 1936, p12. Accessed via newspapers.com May 19, 2026.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_8925acc62eb7bf242a35ab8572775ff8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Michael Gru register of legal cases and press clippings, 1992.030, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_4d85a8a9cd1b57ca6a4115ddfcb17b6b">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <processinfo id="aspace_2e0c1058094cdf6caf7941ba42f18e44">
+    <head>Processing Information</head>
+<p>Finding aid revised by Dee Bowers in May 2026 to incorporate biographical information from research conducted by Kevina Tidwell.</p>  </processinfo>
+  <userestrict id="aspace_5676c10f10cfbea1c577160d37dd8c71">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <genreform source="aat">Clippings (information artifacts)</genreform>
     <subject source="lcsh">Actions and defenses -- New York (State) -- Kings County</subject>
-    <subject source="lcsh">Lawyers |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Lawyers -- New York (State) -- Kings County</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <genreform source="aat">Registers (lists)</genreform>
     <persname source="local">Gru, Michael</persname>
