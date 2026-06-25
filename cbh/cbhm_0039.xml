@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0039">cbhm_0039</eadid><filedesc><titlestmt><titleproper>Guide to the Center for Brooklyn History web archive <num>CBHM.0039</num></titleproper><author>Dee Bowers</author><sponsor>The Center for Brooklyn History web archive was made possible by the generosity of the Internet Archive's Community Webs program.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>June 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-06-25 18:45:06 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Center for Brooklyn History web archive</unittitle>
+    <unitid>CBHM.0039</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2025</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5 Terabytes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2000/2026" type="inclusive">circa 2000-present</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+  </did>
+  <dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/home/brooklynhistory" xlink:role="" xlink:show="new" xlink:title="Center for Brooklyn History web archive" xlink:type="simple">
+    <daodesc><p>Center for Brooklyn History web archive</p></daodesc>
+  </dao>
+  <accessrestrict id="aspace_9d06e4849745bad96551e27fc2a1d6d4">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_f7b26e87cc4a55719ddb0952ab48e44b">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was created through the Internet Archive's Community Webs web archiving program starting in 2017 and new content will continue to be added.</p>  </acqinfo>
+  <arrangement id="aspace_396aa071b0451591dec753a738cb1054">
+    <head>Arrangement</head>
+<p>The collection is arranged into seven web archive "collections," represented here by five series, one of which has two sub-series: Series 1: Brooklyn blogs; Series 2: Brooklyn news; Series 3: Brooklyn organizations and projects; Series 4: Brooklyn politics; Series 5: Brooklyn Public Library institutional web archive with Sub-series 5.1: Brooklyn Public Library press clips and Sub-series 5.2: Brooklynology blog.</p>  </arrangement>
+  <bioghist id="aspace_900ac79c12d92a406bdee34b9eebc2c8">
+    <head>Historical note</head>
+<p>Web archives are preserved copies of live web content collected for permanent retention and access. They frequently consist of multiple, time-stamped, collated copies of the same web page or pages taken at different times. Ideally, web archives capture and preserve not only the text, images, and informational content, but also the functionality, look, and feel of the web.</p><p>The most well known and widely used web archive is the Internet Archive's Wayback Machine. The Internet Archive was launched in 1996 by Brewster Kahle with the mission of providing "Universal Access to All Knowledge." The Wayback Machine uses an automated process called crawling to collect pages from all over the web and stores them on servers at the Internet Archive headquarters in San Francisco. Institutions such as government agencies, universities, and libraries also actively archive the web, but often with narrower collection scope. Archive-It is the Internet Archive's user-controlled, web-based service for creating curated, publicly accessible web archives and born-digital collections.</p><p>Community Webs, a program of Archive-It and the Internet Archive, advances the capacity for public libraries and other cultural heritage organizations to document the digital heritage of their communities through web archiving, digital preservation, and community archiving. The program provides professional training, technology services, and support for networking and multi-institutional collaboration.</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>Society of American Archivists. "Web archives." Dictionary of Archival Terminology. Accessed June 25, 2026. https://dictionary.archivists.org/entry/web-archives.html</item>
+      <item>University of Wisconsin-Madison. "An Introduction to Web Archiving for Research." Research Data Services. Accessed June 25, 2026. https://researchdata.wisc.edu/news/an-introduction-to-web-archiving-for-research/</item>
+      <item>Archive-It. Homepage. Accessed June 25, 2026. https://archive-it.org/</item>
+      <item>Community Webs. Homepage. Accessed June 25, 2026. https://communitywebs.archive-it.org/</item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_6425fcadbce3257fda7b9dfdb0cbf8e5">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This collection is entirely digital and hosted on the Internet Archive.</p>  </phystech>
+  <prefercite id="aspace_7f0e4e65ed743ec43ee8ba21e41a4fe5">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Center for Brooklyn History web archive, CBHM.0039, URL, access date; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_3563d29420ad208afac3c20cf2ceb80d">
+    <head>Processing Information</head>
+<p>The web archive was created and has been managed and added to by Dee Bowers starting in 2017. This finding aid was created as a guide to the collection in 2026.</p>  </processinfo>
+  <relatedmaterial id="aspace_a2cfcc8c0778ec2e9fc328892a8082b2">
+    <head>Related Materials</head>
+<p>Brooklyn Historical Society newspaper collection (ARC.258)</p><p>Local newspapers on microfilm collection (BCMS.0028)</p><p>Brooklyn Daily Eagle photographs (BCMS.0002)</p>  </relatedmaterial>
+  <scopecontent id="aspace_ae49d41db679e3103b242c647b402df1">
+    <head>Scope and Contents</head>
+<p>The web archive consists of seven "collections," represented here by five series, one of which has two sub-series. Further details on the contents of each collection are noted at the series level.</p>  </scopecontent>
+  <userestrict id="aspace_b58c220f8de4685c265e7e24cfa52613">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">American newspapers -- New York (State) -- Kings County</subject>
+    <subject authfilenumber="sh98003028" source="lcsh">Multilingual Web sites</subject>
+    <subject authfilenumber="sh2003010852" source="lcsh">News Web sites</subject>
+    <subject authfilenumber="sh96008680" source="lcsh">Web sites</subject>
+    <subject authfilenumber="sh92002816" source="lcsh">Internet</subject>
+    <subject authfilenumber="sh2002003941" source="lcsh">Libraries and the Internet</subject>
+    <subject authfilenumber="sh2004001365" source="lcsh">Web archives</subject>
+    <subject authfilenumber="sh2007000528" source="lcsh">Web archiving</subject>
+    <subject authfilenumber="sh2003004628" source="lcsh">Blogs</subject>
+    <subject source="lcsh">Blogs -- New York (State) -- Kings County</subject>
+    <subject authfilenumber="sh2003010852" source="lcsh">News Web sites</subject>
+    <subject authfilenumber="sh85106500" source="lcsh">Press</subject>
+    <subject source="lcsh">Press and politics</subject>
+    <subject source="lcsh">Amateur journalism -- New York (State) -- Kings County</subject>
+  </controlaccess>
+  <dsc><c id="aspace_b092d6e16a569f4b3bdbe0670aadfcd2" level="series"><did><unittitle>Series 1: Brooklyn blogs</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496227</unitid><dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/collections/9675" xlink:role="" xlink:show="new" xlink:title="Brooklyn blogs web archive collection" xlink:type="simple"><daodesc><p>Brooklyn blogs web archive collection</p></daodesc></dao></did><scopecontent id="aspace_0263ad2e15e9de5c2e42244ae9141a99"><head>Scope and Contents</head><p>A selection of blogs covering Brooklyn subjects. Sites include Brooklyn Heights Blog, Flatbushed, Brownstoner, The Q at Parkside, The Weekly Nabe, Brooklynian, The Coney Island Blog, Hey Ridge, and more, including a series of "plague journal" entries from the COVID-19 lockdown on the blog "Tapped Out, Yawning."</p></scopecontent></c><c id="aspace_e22b553100b12551e37e9021ceeeae05" level="series"><did><unittitle>Series 2: Brooklyn news</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496228</unitid><dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/collections/10049" xlink:role="" xlink:show="new" xlink:title="Brooklyn news web archive collection" xlink:type="simple"><daodesc><p>Brooklyn news web archive collection</p></daodesc></dao></did><scopecontent id="aspace_98ebc589db6bc121b801b97ff9011b38"><head>Scope and Contents</head><p>Online sources for Brooklyn local news. Titles include Brokelyn, Brooklyn Reporter, Bushwick Daily, Greenpoint Gazette, Brooklyn Daily Eagle, BKLYNER, Canarsie Courier, The Brooklyn Reader, Shorefront News, Brooklyn Paper, Our Time Press, the Red Hook Star Revue, The Sunset Post, and more, including Brooklyn-tagged posts from NYC-wide publications such as Gotahmist and New York YIMBY.</p></scopecontent></c><c id="aspace_4ea4fba94f367b8b5185c8e31917551a" level="series"><did><unittitle>Series 3: Brooklyn organizations and projects</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496229</unitid><dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/collections/10050" xlink:role="" xlink:show="new" xlink:title="Brooklyn organizations and projects web archive collection" xlink:type="simple"><daodesc><p>Brooklyn organizations and projects web archive collection</p></daodesc></dao></did><scopecontent id="aspace_7caa96a1e44963971a0aa07c457faf99"><head>Scope and Contents</head><p>Websites of neighborhood and community organizations and projects in Brooklyn.</p></scopecontent></c><c id="aspace_2c1bf99d3e8dbb365686e47baf4553cb" level="series"><did><unittitle>Series 4: Brooklyn politics</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496230</unitid><dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/collections/10051" xlink:role="" xlink:show="new" xlink:title="Brooklyn politics web archive collection" xlink:type="simple"><daodesc><p>Brooklyn politics web archive collection</p></daodesc></dao></did><scopecontent id="aspace_1b1220ed3c4bcde528b9f8f29e966751"><head>Scope and Contents</head><p>Websites related to Brooklyn politics. Includes webpages for city council districts and community boards as well as content relating to members of the state assembly and state senate representing Brooklyn.</p></scopecontent></c><c id="aspace_11e8fa8adf153a8a5cc0b86ba08f0b79" level="series"><did><unittitle>Series 5: Brooklyn Public Library institutional web archive</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496231</unitid><dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/collections/10048" xlink:role="" xlink:show="new" xlink:title="Brooklyn Public Library institutional web archive collection" xlink:type="simple"><daodesc><p>Brooklyn Public Library institutional web archive collection</p></daodesc></dao></did><scopecontent id="aspace_2152fbe1f77680690233d0600400cf0c"><head>Scope and Contents</head><p>The website of the Brooklyn Public Library and other related web content.</p></scopecontent><c id="aspace_c2e9f892bd5da801f8160c9d09b42417" level="subseries"><did><unittitle>Sub-series 5.1: Brooklyn Public Library press clips</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496232</unitid><unitdate datechar="creation" normal="2020/2026" type="inclusive">2020-present</unitdate><dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/collections/14148" xlink:role="" xlink:show="new" xlink:title="Brooklyn Public Library press clips web archive collection" xlink:type="simple"><daodesc><p>Brooklyn Public Library press clips web archive collection</p></daodesc></dao></did><scopecontent id="aspace_825a2855ad35cd8d4d8538772fb48feb"><head>Scope and Contents</head><p>News stories with coverage of Brooklyn Public Library. Includes content from local outlets such as the Brooklyn Daily Eagle, Brooklyn Paper, and BK Reader as well as national outlets like the New York Times and CBS, among others.</p></scopecontent></c><c id="aspace_0ae196053524e74266bf29845409fc6b" level="subseries"><did><unittitle>Sub-series 5.2: Brooklynology blog</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496233</unitid><unitdate datechar="creation" normal="2008/2026" type="inclusive">2008-present</unitdate><dao xlink:actuate="onRequest" xlink:href="https://archive-it.org/collections/11582" xlink:role="" xlink:show="new" xlink:title="Brooklynology blog web archive collection" xlink:type="simple"><daodesc><p>Brooklynology blog web archive collection</p></daodesc></dao></did><scopecontent id="aspace_944e5b712d16217903ee195877b38a0d"><head>Scope and Contents</head><p>Brooklynology is the blog of the Center for Brooklyn History, Brooklyn Public Library's local history center and archive. Posts include content from both the former Brooklyn Collection and from CBH about Brooklyn history topics. Most posts were written by staff members but there are also some guest posts included, most notably by Brooklyn photographer Larry Racioppo.</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>
