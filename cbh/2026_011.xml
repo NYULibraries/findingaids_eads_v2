@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2026_011">2026_011</eadid><filedesc><titlestmt><titleproper>Guide to the Bottitta family letters <num>2026.011</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>August 26, 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-08-26 19:00:57 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Bottitta family letters</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">York, Liz</persname>
+    </origination>
+    <origination label="Creator">
+      <famname source="local">Bottitta family</famname>
+    </origination>
+    <unitid>2026.011</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2028</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1945/1951" type="inclusive">1945-1951</unitdate>
+    <abstract id="aspace_b497cb0140c959868a2656f9f6dd89d8">Three letters (with envelopes) and one telegram addressed to members of the Bottitta family of Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_69b7a5174dc0733f40ca18f4a1cdda91" label="Mixed Materials" type="Box">A0143</container>
+  </did>
+  <accessrestrict id="aspace_fdf9aecbdfd7a38451c51807aaf24049">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_b7096ae8578ecfc21668aef6fa735eef">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Liz York, 2026.</p>  </acqinfo>
+  <arrangement id="aspace_d81c0644a072a6f9ccad2b8501857466">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with the items arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_1fa94374a84091668d9aecd39ebf2ee2">
+    <head>Biographical note</head>
+<p>The Bottitta family was headed by father Charles (born circa 1884) and mother Silvestra (born circa 1889), who were both born in Italy and immigrated to the United States around 1900. They settled in Brooklyn and raised several children, including Ann (born 1911 or 1912), Vito (born circa 1910), Mary (born circa 1908), and Charles (born circa 1923). In the 1920 census, the family was living at 398 Watkins Street in Brownsville. In 1930, they were living at 41 Sumner Avenue (now Marcus Garvey Boulevard) in Bushwick. In both the 1940 and 1950 censuses, the family was living at 161 Suydam Street, on the corner of Central Avenue, also in Bushwick. In 1948, Mary married Paul Rodolico, whose family is listed as also living at 161 Suydam Street in the 1950 census.</p>  </bioghist>
+  <phystech id="aspace_73d5903085217541a66def0a5d224be2">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_c0ced6fb8879271d7188299b26716b27">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Bottitta family letters, 2026.011, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <scopecontent id="aspace_9ea9a333f57f37a89a259c5af37f3440">
+    <head>Scope and Contents</head>
+<p>Three letters (with envelopes) and one telegram addressed to members of the Bottitta family of Brooklyn.</p><p>The telegram, dated April 1945, is from the US government regarding Vito Bottitta having been "slightly wounded" while serving in Germany. It is addressed to Charles Bottitta at 161 Central Avenue, Brooklyn.</p><p>The letters are all addressed to Ann Bottitta from Mary and Paul Rodolico of San Diego. The first is c/o Bernard Workman of Manhattan, the second c/o Lo Murno of 996 Willoughby Avenue, and the third to 161 Central Avenue. All three letters are regarding Mary's pregnancy, childbirth, and the wellbeing of her daughter, with some mentions of other family members, as well as Mary's desire to move back to New York.</p>  </scopecontent>
+  <userestrict id="aspace_1b43ea4a916aaea1563546061dc9cf34">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">World War, 1939-1945</subject>
+    <genreform source="aat">Telegrams</genreform>
+    <subject source="lcsh">Family</subject>
+    <subject source="lcsh">Family identity -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Family life -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Italian Americans</subject>
+    <subject source="lcsh">Italian Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Italian Americans -- Social life and customs</subject>
+    <geogname source="lcsh">United States -- Armed Forces -- World War, 1939-1945</geogname>
+    <subject source="lcsh">World War, 1939-1945 -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Soldiers -- Family relationships -- United States</subject>
+    <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brownsville (New York, N.Y.)</geogname>
+    <persname role="dnr" source="local">York, Liz</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
