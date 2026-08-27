@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0042">cbhm_0042</eadid><filedesc><titlestmt><titleproper>Guide to the Per-Olof Odman Swedish community photographs <num>CBHM.0042</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>August 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-08-26 21:10:47 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0042">cbhm_0042</eadid><filedesc><titlestmt><titleproper>Guide to the Per-Olof Ödman Swedish community photographs <num>CBHM.0042</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>August 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-08-27 15:11:46 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Center for Brooklyn History</corpname>
     </repository>
-    <unittitle>Per-Olof Odman Swedish community photographs</unittitle>
+    <unittitle>Per-Olof Ödman Swedish community photographs</unittitle>
     <origination label="Creator">
-      <persname source="local">Odman, Per-Olof, 1943-</persname>
+      <persname source="local">Ödman, Per-Olof, 1943-</persname>
     </origination>
     <origination label="source">
-      <persname role="dnr" source="local">Odman, Per-Olof, 1943-</persname>
+      <persname role="dnr" source="local">Ödman, Per-Olof, 1943-</persname>
     </origination>
     <unitid>CBHM.0042</unitid>
     <unitid type="aspace_uri">/repositories/3/resources/2029</unitid>
@@ -18,7 +18,7 @@
       <extent altrender="carrier">in two flat boxes.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
-    <abstract id="aspace_857ac8f44519423297778a3cd92c6e36">Black and white photographs of Swedish Americans in Brooklyn, many retired and living in Bay Ridge or Boerum Hill. Subjects include neighborhood street views, portraits in people's homes and workplaces, family dinners, folk festivals, fraternal gatherings, and church services.</abstract>
+    <abstract id="aspace_857ac8f44519423297778a3cd92c6e36">Black and white photographs by Per-Olof Ödman of Swedish Americans in Brooklyn, many retired and living in Bay Ridge or Boerum Hill. Subjects include neighborhood street views, portraits in people's homes and workplaces, family dinners, folk festivals, fraternal gatherings, and church services.</abstract>
     <langmaterial>
       <language langcode="swe">Swedish</language>
     </langmaterial>
@@ -28,7 +28,7 @@
 <p>Open to researchers without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_6824133d55a43d235be07f4db023a13f">
     <head>Immediate Source of Acquisition</head>
-<p>Gift of Per-Olof Odman, 2026.</p>  </acqinfo>
+<p>Gift of Per-Olof Ödman, 2026.</p>  </acqinfo>
   <altformavail id="aspace_e53fc61805257d47afa13f032ff998e5">
     <head>Existence and Location of Copies</head>
 <p>This collection is fully digitized and available on our digital collections under the call number prefix ODMAN.</p>  </altformavail>
@@ -43,13 +43,13 @@
 <p>The collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
   <prefercite id="aspace_f0f8a4ad3e46eb454c0158076631293e">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Per-Olof Odman Swedish community photographs, CBHM.0042, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+<p>Identification of item, date (if known); Per-Olof Ödman Swedish community photographs, CBHM.0042, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <relatedmaterial id="aspace_e8d4223b5b5a453e50d7675df2deb7f5">
     <head>Related Materials</head>
 <p>Brooklyn and Bronx lodges of the Vasa Order of America records (ARC.111)</p><p>Nordstjernan Svea newspaper (1988) in the Brooklyn Historical Society newspaper collection (ARC.258)</p><p>Crescendo Club scrapbook (2017.009)</p><p>Kastrup, Allan. The Swedish heritage in America : The Swedish element in America and American-Swedish relations in their historical perspective. St. Paul, MN: Swedish Council of America, 1975. E184.S23 K3 1975</p><p>Jonassen, Christen T. The Norwegians in Bay Ridge : a sociological study of an ethnic group. PhD thesis, New York University, 1947. 305.83982 J</p>  </relatedmaterial>
   <scopecontent id="aspace_53b4b0fc2ca37954a1b438999c77599d">
     <head>Scope and Contents</head>
-<p>164 images, some with duplicates, by Per-Olof Odman of the mostly Swedish-born, working class, and generally retired Swedish Americans who lived and worked in Boerum Hill along Atlantic Avenue and Bay Ridge in the 1970s, as well as one book of the photographer's work titled De sista svenskarna. Subjects include neighborhood street views, portraits in people's homes and workplaces, family dinners, folk festivals, fraternal gatherings, and church services.</p>  </scopecontent>
+<p>164 images, some with duplicates, by Per-Olof Ödman of the mostly Swedish-born, working class, and generally retired Swedish Americans who lived and worked in Boerum Hill along Atlantic Avenue and Bay Ridge in the 1970s, as well as one book of the photographer's work titled De sista svenskarna. Subjects include neighborhood street views, portraits in people's homes and workplaces, family dinners, folk festivals, fraternal gatherings, and church services.</p>  </scopecontent>
   <userestrict id="aspace_f0999e850f2153ab147a8db24823bd62">
     <head>Conditions Governing Use</head>
 <p>Photographer retains copyright. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
@@ -68,9 +68,9 @@
     <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
     <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
     <subject source="lcsh">Older people -- New York (State) -- Kings County</subject>
-    <persname role="dnr" source="local">Odman, Per-Olof, 1943-</persname>
+    <persname role="dnr" source="local">Ödman, Per-Olof, 1943-</persname>
     <corpname rules="aacr" source="naf">Vasa Order of America</corpname>
   </controlaccess>
-  <dsc><c id="aspace_ac8bca3e306a58ec07be9ee4e8250e7c" level="item"><did><unittitle>Book - De sista svenskarna, 1976</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496822</unitid><container altrender="Medium Flat Box 30" id="aspace_c4145d629a1b70051f20a1611e6147d9" label="Books" type="Box">1</container></did></c><c id="aspace_0122601a5060ce75825ec31dd5b1ca1b" level="file"><did><unittitle>Photographs</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496821</unitid></did><c id="aspace_2603450112518c1b0321fa6eada11de5" level="file"><did><unittitle>Call numbers ODMAN_0001-0080</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496823</unitid><container altrender="Medium Flat Box 30" id="aspace_493bfd3ee4efd586b9cedf904c4c1413" label="Graphic Materials" type="Box">1</container></did></c><c id="aspace_400e4a08c5c1dc96732b11636673eb8d" level="file"><did><unittitle>Call numbers ODMAN_0081-0164</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496824</unitid><container altrender="Medium Flat Box 30" id="aspace_4e68d771be0a21a92d25b2c002e911b5" label="Graphic Materials" type="Box">2</container></did></c></c></dsc>
+  <dsc><c id="aspace_ac8bca3e306a58ec07be9ee4e8250e7c" level="item"><did><unittitle>Book - De sista svenskarna, 1976</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496822</unitid><container altrender="Medium Flat Box 30" id="aspace_30566196a2f67add8ae735ea9993d001" label="Books" type="Box">1</container></did></c><c id="aspace_0122601a5060ce75825ec31dd5b1ca1b" level="file"><did><unittitle>Photographs</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496821</unitid></did><c id="aspace_2603450112518c1b0321fa6eada11de5" level="file"><did><unittitle>Call numbers ODMAN_0001-0080</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496823</unitid><container altrender="Medium Flat Box 30" id="aspace_37d951e58beb91517a39cb616bb7ecb8" label="Graphic Materials" type="Box">1</container></did></c><c id="aspace_400e4a08c5c1dc96732b11636673eb8d" level="file"><did><unittitle>Call numbers ODMAN_0081-0164</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496824</unitid><container altrender="Medium Flat Box 30" id="aspace_3510cdedb735743ff747fe5a44cf452e" label="Graphic Materials" type="Box">2</container></did></c></c></dsc>
 </archdesc>
 </ead>
