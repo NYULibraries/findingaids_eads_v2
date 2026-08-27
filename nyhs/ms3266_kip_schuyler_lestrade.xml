@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/ms3266_kip_schuyler_lestrade">ms3266_kip_schuyler_lestrade</eadid><filedesc><titlestmt><titleproper>Guide to the Kip, Schuyler, and Lestrade Family Papers<lb/>1856-2002 (bulk 1856-1920)<lb/> <num>MS 3266</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>August 2026</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-08-21 14:13:36 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Kip, Schuyler, and Lestrade family papers</unittitle>
+    <unitid>MS 3266</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1125</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.21 Linear feet</extent>
+      <extent altrender="carrier">in one manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1856-2002 (bulk 1856-1920)</unitdate>
+    <abstract id="aspace_fe983e7188f674a1f6a6e04ba2f6860b">This collection includes genealogical information about the Kip, Schuyler, and Lestrade families as well as photographs of the Lestrade family and World War I-era biplanes.</abstract>
+    <physloc id="aspace_dc9181f719987cd14d5ef6d3381e4f56">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_95ebd67286b2731f16d59852376b2692">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_423947c2812bb76f846d42b7c90abe5e">
+    <head>Arrangement</head>
+<p>The documents and photographs in this collection remain in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_3e66d4284b6bbd4bf8412627dcbdeb18">
+    <head>Biographical / Historical</head>
+<p>The bulk of the collection is related to Schuyler Lestrade (1884-1965), a New Yorker who flew as a pilot in World War I (see photographs in folders 3-4) and later became president of Hydrox Chemical Co. The collection traces the Lestrade family's descent from the Kip and Schuyler families, two early and important families in New York's history.<lb/></p><p>The earliest papers in the collection document the admissions of Charles H. Close (1819-1873) to the New-York Historical Society in 1856. Close appears near the end of Edwin R. Purple's <emph render="italic">Contributions to the History of the Kip Family of New York and New Jersey</emph>, when he marries Mary Van Antwerp Lynch (b.1821), a direct Kip descendant, in 1839. Their daughter, Emma Louise Close (1840-1901), marries Charles Peter Schuyler (1839-1874) of New York in 1860. Charles and Emma Schuyler's daughter, Mary V. Schuyler (1861-1916), marries James Wilkie Lestrade (1854-1937) in 1882. The Lestrades have three sons, Harold, Louis, and Schuyler. </p>  </bioghist>
+  <accessrestrict id="aspace_545e935ba7cb04a85e048a79837ac6bf">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_6e5ff732e982783a712be225dbd3b24e">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New York Historical, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_2f13e3d41d464ca3f44fcb23a1e4f5a9">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Kerry Bonaiuto, 2025.</p>  </acqinfo>
+  <prefercite id="aspace_6d42afe8afed9714c6ebba14a18da7ab">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Kip, Schuyler, and Lestrade Family Papers, MS 3266, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_dce2b3701f22f78991e2d483136cd108">
+    <head>Processing Information</head>
+<p>An album holding photographs was disbound and the photographs placed in mylar sleeves (folders 3-4).</p>  </processinfo>
+  <scopecontent id="aspace_82c04b45bbc4e5b81e2578cf52d76b3d">
+    <head>Scope and Contents</head>
+<p>This collection includes genealogical information about the Kip and Schuyler families, including Edwin R. Purple's <emph render="italic">Contributions to the History of the Kip Family of New York and New Jersey</emph> with manuscript additions, manuscript notes about the "colonial Schuyler line," papers related to Charles H. Close's admission to the New-York Historical Society, and a manuscript "pedigree of Mary N. Close and Emma L. Schuyler."<lb/></p><p>The rest of the collection focuses on Schuyler Lestrade, a Kip and Schuyler descendant on his mother's side. Photographs document Lestrade's childhood and his time as a pilot. The collection includes many photographs of biplanes from the 1910s, including images that may be from World War I.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">New York (State)  -- Genealogy.</geogname>
+    <subject source="lcsh">Airplanes -- Photographs.</subject>
+    <subject authfilenumber="(lcsh)sh85014272" source="lcsh">Biplanes -- Photographs.</subject>
+    <subject authfilenumber="(lcsh)sh85148237" source="lcsh">World War, 1914-1918 -- Aerial operations.</subject>
+    <subject source="lcsh">World War, 1914-1918 -- Photography.</subject>
+    <subject source="lcsh">Genealogy.</subject>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Manuscripts (documents)</genreform>
+    <genreform source="aat">Letters (correspondence)</genreform>
+    <genreform source="aat">Genealogies (histories)</genreform>
+    <geogname source="lcsh">Columbus Circle (New York, N.Y.)</geogname>
+    <famname rules="rda" source="local">Kip family</famname>
+    <famname source="naf">Schuyler family</famname>
+    <famname rules="rda" source="local">Lestrade family</famname>
+    <persname rules="rda" source="local">Lestrade, Schuyler</persname>
+    <persname rules="rda" source="local">Close, Charles H. (Charles Hawley), 1819-1873</persname>
+    <persname authfilenumber="(lccn)n95064794" rules="rda" source="naf">Purple, Edwin R. (Edwin Ruthven), 1831-1879</persname>
+    <persname authfilenumber="(lccn)n99255136" rules="rda" source="naf">Levick, Edwin, 1869-1929.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_4ba37fc3d84f4c7696195182dccdd9c7" level="file"><did><unittitle>Edwin R. Purple's <emph render="italic">Contributions to the History of the Kip Family of New York and New Jersey</emph> and accompanying documents</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316780</unitid><container id="aspace_b542d7fe262d6e6634d59f8066220c72" label="Mixed Materials" type="Box">1</container><container id="aspace_4bdef722dbd7a181533dfe5cc7bd126c" parent="aspace_b542d7fe262d6e6634d59f8066220c72" type="Folder">1</container></did><scopecontent id="aspace_f7e9fe3f2589c4a31aded2b94f57e197"><head>Scope and Contents</head><p>This folder contains no. 32 (of 75 copies) of Edwin R. Purple's <emph render="italic">Contributions to the History of the Kip Family of New York and New Jersey</emph>. New York: Privately Printed, 1877. The book includes manuscript notes throughout the text and a number of additional documents laid in and pasted in at the front of the volume (now removed and foldered for preservation purposes). It is also inscribed to Mrs. Emma L. Schuyler with the affectionate regards of the author.<lb/><lb/>
+Items removed from the front of the volume and foldered include:<lb/><lb/>
+Photograph of Columbus Circle by Edwin Levick, [1920s?]<lb/><lb/>
+Manuscript notes: "Colonial Schuyler line for Mrs. Lestrade" (4 pages), detailed genealogical notes tracing Charles Peter Schuyler's ancestors back to 17th-century Holland<lb/><lb/>
+Printed form with manuscript additions notifying Charles H. Close that he has been admitted to the New York Historical Society as a resident member, dated March 5, 1856 and signed by Samuel Osgood (1 page)<lb/><lb/>
+Letter signed from Antonia [Beraud?] to her nephew James, written from La Ciotat, Bouches-du-Rhone, France, [1881 or later] (6 pages), "Translation" at top of first page, letter discusses the history of the Lestrade family<lb/><lb/>
+Printed receipt with manuscript additions recording that Charles H. Close paid $50 on March 24, 1856 to become a life member of the New-York Historical Society, signed by G.H. Moore for W. Chauncey<lb/><lb/>
+Manuscript notes: "Pedigree of Mary N. Close and Emma L. Schuyler" (1 page), with small cut outs of the Schuyler and Kip family crests<lb/><lb/>
+Inscription quoted above from Purple to Emma L. Schuyler</p></scopecontent></c><c id="aspace_2d19ce53309be784fc193246e3028574" level="file"><did><unittitle>Documents and photographs related to Schuyler Lestrade</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316781</unitid><container id="aspace_3b2583e6853f2306ff8d05ede6a17115" label="Mixed Materials" type="Box">1</container><container id="aspace_3496e9b514a84bd9cb9c3efbc74735f7" parent="aspace_3b2583e6853f2306ff8d05ede6a17115" type="Folder">2</container></did><scopecontent id="aspace_96fd8aed2a65a66926041458502a35dd"><head>Scope and Contents</head><p>This folder includes ephemera and photographs related to Schuyler Lestrade and his family. Contents include: <lb/><lb/>
+Business card of Schuyler Lestrade, President of Hydrox Chemical Co.<lb/><lb/>
+Two Antiques Roadshow bookmarks, "Pottery &amp; Porcelain" and "Arms &amp; Militaria"<lb/><lb/>
+Family tree of Schuyler Lestrade<lb/><lb/>
+Photographs of the Lestrade family:<lb/><lb/>
+Head-and-shoulders portrait of a baby [probably Schuyler Lestrade or one of his brothers] by Rockwood, undated [late 1800s?]<lb/><lb/>
+Group head-and-shoulders portrait of the Lestrade children, Schuyler, Louis, and Harold James, in December 1896 by Hargrave<lb/><lb/>
+Full-length photograph of a man in athletic attire on a field [Lestrade brother?]<lb/><lb/>
+2 snapshots of boys and a man with a dog [Lestrade family?]<lb/><lb/>
+Photograph of men by an early car<lb/><lb/>
+6 photographs of sporting events featuring men [Lestrade brothers?] at a track meet and sitting and standing on a field<lb/><lb/>
+Photograph of a Black boy with two dogs<lb/><lb/>
+Full-length portrait of a young man [Lestrade brother?] in a uniform and hat<lb/><lb/>
+Two men [Lestrade brothers?] standing next to an early plane, the man on the right in uniform</p></scopecontent></c><c id="aspace_c159906072a8f32d41cfcecdb9e781cb" level="file"><did><unittitle>Photographs related to Schuyler Lestrade</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316782</unitid><container id="aspace_11d5f3a8613f8f4eafef8992a31a0cd6" label="Graphic Materials" type="Box">1</container><container id="aspace_858790872d77af7bbf2e8a8f274ab6e1" parent="aspace_11d5f3a8613f8f4eafef8992a31a0cd6" type="Folder">3-4</container></did><scopecontent id="aspace_a496434b356bd3681f3fd1571066a8f1"><head>Scope and Contents</head><p>Formerly a photo album, this collection of 77 photographs of early planes and pilots has been disbound and rehoused in mylar sheets. The bulk of the photographs document planes on the ground and in flight, including planes that have crashed. Most of the planes are single propeller biplanes that probably date from the 1910s. Many of the photos include men wearing uniforms, suggesting that these photos may be from World War I. Schuyler Lestrade appears in some of the photos.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
