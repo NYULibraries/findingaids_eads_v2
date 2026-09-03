@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/ms3267_herzog_collection">ms3267_herzog_collection</eadid><filedesc><titlestmt><titleproper>Guide to the John E. Herzog Collection of Women's Financial Ephemera<lb/>1821-2020s<lb/> <num>MS 3267</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>September 2026</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-03 12:23:35 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>John E. Herzog collection of women's financial ephemera</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Herzog, John E.</persname>
+    </origination>
+    <unitid>MS 3267</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1126</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.21 Linear feet</extent>
+      <extent altrender="carrier">in one document box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1821-2020s</unitdate>
+    <abstract id="aspace_d3e336336ac9a67fcea21c3d1e266cf7">This collection includes a selection of ephemera documenting American women's involvement in business and finance over more than 170 years. The bulk of the collection consists of stock certificates, many for businesses or organizations run by women or associated with women.</abstract>
+    <physloc id="aspace_09ec3fd194a2772018a46e9ec4b5b592">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_4677deda7ad8d0e06da38249d8c3db4d">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_065df165b1a81d6c1896ab3e8a003102">
+    <head>Arrangement</head>
+<p>The collection is organized into 8 series:<lb/>
+I. Autographs and letters<lb/>
+II.	Circulars and handbills<lb/>
+III. Commemorative envelopes and stamps<lb/>
+IV.	Engravings, illustrations, and photographs<lb/>
+V. Membership certificates<lb/>
+VI.	Miscellaneous financial documents<lb/>
+VII. Stock certificates<lb/>
+VIII. Supporting ephemera<lb/></p>  </arrangement>
+  <bioghist id="aspace_007cb7cbd0f51e476281c1d60cbe7de3">
+    <head>Biographical / Historical</head>
+<p>This collection was compiled by John E. Herzog, the founder of the Museum of American Finance. Herzog was born in New York City in 1936 to Robert I. Herzog and Norma (Englander) Herzog. His father, Robert I. Herzog, founded the bond trading and brokerage company Parmer, Herzog &amp; Chadwick that later became Herzog Heine Geduld, a firm specializing in NASDAQ and OTC securities. John E. Herzog received his B.A. in Economics from Cornell University in 1957 and his M.B.A. from Stern School of Business at New York University in 1971. He married Diana E. Rigby in 1963, and the couple had two daughters, Mary and Sarah.<lb/></p><p>Herzog was Chairman and Chief Executive Officer of Herzog Heine Geduld, Inc.; a member of the Board of Overseers at the Leonard N. Stern School of Business at NYU; and Chairman of Spink/Smythe, an auction house which specialized in antique stocks and bonds, bank notes, autographs and photographs. After the stock market crash of 1987, he founded the Museum of American Finance to improve public understanding of finance and economic history. The Museum of American Finance, formerly located in the Financial District in New York City, recently moved to a new location in Boston.</p>  </bioghist>
+  <accessrestrict id="aspace_6b169bf7a7c2bf8b0c7639b6060a3fe6">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_de0211f17a301d785ab1fa97886c7ce6">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New York Historical, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_6dcb0dd810c6ff277cfee24a47da0a1a">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of John E. Herzog, 2025.</p>  </acqinfo>
+  <prefercite id="aspace_8fbd17e9fc329c9104327dc6497235a4">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: John E. Herzog Collection of Women's Financial Ephemera, MS 3267, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_4b369e96176ff8273824db3a9a138261">
+    <head>Processing Information</head>
+<p>Items were rehoused in archival folders. The sleeves housing the items were retained because many include labels indicating where the items were purchased.</p>  </processinfo>
+  <scopecontent id="aspace_d93e7819c1c09ded6ce061587d4345bc">
+    <head>Scope and Contents</head>
+<p>This collection documents American women's involvement in business and finance over more than 170 years. The bulk of the collection consists of stock certificates, many for businesses or organizations run by women or associated with women. Women's education is covered by stock certificates for a wide range of schools, including the Female Collegiate Institute in Virginia, Albany Female Academy in New York, Brownsville Female College in Tennessee, and others. Other stock certificates highlight women's clothing and appearance, including the Co-operative Dress Association, The Reece Button Hole Machine Company, McLean &amp; Hooper Sewing Machine Company, the Norfolk and New Brunswick Hosiery Company, and the American Beauty Culture Society. Women's health is represented by stock certificates for American Gynecology and the Vaginette Surgical Instrument Company.<lb/><lb/></p><p>The collection also shows women participating in fields typically dominated by men. A number of stock certificates show the growing range of publishers for women: The Ladies' Home Magazine Publishing Company, Woman Patriot Publishing Company, Western Woman's World Publishing Company, etc. Women are also involved in real estate, demonstrated by new companies like the American Women's Realty Corporation, the Woman's Land Syndicate, and the San Francisco Women's Building Association. Women are even founding new mining companies, like Mollie E. O'Bryan's Teutonic Consolidated Gold Mines Company in Wyoming and the Transvaal Gold Mining Company in Colorado. There are several examples of women buying stock in railroad companies, including a stock certificate for the Panama Rail Road Company issued to Harriet Beecher Stowe. There is also a circular for an oil company run by a woman, The Woman's Right Oil &amp; Gas Co. of Okmulgee, Oklahoma.<lb/><lb/></p><p>Many items in the collection focus on the major 19th- and early 20th-century women's movements of temperance and suffrage. Numerous stock certificates and other ephemera document the temperance movement, including the Union Temperance League of Ohio, the Lincoln Temperance Association, the Women's Christian Temperance Union of Pennsylvania, and the National Women's Christian Temperance Union. Herzog has collected autograph notes and other ephemera from many of the big names in these movements, including Harriet Beecher Stowe, Julia Ward Howe, Susan B. Anthony, Alice Stone Blackwell, Elizabeth Cady Stanton, Frances E. Willard, and others. He also includes engravings or photographs of many of these women.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Women -- Suffrage -- United States.</subject>
+    <subject authfilenumber="(lcsh)sh85133698" source="lcsh">Temperance.</subject>
+    <subject source="lcsh">Women -- Education.</subject>
+    <subject source="lcsh">Women -- Employment.</subject>
+    <subject source="lcsh">Women in charitable work.</subject>
+    <subject source="lcsh">Women in community organization.</subject>
+    <subject authfilenumber="(lcsh)sh85147341" source="lcsh">Women -- Social conditions.</subject>
+    <genreform source="aat">Stock certificates.</genreform>
+    <genreform source="aat">Engravings (prints)</genreform>
+    <genreform source="aat">Letters (correspondence)</genreform>
+    <genreform source="aat">Postcards.</genreform>
+    <genreform source="aat">Handbills.</genreform>
+    <genreform source="aat">Envelopes.</genreform>
+    <genreform source="aat">Newspaper clippings.</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Brochures.</genreform>
+    <persname authfilenumber="(lccn)n82096260" rules="rda" source="naf">Anthony, Susan B. (Susan Brownell), 1820-1906</persname>
+    <persname authfilenumber="(lccn)n50008487" rules="rda" source="naf">Blackwell, Alice Stone, 1857-1950</persname>
+    <persname authfilenumber="(lccn)n50029084" rules="rda" source="naf">Howe, Julia Ward, 1819-1910</persname>
+    <persname authfilenumber="(lccn)n80001140" rules="rda" source="naf">Stanton, Elizabeth Cady, 1815-1902</persname>
+    <persname rules="rda" source="naf">Stowe, Harriet Beecher, 1811-1896</persname>
+    <persname authfilenumber="(lccn)n50017062" rules="rda" source="naf">Willard, Frances E. (Frances Elizabeth), 1839-1898</persname>
+  </controlaccess>
+  <dsc><c id="aspace_c597c3735d41bddee85f715decb2dc45" level="series"><did><unittitle>Series I: Autographs and letters</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316783</unitid><unitdate datechar="creation" type="inclusive">1839-1905</unitdate><container id="aspace_cd5133254b8a886c4a91b9ff3a2ae5e8" label="Mixed Materials" type="Box">1</container><container id="aspace_74101cc95f9d7c49c4e097365c07279b" parent="aspace_cd5133254b8a886c4a91b9ff3a2ae5e8" type="Folder">1</container></did><scopecontent id="aspace_f45b516356690f6793b8fdb907152ea8"><head>Scope and Contents</head><p>•	Julia Ward Howe autograph cards and notes, including two lines of verse with her signature, November 23, 1879; her calling card with her signature, April 12, 1882; and an autograph note signed to "Dear [A.B.R.?]", November 28, 1905, in which she says she will not be able to attend either of the Garrison meetings because she is "under orders for the present to avoid all fatigues of that kind, as they are apt to give [her] an attack of painful dizziness"<lb/>
+•	Payment from the National-American Woman Suffrage Association to The Tribune Company for $5.75 for printing on December 31, 1897. Signed by Susan B. Anthony, President, and Alice Stone Blackwell, Rec. Sec'y. Also includes a postcard of John Howe Kent's photograph of Mary and Susan B. Anthony<lb/>
+•	Elizabeth Cady Stanton signed quotation, "Work is worship" R[alph] W[aldo] E[merson] / Elizabeth Cady Stanton / N.Y. March 1st, 1873, with a reproduction of a Sarony photograph of Stanton and an engraving of her by H.B. Hall, Jr., N.Y.<lb/>
+•	Document signed by Harriet Beecher Stowe appointing her attorney, John T. Howard, to sell her Panama Railroad Company stock for her, January 9, 1872, with an engraving of Stowe by J.A.J. Wilson<lb/>
+•	Autograph letter signed from Frances E. Willard to Sen. L.M. Morrill, Evanston, January 13, 1879, asking him to support the "Home Protection" campaign, on letterhead stationery of the Women's Christian Temperance Union of Illinois; also includes a stock certificate for Temperance Hall, Northern Liberties, no. 199 issued to George S. Shugart, October 4, 1839 and Woman's Christian Temperance Union honorary member pledge card signed by Ambrose L. Walk<lb/></p></scopecontent></c><c id="aspace_06bd502b52f1f7e95cae0c00df2ff2d0" level="series"><did><unittitle>Series II: Circulars and handbills</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316784</unitid><unitdate datechar="creation" type="inclusive">[18--?]-1917</unitdate><container id="aspace_be467867122c2950cd7c1d258b53f8d0" label="Mixed Materials" type="Box">1</container><container id="aspace_b1b866ac173a13f9c75d0f0cc05bac79" parent="aspace_be467867122c2950cd7c1d258b53f8d0" type="Folder">2</container></did><scopecontent id="aspace_e6b6baa4d1547b5f00535e6857a9e7e7"><head>Scope and Contents</head><p>•	Circular for The Woman's Right Oil &amp; Gas Co., Okmulgee, Oklahoma, 1917, accompanied by a typed letter from H.C. Kessler to Mr. E.A. Hill dated April 7, 1917: "inclosed [sic] you will find circular letter Mrs. Kessler is now in the oil game if you can do any good for the cause do so. drop one of these circular's [sic] where it will sprout and grow."<lb/>
+•	Union handbill published for the National Woman's Christian Temperance Union by the National Temperance Society and Publication House, New York: "How Much Is Your Boy Worth?",  no. 45, Gospel Series<lb/>
+•	Handbill in which one side is a facsimile of $10 in Confederate currency and the other side reads, "I will give $1000 in gold if I fail to cure any cancer or tumor … Any lump in woman's breast is cancer and if neglected, it always poisons deep in the armpit and kills quickly. For this valuable free book, address Dr. and Mrs. Dr. Chamley, Managers, Chamley Home, Offices, 747 So. Main St., Los Angeles, Cal., U.S.A.", [18--?]<lb/></p></scopecontent></c><c id="aspace_eaa7749535fbecd8281e5718030f6b04" level="series"><did><unittitle>Series III: Commemorative envelopes and stamps</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316785</unitid><unitdate datechar="creation" type="inclusive">[1893]-1998</unitdate><container id="aspace_e75fa0d7dc1325a38789a6158b6b3fc7" label="Mixed Materials" type="Box">1</container><container id="aspace_084e934a37adecc2f978f02072d6af96" parent="aspace_e75fa0d7dc1325a38789a6158b6b3fc7" type="Folder">3</container></did><scopecontent id="aspace_44d8487d8bca9a2a285f7ecd601f85eb"><head>Scope and Contents</head><p>•	U.S. Postal Service souvenir page commemorating Virginia Apgar postage stamp, October 24, 1994<lb/>
+•	Commemorative envelope for the first day of issue of U.S. postage stamp "100 years of progress of women 1848-1948," July 19, 1948 (accompanied by a <emph render="italic">Cornell Alumni Magazine</emph> article about the Jon Lindseth Collection of American Women Suffrage)<lb/>
+•	Susan B. Anthony-related ephemera, including an envelope with a Susan B. Anthony House Station -- Celebrating the 150th Anniversary of the First Woman's Rights Convention U.S.P.S. cancellation; postcards of the Susan B. Anthony House in Rochester, NY and Mary and Susan B. Anthony (original photo by John Howe Kent); two brochures for the Susan B. Anthony House, 1998 and later<lb/>
+•	Commemorative "First Day of Issue" postmarked card with "100 Years of Progress of Women" postage stamp, July 19, 1948, signed by Gloria Steinem<lb/>
+•	Commemorative envelope for the first day of issue of U.S. postage stamp "Women in Our Armed Services," Washington, D.C., September 11, 1952<lb/>
+•	Official souvenir postcard from the World's Columbian Exhibition with an image of the Woman's Building, [1893]<lb/></p></scopecontent></c><c id="aspace_63cdaf567e993d45ca6a9d5ca7096cdc" level="series"><did><unittitle>Series IV: Engravings, illustrations, and photographs</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316786</unitid><unitdate datechar="creation" type="inclusive">1891-1977</unitdate><container id="aspace_cbe264bfad1c9a04cd735752e23253de" label="Mixed Materials" type="Box">1</container><container id="aspace_0b041c4706ea3a6d5612ebd306409fcb" parent="aspace_cbe264bfad1c9a04cd735752e23253de" type="Folder">4</container></did><scopecontent id="aspace_dfbd3b78323d9e7a694da30fff167c11"><head>Scope and Contents</head><p>•	Engraving of Susan B. Anthony in profile by Alfred C. Kihn after a bust by Jonathan Scott Hartley, published and copyrighted by the Woman's Memorial Fund Association, New York, 1891, with an accompanying publication, <emph render="italic">The "Three Immediate Women Friends" of the Anthony Family</emph>, [1918 or later]<lb/>
+•	Picture and newspaper clipping about Amelia Earhart, April 1977<lb/>
+•	Associated Press black &amp; white photograph of Henry Holtzclaw, director of the Bureau of Engraving, and Kathryn Granahan, the Treasurer of the United States, January 14, 1963<lb/>
+•	Engraving of women working with textile machinery (looms), undated<lb/>
+•	Postcards or engravings of Emma Willard, Gertrude Ederle, Helen Hicks, Nellie Cashman, Anna Ottendorfer, and Margaret Haughery<lb/>
+•	Four images of women by Italian brand Loro Piana, undated<lb/></p></scopecontent></c><c id="aspace_147c77adcee68e51febe60da692fa92b" level="series"><did><unittitle>Series V: Membership certificates</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316787</unitid><unitdate datechar="creation" type="inclusive">[1880s?]-1910</unitdate><container id="aspace_f60b6d8409b0e41211f09e5d6c6a177b" label="Mixed Materials" type="Box">1</container><container id="aspace_693df30478231bdbf05022b7d7797ff8" parent="aspace_f60b6d8409b0e41211f09e5d6c6a177b" type="Folder">5</container></did><scopecontent id="aspace_b9ed92177f3dee89d3edfcb88c9472f3"><head>Scope and Contents</head><p>•	Certificate for membership in The American Women's League, St. Louis, MO, nos. L56614/Series A 14553/22821 issued to Leonore Retaillian, November 15, 1910<lb/>
+•	Membership certificate for The New York Society of Self-Culture, no. 16318, including tickets for "twenty enquiries of our Bureau of Enquiry<lb/>
+•	Certificate for a sustaining membership in the Women's Silk Culture Association of the United States, Philadelphia, no. 107 issued to Miss Sallie Hutchinson, undated [1880s?]<lb/></p></scopecontent></c><c id="aspace_9ab12956316cce0cae6c3ab567a2a152" level="series"><did><unittitle>Series VI: Miscellaneous financial documents</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316788</unitid><unitdate datechar="creation" type="inclusive">1858-1934</unitdate><container id="aspace_f186c75400327caad32ca615f74c8b3c" label="Mixed Materials" type="Box">1</container><container id="aspace_92ab37e2113aa81404d24626d56413b5" parent="aspace_f186c75400327caad32ca615f74c8b3c" type="Folder">6</container></did><scopecontent id="aspace_d2e7f49bcda7659f488315279f11b58c"><head>Scope and Contents</head><p>•	Tuition receipt from Brownsville Female College, Brownsville, TN, January 25, 1858<lb/>
+•	Profit Sharing Investment Bond for The Woman's Land Syndicate, IL, no. 2, registered no. 672, issued to Anne P. Townsend, September 16, 1898<lb/>
+•	San Francisco Women's Building Association Second Mortgage Six Per Cent Gold Note, California, no. C83 issued to Viola R. Oppenheimer, May 1, 1925<lb/>
+•	Certificate no. 104 for repayment of $40 for money loaned to Women's City Club of Philadelphia, March 1, 1934 and a Six Per Cent Gold Note (no. 268 for $100) for Pennsylvania League of Women Voters, November 28, 1923<lb/>
+•	Blank mortgage sinking fund bond for The Young Women's Christian Association of Wilmington, Delaware, September 1, 1933<lb/></p></scopecontent></c><c id="aspace_44603b3428f53121eb2589820fddf24c" level="series"><did><unittitle>Series VII: Stock certificates</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316789</unitid><unitdate datechar="creation" type="inclusive">1821-1962</unitdate><container id="aspace_8a10c479ca9c35edcbf47884525d34b2" label="Mixed Materials" type="Box">1</container><container id="aspace_bfb330571a22e5d17a59ac9e1cac1a53" parent="aspace_8a10c479ca9c35edcbf47884525d34b2" type="Folder">7-12</container></did><scopecontent id="aspace_f7bd8a1b30c6361db0ed6b775167c509"><head>Scope and Contents</head><p>Folder 7:<lb/>
+•	Stock certificate for Albany Female Academy, no. 4 issued to Joseph Russell, July 24, 1821<lb/>
+•	Stock certificate for Albany Female Academy, no. 2 issued to Mr. Jos. Russell, April 10, 1821<lb/>
+•	Stock certificate for American Beauty Culture Society, no. 33568 issued to Edith Cooper, October 15, 1926<lb/>
+•	Stock certificate for American Female Guardian Society &amp; Home for the Friendless, New York, issued to Sarah G. Hills, March 1857<lb/>
+•	Stock certificate for American Gynecology, New York, no. 16 issued to William E. Butler, May 9, 1903<lb/>
+•	Stock certificate for American Educational Institute, Delaware, no. 76 issued to Sherman E. Ayars, December 17, 1920<lb/>
+•	Stock certificate for American War Mothers National Memorial Home Association, Colorado, no. 1700 issued to Mrs. Anie B. Balmer, August 10, 1926<lb/>
+•	Stock certificate for American Women's Realty Corporation, New York, no. 7817 issued to Janet W. Slattery, June 15, 1926; specimen stock certificate for American Women's Realty Corporation; stock certificate for American Women's Realty Corporation, no. 1614 issued to Daniel McAllister, January 20, 1926; accompanying material including a December 1, 1939 American Women's Realty Company, Inc. Report of Affairs and Finances and a photocopy of a January 31, 1946 typed letter from the American Women's Realty Company regarding its plan of reorganization<lb/>
+•	Stock certificate for American Women's Club, Limited, no. 323 issued to Mrs. B. Beal, December 1, 1923<lb/><lb/>
+Folder 8:<lb/>
+•	Stock certificate for Co-operative Dress Association, New York, no. 3657 issued to Mrs. C.S. Burton, July 1, 1881<lb/>
+•	Certificate no. 14706 for shares in the Philadelphia, Wilmington, and Baltimore Railroad Company, issued to Charlotte Cushman, July 5, 1871, accompanied by a copy of an engraving of Cushman, an article about her, and a photograph of Cushman with an autograph note signed in the third person<lb/>
+•	Stock certificate for Female Collegiate Institute, Virginia, no. 6 issued to James G. Johns, July 11, 1850<lb/>
+•	Stock certificate for The William R. Hande System Woman's Posture and Figure Mold Association, Philadelphia, PA, no. 2, issued to Mrs. E.C. Irvin, November 3, 1926<lb/>
+•	Stock certificate for The Halifax Ladies' College, Halifax, N.S., no. 459 issued to Rev. M.G. Henry, March 5, 1906<lb/>
+•	Stock certificate for The Ladies' Home Magazine Pub. Company, New Jersey, no. 539 issued to Genevieve [Balgemand?], June 20, 1902<lb/>
+•	Stock certificate for The Lewis Publishing Co., South Dakota, no. 20778 issued to Fredk. C. Eberhardt, undated [ca. 1907?]<lb/>
+•	Two certificates for the Lincoln Temperance Association issued by National Bank Note Co. New York, [1860s or 1870s?]<lb/>
+•	Stock certificate for Logan Female College Company, Russellville, KY, no. 52 issued to William Bryan, September 21, 1868, with an accompanying lithograph of Mount Auburn Female College by Ehrgott &amp; Forbriger of Cincinnati, OH<lb/><lb/>
+Folder 9:<lb/>
+•	Stock certificate for McLean &amp; Hooper Sewing Machine Co., Philadelphia, PA, no. 5 issued to William W. Sloan, October 31, 1870<lb/>
+•	Specimen stock certificate for The Million Dollar Saloon, Nevada, no. SA2121, undated<lb/>
+•	Stock certificate for Norfolk and New Brunswick Hosiery Company, New Jersey, no. 1107 issued to Ella F. Seybert, July 26, 1890<lb/>
+•	Stock certificate for Physical Culture Restaurant Company, [New York], no. 89S issued to Mrs. Emma V. Somers, September 24, 1907
+•	Specimen stock certificate for Playboy Enterprises, Inc., undated
+•	Stock certificate for The Proprietors of the Woman's Journal, Boston, MA, no. 107 (to replace old certificate no. 3) issued to the National American Woman Suffrage Association, signed by Alice Stone Blackwell, October 31, 1870. Accompanied by a <emph render="italic">New Yorker</emph> book review of a book about the Blackwell sisters and an undated Easter card signed by Alice Stone Blackwell<lb/>
+•	Stock certificate for The Proprietors of the Woman's Journal, Boston, MA, no. 10, issued to Alice Stone Blackwell, January 7, 1871<lb/>
+•	Stock certificate for The Reece Button Hole Machine Co, Portland, ME, no. 12248, not filled out, 189-?<lb/><lb/></p><p>Folder 10:<lb/>
+•	Stock certificate for Helena Rubinstein, Limited, incorporated in Canada, no. 6 issued to Henry M. Flateau, June 29, 1929, accompanied by three black &amp; white photographs of Helena Rubinstein<lb/>
+•	Stock certificate for Sewing Machine Motion Regulating Company, New York, no. 16 issued to Jeannette E. Davis, December 17, 1867<lb/>
+•	Stock certificate for The South Carolina Presbyterian Institute for Young Ladies, Columbia, South Carolina, no. 16 issued to Mrs. Eliza A. [Carroll?], February 3, 1891<lb/>
+•	Specimen stock certificate for St. John Knits, Inc., Los Angeles and New York, no. 22372, 1962 or later<lb/>
+•	Stock certificate for Stockton &amp; Tuolumne County Railroad Company, San Francisco, CA, no. 24 issued to Mrs. Annie Kline Rikert, August 20, 1898<lb/>
+•	Stock certificate for Panama Rail Road Co., New York, no. 13619 issued to Harriet B[eecher] Stowe, October 19, 1865, with an accompanying portrait of Harriet Beecher Stowe by T. Johnson<lb/>
+•	Stock certificate for The Teutonic Consolidated Gold Mines Company, Wyoming, no. 294 issued to D.T. Reynolds, February 2, 1905<lb/>
+•	Stock certificate for The Transvaal Gold Mining Company, Colorado, no. 1244 issued to James A. Howze, March 1, 1901<lb/><lb/></p><p>Folder 11:<lb/>
+•	Stock certificate for Union Temperance League of Ohio, no. 4041 issued to G.W. [or G.N.?] Myers, [1870s]<lb/>
+•	Stock certificate for The Utica Female Academy, Utica, NY, no. 47 issued to John Griffiths, July 1, 1870, with a page from an unidentified book listing the officers and managers of the American Female Guardian Society<lb/>
+•	Stock certificate for The Vaginette Surgical Instrument Co. Limited, Pennsylvania, no. 36 issued to Geo[rge] M. Roth, March 15, 1889<lb/>
+•	Specimen stock certificate for The Vanity Fair Publishing Company, Inc., New York, 19--?<lb/>
+•	Stock certificate for The Victor Sewing Machine Company, Middletown, CT, no. 785 issued to Adeline L. Chadwick, March 5, 1878<lb/>
+•	Stock certificate for Western Woman's World Publishing Company, California, no. 40 issued to Francis W. Steele, October 21, 1911<lb/>
+•	Specimen benefit certificate issued by the Woman's Benefit Association, 19--?<lb/>
+•	Stock certificate for Woman's Canning and Preserving Company, Chicago, IL, no. 265 issued to Arabella Whitney, May 25, 1891<lb/><lb/></p><p>Folder 12<lb/>
+•	Stock certificate for Women's Christian Temperance Union of Pennsylvania, no. 3008 issued to Mrs. Anna Johnston, [1922], "Hospitality Stock for the entertainment of the World's W.C.T.U. Convention to be held in Philadelphia, Penna., November 11-15, 1922"; also included are a commemorative envelope for a United States Postal Service stamp of Frances Willard with "first day of issue" cancellation, a pledge form for Women's Christian Temperance Union of Pennsylvania, a photographic postcard of a woman distributing the newspaper <emph render="italic">, The Suffragette</emph>, and a postcard of John Howe Kent's photograph of Mary and Susan B. Anthony<lb/>
+•	Stock certificate for Women Citizen Corporation, New York, no. 120 issued to Mary E. Converse, May 2, 1930<lb/>
+•	Stock certificate for The Woman Patriot Publishing Company, Delaware, no. 41 issued to Mrs. John Dane, May 15, 1918<lb/>
+•	Stock certificate for the Womans Club House Company, Montana, no. 115 issued to Elizabeth Rueger, November 23, 1904, and stock certificate for Woman's Club House Corporation, Massachusetts, no. 545 issued to Mrs. Emeline W. Thayer, March 10, 1906<lb/>
+•	Stock certificate for The Woman's Gold Mining Co., Cripple Creek, CO, no 189 issued to Mary E. Gover<lb/>
+•	Blank stock certificate for Woman's Life Insurance Company of America, Inc., Maryland, signed by Phyllis R. Biondi, [19--?]<lb/></p></scopecontent></c><c id="aspace_4524f18961daef12575b829c1f2235da" level="series"><did><unittitle>Series VIII: Supporting ephemera</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316790</unitid><unitdate datechar="creation" type="inclusive">[1980s-2020s]</unitdate><container id="aspace_6b73c469de23a1e93e19c00b301f542b" label="Mixed Materials" type="Box">1</container><container id="aspace_71ca5f3af309265b73cd48aeae17c2ba" parent="aspace_6b73c469de23a1e93e19c00b301f542b" type="Folder">13</container></did><scopecontent id="aspace_b5ce351dc1e12c4e60e35a79a436bd54"><head>Scope and Contents</head><p>Includes supplemental materials related to famous women such as newspaper and magazine clippings, printouts of journal articles, flyers, postcards, brochures, and other ephemera.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
