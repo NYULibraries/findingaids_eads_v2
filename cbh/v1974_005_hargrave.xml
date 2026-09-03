@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_005_hargrave/">v1974_005_hargrave</eadid><filedesc><titlestmt><titleproper>Guide to the Viola Hargrave collection of Bedford-Stuyvesant photographs <num>V1974.005</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 11, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-01 19:41:13 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_005_hargrave/">v1974_005_hargrave</eadid><filedesc><titlestmt><titleproper>Guide to the Viola Hargrave collection of Bedford-Stuyvesant photographs <num>V1974.005</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>May 11, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-03 13:40:46 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>September 2026</date><item>Revised by Dee Bowers to reflect rehousing.</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Viola Hargrave collection of Bedford-Stuyvesant photographs</unittitle>
     <origination label="Creator">
@@ -18,16 +18,17 @@
       <persname rules="dacs" source="local">Hargrave, Viola</persname>
     </origination>
     <unitid>V1974.005</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1539</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
       <extent altrender="carrier">in one manuscript box.</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1960/1979" type="inclusive">circa 1960s to 1970s</unitdate>
-    <abstract id="aspace_cadbd6a7168dd6aa5939ad5d8284559a">The Viola Hargrave collection of Bedford-Stuyvesant photographs dates from circa 1960 to 1979. The collection contains 74 black-and-white photographs taken by William Cox, Michael George, James Hurley, and Viola Hargrave.</abstract>
+    <abstract id="aspace_cadbd6a7168dd6aa5939ad5d8284559a">74 black-and-white photographs taken by William Cox, Michael George, James Hurley, and Viola Hargrave of various buildings and streets in Bedford-Stuyvesant.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_71418ea74dbeaa74f2b3fd2a00f1a478" label="Graphic Materials" type="Box">Prints by accession 1</container>
+    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_2e329fa2358975ab74762f48fae83815" label="Graphic Materials" type="Box">Prints by accession 1</container>
   </did>
   <accessrestrict id="aspace_f0df3bb33132c9b02dfbb1b5f9159eea">
     <head>Conditions Governing Access</head>
@@ -38,6 +39,9 @@
   <altformavail id="aspace_a70720a09501ebd218f2508f69f94225">
     <head>Existence and Location of Copies</head>
 <p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library under the object ID prefix V1974.5.</p>  </altformavail>
+  <arrangement id="aspace_f0fda20d52217bdfdae3ef6afa3afcbf">
+    <head>Arrangement</head>
+<p>The photographs are arranged in object ID number order.</p>  </arrangement>
   <phystech id="aspace_96944da250aac3d41d5414749c1093ee">
     <head>Physical Characteristics and Technical Requirements</head>
 <p>The collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
@@ -46,7 +50,7 @@
 <p>Identification of item, date (if known); Viola Hargrave collection of Bedford-Stuyvesant photographs, V1974.005, Box number, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <scopecontent id="aspace_8a02eb8daa192dd8acf3fa0a64d3086c">
     <head>Scope and Contents</head>
-<p>The Viola Hargrave collection of Bedford-Stuyvesant photographs dates from circa 1960 to 1979. The collection contains 74 black-and-white photographs taken by William Cox, Michael George, James Hurley, and Viola Hargrave. Images in the collection document the Brooklyn neighborhood of Bedford-Stuyvesant, particularly Hancock Street, Jefferson Avenue, and Quincy Street. Photographs show housing, including row houses, apartment houses, and frame houses; churches; and commercial buildings, such as banks and fraternal organizations. Photographs are identified with street names and arranged according to subjects and locations.</p>  </scopecontent>
+<p>The Viola Hargrave collection of Bedford-Stuyvesant photographs dates from circa 1960 to 1979. The collection contains 74 black-and-white photographs taken by William Cox, Michael George, James Hurley, and Viola Hargrave. Images in the collection document the Brooklyn neighborhood of Bedford-Stuyvesant, particularly Hancock Street, Jefferson Avenue, and Quincy Street. Photographs show housing, including row houses, apartment houses, and frame houses; churches; and commercial buildings, such as banks and fraternal organizations. Photographs are identified with street names and other information on their versos.</p>  </scopecontent>
   <userestrict id="aspace_7f6c40b3718fe3d679db307ac590023a">
     <head>Conditions Governing Use</head>
 <p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
