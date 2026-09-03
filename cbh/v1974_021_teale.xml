@@ -1,56 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_021_teale/">v1974_021_teale</eadid><filedesc><titlestmt><titleproper>Guide to the Charles E. Teale family photobook <num>V1974.021</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 19, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-02 17:53:06 +0000</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_021_teale/">v1974_021_teale</eadid><filedesc><titlestmt><titleproper>Guide to the Charles E. Teale family photobook <num>V1974.021</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>May 19, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-03 13:51:12 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>September 2026</date><item>Revised by Dee Bowers to reflect rehousing.</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Charles E. Teale family photobook</unittitle>
     <origination label="Creator">
       <famname rules="dacs" source="local">Teale family</famname>
     </origination>
     <unitid>V1974.021</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1548</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
       <extent altrender="carrier">in one folder.</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1895/1895" type="inclusive">1895</unitdate>
-    <abstract id="aspace_a56a1095241505be9090e0b6b115c6cc" label="Abstract">The Charles E. Teale family photobook, dating from circa 1895, consists of black-and-white photographs of members of the Teale family that have been commercially reproduced onto thick paper and bound into a photobook.</abstract>
+    <unitdate datechar="creation" normal="1895/1895">circa 1895</unitdate>
+    <abstract id="aspace_a56a1095241505be9090e0b6b115c6cc">A booklet of black-and-white photographs of members of the Teale family that have been commercially reproduced onto thick paper and bound.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_2ea4d813dd77334e69fba797ffb8aef8" label="Graphic Materials" type="Box">Prints by accession 1</container>
+    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d80d68361186069e489369e0f1581d33" label="Graphic Materials" type="Box">Prints by accession 1</container>
   </did>
+  <accessrestrict id="aspace_71728931ffd7e61e8d6b455f064c9d9c">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_7c429e4889aa79163dd6db61ffcc188c">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1974.</p>  </acqinfo>
+  <altformavail id="aspace_8828a2537606aaf6d30c8aa460a60195">
+    <head>Existence and Location of Copies</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library under the object ID prefix V1974.21.</p>  </altformavail>
+  <arrangement id="aspace_f9375099afd124489a757def6d393569">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder. Though the booklet is disbound, the pages' original order is retained. The sequence of the items' object ID numbers matches this original order.</p>  </arrangement>
   <bioghist id="aspace_10ba63f7f0e82691f4dea2e76583b5ac">
     <head>Biographical note</head>
-  
-
-<p>Charles E. Teale (b. 1843) was a Brooklyn clothier who served as city magistrate for the City of Brooklyn and later as city magistrate for New York City following consolidation. Teale was born in Nottingham, England on June 1, 1843. He immigrated to Brooklyn when he was six years old and lived in Brooklyn for the remainder of his life. He attended Public School 8 but left school when he was 12 years old to work as an errand boy in the Young Men's Christian Association (Y.M.C.A.). From ages 14 to 18 he worked in the carpentry trade, leaving that trade to then work as a salesman at Henry and John Paret's wholesale clothing house. In 1871, Teale partnered with F.T. Hoyt to start Hoyt &amp; Teale, a retail clothing business. Three years later, he opened his own merchant tailor business, Teale &amp; Co., located at 611 Fulton Street. Teale was appointed a member of the Board of Education by Brooklyn Mayor James Howell, a positon he was reappointed to numerous times. He was also a member of the board of directors of the Y.M.C.A., a member of the Oxford Club, and a member of the Hanson Place M.E. Church, among other activities.</p>    <list numeration="arabic" type="ordered">
+<p>Charles E. Teale (b. 1843) was a Brooklyn clothier who served as city magistrate for the City of Brooklyn and later as city magistrate for New York City following consolidation. Teale was born in Nottingham, England on June 1, 1843. He immigrated to Brooklyn when he was six years old and lived in Brooklyn for the remainder of his life. He attended Public School 8 but left school when he was 12 years old to work as an errand boy in the Young Men's Christian Association (Y.M.C.A.). From ages 14 to 18 he worked in the carpentry trade, leaving that trade to then work as a salesman at Henry and John Paret's wholesale clothing house. In 1871, Teale partnered with F.T. Hoyt to start Hoyt &amp; Teale, a retail clothing business. Three years later, he opened his own merchant tailor business, Teale &amp; Co., located at 611 Fulton Street. Teale was appointed a member of the Board of Education by Brooklyn Mayor James Howell, a position to which he was reappointed numerous times. He was also a member of the board of directors of the Y.M.C.A., a member of the Oxford Club, and a member of the Hanson Place M.E. Church, among other activities.</p>    <list numeration="arabic" type="ordered">
       <head>Sources:</head>
       <item>"Mr. Charles E. Teale." <emph render="italic">Brooklyn Life</emph>, July 20, 1895.</item>
       <item>"Teale, Charles E." <emph render="italic">Biographical Dictionary of the State of New York, 1900</emph>. New York: Biographical Directory Company, 1899. </item>
     </list>
   </bioghist>
-  <processinfo id="aspace_5200d6c02d893b5ca7e9099f2eec9a45">
-    <head>Processing Information note</head>
-<p>Fully processed to the item level.</p>  </processinfo>
   <prefercite id="aspace_79346f8ae33f147252c2977a2ef21fe3">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Charles E. Teale family photobook, V1974.021, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
-  <otherfindaid id="aspace_8828a2537606aaf6d30c8aa460a60195">
-    <head>Other Finding Aids</head>
-<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
-  <acqinfo id="aspace_7c429e4889aa79163dd6db61ffcc188c">
-    <head>Immediate Source of Acquisition</head>
-<p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1974.</p>  </acqinfo>
-  <userestrict id="aspace_b86706d843159aea3b614f91f11c76d6">
-    <head>Conditions Governing Use</head>
-<p>The items in this collection have entered the public domain according United States Copyright Law. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
-  <accessrestrict id="aspace_71728931ffd7e61e8d6b455f064c9d9c">
-    <head>Conditions Governing Access</head>
-<p>Open to researchers without restriction.</p>  </accessrestrict>
+<p>Identification of item, date (if known); Charles E. Teale family photobook, V1974.021, Box number, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_5200d6c02d893b5ca7e9099f2eec9a45">
+    <head>Processing Information</head>
+<p>Collection rehoused and finding aid revised by Dee Bowers in September 2026. At that time, the booklet was disbound and removed from the pamphlet binder in which it had originally been housed, as the front cover and first page had detached due to the nature of the binder. Brittle and browned interleaving tissue paper was removed and discarded, along with the blank back cover of the booklet.</p>  </processinfo>
   <scopecontent id="aspace_79c4128ff844d18084585ce8f3b606ac">
     <head>Scope and Contents</head>
-<p>The Charles E. Teale family photobook, dating from circa 1895, consists of black-and-white photographs of members of the Teale family that have been commercially reproduced onto thick paper and bound into a photobook. Inserted into the  photobook is a mounted clipping of a biographical sketch of Charles E. Teale that was published in Brooklyn Life magazine on July 20, 1895. The first page of the photobook is inscribed in ink with "Wishing you a Merry Xmas." The photobook includes photographic prints of Charles E. Teale and his wife (unnamed), Charles B. Teale and his wife (unnamed), Edward L. Teale, Carrie Teale, Charles H. Rue, Florence Teale Rue, Charles Teale Rue and Florence Rue (children), and a family home near the Brooklyn neighborhood of Bensonhurst.</p>  </scopecontent>
+<p>The Charles E. Teale family photobook, dating from circa 1895, consists of black-and-white photographs of members of the Teale family that have been commercially reproduced onto thick paper and bound into a booklet. Inserted into the  photobook is a mounted clipping of a biographical sketch of Charles E. Teale that was published in Brooklyn Life magazine on July 20, 1895. The first page of the photobook is inscribed in ink with "Wishing you a Merry Xmas." The photobook includes photographic prints of Charles E. Teale and his wife (unnamed), Charles B. Teale and his wife (unnamed), Edward L. Teale, Carrie Teale, Charles H. Rue, Florence Teale Rue, Charles Teale Rue and Florence Rue (children), and a family home near the Brooklyn neighborhood of Bensonhurst.</p>  </scopecontent>
+  <userestrict id="aspace_b86706d843159aea3b614f91f11c76d6">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
     <subject source="lcsh">Families -- New York (State) -- Kings County</subject>
