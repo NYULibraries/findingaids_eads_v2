@@ -1,49 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_020_views_new_york/">v1974_020_views_new_york</eadid><filedesc><titlestmt><titleproper>Guide to the <emph render="italic">Views of New York</emph> viewbook <num>V1974.020</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>May 20, 2011.</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-02 17:50:05 +0000</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_020_views_new_york/">v1974_020_views_new_york</eadid><filedesc><titlestmt><titleproper>Guide to the Views of New York viewbook <num>V1974.020</num></titleproper><author>Patricia Glowinski</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>May 20, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-08 14:53:53 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>September 2026</date><item>Revised by Dee Bowers to reflect rehousing</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
-    <unittitle><emph render="italic">Views of New York</emph> viewbook</unittitle>
+    <unittitle>Views of New York viewbook</unittitle>
     <origination label="Creator">
       <corpname role="pbl" rules="aacr" source="naf">L.H. Nelson Company</corpname>
     </origination>
     <unitid>V1974.020</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1547</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.04 Linear Feet</extent>
-      <extent altrender="carrier">in one volume.</extent>
+      <extent altrender="carrier">in one folder</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1900/1920" type="inclusive">circa 1910</unitdate>
-    <abstract id="aspace_ec7359979102721e55b392926dbfc0a3" label="Abstract">The photographs in The <emph render="italic">Views of New York</emph>, published by L. H. Nelson Company, circa 1910, are primarily views of buildings, structures, parks, and street scenes in Manhattan, though there are several views of locations in Brooklyn.</abstract>
+    <abstract id="aspace_ec7359979102721e55b392926dbfc0a3">Views of New York, published by L.H. Nelson Company circa 1910, consists primarily of views of buildings, structures, parks, and street scenes in Manhattan, though there are several views of locations in Brooklyn.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_bd65f9086867ba373cf448dcb04c7312" label="Graphic Materials" type="Box">Prints by accession 1</container>
+    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_d4f9d2de3076e924a53e47cabf8dead5" label="Graphic Materials" type="Box">Albums and viewbooks 1</container>
   </did>
-  <bioghist id="aspace_bdd832a3816dd4bcd058d4071fd4ac47">
-    <head>Historical note</head>
-<p>L.H. Nelson Company was a publisher based in Portland, Maine. They published viewbooks (also known as souvenir albums or view albums) and photographs of prominent cities and summer resorts.</p>  </bioghist>
-  <userestrict id="aspace_28ad537d2ed943d1d11c3634849d8da4">
-    <head>Conditions Governing Use</head>
-<p>The item in this collection has entered the public domain according United States Copyright Law. For information on securing rights to publish or reproduce, please see the <extref xlink:actuate="onRequest" xlink:href="http://www.brooklynhistory.org/library/repropolicy.html" xlink:show="new" xlink:title="Reproduction Rights Policy">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>  </userestrict>
   <accessrestrict id="aspace_460842dc17056768eb606274abf0ece6">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
-  <prefercite id="aspace_fd8763be8008cb2d3c4cba9bb2d8ed24">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); <emph render="italic">Views of New York</emph> viewbook, V1974.020, Box number, Object ID number; Brooklyn Historical Society.</p>  </prefercite>
-  <processinfo id="aspace_d778ce4e6a89fd03d1b6ac082652c736">
-    <head>Processing Information note</head>
-<p>Fully processed to the item level.</p>  </processinfo>
-  <otherfindaid id="aspace_61ad318de352d45dfc40706f7bb2f6c6">
-    <head>Other Finding Aids</head>
-<p>Item level description and digital versions of some of the images from the photobook are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
   <acqinfo id="aspace_122d7e63ee17fa7c9c227818a497b749">
     <head>Immediate Source of Acquisition</head>
 <p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1974.</p>  </acqinfo>
+  <altformavail id="aspace_61ad318de352d45dfc40706f7bb2f6c6">
+    <head>Existence and Location of Copies</head>
+<p>Item level description and digital versions of some of the images from the viewbook are available for searching via the image database in the library under the object ID prefix V1974.20.</p>  </altformavail>
+  <arrangement id="aspace_a7d730df59c73506281ab3d76e79623b">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <bioghist id="aspace_bdd832a3816dd4bcd058d4071fd4ac47">
+    <head>Historical note</head>
+<p>L.H. Nelson Company was a publisher based in Portland, Maine. They published viewbooks (also known as souvenir albums or view albums) and photographs of prominent cities and summer resorts. </p><p>Viewbooks, also called souvenir albums or view albums, are books that contain commercially published groups of photographs depicting a place, activity, or event.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Getty Research Institute: Art &amp; Architecture Thesaurus. "Viewbooks." Accessed June 27, 2011. http://www.getty.edu/vow/AATFullDisplay?find=viewbooks&amp;logic=AND¬e=&amp;english=N&amp;prev_page=1&amp;subjectid=300026684</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_fd8763be8008cb2d3c4cba9bb2d8ed24">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Views of New York viewbook, V1974.020, Box number, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <relatedmaterial id="aspace_f843bae53c15fbdc6361ced9576b0071">
+    <head>Related Materials</head>
+<p>New York Album viewbook (V1986.028)</p><p>Albertype Company viewbooks of New York City (ARC.232)</p><p>Panorama of New York, Brooklyn, and Vicinity viewbook (V1986.038)</p><p>Luella H. Brock New York viewbook (V1991.115)</p><p>Views of Coney Island viewbooks (ARC.231) was also published by L.H. Nelson Company.</p>  </relatedmaterial>
   <scopecontent id="aspace_93d61270b43c5e12f15c8d62327e15a0">
     <head>Scope and Contents</head>
-<p>The <emph render="italic">Views of New York</emph> viewbook was published by L. H. Nelson Company, circa 1910. The photographs in the book are primarily views of buildings, structures, parks, and street scenes in Manhattan, though there are several views of locations in Brooklyn. Brief descriptions for each image are included. All images are black-and-white, and the pages measure 8" x 10". Cardboard covers have been attached to the photobook's original softcover.</p>  </scopecontent>
+<p>The Views of New York viewbook was published by L.H. Nelson Company circa 1910. The photographs in the book are primarily views of buildings, structures, parks, and street scenes in Manhattan, though there are several views of locations in Brooklyn. Brief descriptions for each image are included. All images are black-and-white, and the pages measure 8" x 10". Cardboard covers have been attached to the photobook's original softcover.</p>  </scopecontent>
+  <userestrict id="aspace_28ad537d2ed943d1d11c3634849d8da4">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
     <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Buildings, structures, etc. -- Pictorial works</geogname>
     <geogname source="lcsh">New York (N.Y.) -- Buildings, structures, etc. -- Pictorial works</geogname>
