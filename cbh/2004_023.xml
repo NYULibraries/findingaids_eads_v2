@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2004_023/">2004_023</eadid><filedesc><titlestmt><titleproper>Guide to the Aurthur I. Okanst scrapbooks <num>2004.023</num></titleproper><author>Carolyn Vega, under the supervision of Leilani Dawson.</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>February 2008</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:17:55 +0000</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2004_023/">2004_023</eadid><filedesc><titlestmt><titleproper>Guide to the Aurthur I. Okanst scrapbooks <num>2004.023</num></titleproper><author>Carolyn Vega under the supervision of Leilani Dawson</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>February 2008</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-16 17:30:57 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>September 2026</date><item>Revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Arthur I. Okanst scrapbooks</unittitle>
     <origination label="Creator">
@@ -12,692 +12,66 @@
       <persname role="dnr" rules="dacs" source="local">Grossfield, Rena</persname>
     </origination>
     <unitid>2004.023</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1087</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
       <extent altrender="carrier">in two record cartons and one manuscript box</extent>
     </physdesc>
-    <unitdate datechar="creation" normal="1928/1963" type="inclusive">1928-1963</unitdate>
-    <abstract id="aspace_59a48e263a012a0809b0e1394fa85535" label="Abstract">This collection contains seventeen scrapbooks and one incomplete index compiled by Arthur I. Okanst (1886-1965) of Brooklyn, New York (N.Y.).  These scrapbooks document the personal life and interests of a Jewish Brooklynite during the middle third of the twentieth century.  The scrapbooks consist mainly of newspaper clippings, programs, menus, newsletters and other printed ephemera that cover the topics of domestic and international news, Jewish-American life, celebrities, theater, radio, and sports.  The collection includes materials from various Jewish charities and organizations, and from Okanst's Temple.  The collection also contains many greeting cards, as well as bar mitzvah and marriage announcements.</abstract>
-    <langmaterial id="aspace_385bdfb9c4d4fdc9cc52a797673ee1b7">Materials in English.</langmaterial>
-    <container altrender="Record Carton" id="aspace_b3b9044bab152af91bb6f361b7057590" label="Mixed Materials" type="Box">2 of 3</container>
-    <container altrender="Record Carton" id="aspace_89e727d4e972741dd0aad1cd53ef1bcd" label="Mixed Materials" type="Box">1 of 3</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_4acaeb59b4b048eb74db90d5125ede3e" label="Mixed Materials" type="Box">3 of 3</container>
+    <unitdate datechar="creation" normal="1928/1965" type="inclusive">1928-1965</unitdate>
+    <abstract id="aspace_59a48e263a012a0809b0e1394fa85535">Seventeen scrapbooks and one incomplete index compiled by Arthur I. Okanst (1886-1965), documenting the life and interests of a Jewish Brooklynite during the middle third of the twentieth century. The scrapbooks consist mainly of newspaper clippings, programs, menus, newsletters and other printed ephemera that cover the topics of domestic and international news, Jewish-American life, celebrities, theater, radio, and sports.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
   </did>
-  <odd id="aspace_e1a5d3acfbe90d942b56dbe347421e32">
-    <head>Scrapbooks Index Note</head>
-<p>Okanst's Index</p><p>Terms
-Arthur I. Okanst's incomplete hand-compiled index consists of nearly 600 entries.  Less than 200 are subject terms; the remaining two-thirds are personal or family names.  The index that appears below was copied from Okanst's manuscript index.  Duplicate terms have been consolidated, and the terms have been separated into two classes (subjects and names) and alphabetized.  Corrected or expanded terms appear in [brackets].</p><p>Location notation
-Locations associated with each index term appear as a fraction.  The first number is Okanst's scrapbook number designation.  The second number refers to the foliation.  Each page has been numbered in the upper right corner of the recto.  The number refers to that leaf's recto and the previous leaf's verso.  </p><p>Because the first and last scrapbooks are not part of the collection, Okanst's locations match the scrapbook titles in the following manner (these numbers represent the first half of Okanst's fraction-like notations):</p><p>1	Not present
-2	Scrapbook: 1928-1933 				
-3	Scrapbook: 1934-1938				
-4	Scrapbook: 1938-1939				
-5	Scrapbook: 1940-1942				
-6	Scrapbook: 1942-1944				
-7	Scrapbook: 1944-1946				
-8	Scrapbook: 1946-1949				
-9	Scrapbook: 1950-1955				
-10 	Scrapbook: 1956-1957				
-11	Scrapbook: 1957-1958				
-12	Scrapbook: 1958-1959				
-13	Scrapbook: 1959-					
-14	Scrapbook: From 1957 to 1960			
-15	Scrapbook: From Feb. 1960 to July 1960		
-16	Scrapbook: Aug. 1960 to Jan. 1961			
-17	Scrapbook: From Feb. 1961 to July 1962		
-18	Scrapbook: 1962-May 1965	
-19	Not present</p><p>Hence, Okanst's indexed entry "Burns, Ray'd 6/27" refers to leaf 26 verso and leaf 27 recto of Scrapbook: 1942-1944, where there is an unidentified newspaper clipping, dated "Apr 1943" on said Raymond Burns.</p><p>
-Index</p><p>Subjects:</p><p>A	 
-Amos &amp; Andy	1/54, 1/61
-Andria Doria	10/43
-Animal Hospital	17/17
-Announcers Radio	1/12, 1/68, 1/8
-Arthritis	9/59, 17/22
-Artists Radio	1/69
-Astor Coffee Brand	1/11
-Atomic Bomb	7/30
-B	 
-Berlin	7/59 (?)
-Bi-Carb	3/37
-Blood Pressure	7/3
-Blue Star Camp	14/1
-Book Finders (?)	8/4
-Books	3/66
-Books (roo) (?)	3/66
-Boxing	9/14
-Broadcast Central	1/8
-Broadcast Special	1/20
-Broadcasting Cards	1/39, 1/39a
-Broadcasting Stations	1/13, 1/41, 1/42
-Burlesque	2/14
-C	 
-California Sunshine Girl	1/10
-Cancer	11/64, 12/13
-Capital Punishment	15/20, 15/25
-Carnegie Hall	6/39
-Carolinians, The	1/3
-Cataract	2/26
-Charities	10/10, 18/28
-Chiropractors	18/40
-Civilian Defense	8/6, 8/15
-Cliburn [Van Cliburn?]	11/11a (?)
-Colpon Case	8/57
-Cuckoo Hour	1/79
-D	 
-Diverticulitis	12/20
-Dodgers	8/10, 9/53
-Dubl-O-Products	2/18
-E	 
-Elder Craftsman Shop	9/27
-Elderly	18/32, 18/31, 18/27, 18/23, 18/18
-Election 1964	18/88
-Eveready Hour	1/15
-Exercise	12/49 -
-F	 
-Federation, T.V.	1/57, 6/15, 8/52, 9/20, 18/29, 18/63, 18/92
-Flag	18/84
-Flag, U.S.	5/48
-Flip &amp; Skip	1/46
-Florida	11/8
-Florida Trip	8/19, 8/46, 8/47, 8/53
-Franks Radio	1/4
-Freedom House	18/29
-G	 
-Gamby	1/24
-German Trans &amp; Fliers (?)	2/1, 2/29
-Germany Quits	7/28
-Gnesener, B. Soc. [Gnesener Benevelont  Society]	2/29, 2/48, 3/25, 3/40, 3/68, 4/37, 5/8, 3/70
-Goldsmith (Stationer)	12/17
-Grebe Train Radio	1/14
-Guinan, Texas	1/24
-H	 
-H.I.P.	18/28
-Happiness Boys	1/31, 1/48
-Hay Fever	16/11
-Heart-Liquor	7/3
-Horseshoe	3/44
-I	 
-I Shall Not Pass (Poem)	7/2
-Income	7/29
-Insurance Coverage	2/30 (?)`
-Ipana Troubadors	1/7, 1/29
-J	 
-Japan Surrenders	7/30
-Jewish Actors	2/52
-Jewish Hospital	4/12
-Jews (Pop'n) [Jews--Population]	8/2
-Jews (World 1952)	9/4
-K	 
-K.D.K.A. Orchestra	1/15
-Kinsey Report	11/88
-L	 
-La Follette	1/6
-Las Vegas	11/110
-Lindbergh Cars	1/6d (?), 2/21, 3/18
-Long Island	9/1
-Lucky Strike Brand	1/5
-M	 
-Marty &amp; Bob	1/36
-McCrarry's	9/40
-Medicare	17/16
-Mens Club	6/49
-Mets	18/51
-Midwood Radio	1/48
-Mills Bros	1/73
-Moro Castle Fire	3/12
-Myrt &amp; Marge	1/71
-N	 
-N.R.A.	2/70, 2/75
-N.T.G.	1/2, 1/3
-N.Y.C.	17/16
-Negro (Segregation Out)	9/25
-New York Post [from Post, N.Y.]	12/49
-Niagara Falls	3/23, 3/27
-Nova	4/6, 9/17
-Nurses Aid	18/35
-O	 
-Opera Stars	1/26
-Orchestra Leaders	1/22
-Overweight	13/9
-P	 
-Pipes	9/30
-Plane Acc't	16/38
-Police Band N.Y.	1/4
-Police Dept. N.Y.	1/4, 1/47, 2/17
-Polters	7/25
-Post, N.Y.	12/49
-Presidents Wires Smithsonian	19/23
-Q	 
-R	 
-Rabbis (Women)	18/66
-Radio City Opening	2/51
-Radio Convention	1/49, 1/50, 1/51
-Radio Dealers	1/32, 1/32a
-Radio Drama, First	1/9
-Radio News	1/35
-Radio Plate Removing	1/22
-Radio Rulers	1/21
-Radio Verse	1/32a, 1/33, 1/58
-Radio, Word Origin	1/28
-Radiotrons, The	1/16, 1/20
-Real Folks	1/47
-Red Cross	8/36
-Rent Laws	7/42
-Retired Folk	12/20
-Rights Bill	18/82
-Roach Kids	1/38
-Rollickers, The	1/39
-Rosenberg Case	9/2
-Roxy	1/2, 1/22
-Royal Hawainans [Royal Hawaiians]	1/38
-S	 
-Savo-J	19/9
-Selner NY Ass'n [Hyman Selner Association, New York, N.Y,]	3/8, 4/23
-Senate, U.S.	8/33
-Showboat	1/22, 1/84
-Silver Masked Tenor	1/25
-Singing Sam	1/84
-Sisters of the Skillet	1/63
-Sixth Ave "L"	4/16, 4/21, 4/21, 4/24, 4/16
-Sixty Four D. Question [Sixty Four Dollar Question]	9/62
-Smoking	9/42, 10/60
-Social Security	3/23, 5/7, 11/54, 9/26
-Specht's Band	1/5
-Super Sud Girls	1/80
-Supreme Court	18/24
-T	 
-T.V.	1/23, 16/15, 18/37
-T.V. Quiz	12/2, 12/4, 12/8, 12/16, 12/22, 12/4, 12/41
-Taft Hartley	8/18
-Teachers Salary	10/69
-Television	1/23, 1/46
-Telithons [Telethons]	9/2
-Telivison Reciever	1/16
-Temple Picture	4/34
-Third Ave "L"	9/47, 9/46
-Three Tube Set Cartoon	1/17
-Tobacco	7/3
-TV, WF (?)	18/79
-U	 
-V	 
-Van &amp; Schenck	1/48
-Vitamins	12/86
-Voice of the Turtle	7/19
-W	 
-W.C.X. Detroit	1/20
-W.F.B.H. Radio Group	1/6
-W.G.B.S.	1/9
-W.M.C.A.	1/40
-Waldorf Astoria	1/45, 1/47
-Warburg (Poem)	7/2
-WCAP Station	1/23
-Webber &amp; Fields	3/1
-Weinberger Case	10/52
-Whiskey	6/2
-Wholesale Radio Convention	1/49
-Wholesale Radio Staff	1/29, 1/30, 1/31, 1/51, 1/52
-Worlds Fair	3/13, 4/28, 5/20, 4/2, 5/70, 13/51
-Worlds Fair 1964	17/3, 17/50, 18/76
-X	 
-Y	 
-Z	 
-Zeppelin	2/7, 3/42</p><p>Names:</p><p>A	 
-Adler, Felix	14/57
-Alda, Frances	1/5
-Allen, Fred	10/13
-Angell, James R.	1/19a
-Arliss, Geo	1/61
-Arness	14/16
-Arnold, Frank A.	1/18
-Arnstein, D.	16/5
-Astaire, Adele	1/81
-Austin, Bernard	12/69
-B	 
-Bacharch, Bert	17/81
-Bachrach, Mrs. C.G.	17/96
-Baker, Belle	1/28, 1/48
-Baker, Jos	3/55
-Ballyn, Wm	1/11
-Barkley, Alben W.	10/22
-Barricini	10/46
-Barry, Jack	11/12
-Barrymore, Ethel	38/13
-Barrymore, Lionel	9/32
-Barton, Bruce	1/18
-Bennett, Nat	9/35, 9/40
-Benny, Jack	4/7
-Berg, Gertrude	1/63
-Berle, Milton (?)	18/35
-Berlin, Irving	18/43
-Bernie, Ben	1/1, 1/5, 1/28, 1/46, 1/58
-Blore, Eric	13/5
-Bogart, H.	7/5
-Bonomo, Vic. A.	4/20
-Bordoni, Irene	1/59, 1/80
-Boswell Sisters	1/67
-Boswell, Martha	12/3
-Bowes, Major	1/19, 1/16, 1/17, 1/22, 1/25, 1/38, 5/24, 7/46
-Breen, May Singhi	1/76
-Breen, Singhi	1/4
-Brice, Fanny	1/2
-Brokenshire, Norman	1/4, 1/25, 1/49
-Browder, Earl	3(?)/15
-Browne, Bradford	1/52
-Browning, E.W.	3/8
-Bunchuk, Yasha	1/63
-Burbig, Henry	1/61
-Burns 25th Party	8/27
-Burns, Harriet	1/74, 1/82, 1/85
-Burns, Mort	9/29
-Burns, Ray'd	6/27
-Buttons, Red	9/47
-Byrd, Admiral	2/27
-Byrd, Commander	1/11, 1/27
-C	 
-Calhern, Louis	10/27
-Caloway, Cab	1/64
-Campanella,  Roy	11/76, 12/26, 12/51, 12/65, 12/75, 12/84, 13/8
-Cantor, Eddie	1/10, 1/67, 18/87 (?)
-Cantor, Ida	18/2
-Canzoneri, Tony	14/40
-Capitol Family	1/19
-Cardoza, Benj (Cardozo?)	11/1
-Carlin, Philps	1/2, 1/8, 1/21, 1/48
-Carson, Jack	18/28
-Case, Anna	1/2, 1/8, 1/22
-Castro	13/19
-Ce Fries F.C.	1/17
-Celler, Emanuel	13/11
-Chaplain, Charlie	1/28, 6/53
-Chatfield, Gerald	1/7
-Chatterton, Ruth	1/48
-Chessman, Caryl	15/33
-Chevallier, M.	6/31, 12/63
-Cliburn [Van Cliburn?]	11/11a
-Clooney, R. Marie	17 / 60, 
-Cobb, Irwin S.	1/20
-Coburn, Chas	17/53 -
-Columbo, Russ	1/73
-Cook, Phil	1/63, 1/77
-Coolidge, Calvin	1/8, 1/43, 2/59
-Cooper, Gordon	18/43
-Corbett, James J.	1/19a
-Cordet, Jean de	1/67
-Corigan, Oneway	4/4, 4/8
-Costello, Lou	13/6
-Cranford, Wm H.	1/7
-Crawford, Jesse	1/27
-Crooks, Richard	1/18
-Crosby, Bing	1/70a, 1/83
-Cross, Milton J.	1/7, 1/17
-Crumit, Frank	1/81
-Curci, Galli	1/22
-D	 
-Damrosch, Walter	1/75a
-Daniel, John B.	1/23
-Darow, Clarence	18/30 (?)
-De Leath, Vaughn	1/1, 1/4, 1/13, 1/42
-De Mille, Cecil	12/76
-De Plessen, Baroness	1/25
-Dio, Johnie	10/26
-Dorsey, Tommy	10/60
-Dr. Donaldson (Negro)	13/1
-Dryer, Rae	2/11
-Drysdale, Don	18/48
-Durante	9/57
-E	 
-Eaton, Cyrus	16/32, 
-Edison, Thos	1/32a
-Eichman, Adolph	17/18, 17/94
-Einsenhouer	11/67
-Einstein, Dr.	2/33, 3/3
-Eiseman, Alex	1/26
-Emerson, Ray	7/13
-Epps, Al	1/10
-Expense, Ales	18/70, 
-F	 
-Fairbanks, Douglas	1/59, 4/33, 4/33
-Fields, Benny	13/53
-Firestone, Harvey	1/32a
-Fisher [Fisher, Eddie]	10/14, 12/39, 13/25
-Fitzmaurice, Major	1/18
-Flagg, James M.	1/13
-Flamm, Donald	1/57
-Flonzaley Quartet	1/21
-Foley, Red	14/47
-Fontaine, Frank	19/24
-Ford, Henry	1/32a
-Fox, Wm.	2/26
-Franklin, Irene	1/6, 1/16
-Freed, Eisman	1/31, 1/32a, 1/39
-Freed, J.D.R.	1/9
-Friedman, Judge	18/32
-G	 
-Gable, Clark	16/26
-Gang, Our	42/13
-Garland, Judy	10/57, 9/11
-Gaston (?), Wm.	18/30
-Geismar, A.H.	4/15
-Gibbons, Floyd	1/58, 1/62
-Gibbs, Louis D.	2/12
-Gibson, Althea	11/52
-Gigli, Benjamin O.	1/15, 1/73
-Ginsburg, Mr. &amp; Mrs.	3/33
-Gleason, James	13/18
-Godfrey, Arthur	13/13
-Golden, Ernie	1/6, 1/24
-Golden, Harry	12/25
-Golderg's, The	1/64
-Goldman, Edwin F.	1/44, 10/6
-Golman, Franco	10/6
-Gory, Elizabeth	1/1
-Gray, Alex	1/75
-Green, Martha	1/48
-Green, Martin	14/25, 
-Grossfield, A.F.	5/72, 17/8, 18/59, 18/62
-Grossfield, A.J.	5/5, 6/5, 9/31, 9/34, 9/41 (?), 11/5, 15/34
-Grossfield, Anne	33/13, 15/34, 15/43
-Grossfield, H.B.	5/28, 9/31, 10/5, 13/30, 15/34, 15/40, 17/62
-Grossfield, Rena	9/33, 10/11, 10/32, 15/34, 17/97, 18/39, 18/45, 18/73, 18/882, 18/85, 18/89
-Grossinger, Harry	18/83
-H	 
-Hager, Kolin	1/7
-Hall, Alfred	1/6
-Hall, Wendell	1/2
-Hammerstein, O.	16/7
-Harbord, General	1/19a
-Harris, Mariam	1/72 (?)
-Hartman, Gustave	1/45
-Hauptmann [Hauptmann, Bruno Richard]	3/11, 3/18, 3/19, 3/15
-Havrilla, Alois	1/45
-Hearm, Murray	9/30
-Hearn, Murray	9/30
-Hitler	7/19, 4/24, 6/34
-Hodgis, Gil	18/3, 17/98, 18/44, 18/46
-Holmes, Burton	1/5
-Homer, Louise	1/70
-Hoover, Herbert	1/19a, 1/41, 1/43
-Hopper DeWolfe	1/86
-Huenfeld, Captain	1/18
-Hughes, Chase	8/24
-Hughes, Revella (?)	1/2
-Husing, Edw. B.	1/23
-Husing, Ted	1/82
-Hussars, Pt. Arthur	17/79, 17/97
-Huttons, The	2/5
-I	 
-J	 
-Jack, Hwlan (?)	14/44
-Jacobs, Jacques	1/5
-Jaeger, Henry	1/38
-Janis, Elise	10/7, 
-Jeritza, Mme.	1/25, 1/75a
-Jolson, Al	2/47, 9/1, 5/22, 7/13
-Jonas, Nathan	4/47
-Jovedah, Prince	1/3
-Joy, Alice	1/81
-K	 
-Kefauver	18/55
-Keller, Helen	15/49
-Kennedy, Pres.	17/2, 18/65
-Kent Atwater 	1/4, 1/5
-Kibbe, Guy	10/28
-King, Luther	18/89
-Koehl, Captain	1/18
-Kovak, Ernie	17/75
-L	 
-La Guardia	3/24, 3/51
-Lackaye, Wilton	1/61
-Lanin, Sam	1/1
-Lanzansky, Edward	9/61
-Larson, Don	10/56
-Lasar, Manny	2/22, 2/30, 2/34
-Laurier, Ludwig	1/75
-Lazar, Jesse	9/10
-Lee, Dixie	1/83
-Lee, Pinky	9/21
-Lefcourt, A.E.	2/3, 2/44
-Lehman, Herbert	18/68
-Leibowitz Sobel [Liebowitz, Samuel and Sobel, Nathan]	15/9
-Lennon Sisters	16/18
-Lerman Wedding	18/36
-Lerman, Scott	18/51
-Lerman, Stewart	10/10, 9/12, 18/5
-Lerner--McCrory	18/59
-Levenson, Sam	18/37
-Levinson, Rabbi	8/12
-Lewis Welcome 	1/66
-Lewis, Harry	8/39
-Lewis, Jerry	14/3
-Lewisohn, Adolph	1/19a
-Lichtenstein, Lou	6/50
-Lierace	13/31
-Littlerick	11/55
-Lombard, Carole	5/81
-Lombaro, Guy	1/60, 1/76
-Londos, Jim	2/35
-Long Island RR	9/1
-Long, Huey	3/22
-Lopez, Vincent	1/1, 1/6, 1/27
-Lowenstein	6/23
-Lowitz, Stanley	6/3
-Ludlow, Godfrey	1/6, 1/15
-M	 
-Madden, Lotta	1/19a
-Marconi, Signor	1/18, 1/43
-Marie Queen of Romania	1/19a
-Marie, Rose	1/75a
-Marx, Chico	17/65
-May, Mitchell	5/37, 5/38, 15/2, 17/15
-McAnn, Tom	2/48
-McClelland, Geo	1/25
-McComas, Carol	1/13
-McCormack, John	1/2, 1/31
-McFaofaden	57
-McLeod, Keith	1/4
-McManus, Geo.	9/33
-McNamee, Graham	1/2, 1/4, 1/9, 1/29
-Medalie, Z. [Medalie, Judge George Z.]	7/35
-Melnick, J.	8/53, 8/63
-Mendoza, David	1/17, 1/41
-Meyerson, Bess	17/28
-Miller, Arthur	2/11
-Miller, Marilyn	1/79
-Minovitch, Borah	1/66
-Mitchell, Thomas	18/19a
-Mogules, Con (?)	9/36
-Monroe, Lucy	11/93
-Morgan, Anne	1/14
-Morse, Lee	1/44
-Morton, James C.	1/26
-Moscovitz, Jugr. (?)	8/13
-Moses, Grandma	17/72
-Murray, Arthur	15/28
-Murray, Jan	14/32
-Murray, Ken	1/84
-N	 
-Nagel, Teresa	1/6
-Nisselson, M. [Nielsson, Michael]	7/24
-Nixon	9/14
-Noonan, Tora	1/55
-Norworth, Jack	13/57
-O	 
-Ochs, Adolph	3/20
-Odwer, Wm.	8/11
-Okanst, A.I.	6/15, 9/35, 8/52, 8/53, 1/29, 1/31, 1/32
-Okanst, A.I., Retiring	9/32, 1/54
-Okanst, George	2/19
-Okanst, Harriet	5/3, 3/35, 5/17, 5/28, 12/7
-Okanst, Wedding Invite	3/27
-Olsen, George	1/16
-Oscar of Waldorf	1/45
-Oslsters	18/58, 18/60, 18/61, 18/73, 18/74
-P	 
-Palmer, Olive	1/68, 1/74
-Paret, Benny	17/91
-Parkyakarkas	12/54
-Parr, Jack	15/3
-Parshelsky, Isaac	3/12
-Pasternack, Harry	2/23
-Pasternack, Joseph	1/64
-Pearle, Norman	1/6
-Peterson, Robert	17/8, 17/42, 12, 44, 
-Peterson, u e (?)	17/48, 17/89, 18/1, 18/18
-Philippe [Philippe, Claudius]	12/35, 16/6
-Piaf, Edith	18/61
-Pickford, Jack	2/57
-Pinza, Ezio	11/32
-Post, Wiley	2/74
-Power, Tyrone	12/53
-Powerll, Dick	18/12
-Pryor, Arthur	1/69
-Q	 
-R	 
-Ramsdorf, Herr	1/9
-Rappe, Erno	1/57
-Rattner, Jos.	6/36
-Ray, Burnsam	17/68
-Raymond, Alex	10/18
-Raymond, Arthur	3/45
-Reutlinger, Ernest	3/39
-Reynolds, Debbie	13/1
-Rice, Gladys	1/48, 1/69
-Rice, Grant Land	1/61
-Richards R.R.	1/38
-Rickard, Tex (?)	1/29, 1/34, 2/10
-Riesel, Victor	10/16
-Ripley, Robt. L.	1/78
-Robinson, Bill	8/67
-Rockefeller, J.D.	2/4
-Rockefeller, Nelson	12/34, 12/41
-Rogers, Will	1/60, 3/20
-Roinson, Bill	3/38, 8/67
-Roinson, Jackie	10/70
-Rolff, BA	1/3, 1/16, 1/26, 1/50
-Rooney, Pat	3/24, 17/48, 18/12
-Roosevelt, Eleanor	13/22, 14/15, 18/18
-Roosevelt, Franklin	3/88, 3/34, 5/1, 5/27, 7/22, 7/27
-Roosevelt, Theo.	1/19a
-Rosenbloom, Maxie	11/10
-Ross, Barney	16/19
-Ross, David	1/77
-Rubinoff, Dave	1/61
-Ruth, Babe	8/37, 8/14
-S	 
-Salk	9/37
-Salzman	1/57, 3/42
-Salzman, Morris	2/24
-Salzman, Mortimer	1/28
-Sanderson, Julia	1/71
-Schanzer	2/62, 3/57
-Schenck, Nicholas	1/6
-Schmelling	2/9
-Schmidt, Arnold	4/33
-Schuman, Heink	1/10
-Seidel, Toscha	1/58
-Shore, Dinah	17/30
-Shore, Samuel	7/8
-Shorin, Ira	9/22
-Shuhp, Ethel (?)	1/37
-Silver, Rabbi [Silver, Abba Hillel]	18/66
-Sinatra, Jr.	18/68
-Skinner, Otis	1/61
-Smith, Al	1/37, 2/31
-Smith, Kate	1/66, 1/83
-Sobbel, Ira	7/15
-Sobel, Nathan [from Liebowitz Sobel]	15/9
-Sokolsky, Geo	17/67, 18/20
-Sousa, Joseph	1/54, 1/69
-Steinbach, Rabbi	3/35, 3/57, 3/48, 3/59, 4/1, 6/44, 18/49
-Steingut	7/2
-Steinmetz, Dr. Chas. P.	1/7
-Stone, Fred	13, 7
-Strickland	1/3, 1/11
-Sullivan, Margaret	14/49
-Summerall, General	1/19a
-Swanson, Gloria	1/16
-T	 
-Talley, Marion	1/3, 1/10, 1/18
-Talmadge, Norma	11/71
-Tibbet, Laurence	1/19
-Tobias, Henry	1/6
-Todd, Mike	11/61, 11/94, 11/98, 11/94
-Torre, Marie	11/63, 12/65, 12/68, 12/94
-Toscanni, Arturo	10/66, 11/7
-Tucker, Sophie	1/28, 17/4
-Turner, Lana	11/95, 11/101
-U	 
-V	 
-Valley, Rudy	1/56, 1/60, 1/62
-Van Doren, Chas	1/16, 11/19, 14/7, 14/10, 11/2, 14/18, 14/24
-Van Gus	1/39a
-Von Dardroff	11/43
-W	 
-Walker, James J. 	1/27, 1/28, 1/47, 2/3 2/18, 7/20, 7/37
-Wanamker, J.	2/7, 9/34
-Wanek, Mrs.	6/4
-Waner, Mrs.	6/4
-Washington	3/62
-Welk, L.	13/43, 
-Wentworth, Ralph	1/23
-Werrenrath, Reinald	1/37
-White, Francis	1/5
-White, J. Andrew	1/7, 1/29
-White, Ludden &amp; Beatrix	18/49
-Whitehead, Wilbur	1/38
-Whiteman, Paul	1/39a
-Wilkie, Wendel	1/14
-Wirth, Phil	
-Wise, Jonah	12/81
-Witherspoon, Herbert	1/41
-Work, Milton C	1/38
-X	 
-Y	 
-Z	 
-Zeitz-Milton	17/90
-Zimbalist, Efrem	1/9</p>  </odd>
-  <userestrict id="aspace_c7006aea558b777faf3cac7f4311b831">
-    <head>Conditions Governing Use</head>
-<p>Copyright holder unknown. Materials expected to enter the public domain in 2035.</p>  </userestrict>
-  <scopecontent id="aspace_5281da338a08c006a195ccd5cdbd8b91">
-    <head>Scope and Contents</head>
-<p>The seventeen scrapbooks were once part of a larger series of nineteen.  The first and last scrapbooks were not donated to Brooklyn Historical Society.  The inclusive dates of the first scrapbook are unknown, but the final scrapbook covers May to September, 1965, and it is likely that it was largely uncompleted.  The presence of the two missing scrapbooks was ascertained by deciphering Okanst's hand-compiled index, also included in this collection.</p><p>The scrapbooks are common lined composition notebooks, hand foliated.  They contain clippings and published obituaries; theater and event programs and playbills; souvenirs, menus, leaflets and other printed ephemera; greeting cards (especially Birthday and Anniversary cards), telegrams, and invitations to weddings and bar mitzvahs.</p><p>The scrapbooks provide indications as to Okanst's life and interests.  He was an active member of his Temple, and followed politics and Jewish relations at a local, national, and international level.  He enjoyed entertainment, especially the theater, and was interested in radio, television, celebrities, and sports, especially boxing and baseball.  There is unfortunately no record of his professional life included in the scrapbooks.  </p><p>Most items are newspaper clippings and most items are pasted in.  Many items are dated, either by hand in a large script or, later, by stamp.  Some newspaper articles have portions underlined, though there are few, if any, annotations.  Items that Okanst indexed have been marked with a check.</p>  </scopecontent>
-  <acqinfo id="aspace_e81b252c1f65a79e94c07199cdc2b8e0">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated in 2004 by Rena Grossfield, Arthur I. Okanst's granddaughter.</p>  </acqinfo>
-  <bioghist id="aspace_d16bdc5cdaa66f9a4eb525906aa56f4c">
-    <head>Biographical Note</head>
-<p>Arthur I. Okanst was born on 22 March 1886, and married Helen Newman on 31 July 1910.  The family lived in Flatbush, Brooklyn (at 1625 East 13th Street, from at least 1940 through at least 1961), and raised a daughter, Harriet.  Harriet married Avery Grossfield, and they had two daughters: Anne Faith and Rena Ellen.  At some point, the Grossfield family moved to Texas.</p><p>Okanst actively followed news related to the world and national state of Jewish affairs.  In the scrapbooks, he kept many clippings on famous Jewish Americans, as well as news articles on anti-Semitism and the events leading up to and during World War II.  Okanst was an active member of his Jewish community – the scrapbooks contain programs, menus, and other materials from the United Jewish Appeal, the Young Men's Hebrew Association, American Palestine Campaign, the Federation of Jewish Charities in Brooklyn, the Brooklyn Zionist Region, and other Jewish charities.</p><p>Okanst attended the Reform Synagogue Temple Ahavath Sholom of Flatbush.  He was close to Rabbi Alexander Alan Steinbach there, and they exchanged intermittent correspondence beginning in the mid 1930s.  Okanst attended and kept the typescript lectures of Rabbi Steinbach's Adult Education Courses throughout the thirties and forties.  He also saved the monthly newsletters published by the Temple's Men's Club.  Although an active parishioner, Okanst does not seem to have held any offices or served on any committees at the Temple.</p><p>
-The Okanst family likely took at least two vacations: it is probable that they visited Niagra Falls in the summer of 1936, where souvenir leaflets from the Old Fort Niagra and Shredded Wheat factory were obtained,  and Miami, Florida in the winter of 1948.  Additionally, Okanst seems to have enjoyed popular entertainment:  he attended at least one Worlds Fair (1939), from which he kept printed ephemera,  and frequently attended the theater.  He also followed celebrity news, as is evidenced by numerous clippings on the various marriages, divorces, and legal cases of the contemporary stars.  </p><p>Almost nothing is known about Okanst's professional life.  He attended the 10th annual lawyer's club dinner in 1943, and may have been in the legal profession.  He retired in 1955, and a cocktail party was given in his honor by friends and colleagues.  No records of employment or professional affiliation have been found in the scrapbooks to date.  </p><p>After at least two surgeries and a painful decline, Arthur Okanst died in September 1965.  Helen joined their daughter's family in Texas after his death, where she died on 13 September 1970. </p>  </bioghist>
-  <arrangement id="aspace_b2e56150230f2bf62dabdf88da609679">
-    <head>System of Arrangement</head>
-<p>The seventeen scrapbooks have been put into the order prescribed by Okanst's index.  This order is chronological, except in one instance.  The titles are taken directly from the manuscript notations on the covers.</p>  </arrangement>
-  <processinfo id="aspace_3b888d395f08c8333aa83d51068cddb5">
-    <head>Processing Information</head>
-<p>Collection processed in 2008 by Carolyn Vega under the supervision of Leilani Dawson.</p>  </processinfo>
   <accessrestrict id="aspace_c6545811812273bd2dc38e2b70f30435">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_e81b252c1f65a79e94c07199cdc2b8e0">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Rena Grossfield, 2004.</p>  </acqinfo>
+  <arrangement id="aspace_b2e56150230f2bf62dabdf88da609679">
+    <head>Arrangement</head>
+<p>The seventeen scrapbooks have been put into the order prescribed by Okanst's index, which is chronological except in one instance.</p>  </arrangement>
+  <bioghist id="aspace_d16bdc5cdaa66f9a4eb525906aa56f4c">
+    <head>Biographical note</head>
+<p>Arthur I. Okanst was born on 22 March 1886 in Gnesen (now Gniezno), Poland. He married Helen Newman (b. 1880 in New Haven, Connecticut) on 31 July 1910. The family lived in Flatbush at 1625 East 13th Street, near Kings Highway, from at least 1940 through at least 1961. They had one daughter, Harriet. Harriet married Avery Grossfield, and they had two daughters: Anne Faith and Rena Ellen. In 1951, the Grossfield family moved to Texas.</p><p>Okanst actively followed news related to the world and national state of Jewish affairs. In the scrapbooks, he kept many clippings on famous Jewish Americans, as well as news articles on anti-Semitism and the events leading up to and during World War II. Okanst was an active member of his Jewish community, and the scrapbooks contain programs, menus, and other materials from the United Jewish Appeal, the Young Men's Hebrew Association, American Palestine Campaign, the Federation of Jewish Charities in Brooklyn, the Brooklyn Zionist Region, and other Jewish charities.</p><p>Okanst attended the Reform Synagogue Temple Ahavath Sholom of Flatbush. He was close to Rabbi Alexander Alan Steinbach there, and they exchanged intermittent correspondence beginning in the mid 1930s. Okanst attended and kept the typescript lectures of Rabbi Steinbach's Adult Education Courses throughout the 1930s and 1940s. He also saved the monthly newsletters published by the Temple's Men's Club.</p><p>
+The Okanst family visited Niagra Falls in the summer of 1936, where souvenir leaflets from the Old Fort Niagra and Shredded Wheat factory were obtained, and also Miami, Florida in the winter of 1948. They also traveled to Lake George in upstate New York. Additionally, Okanst seems to have enjoyed popular entertainment: he attended at least one World's Fair (1939), from which he kept printed ephemera, and frequently attended the theater. He also followed celebrity news, as is evidenced by numerous clippings on the various marriages, divorces, and legal cases of contemporary stars.  </p><p>Okanst was interested in radio and television technology throughout his lifetime, and he worked in the radio industry in the 1920s in sales and manufacturing for Bosch. He lost his job in the Great Depression, and spent some time doing radio repair and odd jobs. His daughter Harriet also quit high school to work at Gimbel's during that time. At some point in the 1930s, he started working for the Federation of Jewish Philanthropies. He retired from there in 1955.</p><p>Okanst had many hobbies. In addition to scrapbooking, he enjoyed wood carving, photography and videography, metal tooling, and stamp collecting. He also dabbled in painting. In the 1940s, he raised Boston terriers.</p><p>Arthur Okanst died in September 1965. Helen joined their daughter's family in Texas after his death, where she died on 13 September 1970.</p>  </bioghist>
+  <odd id="aspace_e1a5d3acfbe90d942b56dbe347421e32">
+    <head>Scrapbooks index</head>
+<p>Terms: Arthur I. Okanst's incomplete hand-compiled index consists of nearly 600 entries. Less than 200 are subject terms; the remaining two-thirds are personal or family names. The page number references listed for each scrapbook in this finding aid were copied from Okanst's manuscript index and corrected where needed. Duplicate terms have been consolidated, and the terms have been separated into two classes (subjects and names) and alphabetized. Corrected or expanded terms appear in square brackets.</p><p>In the original index, page locations associated with each term appear as a fraction. The first number is Okanst's scrapbook number designation, and the second refers to the foliation. Each page has been numbered in the upper right corner of the recto. The number refers to that leaf's recto and the previous leaf's verso (i.e. the two-page spread of the open scrapbook).  </p><p>The index also contains listings for scrapbooks numbered 1 and 19, which are not part of this collection. Scrapbook 1, consisting of clippings related to radio, television, and related technology, was given by Rena Grossfield to the Library of American Broadcasting in 2004.</p>  </odd>
   <prefercite id="aspace_003aef3b9ca658b6c30a25ab7915cf35">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Arthur I. Okanst scrapbooks, 2004.023, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Arthur I. Okanst scrapbooks, 2004.023, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_3b888d395f08c8333aa83d51068cddb5">
+    <head>Processing Information</head>
+<p>Collection processed in 2008 by Carolyn Vega under the supervision of Leilani Dawson. Collection reprocessed and finding aid revised by Dee Bowers in September 2026.</p>  </processinfo>
+  <relatedmaterial id="aspace_987542fe5012ebfee63b32560e949ee4">
+    <head>Related Materials</head>
+<p>Brooklyn Jewish History Project: accessible on CBH's digital collections under the call number prefix BJHP.</p><p>Brooklyn Federation of Jewish Charities collection (1985.097)</p><p>The first scrapbook in Okanst's collection is held by the Library of American Broadcasting.</p>  </relatedmaterial>
+  <scopecontent id="aspace_5281da338a08c006a195ccd5cdbd8b91">
+    <head>Scope and Contents</head>
+<p>The seventeen scrapbooks were once part of a larger series of nineteen. The first and last scrapbooks were not donated to Brooklyn Historical Society. The inclusive dates of the first scrapbook are unknown, but the final scrapbook covers May to September, 1965, and it is likely that it was largely uncompleted. The presence of the two missing scrapbooks was ascertained by deciphering Okanst's hand-compiled index, also included in this collection.</p><p>The scrapbooks are common lined composition notebooks, hand foliated. They contain clippings and published obituaries; theater and event programs and playbills; souvenirs, menus, leaflets and other printed ephemera; greeting cards (especially birthday and anniversary cards), telegrams, and invitations to weddings and bar mitzvahs. The scrapbooks also include materials from various Jewish charities and organizations and from Okanst's Temple.</p><p>The scrapbooks document Okanst's life and interests. He was an active member of his Temple, and followed politics and Jewish relations at a local, national, and international level. He enjoyed entertainment, especially the theater, and was interested in radio, television, celebrities, and sports, especially boxing and baseball.</p><p>Most items are newspaper clippings and most items are pasted in. Many items are dated, either by hand in a large script or, later, by stamp. Some newspaper articles have portions underlined, though there are few, if any, annotations. Items that Okanst indexed have been marked with a check.</p>  </scopecontent>
+  <userestrict id="aspace_c7006aea558b777faf3cac7f4311b831">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <geogname source="lcsh">United States |x Social life and customs |y 20th century</geogname>
-    <subject source="lcsh">New York (N.Y.) |x Social life and customs |y 20th century</subject>
+    <geogname source="lcsh">United States -- Social life and customs -- 20th century</geogname>
+    <subject source="lcsh">New York (N.Y.) -- Social life and customs -- 20th century</subject>
     <subject source="lcsh">Jews</subject>
-    <subject source="lcsh">Sports |z United States |y 20th century</subject>
+    <subject source="lcsh">Sports -- United States -- 20th century</subject>
     <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Social life and customs -- 20th century</geogname>
     <subject source="lcsh">World War, 1939-1945</subject>
-    <subject source="lcsh">Jews |x Charities |y 20th century</subject>
-    <subject source="lcsh">Theater |z United States |y 20th century</subject>
-    <subject source="lcsh">Television |z United States |y 20th century</subject>
-    <subject source="lcsh">Radio |z United States |y 20th century</subject>
-    <geogname source="lcsh">United States |x Foreign Relations |y 20th century</geogname>
-    <subject source="lcsh">Zionism in the press |y 20th century</subject>
-    <subject source="lcsh">Antisemitism in the press |y 20th century</subject>
-    <subject source="lcsh">Jews |z United States |y 20th century</subject>
-    <subject source="lcsh">Celebrities |z United States |y 20th century</subject>
-    <geogname source="lcsh">United States |x Politics and government |y 20th century</geogname>
-    <subject source="lcsh">Presidents |z United States |y 20th century</subject>
+    <subject source="lcsh">Jews -- Charities -- 20th century</subject>
+    <subject source="lcsh">Theater -- United States -- 20th century</subject>
+    <subject source="lcsh">Television -- United States -- 20th century</subject>
+    <subject source="lcsh">Radio -- United States -- 20th century</subject>
+    <geogname source="lcsh">United States -- Foreign relations -- 20th century</geogname>
+    <subject source="lcsh">Zionism in the press -- 20th century</subject>
+    <subject source="lcsh">Antisemitism in the press -- 20th century</subject>
+    <subject source="lcsh">Jews -- United States -- 20th century</subject>
+    <subject source="lcsh">Celebrities -- United States -- 20th century</subject>
+    <geogname source="lcsh">United States -- Politics and government -- 20th century</geogname>
+    <subject source="lcsh">Presidents -- United States -- 20th century</subject>
     <genreform source="aat">Programs (documents)</genreform>
     <genreform source="aat">Greeting cards</genreform>
     <genreform source="aat">Invitations</genreform>
@@ -715,6 +89,6 @@ The Okanst family likely took at least two vacations: it is probable that they v
     <corpname rules="dacs" source="naf">Temple Ahavath Sholom (Brooklyn, New York, N.Y.)</corpname>
     <persname role="dnr" rules="dacs" source="local">Grossfield, Rena</persname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_157974e33a78751604ae4a3a5f2ff24b" level="file"><did><unittitle>Scrapbook 2</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496825</unitid><unitdate datechar="creation" normal="1928/1933" type="inclusive">1928-1933</unitdate><container altrender="Record Carton" id="aspace_02d6211cccd93c6da8fb890e06cfab7c" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_fa8bf57c31e9335d254e9f25392abd75"><head>Subjects</head><p>Boxing, p. 14; Cataract, p. 26; Dubl-O-Products, p. 18; German Fliers, pp. 1, 29; Gnesener B. Soc. [Gnesener Benevelont Society], pp. 29, 48; Insurance coverage, p. 39; Jewish actors, p. 52; N.R.A., pp. 70, 75; Police Dept. N.Y. [NYPD], p. 17; Radio City opening, p. 51; Zeppelin [Graf], p. 7.</p></scopecontent><scopecontent id="aspace_9c8f5e1575a8da5ff0fc2675bdf64d78"><head>Names</head><p>Byrd, Admiral, p. 27; Coolidge, Calvin, p. 59; Dryer, Rae, p. 11; Einstein, Dr., p. 33; Fox, Wm., p. 26; Gibbs, Louis D., p. 12; Huttons, The, p. 5; Jolson, Al, p. 47; Lasar, Manny, pp. 22, 30, 34; Lefcourt, A.E., pp. 3, 44; Lindbergh, Chas. [Charles], p. 21; Londos, Jim, p. 35; McAnn, Tom, p. 48; [Okanst, Arthur I., p. 48]; Okanst, George, p. 19; Okanst, Harriet, p. 7; Pasternack, Harry, p. 23; Pickford, Jack, p. 57; Post, Wiley, p. 74; Rickard, Tex [George Lewis], p. 10; Rockefeller, J.D., p. 4; Salzman, Morris, p. 24; Schanzer [Albert D.], p. 62; Smith, Al [Governor Alfred E.], p. 31; Walker, James J. [Mayor], pp. 3, 18; Wanamaker, J. [John], p. 7.</p></scopecontent></c><c id="aspace_b310b258f53a22516052e403b9348ceb" level="file"><did><unittitle>Scrapbook 3</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496826</unitid><unitdate datechar="creation" normal="1934/1938" type="inclusive">1934-1938</unitdate><container altrender="Record Carton" id="aspace_f8983dc9552a663c7163439e586bad85" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_af79eaa00bc74c763b23546a7e27f35c"><head>Subjects</head><p>Bi-Carb, p. 37; Books, p. 66; Gnesener B. Soc. [Gnesener Benevelont  Society], pp. 25, 40, 70; Horseshoe, p. 44; Lindbergh, Chas [Charles], p. 18; Morro Castle fire, p. 12; Niagara Falls, pp. 15, 23, 27; Selner NY Ass'n [Hyman Selner Association], p. 8; Social Security, p. 33; Webber &amp; Fields, p. 1; Worlds Fair, p. 43; Zeppelin [Hindenburg], p. 42.</p></scopecontent><scopecontent id="aspace_bb8a1a7293b5a848057cbc1f09bf3031"><head>Names</head><p>Baker, Jos [Joseph J.], p. 55; Browning, E.W. [Edward West], p. 8; Einstein, Dr., p. 7; Ginsburg, Mr. &amp; Mrs. [Oscar], p. 33; Hauptmann [Hauptmann, Bruno Richard], pp. 10, 18, 19, 25; La Guardia [Mayor Fiorello], p. 24, 51; Long, Huey, p. 22; Ochs, Adolph, p. 20; Okanst, Harriet, p. 35; Okanst, wedding invite, p. 27; Parshelsky, Isaac, p. 12; Raymond, Arthur, p. 45; Reutlinger, Ernest, p. 39; Robinson, Bill ["Bojangles"], p. 38; Rogers, Will, p. 20; Rooney, Pat, p. 24; Roosevelt, Franklin, pp. 28, 34; Salzman [Morris], p. 42; Schanzer [Albert D.], p. 57; Steinbach, Rabbi, pp. 35, 48, 57; Washington [D.C.], p. 62.</p></scopecontent></c><c id="aspace_e88734970fdbd140997d703a495f9e09" level="file"><did><unittitle>Scrapbook 4</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496827</unitid><unitdate datechar="creation" normal="1938/1939" type="inclusive">1938-1939</unitdate><container altrender="Record Carton" id="aspace_97da8b45002bf3518024121791d007a7" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_dc16f54e34d7e16fcb3c7e1a5c1d0867"><head>Subjects</head><p>Gnesener, B. Soc. [Gnesener Benevelont  Society], p. 37; Jewish Hospital, p. 12; Nova [Mrs. Sadie], p. 6; Selner NY Ass'n [Hyman Selner Association], p. 23; Sixth Ave "L" [El / elevated train], pp. 16, 21, 24; Temple picture [photo of "W.J.A. campaign Flatbush Div. dinner, Elite Club, 1939"], p. 34; Worlds Fair, pp. 2, [8], 28.</p></scopecontent><scopecontent id="aspace_1cfe50719b1d39ca07fdb917c0eca605"><head>Names</head><p>Benny, Jack, p. 7; Cardoza [Cardozo], Benj. [Benjamin], p. 1; Corigan, Oneway [Douglas "Wrong Way"], pp. 4, 8; Fairbanks, Douglas, p. 33; Geismar, A.H., p. 15; Hitler, p. 24; Jonas, Nathan, p. 47; O'Dwyer, Wm. [William, Justice], p. 11; Schmidt, Arnold, p. 33; Steinbach, Rabbi, p. 1, [2, 19, 20].</p></scopecontent></c><c id="aspace_733cfdbe15c7c0ccd38ec16152706f29" level="file"><did><unittitle>Scrapbook 5</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496828</unitid><unitdate datechar="creation" normal="1940/1942" type="inclusive">1940-1942</unitdate><container altrender="Record Carton" id="aspace_2a5e1c2032ff7d752da107f1972c6635" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_3a5b6b3fda7e411258a7cd38b6b1351f"><head>Subjects</head><p>Flag, U.S., p. 48; [Flatbush Inter-faith Council, p. 7, 71]; Gnesener, B. Soc. [Gnesener Benevelont  Society], p. 8, [72, 75]; Social Security, p. 7; Worlds Fair, pp. 20.</p></scopecontent><scopecontent id="aspace_e225b8f441422d34787fdc777391add8"><head>Names</head><p>Bowes, Major, p. 24; Grossfield, A.F. [Anne], p. 72 [birth announcement]; Grossfield, A.J. [Avery], p. 5; Grossfield, H.B. [Harriet, nee Okanst], p. 28 [poem - "Fallen Oak"]; Jolson, Al, p. 22; Lombard, Carole, p. 81; May, Mitchell, p. 38; Okanst, Harriet, pp. 3, 17, 28.</p></scopecontent></c><c id="aspace_67a241e79806dd80f880a72405ea0296" level="file"><did><unittitle>Scrapbook 6</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496829</unitid><unitdate datechar="creation" normal="1942/1944" type="inclusive">1942-1944</unitdate><container altrender="Record Carton" id="aspace_afd11e1bf9661b41dfef5364563db77b" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_4cf9d4c36517b9855e803a8374b22983"><head>Subjects</head><p>Carnegie Hall, p. 39; Federation [for the Support of Jewish Philanthropic Societies], p. 15; Men's Club [of Temple Ahavath Sholom], p. 49; Whiskey [Seagram], p. 2.</p></scopecontent><scopecontent id="aspace_f58c64a91237c6d74765e5996b94d919"><head>Names</head><p>Burns, Ray'd [Raymond H.], p. 27; Chaplain, Charlie, p. 53; Chevallier, M. [Maurice], p. 31; Grossfield, A.J. [Avery], p. 5; Hitler, p. 34; Lichtenstein, Lou, p. 50; Lowenstein [Solomon], p. 23; Lowitz, Stanley, p. 3; Okanst, A.I. [Arthur], p. 15; Rattner, Jos., p. 36; Steinbach, Rabbi, p. 44; Wanek, Mrs. [Veronika], p. 4 [death notice].</p></scopecontent></c><c id="aspace_ef18b7b54c3825cd40bd7998e7fe241d" level="file"><did><unittitle>Scrapbook 7</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496830</unitid><unitdate datechar="creation" normal="1944/1946" type="inclusive">1944-1946</unitdate><container altrender="Record Carton" id="aspace_01a539f287e7aa99de71efd1907717be" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_9c009305d95074742d4b6a21407bc156"><head>Subjects</head><p>Atomic bomb, p. 30; Berlin, p. 17; Blood pressure, p. 3; Germany quits, p. 28; Heart - liquor ["Liquor for tobacco heart"], p. 3; I Shall Not Pass (poem), p. 2; Income, p. 29; Japan surrenders, p. 30; Polters [Willows?], p. 25; Rent laws, p. 42; Tobacco [see above], p. 3; Voice of the Turtle [play], p. 18.</p></scopecontent><scopecontent id="aspace_20c88a1e52af6aefa346e198e2a71605"><head>Names</head><p>Bogart, H., p. 5; Bowes, Major [Edward], p. 46; Hitler, p. 19; Jolson, Al, p. 13; Medalie, Z. [Medalie, Judge George Z.], p. 35; Nisselson, M. [Michael], p. 24; Roosevelt, Franklin, pp. 22, 27; Shore, Samuel, p. 8; Sobol, Ira, p. 15; [Solomon, Morris J., p. 12]; Steingut, p. 2; Walker, James J. [Mayor], p. 37.</p></scopecontent></c><c id="aspace_3a85137f451d0eb67f72cb9f9542d4bb" level="file"><did><unittitle>Scrapbook 8</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496831</unitid><unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate><materialspec id="aspace_65073794ca584986d3ebaf881ef7f904">This scrapbook has two sheets labeled as page 2.</materialspec><container altrender="Record Carton" id="aspace_10c5e1b5d1bd141c8b72c26e761fdf15" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_373f610731aef102acdf98a08648e119"><head>Subjects</head><p>Book finders, p. 4; Civilian Defense, pp. 6, 15; Coplon Case, p. 57, [68]; Dodgers, p. 10; Federation [of Jewish Philanthropies], p. 52; Florida trip, pp. 16, 19, 46; Jews (Pop'n) [Jews--Population], p. 2; Red Cross, p. 35 [Helen Okanst certificate]; Senate, U.S., p. 33; Taft-Hartley [bill], p. 18.</p></scopecontent><scopecontent id="aspace_3640b96c9366614f21844eb1c9c9729e"><head>Names</head><p>Burns, [Mr. and Mrs. Mortimer], 25th [anniversary] party, p. 27; Hughes, Chas. [Charles], p. 24; Levinson, Rabbi, p. 12; Lewis, Harry, p. 37; Melnick, J.A. [Jack], pp. 53, 63; Moscovitz, Judge, p. 13; Okanst, A.I., pp. 52, 53; Robinson, Bill ["Bojangles"], p. 67; Ruth, Babe, pp. 14, 37.</p></scopecontent></c><c id="aspace_9ca350f98da1ca448b7f38cd1bb1f6f9" level="file"><did><unittitle>Scrapbook 9</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496832</unitid><unitdate datechar="creation" normal="1950/1955" type="inclusive">1950-1955</unitdate><container altrender="Record Carton" id="aspace_563e1a14c692ebaa943486645f16a67e" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_8009950c3d518d1d8860088fd1a29e4c"><head>Subjects</head><p>Arthritis, p. 59; Dodgers, p. 53; Elder Craftsman Shop, p. 27; Federation [of Jewish Philanthropies], p. 20; Jews (World 1952), p. 4; Long Island [train wreck], p. 1; McCrarys [Tex and Jinx Falkenberg], p. 40; Negro (segregation out), p. 25; Nova [Algernon], p. 17; Pipes [smoking], p. 30; Rosenberg case, p. 2; Sixty Four D. [Dollar] Question, p. 62; Smoking, p. 42; Social Security, p. 26; Telithons [Telethons], p. 2; Third Ave "L" [El / elevated train], pp. 46, 47.</p></scopecontent><scopecontent id="aspace_798039b2c4edfd419ed9b08561ed00be"><head>Names</head><p>Barrymore, Lionel, p. 32; Bennett, Nat [Nathan], pp. 35, 40; Burns, Mort, p. 29; Buttons, Red, p. 47; Durante [Jimmy], p. 57; Garland, Judy, p. 11; Grossfield, A.J. [Avery], pp. 31, 34, 41; Grossfield, H.B. [Harriet], p. 31; Grossfield, Rena [and Anne], p. 33; Hearn, Murray, p. 30; Jolson, Al, p. 1; Lanzansky, Edward, p. 61; Lazar [Lasar], Jesse, p. 10; Lee, Pinky, p. 21; Lerman, Stewart [Stuart], p. 12; Long Island RR [LIRR], p. 1; McFaofadan [MacFadden, Bernarr], p. 59; McManus, Geo., p. 33; Mogules, Con [Mogulescu, Jack H.], p. 36; Nixon [Senator], p. 14; Okanst, A.I. [Arthur], retiring, p. [32], 35; Salk [Jonas E.], p. 37; Shorin, Ira, p. 22; Wanamaker, J., p. 34 [store closing].</p></scopecontent></c><c id="aspace_e84538c8998b453e0c9832e91852c34b" level="file"><did><unittitle>Scrapbook 10</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496833</unitid><unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate><container altrender="Record Carton" id="aspace_b36f2afb2cb0d950f28586feafc73f9e" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_7b1d30d301b6b67edca26aee1eadf490"><head>Subjects</head><p>Andria Doria, p. 43; Charities, p. 10; Smoking, p. 60; Teachers salary, p. 69; Weinberger [kidnapping] case, p. 52.</p></scopecontent><scopecontent id="aspace_d28167472f90ff8a84d423f1ab9063e2"><head>Names</head><p>Allen, Fred, p. 13; Barkley, Alben W., p. 22; Barricini [Mac], p. 46; Calhern, Louis, p. 27; Dio, Johnie [Johnny], p. 36; Dorsey, Tommy, p. 60 [death]; Fisher [Eddie], p. 14; Garland, Judy, p. 57; Goldman, Edwin F. [Franko], p. 6; Grossfield, H.B. [Harriet], p. 5, 32; Grossfield, Rena, pp. 11 [poem - "The Playground"]; Janis, Elsie, p. 7; Kibbee, Guy, p. 28; Larson [Larsen], Don, p. 56; Lerman, Stewart [Stuart], p. 10; Raymond, Alex, p. 18; Riesel, Victor, p. 16; Robinson, Jackie, p. 70; Toscanini, Arturo, p. 66.</p></scopecontent></c><c id="aspace_ed1a22fa66bb1206051e5fee9d972eb3" level="file"><did><unittitle>Scrapbook 11</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496834</unitid><unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate><container altrender="Record Carton" id="aspace_47fa33e9c1ab7c64a75f1952dac779b5" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_340b4180368c9e68f01f775b4025065b"><head>Subjects</head><p>Cancer, p. 64; Florida, p. 8; Kinsey Report, p. 88; Las Vegas, p. 110; Little Rock [school integration], p. 55; Social Security, p. 54.</p></scopecontent><scopecontent id="aspace_4f0e32da7a855e95bd2654c1df4774d6"><head>Names</head><p>Barry, Jack, p. 12; Campanella, Roy, p. 76; Cliburn [Van], p. 112; Einsenhower, p. [2], 67; Gibson, Althea, p. 52; Grossfield, A.J., p. 5; Monroe, Lucy, p. 93; Pinza, Ezio, p. 32; Rosenbloom, Maxie, p. 10; Talmadge, Norma, p. 71; Todd, Mike, p. 61, 94, 98; Torre, Marie, p. 63; Toscanni, Arturo, p. 7; Turner, Lana, pp. 95, 101; Van Doren, Chas. [Charles], pp. 2, 19; Von Dardroff [von Nardroff, Elfrida], p. 113.</p></scopecontent></c><c id="aspace_7ac7fd437093f66dd78eb50162db2708" level="file"><did><unittitle>Scrapbook 12</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496835</unitid><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container altrender="Record Carton" id="aspace_281f3253743d0201264e7334e2a532fc" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_e707fc94ec062130a1beecf2f2731f6d"><head>Subjects</head><p>Cancer, p. 13; Diverticulitis, p. 20; Exercise, p. 49; Post, N.Y. [New York Post], p. 49; Retired Folk, p. 20; T.V. Quiz, pp. 2, 4, 8, 16, 22, 41; Vitamins, p. 86.</p></scopecontent><scopecontent id="aspace_20ca950af243e4321ea0f4524d04d55e"><head>Names</head><p>Austin, Bernard, p. 69; Boswell, Martha, p. 3; Campanella, Roy, pp. 26, 51, 65, 75, 84; Chevallier, M., p. 63; De Mille, Cecil, p. 76; Fisher [Eddie], p. 39; Golden, Harry, p. 25; Goldsmith [Reuben S.] (stationer), p. 17; Parkyakarkas [Harry Einstein], p. 54; Philippe [Claudius], p. 35; Power, Tyrone, p. 53; Rockefeller, Nelson, pp. 34, 41; Torre, Marie, pp. 65, 68, 74; Wirth, Phil, p. 6; Wise, Jonah, p. 81.</p></scopecontent></c><c id="aspace_829d08ff05ea73c32927efcbaad60b56" level="file"><did><unittitle>Scrapbook 13</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496836</unitid><unitdate datechar="creation" normal="1959/1959">1959-</unitdate><container altrender="Record Carton" id="aspace_a5756999d6287406a15486ea0615ebe2" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_0f76b00c938b7b58d7ffb6bf27326c0e"><head>Subjects</head><p>"Our Gang," p. 42; Overweight, p. 9; Worlds Fair, p. 51.</p></scopecontent><scopecontent id="aspace_77a6e5f3ef923bdfc6343fa336526942"><head>Names</head><p>Blore, Eric, p. 5; Campanella, Roy, p. 8; Castro, p. 19; Celler, Emanuel, p. 11; Costello, Lou, p. 6; Dr. Donalson [L.M.], p. 1; Fields, Benny, p. 53; Fisher [Eddie], p. 25; Gleason, James, p. 18; Godfrey, Arthur, p. 13; Grossfield, Anne, p. 33; Grossfield, H.B. [Harriet], p. 30; Liberace, p. 31; Norworth, Jack, p. 58; Reynolds, Debbie, p. 1; Roosevelt, Eleanor, p. 22; Stone, Fred, p. 7; [Todd, Mike, p. 6]; Welk, L. [Lawrence], p. 43.</p></scopecontent></c><c id="aspace_89bd45c5e6c9d7c877e7fa6287030730" level="file"><did><unittitle>Scrapbook 14</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496837</unitid><unitdate datechar="creation" normal="1957/1960" type="inclusive">1957-1960</unitdate><container altrender="Record Carton" id="aspace_0ce4dd4960f7377201b37b3415e3d53e" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_ee368165c55628ebbf7f34420642de85"><head>Subjects</head><p>Blue Star Camp, p. 1.</p></scopecontent><scopecontent id="aspace_1ac6550a9991af17df7e50ddaf6792cb"><head>Names</head><p>Adler, Felix, p. 57; Arness [James], p. 16; Canzoneri, Tony, p. 41; Foley, Red, p. 47; Green, Martyn, p. 25; Jack, Hulan, p. 44; Lewis, Jerry, p. 3; Murray, Jan, p. 32; Roosevelt, Eleanor, p. 15; Sullivan, Margaret, p. 49; Van Doren, Chas. [Charles], pp. 7, 10, 18, 24.</p></scopecontent></c><c id="aspace_67b7cfdc2cd3c2051301242d29299d53" level="file"><did><unittitle>Scrapbook 15</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496838</unitid><unitdate datechar="creation" normal="1960-02/1960-07" type="inclusive">February-July 1960</unitdate><container altrender="Record Carton" id="aspace_48e117a3424f7a8cef8614dfefbc27a6" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_db0ac6cfcc270944b81d211d6ccafda0"><head>Subjects</head><p>Capital Punishment, pp. 20, 25.</p></scopecontent><scopecontent id="aspace_8a45b22bdfe3249b886936b33b2c7033"><head>Names</head><p>Chessman, Caryl, p. 33; Grossfield, A.J., p. 34; Grossfield, Anne, pp. 34, 40, 43; Grossfield, H.B. [Harriet], pp. 34, 43; Grossfield, Rena, p. 34, 40; Keller, Helen, p. 49; Leibowitz Sobel [Samuel Leibowitz and Nathan Sobel], p. 9; May, Mitchell, p. 2; Murray, Arthur, p. 28; Paar, Jack, p. 3.</p></scopecontent></c><c id="aspace_ea6721f3e321b96c45ddf7f178900c32" level="file"><did><unittitle>Scrapbook 16</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496839</unitid><unitdate datechar="creation" normal="1960-08/1961-01" type="inclusive">August 1960-January 1961</unitdate><container altrender="Record Carton" id="aspace_39655d05f178a50ced147c90de845b16" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_f05e2221b4a8593b27598b6217fa1898"><head>Subjects</head><p>Hay Fever, p. 11; Plane Acc't [accident], p. 37; T.V., p. 15.</p></scopecontent><scopecontent id="aspace_baa7b3ad352c43d2e255597b420f8e9d"><head>Names</head><p>Arnstein, D. [Daniel], p. 5; Eaton, Cyrus, p. 32; Gable, Clark, p. 26; Hammerstein, O. [Oscar], p. 7; Lennon Sisters, p. 18; Philippe [Claudius], p. 6; Ross, Barney, p. 19; [Van Doren, Charles, p. 15].</p></scopecontent></c><c id="aspace_724d8cf759366d6d8ae559d33f03ddf0" level="file"><did><unittitle>Scrapbook 17</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496840</unitid><unitdate datechar="creation" normal="1961-02/1962-07" type="inclusive">February 1961-July 1962</unitdate><container altrender="Record Carton" id="aspace_5eac7e12ad95d056a0321b69a5f18341" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_0d63f443737cc54578f73ca18e9ea568"><head>Subjects</head><p>Animal Hospital, p. 17; Arthritis, p. 22; Hussars, p. 79; Medicare, p. 16; N.Y.C., p. 16; Port Arthur, p. 97; Worlds Fair 1964, pp. 3, 50.</p></scopecontent><scopecontent id="aspace_0b97d522801e1831237b85154aa58cc5"><head>Names</head><p>Bacharach, Bert, p. 81; Bachrach, Mrs. C.G., p. 96; Clooney, R. Marie [Rosemary], p. 60; Coburn, Chas. [Charles], p. 53; Eichmann, Adolf, pp. 18, 94; Grossfield, A.F. [Anne], p. 8; Grossfield, H.B. [Harriet], p. 62; Grossfield, Rena, p. [48], 97; Hodgis [Hodges], Gil, p. 98; Kennedy, Pres., p. 2; Kovacs, Ernie, p. 75; Marx, Chico, p. 65; May, Mitchell, p. 15; Myerson, Bess, p. 28; Moses, Grandma, p. 72; Paret, Benny, p. 71; Peterson, Robert, pp. 8, 42, 44, 48, [74], 89; Rayburn, Sam, p. 68; Rooney, Pat, p. 48; Shore, Dinah, p. 30, [91]; Sokolsky, Geo. [George], p. 67; Tucker, Sophie, p. 4; Zeitz, Milton, p. 90.</p></scopecontent></c><c id="aspace_4d0b2fe13bd4573a0bc672f62412252f" level="file"><did><unittitle>Scrapbook 18</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496841</unitid><unitdate datechar="creation" normal="1962/1965-05" type="inclusive">1962-May 1965</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_926dc5030b3b1693ce359017877f632c" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_987475e311d969dd73ef3a25cbc9b281"><head>Subjects</head><p>Charities, p. 28; Chiropractors, p. 40; Elderly/"Oldsters" [see also Peterson, Robert], pp. 18, 23, 27, 31, 32, 58, 60, 61, 73, 74; Election 1964, p. 88; Expense [account], p. 20; Federation [of Jewish Philanthropies], p. 92; Flag, p. 84; Freedom House, p. 29, [69]; H.I.P., p. 28; Lerner--McCrory [sale of McCrory's Lerner Stores division], p. 59; Mets, p. 51; Nurses Aid, p. 35; Rabbis (women), p. 66; Rights Bill, p. 82; Supreme Court, p. 24; T.V., pp. 29, 37, 63; Worlds Fair 1964, p. 76.</p></scopecontent><scopecontent id="aspace_55d89e413b34c0b98c85076858b17107"><head>Names</head><p>Berle, Milton, p. 35; Berlin, Irving, p. 43; Cantor, Eddie, p. 87; Cantor, Ida, p. 2; Carson, Jack, p. 28; Cooper, Gordon [L.], p. 43; Darrow, Clarence, p. 30; Drysdale, Don, p. 48; Friedman, Judge [Louis L.], p. 32; Gaxton, Wm. [William], p. 30; Grossfield, A.F. [Anne], pp. 53, 59, 83; Grossfield, Rena, pp. 39, 45, 62, 73, 82, 83, 89; Grossinger, Harry, p. 83; Hodgis [Hodges], Gil, pp. 3, 44, 46; Kefauver [Sen. Estes], p. 55; Kennedy, Pres., p. 65; King, [Martin] Luther, p. 89; Lehman, Herbert, p. 68; Lerman wedding, p. 36; Lerman, Scott, p. 51; Lerman, Stewart, p. 5; Levenson, Sam, p. 37; Mitchell, Thomas, p. 19a; Peterson [Robert - see also Elderly], pp. 1, 18; Piaf, Edith, p. 61; Powell, Dick, p. 12; Rooney, Pat, p. 12; Silver, Rabbi [Abba Hillel], p. 66; Sinatra, Jr., p. 68; Sokolsky, Geo, p. 20; Steinbach, Rabbi, p. 49; White [Betty, and Ludden , Allen], p. 49.</p></scopecontent></c><c id="aspace_a8b1bf29be29fadfab93083831c31ec8" level="file"><did><unittitle>Scrapbooks index</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496878</unitid><unitdate datechar="creation" normal="1965/1965">circa 1965</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_46267d8b6ef768f125414886f0254104" label="Mixed Materials" type="Box">3</container></did></c></dsc>
 </archdesc>
 </ead>
