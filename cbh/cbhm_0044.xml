@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/cbhm_0044">cbhm_0044</eadid><filedesc><titlestmt><titleproper>Guide to the John F. James and Sons scrapbook <num>CBHM.0044</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>September 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-18 13:55:36 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>John F. James and Sons scrapbook</unittitle>
+    <unitid>CBHM.0044</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2031</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1912/1929" type="inclusive">1912-1929</unitdate>
+    <abstract id="aspace_982b66a8ca840202f707c84bbe12a8bd">A scrapbook of clippings relating to the Brooklyn real estate business John F. James and Sons.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_671a5ef6ea532ff302d6c2454d0c7a37" label="Mixed Materials" type="Box">A0143</container>
+    <container altrender="Large Flat Box 8" id="aspace_3acc61dd243573213b09dbf17b365457" label="Mixed Materials [34444050465012]" type="Box">OS-36</container>
+    <container id="aspace_5d9c6a97c259b5be377fb38190700a83" parent="aspace_3acc61dd243573213b09dbf17b365457" type="Folder">oversize auction notice</container>
+  </did>
+  <accessrestrict id="aspace_050fff0f244a910c537b09d07cba070d">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_268808eb3cbd750d1eb9eff23ee527cd">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The scrapbook was found in collection and processed in 2026.</p>  </acqinfo>
+  <arrangement id="aspace_7dbf56adcb557513e233ef09f8205d34">
+    <head>Arrangement</head>
+<p>The scrapbook pages are housed in a single folder and arranged in the order in which they were found, which is roughly chronological. Some of the pages were detached from the binding at the time of processing and may not have been in their exact original order.</p>  </arrangement>
+  <bioghist id="aspace_56ddf48ea95f0f00eb0c2764784c9ce5">
+    <head>Historical note</head>
+<p>The real estate firm John F. James and Sons was established in 1858 by John F. James Sr. and located at 193 Montague Street in Brooklyn Heights. John F. James II, its longtime president, was born in Brooklyn in 1881 and joined his father's company not long after graduating from the Brooklyn Polytechnic Institute in 1895. He was a charter member of the Brooklyn Real Estate Board and in 1925 was elected as first president of the Kings County Real Estate Corporation. James was also active in the Flatbush Merchants Association, South Brooklyn Board of Trade, and Prospect Heights Citizens Association. He had two sons, Harold and John, Jr. He passed away in 1933 and was interred at Cypress Hills Cemetery.</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>"J.F. James is Dead; Brooklyn Realtor." The New York Times, March 28, 1933, p. 20.</item>
+      <item>"John F. James Heads Kings County Firm." The New York Times, October 3, 1926.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_5cf1e88dceb9b578e05734b5b3ea3464">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John F. James and Sons scrapbook, CBHM.0044, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_38afcb9efe09ed06111a913dad9fbe26">
+    <head>Processing Information</head>
+<p>This scrapbook was found in collection and processed by Dee Bowers in September 2026. At that time, the scrapbook was in very poor condition and could not be safely handled, with most of the pages detached from the binding. The pages were photocopied and the originals discarded. Three non-clipping original items were retained: a black and white photograph, a typed sheet detailing various real estate ad placements, and an oversize auction notice.</p>  </processinfo>
+  <relatedmaterial id="aspace_6a5aa7b0cc5fff3ae9df38d4d1202733">
+    <head>Related Materials</head>
+<p>Inapunch real estate collection (1986.035)</p><p>Brooklyn Real Estate Board magazines and bulletins (ARC.177)</p><p>Gray-Pyle Real Estate Company records (1977.315)</p><p>Brooklyn, Queens, and Long Island real estate brochure collection (ARC.296)</p><p>Many of the clippings are from the Brooklyn Eagle, which can be found digitally on CBH's Brooklyn Newsstand database.</p>  </relatedmaterial>
+  <scopecontent id="aspace_782af53d84a966a42ac2cfbeb74a4c4c">
+    <head>Scope and Contents</head>
+<p>A scrapbook of clippings, along with some ephemera and one photograph, relating to the Brooklyn real estate business John F. James and Sons. The clippings cover real estate sales and devlopment news in Brooklyn and Long Island, as well as advertisements for various properties, many in Brooklyn Heights. There are many advertisements for Grace Court Chambers (2 Grace Court) on the site of the former Packer mansion, for which John F. James and Sons operated as renting agent. Other properties covered in the clippings include the Seth Low mansion, Hotel Margaret, Van Anden, Royal Castle, Temple Bar building, Livingston Court, Brooklyn Citizen building, Hotel Touraine, and Prentice mansion.</p><p>The single photograph in the collection is an 8x10-inch black-and-white print of the Pershing apartment building, located on Union Street east of Franklin Avenue (1038 Union Street).</p><p>The oversize auction notice, housed separately, is for the 1916 sale of 115 lots on Ocean Avenue, Avenues U and V, East 21st Street (Kenmore Place), and Neck Road. It includes a detailed map of the lots on offer.</p>  </scopecontent>
+  <userestrict id="aspace_8043ecd713a019b5189f4ce20f888a49">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Scrapbooks</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Newspaper clippings</genreform>
+    <subject source="lcsh">Real estate business -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Real estate business -- New York (State) -- Kings County -- Periodicals</subject>
+    <subject source="lcsh">Real estate development -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Real estate investment -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Grace Court (New York, NY)</geogname>
+    <subject source="lcsh">Hotels -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Apartment houses -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Architecture, Domestic -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Auctions -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Real property auctions -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Advertisements</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
