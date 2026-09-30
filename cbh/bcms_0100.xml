@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/bcms_0100">bcms_0100</eadid><filedesc><titlestmt><titleproper>Guide to the Gregg Chapel photographs <num>BCMS.0100</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>September 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-30 18:48:52 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Gregg Chapel photographs</unittitle>
+    <origination label="source">
+      <persname role="sll" rules="dacs" source="naf">Merlis, Brian</persname>
+    </origination>
+    <unitid>BCMS.0100</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2035</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1910/1939" type="inclusive">circa 1910s-1930s</unitdate>
+    <abstract id="aspace_1c53387e5f2295a7e02990595705d94e">32 black and white photographs of Italian immigrants engaged in various activities at Gregg Chapel, the Italian branch of Lafayette Avenue Presbyterian Church at 190 4th Avenue, Brooklyn.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Half Manuscript Box Letter" id="aspace_275c87b9c674bd46284471f62b216ad9" label="Graphic Materials" type="Box">BC photo collections 1</container>
+  </did>
+  <accessrestrict id="aspace_51bd99a35112cbc92a0367429e4c2fa2">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_0d97a837ae959e0100ea729f10c51e77">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchase from Brian Merlis, 2008.</p>  </acqinfo>
+  <altformavail id="aspace_243d0fafff9997a9f393ac7862b49c18">
+    <head>Existence and Location of Copies</head>
+<p>The digitized portions of this collection are available on our digital collections under the call number prefix GREGG.</p>  </altformavail>
+  <arrangement id="aspace_b999498109959d517015f45779537ebe">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <bioghist id="aspace_98c9aea01dd9e23014f3f4c364f6fdd9">
+    <head>Historical note</head>
+<p>Gregg Chapel opened circa 1907-1908 at 190 4th Avenue in Brooklyn to serve the Italian immigrant population of the Gowanus area. It was a branch of the Lafayette Avenue Presbyterian Church and was intended to help Italian immigrants learn English and professional skills as well as American customs such as basketball and the Pledge of Allegiance. In 1913, the building was renovated and improved. The chapel held its final services in the building in 1948.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>"Church Helps Italians with New Gregg Chapel." Brooklyn Eagle, August 5 1913, p. 12.</item>
+      <item>"Cuyler Presbyterian Church Will Welcome Gregg Chapel." Brooklyn Eagle, June 19 1948, p. 4.</item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_322fe98ccf65706df3fc36f2f83741a5">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>The collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_316ef2a7ab18b71725732e3efcfd579f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Gregg Chapel photographs, BCMS.0100, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_6471485b98183246c94d0cbbeb60e9f9">
+    <head>Processing Information</head>
+<p>The photographs were digitized and described on the item level at some point following their acquisition in 2008. The collection was rehoused and this finding created by Dee Bowers in 2026.</p>  </processinfo>
+  <relatedmaterial id="aspace_4c8d591f9bb4064b67c803c44eb6ca46">
+    <head>Related Materials</head>
+<p>Lafayette Avenue Presbyterian Church records (2009.011)</p><p>CBH holds many collections relating to Italian-Americans in Brooklyn. Consult staff for more information.</p><p>Randazzo, Mariana Biazzo. Italians of Brooklyn. Charleston, SC: Arcadia, 2018. Call number 974.723 R</p><p>Lord, Eliot. The Italian in America. San Francisco, CA: R and E Research Associates, (c) 1970.</p>  </relatedmaterial>
+  <scopecontent id="aspace_da5f44febdbb4f2a2ec009497a147766">
+    <head>Scope and Contents</head>
+<p>32 black and white photographs of Italian immigrants engaged in various activities at Gregg Chapel, the Italian branch of Lafayette Avenue Presbyterian Church at 190 4th Avenue, Brooklyn. Activities include English classes, millinery class, and sports such as basketball. Most of the prints are 8x10", though some are smaller. Named photographers include Al Vaccaro Photos, 159 W 9th St, Brooklyn; M.S. Gorodess, Brooklyn; and Chas. C. Zinsser, 419 E 82 St, NYC.</p>  </scopecontent>
+  <userestrict id="aspace_72bab373fff40f82905db45d743a2b7a">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="local">Gowanus (New York, N.Y.)</geogname>
+    <subject source="lcsh">Italian Americans</subject>
+    <subject source="lcsh">Italian Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Italian Americans -- Social life and customs</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Emigration and immigration</geogname>
+    <subject source="lcsh">Immigrants -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Churches -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Religion and culture -- New York (State) -- Kings County</subject>
+    <persname role="sll" rules="dacs" source="naf">Merlis, Brian</persname>
+    <corpname source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
