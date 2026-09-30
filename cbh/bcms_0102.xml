@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/bcms_0102">bcms_0102</eadid><filedesc><titlestmt><titleproper>Guide to the Shore Road and Bay Ridge photographs <num>BCMS.0102</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>September 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-30 16:57:51 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Shore Road and Bay Ridge photographs</unittitle>
+    <origination label="source">
+      <persname role="sll" source="local">Masi, Peter L.</persname>
+    </origination>
+    <unitid>BCMS.0102</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2037</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in two folders.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1900/1911" type="inclusive">circa 1900-1911</unitdate>
+    <abstract id="aspace_3e29f7d4320158d3bf99ea05a3a182bf">Set of 40 black and white photographs from an album depicting places in Bay Ridge, including Shore Road, P.S. 102, Ridge Boulevard, and Colonial Road.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Half Manuscript Box Letter" id="aspace_e80e32d0c0c53720e9984ee863c01332" label="Mixed Materials" type="Box">BC photo collections 1</container>
+  </did>
+  <accessrestrict id="aspace_b30004ce3a33f57ff6e56788e23ddabf">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_dcc352cdbc10c0e9a081e92fe23eeda3">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchase from Peter L. Masi, 2001.</p>  </acqinfo>
+  <altformavail id="aspace_949fd8590d7cda00dd6b7b6e218334e3">
+    <head>Existence and Location of Copies</head>
+<p>The digitized portions of this collection are available on our digital collections under the call number prefix SHORE.</p>  </altformavail>
+  <arrangement id="aspace_c8f6223e84f86e361b1acb63c477c2d3">
+    <head>Arrangement</head>
+<p>The photographs are housed in one folder and the album pages from which they have been separated in another.</p>  </arrangement>
+  <bioghist id="aspace_41c6ec7a786c171c4612bd1f9cbd4b66">
+    <head>Historical note</head>
+<p>Bay Ridge is a neighborhood in southwestern Brooklyn. The area was originally called Yellow Hook after the color of its soil. After the yellow fever epidemic of 1848-1849, the area was renamed Bay Ridge in 1853 to avoid association with the disease. In the later 19th century, the area became a wealthy enclave with mansions lining the high ridge of the nieghborhood's name and overlooking the harbor. The subway came to the area in 1915, and large apartment buildings were increasingly built around it. The photographs in this collection depict the era before the neighborhood was developed and the subway brought lower-income and immigrant populations to the area.</p>    <list type="ordered">
+      <head>Source:</head>
+      <item>Rawson, Elizabeth Reich. "Bay Ridge." In The Encyclopedia of New York City, edited by Kenneth T. Jackson, 104-105. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 2010.</item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_f55222c944aa985a23f2c044536313d7">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>The collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_fffdd51baef349e4e0fedd70e25039d0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Shore Road and Bay Ridge photographs, BCMS.0102, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_4e3acb2921f908c6e0e5153a4a4530e5">
+    <head>Processing Information</head>
+<p>The photographs were digitized and described on the item level at some point following their acquisition in 2001. The collection was rehoused and this finding created by Dee Bowers in 2026.</p>  </processinfo>
+  <relatedmaterial id="aspace_b2567cea7829a7de54abc52969b21197">
+    <head>Related Materials</head>
+<p>Bay Ridge photographs in the Brooklyn photograph and illustration collection (ARC.202) and Brooklyn Daily Eagle photographs (BCMS.0002)</p><p>Bay Ridge postcards in the Brooklyn postcards collection (BCMS.0060) and the Joan Kay postcard collection (BCMS.0094)</p><p>Bay Ridge ephemera in the Brooklyn ephemera collection (BCMS.0007) and the Brooklyn Historical Society ephemera collection (ARC.272)</p><p>Crescent Athletic Club collection (ARC.178) and Crescent Athletic Club photograph albums (ARC.236)</p><p>Hudson-Fulton Celebration collection (CBHM.0034)</p>  </relatedmaterial>
+  <scopecontent id="aspace_63a8e52b06948ea43f0a65371929b2fa">
+    <head>Scope and Contents</head>
+<p>Set of 40 black and white photographs from an album depicting places along Shore Road and elsewhere in Bay Ridge. Subjects include P.S. 102, the canon at Fort Hamilton (now John Paul Jones Park), the Crescent Athletic Club and its boat house, Dutch Reformed Church, old Christ Church, Church of Our Lady of Angels, the Perry Estate, Ridge Boulevard, the Dowling House, Colonial Road, and views of the bay and harbor, including one image of crowds watching the 1909 Hudson-Fulton celebration.</p><p>The album has been disassembled and the photographs removed from the deteriorating black paper pages. The original pages with their handwritten captions have been retained in their own folder, but the captions have also been transcribed on the versos of the photographic prints.</p>  </scopecontent>
+  <userestrict id="aspace_347e3f4a9a06c67d4264811714fcc7d7">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are presumed to be in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+    <geogname source="local">Shore Road (New York, N.Y.)</geogname>
+    <subject source="lcsh">Churches -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Schools -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Architecture -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Wooden-frame houses</subject>
+    <subject source="lcsh">Architecture, Domestic -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Exterior views</genreform>
+    <subject source="lcsh">Streets -- New York (State) -- Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Streets -- Pictorial works</geogname>
+    <geogname source="lcsh">New York Harbor (N.Y. and N.J.)</geogname>
+    <persname role="sll" source="local">Masi, Peter L.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
