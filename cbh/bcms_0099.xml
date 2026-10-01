@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/bcms_0099">bcms_0099</eadid><filedesc><titlestmt><titleproper>Guide to the Shore Acres photo album <num>BCMS.0099</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>September 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-10-01 18:47:21 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Shore Acres photo album</unittitle>
+    <origination label="source">
+      <persname role="sll" rules="dacs" source="naf">Merlis, Brian</persname>
+    </origination>
+    <unitid>BCMS.0099</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2034</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1913/1924" type="inclusive">circa 1913-1924</unitdate>
+    <abstract id="aspace_b633fba39494d8faa02ea011396c8ed3">One bound album of sepia-toned 8x10" photographs of "Shore Acres" on Shore Road, Bay Ridge, circa 1913-1924. The images depict various scenes and views in and around a home and estate in what is now Bay Ridge along Shore Road. The property later became the Shore Road Academy.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Half Manuscript Box Letter" id="aspace_dedf332e3ef47df24f52bf10be40516c" label="Mixed Materials" type="Box">BC photo collections 1</container>
+  </did>
+  <accessrestrict id="aspace_5edbb4accc5c5e35ad825fb15971d67e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_01611b525741e591298cbcd7fbea4573">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchase from Brian Merlis, 2010.</p>  </acqinfo>
+  <arrangement id="aspace_60395a58c96d7bd29ea36fc4da7b1937">
+    <head>Arrangement</head>
+<p>This collection consists of a single volume.</p>  </arrangement>
+  <bioghist id="aspace_0c659bb62480f588082b2182ab3089eb">
+    <head>Historical note</head>
+<p>The path along Brooklyn's southwestern coast that became today's Shore Road was used as early as the first years of the 18th century. The area remained part of the town of New Utrecht until that town's incorporation into what was then the city of Brooklyn in 1894. Development in New Utrecht increased steadily throughout the 19th century and the town's population more than quadrupled between 1810 and 1880. By the early 1900s, Shore Road was firmly established as a prime location for the lavish country mansions and estates of New York's wealthiest denizens.</p><p>One such denizen was William F. Kenny. Kenny grew up on the Lower East Side of Manhattan. His childhood friend Alfred E. Smith went on to become Governor of New York State and a candidate for President of the United States. Kenny went on to earn millions of dollars with his contracting business and investing. He owned two large mansions along Shore Road: one, on the corner of 91st Street (a property formerly owned by Dr. A. Warner Shepard), later became the Shore Road Hospital, and one, on the corner of Oliver Street, became Shore Road Academy. The latter may also have at one point been home to the Shuttleworth family.</p><p>Shore Road Academy was founded in 1924 by Helen Redding and Theodora Goldsmith as "Brooklyn's only country day school for girls." The school operated until 1941. During World War II, the school property was used by the U.S.O. (United Service Organizations). The property was purchased by developers in 1946 and resold in 1949, when it was announced that the building would be demolished in order to build a large apartment building.</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>"Garden Party Thursday at Shuttleworth Home." Brooklyn Eagle, May 9 1924, p. 7.</item>
+      <item>"Shore Road Academy." Brooklyn Eagle, September 27 1925, p. 68.</item>
+      <item>"Mrs. Shuttleworth Dies at Lake Placid." Brooklyn Eagle, August 1 1927, p. 14.</item>
+      <item>"William F. Kenny, Millionaire Backer of Al Smith, Occupied Bay Ridge Mansion for Years." Brooklyn Times Union, May 17 1928, p. 3.</item>
+      <item>Morris, John J. "Many Shore Road Residents Favor Apartment Zoning." Brooklyn Eagle, December 2 1928, p. 45.</item>
+      <item>"Theodora Goldsmith." The New York Times, July 19 1941.</item>
+      <item>"Apartment House to Replace Kenny Shore Road Estate." Brooklyn Eagle, December 7 1946, p. 2.</item>
+      <item>Stewart, Henry. "How Shore Road Was Ruined." Hey Ridge, September 18, 2017. Accessed October 1, 2026. https://www.heyridge.com/how-shore-road-was-ruined/</item>
+      <item>"William Francis Kenny 1868 – 1951." Find A Grave. Accessed October 1, 2026. https://www.findagrave.com/memorial/101830646/william-francis-kenny </item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_1b207dcec57fb98095726845237fe4b5">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_735821fe9586a8d7f770ace399fb3927">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Shore Acres photo album, BCMS.0099, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_8c5f9f3e757d6d5045aa0e7d3be9bdbf">
+    <head>Processing Information</head>
+<p>The album was processed and this finding aid created by Dee Bowers in September-October 2026.</p>  </processinfo>
+  <relatedmaterial id="aspace_dd87e05172c71b755ccd3fde8c558977">
+    <head>Related Materials</head>
+<p>Shore Road and Bay Ridge photographs (BCMS.0102)</p><p>Shore Road photographs in the Praeger Department of Parks survey and photographs (V1974.003)</p><p>Schulz family photographs (V1982.001)</p><p>Pope Mansion photographs (BCMS.0101)</p><p>John H. Prentice mansion photographs (V1988.040)</p>  </relatedmaterial>
+  <scopecontent id="aspace_2a9f6224d499f012cd45859af5a708d6">
+    <head>Scope and Contents</head>
+<p>One bound album of sepia-toned 8x10" photographs of "Shore Acres" on Shore Road, Bay Ridge, circa 1913-1924. The images depict various scenes and views in and around a home and estate in what is now Bay Ridge along Shore Road. The property later became the Shore Road Academy. Views include exterior views of the main house from various angles, outbuildings such as chicken coops and greenhouses, a child's playhouse with slide and carousel, and interior views of the mansion's various rooms. The interiors include sitting rooms, bedrooms, bathrooms, a kitchen, wine cellar, children's nursery, painting studio, library, bowling alley, and "rathskeller." There are also three views of steamships passing in the harbor: SS Olympic (first voyage 1911), SS Imperator (first voyage 1913), and SS France (first voyage 1912).</p>  </scopecontent>
+  <userestrict id="aspace_a552facedf9dccbf1456c677008d80ff">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are presumed to be in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+    <geogname source="local">Shore Road (New York, N.Y.)</geogname>
+    <subject source="lcsh">Architecture, Domestic -- New York (State) -- Kings County</subject>
+    <genreform source="aat">Exterior views</genreform>
+    <genreform source="aat">Interior views</genreform>
+    <geogname source="lcsh">New York Harbor (N.Y. and N.J.)</geogname>
+    <persname role="sll" rules="dacs" source="naf">Merlis, Brian</persname>
+    <corpname rules="dacs" source="local">Shore Road Academy (New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
