@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_015_brooklyn_glass_plate_negatives/">v1974_015_brooklyn_glass_plate_negatives</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn glass plate negative collection <num>V1974.015</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>April 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-04-02 17:33:24 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2024</date><item>Revised by Dee Bowers to reflect rehousing</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1974_015_brooklyn_glass_plate_negatives/">v1974_015_brooklyn_glass_plate_negatives</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn glass plate negative collection <num>V1974.015</num></titleproper><author>Weatherly Stephan</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>April 15, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-10-15 20:52:35 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2024</date><item>Revised by Dee Bowers to reflect rehousing</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Brooklyn glass plate negative collection</unittitle>
     <origination label="Creator">
       <persname rules="dacs" source="local">Korten, Henry O.</persname>
     </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Tooker, William Wallace</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Moffatt, Abbott Low</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs">Frothingham, William I.</persname>
+    </origination>
     <unitid>V1974.015</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/1544</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.6 Linear Feet</extent>
       <extent altrender="carrier">in one glass plate negative box, one oversize glass plate negative box, and one folder.</extent>
@@ -17,32 +27,35 @@
     <abstract id="aspace_c06613a8cdc2c854896b57f27dd215a4">Images in this collection show rural Brooklyn life, street scenes, snowstorms, and the Brooklyn Navy Yard in the late 19th century.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Half Manuscript Box Letter" id="aspace_05fcabd3c95b23d927c7cbfa4d26e936" label="Graphic Materials" type="Box">Oversize Glass Negatives</container>
-    <container altrender="Shoe Box 13" id="aspace_a3f080ed3626a2e722a8728445171b7a" label="Graphic Materials" type="Box">Glass Negatives 1</container>
-    <container altrender="Full Manuscript Box Legal" id="aspace_17bea613e3ff802341aa52218a89e9da" label="Graphic Materials" type="Box">Prints by accession 1</container>
+    </langmaterial>
+    <container altrender="Half Manuscript Box Letter" id="aspace_483340f6cb20c185f11f3bdd48510325" label="Graphic Materials" type="Box">Oversize Glass Negatives</container>
+    <container altrender="Shoe Box 13" id="aspace_fbbcf11d333e3634e2c164d468c917d4" label="Graphic Materials" type="Box">Glass Negatives 1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_4892d36400119b89f39997fa10811d96" label="Graphic Materials" type="Box">Prints by accession 1</container>
   </did>
   <accessrestrict id="aspace_4942fbd92604f38292e48fa022f70e8b">
     <head>Conditions Governing Access</head>
 <p>Open to researchers without restriction.</p>  </accessrestrict>
   <acqinfo id="aspace_c3c595873ff7fde2b16f2f63712fd8ec">
     <head>Immediate Source of Acquisition</head>
-<p>Gift of Abbot Low Moffat, 1954; Mrs. E. C. Korten, 1976; and William I. Frothingham, date unknown.</p>  </acqinfo>
+<p>Gift of Abbot Low Moffat, 1954; Mrs. E. C. Korten, 1976; and William I. Frothingham, date unknown.</p><p>Photographs of Sylvestor and Stephen Pharoah are a gift of W. W. Tooker, 1880.</p>  </acqinfo>
   <altformavail id="aspace_806d2a6657e6ff2e725833727ce245d1">
     <head>Existence and Location of Copies</head>
-<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library under the object ID prefix V1974.15.</p>  </altformavail>
+<p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library under the object ID prefix V1974.15.</p><p>Photographic prints for object IDs V1974.15.3-.11 and V1974.15.15-.16 are also available with this collection.</p>  </altformavail>
   <phystech id="aspace_6e41ef6082a51ef20d0cd5659ba27070">
     <head>Physical Characteristics and Technical Requirements</head>
-<p>The collection's digital surrogates should be used in place of the originals whenever possible.</p>  </phystech>
+<p>The collection's digital surrogates should be used in place of the originals whenever possible. If a digital surrogate is not available, the corresponding print should be consulted instead of the original glass plate negative.</p>  </phystech>
   <prefercite id="aspace_3ea920ee642c26c696b58d37a02bf1d1">
     <head>Preferred Citation</head>
 <p>Identification of item, date (if known); Brooklyn glass plate negatives collection, V1974.015, Box number, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <scopecontent id="aspace_86a82ff90d6e1eee3115e5ce7adc1b25">
     <head>Scope and Contents</head>
-<p>The Brooklyn glass plate negative collection contains 18 items dating from circa 1870 to 1899. The negatives are a mix of anonymous creations, reproductions, and original photography by Henry O. Korten. Images in the collection show rural Brooklyn life, street scenes, snowstorms, and the Brooklyn Navy Yard (formally known as the New York Naval Shipyard) in the late 19th century. Locations featured include the neighborhoods of Flatlands, Fort Greene, Clinton Hill, Brooklyn Heights, as well as Prospect Park and the East River waterfront. Two portraits of Native Americans and snowstorm scenes located in the Flushing neighborhood of Queens are also included. Prints from a select number of glass plate negatives are also available.</p>  </scopecontent>
+<p>The Brooklyn glass plate negative collection contains 18 items dating from circa 1870 to 1899. The negatives are a mix of anonymous creations, reproductions, and original photography by Henry O. Korten. Images in the collection show rural Brooklyn life, street scenes, snowstorms, and the Brooklyn Navy Yard (formally known as the New York Naval Shipyard) in the late 19th century. Locations featured include the neighborhoods of Flatlands, Fort Greene, Clinton Hill, Brooklyn Heights, as well as Prospect Park and the East River waterfront. Snowstorm scenes located in the Flushing neighborhood of Queens are also included. </p><p>Also included in the collection are two portraits of Stephen Taukus "Talkhouse" Pharaoh and Sylvestor Pharoah, circa 1870.</p>  </scopecontent>
   <userestrict id="aspace_33acea0f8535247816a56277da1d23b4">
     <head>Conditions Governing Use</head>
 <p>The materials in this collection are in the public domain. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <processinfo id="aspace_c7f018c2dfdae8045361b706aed7c7d0">
+    <head>Processing Information</head>
+<p>The prints of V1974.15.15 and V1974.15.16 (Sylvestor and Stephen Pharoah) were initially added to the Portrait Collection. In 2026, the sitters in the glass plate negatives were identified and subsequently reunited with their photographic prints.</p>  </processinfo>
   <controlaccess>
     <subject source="lcsh">Street photography -- New York (State) -- Kings County</subject>
     <subject source="lcsh">Waterfronts -- New York (State) -- Kings County</subject>
@@ -63,6 +76,12 @@
     <subject source="lcsh">Weather</subject>
     <subject source="lcsh">Storms</subject>
     <subject source="lcsh">Snow</subject>
+    <subject source="lcsh">Montauk Indians</subject>
+    <persname role="dnr" rules="dacs" source="local">Tooker, William Wallace</persname>
+    <persname role="dnr" rules="dacs" source="local">Moffatt, Abbott Low</persname>
+    <persname role="dnr" rules="dacs">Frothingham, William I.</persname>
+    <persname>Pharoah, Sylvestor</persname>
+    <persname>Pharoah, Stephen Taukus "Talkhouse"</persname>
   </controlaccess>
   <dsc/>
 </archdesc>
