@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/rg_39_231">rg_39_231</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the <emph render="italic">NYU Daily Bulletin</emph> <num>RG.39.231</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>October 2026</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-10-14 18:08:42 UTC</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of the <emph render="italic">NYU Daily Bulletin</emph></unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
+    </origination>
+    <unitid>RG.39.231</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3636</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 Linear Feet</extent>
+      <extent altrender="carrier">in 2 bound volumes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1955/1955">1955</unitdate>
+    <abstract id="aspace_e8318a3a410c2bd644203bb2c969dfe6">The <emph render="italic">NYU Daily Bulletin</emph> was a student newspaper published every school day except Friday for the students of the School of Commerce and Washington Square College. Intended as a successor to the <emph render="italic">Square Daily</emph>, the short-lived publication ran for eight issues from April 25 to May 5, 1955. This collection consists of issues of the <emph render="italic">NYU Daily Bulletin</emph> from 1955.</abstract>
+    <langmaterial id="aspace_5751b2d06dcfaf9c514926650565b31b">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_e22cb8466424c2af39df3c35cdc59177">
+    <head>Scope and Contents</head>
+<p>This collection consists of issues of the <emph render="italic">NYU Daily Bulletin</emph> from 1955.</p>  </scopecontent>
+  <arrangement id="aspace_b2002d8fd2afa3ec178c3662aab6d929">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist.</p>  </arrangement>
+  <bioghist id="aspace_e82394d7651e46e3acc52aee12db2133">
+    <head>Biographical / Historical</head>
+<p>The <emph render="italic">NYU Daily Bulletin</emph> was a student newspaper published every school day except Friday for the students of the School of Commerce and Washington Square College. Intended as a successor to the <emph render="italic">Square Daily</emph>, the short-lived publication ran for eight issues from April 25 to May 5, 1955.</p>  </bioghist>
+  <accessrestrict id="aspace_331740db62aceedcb73e0645651376f7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_a6064248e6536d4605d33eb46e374a3e">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by New York University are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from the repository. Please contact NYU Special Collections, special.collections@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <acqinfo id="aspace_f04a08bcdb699122ee5ffd395123dbcf">
+    <head>Immediate Source of Acquisition</head>
+<p>There is no documentation on the provenance of this item. The item had previously been part of the New York University Library at the University Heights campus for an unknown period of time. Materials were retrospectively accessioned under the number 2026.052.</p>  </acqinfo>
+  <prefercite id="aspace_100944ba2e30f404ab867d5a85e6f6b8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Records of the <emph render="italic">NYU Daily Bulletin</emph>; RG 39.231; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">College student newspapers and periodicals.</subject>
+    <genreform source="aat">Newspapers.</genreform>
+    <subject source="lcsh">Student activities.</subject>
+    <corpname authfilenumber="(lccn)no89010189" rules="dacs" source="naf">Washington Square College</corpname>
+    <corpname authfilenumber="(lccn)n82028909" source="naf">New York University. School of Commerce, Accounts, and Finance</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_a0b4caa853a3aeffe77292b27c9ba5af" level="file"><did><unittitle><emph render="italic">NYU Daily Bulletin</emph> -- Issues 1-8</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1064003</unitid><unitdate datechar="creation" normal="1955/1955">1955</unitdate></did><c id="aspace_d6d2c8c5692e5a7de34de438b77fdf86" level="file"><did><unittitle>User Copy</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1064004</unitid><container altrender="Upright Volume .5&quot; Wide (any dimensions up to 12&quot; x 16&quot;)" id="aspace_d60b330ea4c26e5b8dcd45fe2bbc7466" label="Books [31142067140080]" type="volume">1</container></did></c></c></dsc>
+</archdesc>
+</ead>
