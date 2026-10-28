@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/pm6_worlds_fair_ephemera">pm6_worlds_fair_ephemera</eadid><filedesc><titlestmt><titleproper>Guide to the New York World's Fair Spanish Pavilion Ephemera Collection<lb/>1961-1965<lb/> <num>PM 6</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>October 2026</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-10-28 12:13:53 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>New York World's Fair Spanish Pavilion ephemera collection</unittitle>
+    <unitid>PM 6</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1129</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.5 Linear feet</extent>
+      <extent altrender="carrier">in one 22" x 18" x 3" flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1961-1965</unitdate>
+    <abstract id="aspace_241dc2ef4c6686c9566575bfb435debb">The bulk of this collection documents the Spanish Pavilion (also called the Pavilion of Spain) at the 1964-1965 New York World's Fair, including its design and construction, photographs of the finished building, promotional materials, and reception in the press. There are also materials about the American Express Pavilion at the World's Fair because the same architectural firm (Kelly &amp; Gruzen) was involved in both projects.</abstract>
+    <physloc id="aspace_48d51bebd565692de099a00bd840cd38">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_00fa0147767ef2e7829c33d009e674a1">The documents in the collection are in English and Spanish.</langmaterial>
+  </did>
+  <arrangement id="aspace_20192bb6fc4e0ce5224622ca55f4865f">
+    <head>Arrangement</head>
+<p>The collection is arranged thematically in five folders:<lb/>
+Folder 1: Architecture, Planning, and Construction<lb/>
+Folder 2: Photographs<lb/>
+Folder 3: Promotional material for the Pavilion of Spain<lb/>
+Folders 4 and 5: Press about the Pavilion of Spain and the New York World's Fair</p>  </arrangement>
+  <bioghist id="aspace_b8bcdf1469214c8eee0c14326de872cc">
+    <head>Biographical / Historical</head>
+<p>The 1964-1965 New York World's Fair, held in Flushing Meadows-Corona Park in Queens, featured exhibitions, performances, films, art, and food from 80 countries, 24 U.S. states, and almost 350 companies. More than 51 million people visited over the two seasons it was open (April-October in both 1964 and 1965.)<lb/></p><p>The Pavilion of Spain, also called the Spanish Pavilion, was located in the international section of the fairgrounds. It consisted of three attached buildings filled with exhibition halls, interior patios, restaurants, and a theater. Designed by architect Javier Carvajal with consulting architects Kelly &amp; Gruzen, the Pavilion broke ground in 1963 and opened in April 1964. It was one of the more popular pavilions at the World's Fair: fairgoers were able to see artworks by El Greco, Goya, Velazquez, Picasso, and Dali; sample sangria; watch Spanish folk dancing; and tour exhibits about Spanish history and culture.<lb/></p><p>After the World's Fair, Mayor Alfonso Juan Cervantes of St. Louis, MO persuaded the Spanish government to gift the building to St. Louis, where it still stands today.</p>  </bioghist>
+  <accessrestrict id="aspace_0b974fa05f6870f20cef8c22fa5bdd74">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_549670996bd4c43404922b00764434d0">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New York Historical, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_d037eb1f827dde48097c4f9786861551">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Stephen Phillips, 2022.</p>  </acqinfo>
+  <prefercite id="aspace_8af674d738418f3d39844d824d00e073">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: New York World's Fair Spanish Pavilion Ephemera Collection, PM 6, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_bc538a0c9abd9bee10c3dd4480921898">
+    <head>Processing Information</head>
+<p>The archivist arranged items in the collection in folders by theme. Two acidic binders were taken apart and the papers and photographs they contained were moved to folders. Some fragile items were placed in mylar sleeves. Brittle news clippings and mimeographs were replaced with preservation photocopies on acid-free paper.</p>  </processinfo>
+  <scopecontent id="aspace_8ce06466f2712d36070e90bc5a1bb393">
+    <head>Scope and Contents</head>
+<p>While some of this collection covers the New York World's Fair in general, the specific focus here is the Spanish Pavilion. The first folder includes renderings of the buildings, an invoice with details of the construction costs, a color print of the tiles used, and additional correspondence and memos related to the Spanish Pavilion and the American Express Pavilion (also designed by Kelly &amp; Gruzen). The second folder contains black &amp; white photographs of both the Spanish Pavilion and the American Express Pavilion. In the third folder, a wide array of promotional material for the Pavilion of Spain gives a sense of the breadth of activities and sights there: programs, menus, and paper models for visitors to take home highlight the Pavilion itself and Spanish culture more generally. Folders four and five contain periodicals, clippings, and other ephemera that show the reception of the Spanish Pavilion at the time. See each folder for an itemized list of the contents.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Architecture -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Buildings -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Exhibitions -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Fairs</subject>
+    <subject source="lcsh">Recreation -- New York (State)  -- New York. </subject>
+    <geogname source="lcsh">Spain</geogname>
+    <genreform source="aat">Architectural drawings (visual works)</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Invoices.</genreform>
+    <genreform source="aat">Letters (correspondence)</genreform>
+    <genreform source="aat">Menus.</genreform>
+    <genreform source="aat">Newspaper clippings.</genreform>
+    <genreform source="aat">Paper toys.</genreform>
+    <genreform source="aat">Periodicals.</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <persname authfilenumber="(lccn)no94036614" rules="rda" source="naf">Carvajal, Javier, 1926-2013</persname>
+    <corpname>New York World's Fair (1964-1965 : New York, N.Y.) [111]</corpname>
+    <corpname rules="rda" source="local">Pavilion of Spain (New York World's Fair, 1964-1965, New York, N.Y.)</corpname>
+    <corpname rules="rda" source="local">Kelly &amp; Gruzen</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_e6a5b0bb34fbd647acbd3c49cf6a9a1e" level="file"><did><unittitle>Architecture, Planning, and Construction</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316921</unitid><unitdate datechar="creation" type="inclusive">1963-1965</unitdate><container id="aspace_cdcd14f07b98e2cc100c7831bfed1f62" label="Mixed Materials" type="Box">1</container><container id="aspace_95a57113c094322ef6e7e6183299ae25" parent="aspace_cdcd14f07b98e2cc100c7831bfed1f62" type="Folder">1</container></did><scopecontent id="aspace_3c53fd4467678fc3853c6913de075ed3"><head>Scope and Contents</head><p>This folder documents the Pavilion of Spain's design by architect Javier Carvajal and consulting architects Kelly &amp; Gruzen. It includes the original plan for the Pavilion, as well as photographic renderings and documents related to its construction and special features. There are also documents related to the American Express Pavilion, also designed by Kelly &amp; Gruzen, and an architectural drawing related to the area near LaSalle Station in Chicago.<lb/></p><p>Itemized contents:<lb/>
+•	Pavilion of Spain, New York World's Fair, 1964-65 binder (contents rehoused in a folder because the binder was acidic), Javier Carvajal, Architect, Kelly &amp; Gruzen, Consulting Architects. Contains architectural renderings (black &amp; white photographs) of the buildings<lb/>
+•	Color snapshot of the Spanish Pavilion (in poor condition)<lb/>
+•	Unidentified rendering of an interior<lb/>
+•	"Fragile" label from tiles sent to the Pavilion of Spain by Cermicas A. Salvador O. in Madrid<lb/>
+•	Blue and white print showing tile design<lb/>
+•	Itemized bill prepared by Paul Tishman Company, Inc. for building work on the Pavilion of Spain, submitted to architects Javier Carvajal and Kelly &amp; Gruzen<lb/>
+•	Memo from Kelly &amp; Gruzen listing details about the Pavilion of Spain, including technical credits, Pavilion officials, works by contemporary Spanish artists incorporated in structure, and special features<lb/>
+•	Photocopy of "Best of the Fair: 4 Distinguished Statements," 1. España, pp. 122-126 of an unidentified publication<lb/>
+•	Correspondence and notes related to the American Express Pavilion at the 1964-1965 World's Fair (names include Kelly &amp; Gruzen and Lloyd H. Siegel)<lb/>
+•	Architectural drawing labeled, "Galerie Lasalle: Development Potential," presumably related to the area around LaSalle Station in Chicago (based on streets shown), by Siegel &amp; Schroeder</p></scopecontent></c><c id="aspace_509f263a5c885743781b40bdf774e424" level="file"><did><unittitle>Photographs</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316922</unitid><unitdate datechar="creation" type="inclusive">1964-1965</unitdate><container id="aspace_46e646c36a95bc0523bf08e8bd7280a5" label="Graphic Materials" type="Box">1</container><container id="aspace_cf82fbc88f3dc04254cf06ad2b7353cb" parent="aspace_46e646c36a95bc0523bf08e8bd7280a5" type="Folder">2</container></did><scopecontent id="aspace_af7e7fa2e27aae9d662a9cb1282775ab"><head>Scope and Contents</head><p>Photographs were removed from acidic binders and rehoused in archival enclosures.<lb/>
+Enclosure 2a: Spanish Pavilion: 29 black &amp; white photographs of the exterior and interior of the Pavilion of Spain, including the courtyard, sculpture, art exhibits, cultural objects, chairs, and restaurant.<lb/>
+Enclosure 2b: American Express Pavilion: 15 black &amp; white photographs of the exterior and interior of the American Express Pavilion, including art and sculpture exhibits and outdoor photographs of the "money tree."<lb/></p></scopecontent></c><c id="aspace_d51630f0500b324002b930be9b939d6a" level="file"><did><unittitle>Promotional materials</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316924</unitid><unitdate datechar="creation" type="inclusive">1964-1965</unitdate><container id="aspace_e776e84a5c55f0cebb6e1a4c86554f97" label="Mixed Materials" type="Box">1</container><container id="aspace_a704803cfda9ec35aa626ec7aa9f3c20" parent="aspace_e776e84a5c55f0cebb6e1a4c86554f97" type="Folder">3</container></did><scopecontent id="aspace_346620288f51698fc241db2e2284094b"><head>Scope and Contents</head><p>This folder includes a range of promotional materials related to the Pavilion of Spain, including a shopping bag, decorative paper bulls, a paper model of the Pavilion, programs, tickets, and a menu from the opening night dinner.<lb/></p><p>Contents:<lb/>
+•	<emph render="italic">Zambra Tablao Flamenco</emph>, Spanish Pavilion, New York World's Fair<lb/>
+•	Two "Toritos of Spain" envelopes with three paper bulls inside (bulls removed from one envelope)<lb/>
+•	Pavilion of Spain New York World's Fair 1964-1965 paper bag<lb/>
+•	Two copies of a cutout paper model of the Pavilion of Spain: Recorte y arme el Pabellon de España, published by Comisaria General de España para la Feria Mundial de Neuva York 1964-1965<lb/>
+•	Program for film: Teatro Español Pavilion of Spain New York World's Fair, 1964/1965 presents Let's Meet Spain! in multi-screen "Spainorama"<lb/>
+•	Program for Fiesta Night in the Garden of Spain, Spain-U.S. Chamber of Commerce, Pavilion of Spain, New York World's Fair, April 25, 1964<lb/>
+•	Program for the Official Opening of the New York World's Fair on April 22, 1964<lb/>
+•	Menu from the Pabellon de España Fiesta de Inauguración, 22 Abril, 1964 (accompanied by two complimentary tickets to the Pavilion of Spain)<lb/>
+•	Program for the Gala Premiere of the Pavilion of Spain, April 22, 1964<lb/></p></scopecontent></c><c id="aspace_c8ef65fd925bc9a63b1447d8d894fac5" level="file"><did><unittitle>Press about the Pavilion of Spain and the New York World's Fair</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316925</unitid><unitdate datechar="creation" type="inclusive">1961-1965</unitdate><container id="aspace_5811b003d863b149c0c5dec6363f0512" label="Mixed Materials" type="Box">1</container><container id="aspace_f2f355f403630e41d54fd99ddbbd5764" parent="aspace_5811b003d863b149c0c5dec6363f0512" type="Folder">4-5</container></did><scopecontent id="aspace_926413ad91580ebd1999fbc122ed1af1"><head>Scope and Contents</head><p>Folder 4:<lb/>
+•	Clippings and photocopies from <emph render="italic">The New York Times</emph>, <emph render="italic">El Tiempo</emph>, <emph render="italic">Light in Design</emph>, and other unidentified publications. Also includes a typed transcript of "Buildings of the New York World's Fair, 1964, Program No. 1, of Arts at the Fair Series, for "Critically Speaking," Canadian Broadcasting System, Toronto, June 1964<lb/>
+•	Folder 5:<lb/>
+•	<emph render="italic">New York World's Fair 1964-1965</emph> magazine, issue of May 8, 1961<lb/>
+•	<emph render="italic">New York World's Fair 1964-1965</emph> magazine, issue of September 26, 1963<lb/>
+•	<emph render="italic">Time</emph> issue from June 5, 1964, "A Confidential Guide to the New York Fair"<lb/>
+•	Article about the World's Fair from an unidentified photo publication</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
