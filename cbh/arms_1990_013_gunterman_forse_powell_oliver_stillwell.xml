@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1990_013_gunterman_forse_powell_oliver_stillwell/">arms_1990_013_gunterman_forse_powell_oliver_stillwell</eadid><filedesc><titlestmt><titleproper>Guide to the Gunterman, Forse, Powell, Oliver, and Stillwell families papers <num>1990.013</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><p><date>September 29, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-21 11:10:56 +0000</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1990_013_gunterman_forse_powell_oliver_stillwell/">arms_1990_013_gunterman_forse_powell_oliver_stillwell</eadid><filedesc><titlestmt><titleproper>Guide to the Gunterman, Forse, Powell, Oliver, and Stillwell families papers <num>1990.013</num></titleproper><author>Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>September 29, 2011</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-10-30 20:36:50 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>October 2026</date><item>Revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">
   <did>
     <repository>
-      <corpname>Brooklyn Historical Society</corpname>
+      <corpname>Center for Brooklyn History</corpname>
     </repository>
     <unittitle>Gunterman, Forse, Powell, Oliver, and Stillwell families papers</unittitle>
     <origination label="Creator">
@@ -21,31 +21,47 @@
       <famname rules="dacs" source="local">Forse family</famname>
     </origination>
     <unitid>1990.013</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/973</unitid>
     <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
-      <extent altrender="carrier">in 10 folders</extent>
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one half document box</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1848/1986" type="inclusive">1848-1986</unitdate>
-    <abstract id="aspace_70848a989fe4410b55071a992bc3002a">This collection chronicles the geanealogy and history of several generations of the Forse, Gunterman, Powell, Oliver, and Stillwell Families.  A significant part of the collection also contains information about the military actions of American troops in Cuba during the Spanish-American War of 1898 and the American Indian Wars of the 19th century, as several family members were involved in these events.  The collection is a photocopied collection of family accounts, much of it in the same hand.  Items include photocopies of letters, clippings, photos, and many family accounts from various people.  It has been left in the order received.  The primary Brooklyn connection is through the Powell and Stillwell families.</abstract>
+    <abstract id="aspace_70848a989fe4410b55071a992bc3002a">Photocopied materials chronicling the geanealogy and history of several generations of the Forse, Gunterman, Powell, Oliver, and Stillwell families, including letters, clippings, photos, and many family accounts from various sources.</abstract>
     <langmaterial>
       <language langcode="eng">English</language>
-.    </langmaterial>
-    <container altrender="Full Manuscript Box Legal" id="aspace_7a4501a687a065351f8b1640deed7574" label="Text" type="Box">A0113</container>
+    </langmaterial>
+    <container altrender="Half Manuscript Box Legal" id="aspace_a96c6065084da8e0c20e2a0da3c769eb" label="Mixed Materials" type="Box">1</container>
   </did>
-  <processinfo id="aspace_3d8ee5fc7bff31db9d2d644324ee223a">
-    <head>Processing Information</head>
-<p>Minimally processed to the collection level.</p>  </processinfo>
-  <prefercite id="aspace_74302921c1d3f05a4d8f4dfe5fb06139">
-    <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Gunterman, Forse, Powell, Oliver, and Stillwell families papers, 1990.013, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
-  <acqinfo id="aspace_ac07cd3110a4ee10b030fb612419e15c">
-    <head>Immediate Source of Acquisition</head>
-<p>Gift of Audrey Oliver Gunterman, 1990.</p>  </acqinfo>
   <accessrestrict id="aspace_96b7bd21e5b1bf8a4e1a3cca1dbbd2fc">
     <head>Conditions Governing Access</head>
 <p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ac07cd3110a4ee10b030fb612419e15c">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Audrey Oliver Gunterman, 1990.</p>  </acqinfo>
+  <arrangement id="aspace_e45e1862db2e503c48960f3f4d765f0c">
+    <head>Arrangement</head>
+<p>The collection is arranged in the order in which it was received.</p>  </arrangement>
+  <phystech id="aspace_35a444030e01333796742ab2ad8108a2">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_74302921c1d3f05a4d8f4dfe5fb06139">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Gunterman, Forse, Powell, Oliver, and Stillwell families papers, 1990.013, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_3d8ee5fc7bff31db9d2d644324ee223a">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level by Matthew Gorham in 2011, the collection was rehoused and reprocessed to the file level by Dee Bowers in October 2026.</p>  </processinfo>
+  <relatedmaterial id="aspace_9782fed506b8077e268cc270852ed510">
+    <head>Related Materials</head>
+<p>William Henry Stillwell manuscript on the history of Gravesend (1977.309)</p><p>Gravesend history collection (1978.046)</p><p>Bennet and Ryder families collection (ARC.001)</p><p>Thomas Talmadge and Benjamin Stillwell land conveyance (1991.027)</p><p>Stillwell materials in the Brooklyn Historical Society Genealogical vertical files (ARC.313) and Teunis G. Bergen and Bergen family collection (ARC.006)</p>  </relatedmaterial>
+  <scopecontent id="aspace_aa27587a3bde7f9b171b2d115a914d24">
+    <head>Scope and Contents</head>
+<p>This collection chronicles the geanealogy and history of several generations of the Forse, Gunterman, Powell, Oliver, and Stillwell families. A significant part of the collection also contains information about the military actions of American troops in Cuba during the Spanish-American War of 1898 and the American Indian Wars of the 19th century, as several family members were involved in these events. The collection is a photocopied collection of family accounts, much of it in the same hand. Items include photocopies of letters, clippings, photos, and many family accounts from various psources. The primary Brooklyn connection is through the Powell and Stillwell families.</p>  </scopecontent>
+  <userestrict id="aspace_f78a263b23493e613ed270b0e38a803e">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <controlaccess>
-    <subject source="lcsh">Indians of North America |x Wars</subject>
+    <subject source="lcsh">Indians of North America -- Wars</subject>
     <subject source="lcsh">Families</subject>
     <subject source="lcsh">Genealogy</subject>
     <genreform source="aat">Correspondence</genreform>
@@ -53,13 +69,13 @@
     <genreform source="aat">Notes</genreform>
     <genreform source="aat">Manuscripts (document genre)</genreform>
     <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families -- New York (State) -- Kings County</subject>
     <subject source="lcsh">Spanish-American War, 1898</subject>
     <famname rules="dacs" source="local">Gunterman family</famname>
     <famname rules="dacs" source="local">Forse family</famname>
     <famname rules="dacs" source="naf">Stillwell family</famname>
     <famname rules="dacs" source="local">Powell family</famname>
   </controlaccess>
-  <dsc/>
+  <dsc><c id="aspace_64f273c6035b0a53b74c4ed372fc360a" level="file"><did><unittitle>Virginia Powell Forse correspondence</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496992</unitid><unitdate datechar="creation" normal="1898/1905" type="inclusive">1898-1905</unitdate></did></c><c id="aspace_e016f3a665e616c10549f9a4b8dd4fa5" level="file"><did><unittitle>Anna F. Oliver correspondence regarding the estate of Virginia K. Forse</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496993</unitid><unitdate datechar="creation" normal="1934/1939" type="inclusive">1934-1939</unitdate></did></c><c id="aspace_88a253f94e139bc07fd2d20561070f9d" level="file"><did><unittitle>Audrey V. Guntermann and David Forse correspondence regarding Virginia K. Forse papers</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496994</unitid><unitdate datechar="creation" normal="1986/1986">1986</unitdate></did></c><c id="aspace_295c83b9df9b4534e098645b6dee3ad9" level="file"><did><unittitle>Notes on Forse-Boyers-Powell genealogy</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496995</unitid><unitdate datechar="creation">undated</unitdate></did></c><c id="aspace_3738aa311508b0a988af3c2cc9828c5c" level="file"><did><unittitle>Manuscript regarding Stillwell family history and genealogy</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496996</unitid><unitdate datechar="creation">undated</unitdate></did></c><c id="aspace_c04deeb793449e4266d0d5cdd299e581" level="file"><did><unittitle>The Diary of a Captain by W.C. Brown</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496997</unitid><unitdate datechar="creation" normal="1898/1898">modern photocopy of 1898 original</unitdate></did><scopecontent id="aspace_828a6a8bcfd9ddf1d7320cdeeb149ed7"><head>Scope and Contents</head><p>See page 18, A.G. Forse, father of Virginia K. Forse."</p></scopecontent></c><c id="aspace_e4977771ad23f8c9b1275e87ab093e72" level="file"><did><unittitle>The Sheepeater Campaign by W.C. Brown</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496998</unitid><unitdate datechar="creation" normal="1879/1879">modern photocopy of 1879 original</unitdate></did></c><c id="aspace_f2da367babb79634dca02604a9823039" level="file"><did><unittitle>Record of Engagements with Hostile Indians by P.H. Sheridan</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/496999</unitid><unitdate datechar="creation" normal="1882/1882">modern photocopy of 1882 original</unitdate></did></c><c id="aspace_8a5323ebf9ff34cc56bec47d529280bc" level="file"><did><unittitle>Clippings</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/497000</unitid><unitdate datechar="creation" normal="1907/1936" type="inclusive">1907-1936</unitdate></did></c><c id="aspace_51d3fac8349aad40d1bc482281053b2b" level="file"><did><unittitle>Other documents</unittitle><unitid type="aspace_uri">/repositories/3/archival_objects/497001</unitid><unitdate datechar="creation" normal="1848/1927" type="inclusive">1848-1927</unitdate></did><scopecontent id="aspace_45c4300bbd9508569cf923e311b23185"><head>Scope and Contents</head><p>Document relating to Samuel Stillwell last will and testament, 1848; cabinet cards of Mr. and Mrs. Samuel S. Powell, 1862; Miniature of Mrs. Eliza A. Allen; Fort Custer poem by V.K.F.; document regarding the estate of Julia H. Davis, circa 1923; letter from W.C. Brown to Miss Forse, 1927.</p></scopecontent></c></dsc>
 </archdesc>
 </ead>
