@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/archives/rg_45_13">rg_45_13</eadid><filedesc><titlestmt><titleproper>Guide to the Records of University Activities: Concerts <num>RG.45.13</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>October 2026</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-10-15 20:06:26 UTC</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>October 2026</date><item>Edited by Rachel Searcy to reflect 2026 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of University Activities: Concerts</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">New York University Archives</corpname>
+    </origination>
+    <unitid>RG.45.13</unitid>
+    <unitid type="aspace_uri">/repositories/6/resources/3168</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box and 1 bound volume</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1908/1971" type="inclusive">1908-1971</unitdate>
+    <abstract id="aspace_0b27bc7e545751f468472013d82f30ae">This assembled collection consists of scores, ephemera, and programs for concerts held at New York University.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+    </langmaterial>
+  </did>
+  <arrangement id="aspace_368b4b1e6dd13d83a2287417ada7846c">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist.</p>  </arrangement>
+  <accessrestrict id="aspace_87890c0815d14ce46a66bf7d582dc50e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_4043b42d2aa4ea50264bf1ea298bd049">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <acqinfo id="aspace_5204fa311021a9d9686d21a62a5e61fb">
+    <head>Immediate Source of Acquisition</head>
+<p>There is no documentation on the provenance for the items in this collection.</p>  </acqinfo>
+  <prefercite id="aspace_8d2b0c1696ad2c0b658c741d0e1aed06">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Records of University Activities: Concerts; RG 45.13; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_1ef545b6bd9229d4f6aa17b43d557f19">
+    <head>Processing Information</head>
+<p>Decisions about the arrangement, description, and physical interventions taken on this collection prior to 2026 are unknown. In October 2026, a score for "Perstare et Praestare" was retrospectively accessioned. At this time, descriptive information for the collection was created.</p>  </processinfo>
+  <scopecontent id="aspace_2e4e012595d0972a07341f5ac9b7eb13">
+    <head>Scope and Contents</head>
+<p>This assembled collection consists of scores, ephemera, and programs for concerts held by New York University.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">scores (documents for music)</genreform>
+    <genreform source="aat">Concerts.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_561d7bcc9a829ff7aa5bcc9365b36577" level="file"><did><unittitle>Ephemera, Programs, Scores</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/856740</unitid><unitdate datechar="creation" normal="1908/1971" type="inclusive">1908-1936, 1966-1971</unitdate><container altrender="Manuscript box - Letter" id="aspace_f5b21855be2f0b19e45ff9329eada382" label="Mixed Materials [31142062913440]" type="Box">1</container></did></c><c id="aspace_5577b577aa37c629021e0fd13a286616" level="file"><did><unittitle>Holograph Full Score for Festal March "Perstare et Praestare"</unittitle><unitid type="aspace_uri">/repositories/6/archival_objects/1063996</unitid><unitdate datechar="creation" normal="1942/1942">1942 June 10</unitdate><container altrender="Upright Volume .5&quot; Wide (any dimensions up to 12&quot; x 16&quot;)" id="aspace_8dac0c8a5434c076e0c750080b83983d" label="Mixed Materials [31142067140072]" type="volume">1</container></did></c></dsc>
+</archdesc>
+</ead>
