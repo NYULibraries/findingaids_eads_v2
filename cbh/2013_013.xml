@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2013_013">2013_013</eadid><filedesc><titlestmt><titleproper>Guide to the Margarita Mavromichalis Hurricane Sandy photographs <num>2013.013</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>November 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-11-07 14:45:37 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Margarita Mavromichalis Hurricane Sandy photographs</unittitle>
+    <origination label="Creator">
+      <persname role="pht" rules="aacr" source="local">Mavromichalis, Margarita</persname>
+    </origination>
+    <unitid>2013.013</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2041</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear feet</extent>
+      <extent altrender="carrier">in one oversize folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2012/2013" type="inclusive">2012-2013</unitdate>
+    <abstract id="aspace_3906d95f276bbe9640415c3e72bcd546">Two 13x19" color photographic prints of the aftermath of Hurricane Sandy in Breezy Point and Rockaway Beach, Queens by photographer Margarita Mavromichalis.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Large Flat Box" id="aspace_6a5636fcf997846e7b872d8d7d4387e7" label="Graphic Materials" type="Box">OS-23</container>
+  </did>
+  <accessrestrict id="aspace_e3f7270d1a9b4f3d7fb7acb1185638e5">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_fbcb5893c3fe141e01ceb833ba0e36fa">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Margarita Mavromichalis, 2013.</p>  </acqinfo>
+  <arrangement id="aspace_ccd30a6452f80219cc43ef2c24c43be8">
+    <head>Arrangement</head>
+<p>This small collection is housed in a single folder with no particular arrangement.</p>  </arrangement>
+  <bioghist id="aspace_8f65ac2785b3b939e7472178acd1560f">
+    <head>Biographical note</head>
+<p>Margarita Mavromichalis comes from a family of Greek diplomats. She moved to New York in 2009, where she studied at the International Center of Photography. She specializes in street photography but has also studied portraiture and travel photography.</p>  </bioghist>
+  <phystech id="aspace_ebbd58a61cd08b6093281be9976d143d">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_9b59d6614c5d7f56d5c2a2c2cca3a973">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Margarita Mavromichalis Hurricane Sandy photographs, 2013.013; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_6e144e386efe060c2d3bc1ad7c55fb1b">
+    <head>Processing Information</head>
+<p>Material found in collection and processed by Dee Bowers in November 2026. At that time, only two of the four photographs from the original accession were found.</p>  </processinfo>
+  <relatedmaterial id="aspace_8de88da23e5ccee92b6395af9775713a">
+    <head>Related Materials</head>
+<p>Michael Claro Hurricane Sandy photographs (2014.010);</p><p>Leigh Celentano collection of Hurricane Sandy aftermath photographs (2013.007);</p><p>New coverage of Hurricane Sandy in Friends and Residents of Greater Gowanus records (2017.011);</p><p>Records of the 2013 exhibition "Documenting Sandy" in the Brooklyn Historical Society records (ARC.288);</p><p>Flam, Jack, ed. Come together : surviving Sandy, year 1 [catalogue of exhibition organized by The Brooklyn Rail, The Dedalus Foundation, Industry City]. Milano, Italy: Skira Editore S.p.A., c2014. Call number 709.0512 C;</p><p>Unprecedented: personal reflections on Superstorm Sandy by employees of National Grid. [New York, NY]: National Grid, 2013. Call number QC945.U56 2013.</p>  </relatedmaterial>
+  <scopecontent id="aspace_e54bda8936e282e29f9615ee0ebb835c">
+    <head>Scope and Contents</head>
+<p>Two 13x19" color photographic prints of the aftermath of Hurricane Sandy in Breezy Point and Rockaway Beach, Queens by photographer Margarita Mavromichalis.</p>  </scopecontent>
+  <userestrict id="aspace_fd2a01c1ac85e4ba7d23fa7ee8ec8d64">
+    <head>Conditions Governing Use</head>
+<p>Photographer retains copyright. While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Rockaway Beach (New York, N.Y.)</geogname>
+    <subject source="lcsh">Hurricane Sandy, 2012</subject>
+    <genreform source="aat">Color prints (photographs)</genreform>
+    <subject source="lcsh">Weather</subject>
+    <geogname source="lcsh">Queens County (N.Y.)</geogname>
+    <geogname source="lcsh">Queens (New York, N.Y.)</geogname>
+    <geogname source="local"> Breezy Point (New York, N.Y.)</geogname>
+    <subject source="local">Hurricane damage -- New York (State) -- New York</subject>
+    <subject source="local">Hurricane damage -- New York (State) -- Queens County</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
