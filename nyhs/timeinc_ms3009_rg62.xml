@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://findingaids.library.nyu.edu/nyhs/timeinc_ms3009_rg62/">timeinc_ms3009_rg62</eadid><filedesc><titlestmt><titleproper>Guide to the Time Inc. Time Capsule<lb/>1922-1959<lb/> <num>MS 3009-RG 62</num></titleproper><author>Rebecca Filner</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>November 2026</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-11-19 15:44:10 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Time Inc. time capsule</unittitle>
+    <unitid>MS 3009-RG 62</unitid>
+    <unitid type="aspace_uri">/repositories/2/resources/1132</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.75 Linear feet</extent>
+      <extent altrender="carrier">in one Hollinger box and two flat oversize boxes (16"x20")</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1922-1959</unitdate>
+    <abstract id="aspace_65b63de36e634acea59648981f684083">This time capsule was placed in the cornerstone of the Time and Life building in Rockefeller Center during its construction in 1959. It was opened in 2023, and the contents -- documents, photographs, periodicals, books, and other memorabilia related to Time Inc. and its publications and microfilm and brochures about Rockefeller Center -- were transferred to The New York Historical for inclusion in the Time Inc. Records.</abstract>
+    <physloc id="aspace_c5a796f2a4fe8775dfe34a3487d7fb45">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <langmaterial id="aspace_07a9288590bc167e067ba6294e3e26d3">The documents in the collection are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_abc5e896cbbf74910b8592d826ed4438">
+    <head>Arrangement</head>
+<p>Items in the collection remain in the order in which they were grouped in the time capsule (as described in the "Description of Contents" typed document found in Box 1):<lb/></p><p>0.	Description of Contents<lb/>
+1.	Two books published by <emph render="italic">Life</emph><lb/>
+2.	Copies of recent issues of teach of the magazines published by Time Inc., selected by their editors and publishers<lb/>
+3.	Recent program logs for all radio and television stations owned by Time Inc.<lb/>
+4.	Brochure published by the Time Inc.-owned East Texas Pulp and Paper Company, "Pine, Pulp and Paper"<lb/>
+5.	Documents describing editorial direction of Time Inc. magazines<lb/>
+6.	Samples of great art reproduced in <emph render="italic">Life</emph><lb/>
+7.	Material related to production and printing of Time Inc. magazines<lb/>
+8.	Selection of Henry R. Luce speeches related to Time Inc. journalism<lb/>
+9.	Assorted materials on Time Inc. history and current operations<lb/>
+10.	Materials contributed by Rockefeller Center, Inc.</p>  </arrangement>
+  <bioghist id="aspace_fce395dc9e9e5895113f0e21f139c546">
+    <head>Biographical / Historical</head>
+<p>In June 1959, during the cornerstone-laying ceremonies for the new 48-story Time &amp; Life Building on Sixth Avenue between 50th and 51st streets, a sealed copper time capsule was interred for 64 years. According to documentation at the time, "the metal receptable will be filled with 30 lbs. of documents, photographs and memorabilia, which include a description of the growth of Rockefeller Center and microfilm of original architectural drawings and models showing the progression of the building design. In addition, the "time deposit" box will contain editorial material from recent Time Inc. publications and various documentary items reflecting current news and the development of the publishing company since its founding in 1923."<lb/><lb/>
+The document continues: "In anticipation of future historical interest in the capsule's contents, and as a token of its faith in the durability of the building, Time Inc.'s Board of Directors has made special provisions for unearthing the box in the 21st century. The Board unanimously approved a resolution commending to the Board of Directors presiding 64 years hence that suitable arrangements be made for a ceremonial opening of the capsule in the year 2023, marking the 100th anniversary of Time Inc. The resolution also suggested that the Board in 2023 'may wish to insert a new capsule containing contemporary documents which would be of interest to its successor Board in the year 2123.'"</p>  </bioghist>
+  <accessrestrict id="aspace_a6774b610a7047b75fc5634321919603">
+    <head>Access Restrictions</head>
+<p>Materials in this collection are stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_f6d0d29db48968651d4e7642f94e8067">
+    <head>Use Restrictions</head>
+<p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New York Historical, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org.</p>  </userestrict>
+  <acqinfo id="aspace_1de70a6c9e5f38582ba8cc9075c83c28">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift from Time Inc., 2015-2023</p>  </acqinfo>
+  <prefercite id="aspace_f54469ca8782c4a215dbe815829b072f">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: Time Inc. Time Capsule, MS 3009-RG 62, The New York Historical.</p>  </prefercite>
+  <processinfo id="aspace_6fc0d0a1128aca1f67e99a364eb357cd">
+    <head>Processing Information</head>
+<p>Processed by Rebecca Filner in November 2026. Items were rehoused in acid-free boxes and folders.</p>  </processinfo>
+  <scopecontent id="aspace_0f3e373d4f418dcb543f601febaa085c">
+    <head>Scope and Contents</head>
+<p>According to the "Cornerstone Capsule -- Description of Contents," the "materials placed in this cornerstone capsule were chosen to give a cross sectional view of the current operations of Time Incorporated, and to offer a representative sampling of documents that have served as guide lines for the company's publishing operations. No effort has been made to make the materials all-inclusive either in terms of history or of the present."<lb/></p><p>See individual folders for a complete list of contents.</p>  </scopecontent>
+  <relatedmaterial id="aspace_621bd0994c20c2722af0fa51f4eb8c37">
+    <head>Related Materials</head>
+<p>This finding aid relates to just one record group of the Time Inc. Records. For information about the other record groups and for overall information about the archives, please see the <extref xlink:actuate="onRequest" xlink:href="https://findingaids.library.nyu.edu/nyhs/timeinc_ms3009_rg00/">Guide to the Time Inc. Records (MS 3009)</extref>.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">American periodicals -- History.</subject>
+    <subject source="lcsh">Corporations -- History.</subject>
+    <subject source="lcsh">Corporations -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Periodicals -- Publishing.</subject>
+    <subject source="lcsh">Printing industry.</subject>
+    <subject source="lcsh">Publishers and publishing -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Publishers and publishing -- United States -- History.</subject>
+    <genreform source="aat">Annual reports.</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Books.</genreform>
+    <genreform source="aat">Brochures.</genreform>
+    <genreform source="aat">Business letters.</genreform>
+    <genreform source="aat">Memorandums.</genreform>
+    <genreform source="aat">Microfilms.</genreform>
+    <genreform source="aat">Periodicals.</genreform>
+    <genreform source="aat">Speeches (documents)</genreform>
+    <genreform source="aat">Telephone directories.</genreform>
+    <genreform source="aat">time capsules.</genreform>
+    <corpname rules="rda" source="naf">Time, Inc.</corpname>
+    <persname rules="rda" source="naf">Luce, Henry Robinson, 1898-1967</persname>
+    <corpname source="naf">Rockefeller Center</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_fe65b7e6ef3a9012978f80fcceb61f38" level="file"><did><unittitle>Description of contents</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316968</unitid><unitdate datechar="creation" type="inclusive">1959 June</unitdate><container id="aspace_c8562af9d300ad0da674ef50224d39f6" label="Mixed Materials [1804000005281]" type="Offsite-Box">1</container><container id="aspace_49c782cfb088280f062dedfc1b4a4afe" parent="aspace_c8562af9d300ad0da674ef50224d39f6" type="Folder">0</container></did></c><c id="aspace_f9d95a1e7b6365314ba251260a60bdad" level="file"><did><unittitle>Two books published by <emph render="italic">Life</emph></unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316955</unitid><unitdate datechar="creation" type="inclusive">1950 and 1958</unitdate><container id="aspace_0946725834e58e5f87267e08bde04139" label="Mixed Materials [1804000005282]" type="Offsite-Box">2</container><container id="aspace_7724f2ebc56a56138dbdff30c7d24487" parent="aspace_0946725834e58e5f87267e08bde04139" type="Folder">1</container></did><scopecontent id="aspace_b6a0dd8bffc803c2c05c34a4b3abcd29"><head>Scope and Contents</head><p>Two books published by <emph render="italic">Life</emph>, <emph render="italic">Picture History of World War II</emph> and <emph render="italic">Picture Cook Book</emph>, both composed almost entirely of materials first published in <emph render="italic">Life</emph>. The first was <emph render="italic">Life</emph>'s first major book publication, the second its most recent. They were chosen as representative of <emph render="italic">Life</emph>'s interest in the arts of war and of peace.</p></scopecontent></c><c id="aspace_7b214cbf636bab40cf709b0b944c2e93" level="file"><did><unittitle>Copies of recent issues of magazines published by Time Inc. </unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316956</unitid><unitdate datechar="creation" type="inclusive">1953-1959</unitdate><container id="aspace_c8571ba0d2e8ca17a1beec9d00faf0ba" label="Mixed Materials [1804000005283]" type="Offsite-Box">3</container><container id="aspace_2231a9cd08242abcecd7d7d255c1d238" parent="aspace_c8571ba0d2e8ca17a1beec9d00faf0ba" type="Folder">2</container></did><scopecontent id="aspace_5aa731e58acaeac2a12620267b8bdc97"><head>Scope and Contents</head><p>Copies of recent issues of each of the magazines published by Time Inc., selected by their editors and publishers: <lb/>
+•	<emph render="italic">Life</emph>, 1959 May 18 and 1958 December 22<lb/>
+•	<emph render="italic">Life</emph> International, 1958 June 23<lb/>
+•	<emph render="italic">Life en espagnol</emph>, first issue, 1953 January 5<lb/>
+•	<emph render="italic">Life en espagnol</emph>, Mexican edition, first issue, 1959 May 18<lb/>
+•	<emph render="italic">Fortune</emph>, 1959 June<lb/>
+•	<emph render="italic">House &amp; Home</emph>, 1959 May<lb/>
+•	<emph render="italic">Architectural Forum</emph>, 1959 May<lb/>
+•	<emph render="italic">Time</emph>, 1959 March 16<lb/>
+•	<emph render="italic">Time</emph> Atlantic, Latin America, Canada and Pacific, 1959 June 8<lb/>
+•	<emph render="italic">Sports Illustrated</emph>, 1959 June 8</p></scopecontent></c><c id="aspace_a9784a0eff7d255e1a7a6c48f1195c1a" level="file"><did><unittitle>Recent program logs for radio and television stations owned by Time Inc.</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316957</unitid><unitdate datechar="creation" type="inclusive">1959</unitdate><container id="aspace_6a234c2b3380a065e439548948441049" label="Mixed Materials [1804000005281]" type="Offsite-Box">1</container><container id="aspace_6ef904dd3e91b5c866b8f80db7322bbd" parent="aspace_6a234c2b3380a065e439548948441049" type="Folder">3</container></did><scopecontent id="aspace_843631408b13f3efab076adc34f74239"><head>Scope and Contents</head><p>Recent program logs for radio and television stations owned by Time Inc.:<lb/>
+•	KLZ-TV -- 1959 May-July<lb/>
+•	KLZ Radio -- 1959 May-September<lb/>
+•	WOOD and WOOD-TV -- 1959 June<lb/>
+•	WFBM-TV -- 1959 May-June<lb/>
+•	WFBM Radio -- 1959 Winter-Spring<lb/>
+•	WTCN and WTCN-TV -- 1959 June<lb/>
+•	KTVT -- 1959 May<lb/>
+•	KDYL Radio -- 1959 Winter<lb/></p></scopecontent></c><c id="aspace_22241cd45b810708da557713e6c1ce87" level="file"><did><unittitle>Brochure, "Pine, Pulp and Paper"</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316958</unitid><unitdate datechar="creation" type="inclusive">1954 or later</unitdate><container id="aspace_3150fc3e9050e5c615aee3181465edac" label="Mixed Materials [1804000005281]" type="Offsite-Box">1</container><container id="aspace_9e6cbf84a6f32d252881862230ca7902" parent="aspace_3150fc3e9050e5c615aee3181465edac" type="Folder">4</container></did><scopecontent id="aspace_bc7a97da2f395cf230c32cdf51c90b08"><head>Scope and Contents</head><p>Published by the Time Inc.-owned East Texas Pulp and Paper Company</p></scopecontent></c><c id="aspace_639b991d7091d1cd4079622db522c311" level="file"><did><unittitle>Documents describing editorial direction of Time Inc. magazines</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316959</unitid><unitdate datechar="creation" type="inclusive">1922-1956</unitdate><container id="aspace_04398e7918a4bad381b678912a1386c1" label="Mixed Materials [1804000005281]" type="Offsite-Box">1</container><container id="aspace_9acf931a82860dadd823b7cbd06e3cbc" parent="aspace_04398e7918a4bad381b678912a1386c1" type="Folder">5</container></did><scopecontent id="aspace_cbdfb75451ec8875895cf2520b91bb71"><head>Scope and Contents</head><p>Documents describing editorial direction of Time Inc. magazines:<lb/>
+•	<emph render="italic">Time</emph>'s Prospectus, 1922<lb/>
+•	Preface to <emph render="italic">Fortune</emph>, 1929<lb/>
+•	Directive for the editorial development of <emph render="italic">Fortune</emph>, 1949<lb/>
+•	Reprint of announcement that Time Inc. would publish <emph render="italic">Architectural Forum</emph>, 1932 March<lb/>
+•	Facsimile of letter from Henry R. Luce pertinent to the publication of <emph render="italic">Architectural Forum</emph> by Time Inc., 1932 May 10<lb/>
+•	<emph render="italic">Life</emph>'s prospectus, [1936?]<lb/>
+•	Letter from Henry R. Luce to Leo Burnett on Time Inc.'s publication of <emph render="italic">Sports Illustrated</emph>, 1955 October 13<lb/>
+•	Reprint of advertisement announcing of <emph render="italic">Sports Illustrated</emph>, 1954<lb/>
+•	Memorandum announcing formation of Time-Life International, 1945 September 24<lb/>
+•	Memorandum on change in editorial development of <emph render="italic">Life</emph> International, 1956 September 22<lb/>
+•	Wartime pony edition of <emph render="italic">Time</emph>, 1944 November 6<lb/>
+•	Booklet on first ten years of Time-Life International, "So We Went Abroad," 1956</p></scopecontent></c><c id="aspace_8721b47a1db21bac61ca84e2070161e5" level="file"><did><unittitle>Samples of art reproduced in <emph render="italic">Life</emph></unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316960</unitid><unitdate datechar="creation" type="inclusive">1936-1958</unitdate><container id="aspace_fe776890bb600fc1a3b0ced6298566ab" label="Mixed Materials [1804000005282]" type="Offsite-Box">2</container><container id="aspace_a6cf8b679c7e8555d0b711d87fe2c9d2" parent="aspace_fe776890bb600fc1a3b0ced6298566ab" type="Folder">6</container></did><scopecontent id="aspace_3e61757befced9b7df648e64de56dda3"><head>Scope and Contents</head><p>Samples of art reproduced in <emph render="italic">Life</emph>:<lb/>
+•	John Steuart Curry, 1936 November 23 (first issue)<lb/>
+•	Fra Angelica paintings of "The Life of Christ," 1946 December 23<lb/>
+•	Sistine Chapel ceiling, 1949 December 26<lb/>
+•	Tintoretto, 1951 December 24<lb/>
+•	Japanese art, 1953 April 20<lb/>
+•	The Louvre, 1953 August 17<lb/>
+•	U.S. painting, 1955 March 28<lb/>
+•	Modigliani, 1958 November 24</p></scopecontent></c><c id="aspace_1b88925078131814245f1ba7b5bfcbb3" level="file"><did><unittitle>Material related to production and printing of Time Inc. magazines</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316961</unitid><unitdate datechar="creation" type="inclusive">1927-1959</unitdate><container id="aspace_5c3c5322fb579ac9e4da6c433d9abe40" label="Mixed Materials [1804000005281]" type="Offsite-Box">1</container><container id="aspace_f75a3e28566685da3854d9a768178e55" parent="aspace_5c3c5322fb579ac9e4da6c433d9abe40" type="Folder">7</container></did><scopecontent id="aspace_1f1f89c2748c3ab41bcaa40df5e7e862"><head>Scope and Contents</head><p>Material related to production and printing of Time Inc. magazines:<lb/>
+•	Letter from Henry R. Luce to Thomas Donnelley, 1927 August 31<lb/>
+•	Letter from Thomas Donnelley to Henry R. Luce, 1927 September 7<lb/>
+•	Copy of first printing contract with R.R. Donnelley &amp; Sons Company, 1927 September 16<lb/>
+•	Draft of contract to print <emph render="italic">Life</emph> currently under negotiation with Donnelley, including provision for new printing plant, 1959 May 15<lb/>
+•	Photo of "60-line" two-color presses, designed and manufactured for printing <emph render="italic">Life</emph>, at R.R. Donnelley South Plant, Chicago, [1950s?]<lb/>
+•	Photo of <emph render="italic">Life</emph> bindery, where <emph render="italic">Life</emph>'s pages are collated, stitched, trimmed, and delivered to shipping platforms, R.R. Donnelley South Plant, Chicago, [1950s?]</p></scopecontent></c><c id="aspace_f2cfebe87ac37ac6c95dc1ec77d089b7" level="file"><did><unittitle>Selection of Henry R. Luce speeches related to Time Inc. journalism
+</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316962</unitid><unitdate datechar="creation" type="inclusive">1937-1953</unitdate><container id="aspace_5c36405184ee4747707a8176c2e8f89f" label="Mixed Materials [1804000005281]" type="Offsite-Box">1</container><container id="aspace_8b75d282a85a40c8572c5a551c41f7ab" parent="aspace_5c36405184ee4747707a8176c2e8f89f" type="Folder">8</container></did><scopecontent id="aspace_0d38f976696ba823dec2bf4f9cf8e69d"><head>Scope and Contents</head><p>Selection of Henry R. Luce speeches related to Time Inc. journalism:<lb/>
+•	Speech to American Association of Advertising Agencies, White Sulphur Springs, 1937 April 30<lb/>
+•	"The American Century," 1941 January 22<lb/>
+•	"Journalism and Responsibility," 1953 February 20</p></scopecontent></c><c id="aspace_c89844bc2b8b5419c2b943c9243ddd9f" level="file"><did><unittitle>Assorted materials on Time Inc. history and current operations</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316963</unitid><unitdate datechar="creation" type="inclusive">1923-1959</unitdate><container id="aspace_2effec557cb70f50cca9e0568678826c" label="Mixed Materials [1804000005282]" type="Offsite-Box">2</container><container id="aspace_41a87fdfd35568d2e7e021cd54e5ddf0" parent="aspace_2effec557cb70f50cca9e0568678826c" type="Folder">9</container></did><scopecontent id="aspace_fae873294e6f1cb11900d35e3ce08c54"><head>Scope and Contents</head><p>Assorted materials on Time Inc. history and current operations:<lb/>
+•	First annual report, 1923<lb/>
+•	Current annual report, 1958<lb/>
+•	Proceedings of the 20th Anniversary dinner, 1943 March 11<lb/>
+•	Photo of the 20th Anniversary banquet, 1943<lb/>
+•	"The Span of Time," originally a speech by Erid Hodgins, 1946<lb/>
+•	Supplement to "f.y.i.," company house organ, for 25th Anniversary, including "The Story of an Experiment," inserted in 25th Anniversary issue of <emph render="italic">Time</emph>, 1948 March 8<lb/>
+•	Recent issue of "f.y.i.," 1959 May 8<lb/>
+•	Booklet given to job applicants, "Thank you for coming in", [1950s?]<lb/>
+•	Guide for new employees, also entitled "f.y.i.", 1957 September<lb/>
+•	Time Inc. office telephone directory, 1959 January<lb/>
+•	Directory of Time Inc personnel, 1959 February 25<lb/>
+•	Photo of Time Inc. board of directors who planned new Time &amp; Life Building, 1957 August 20. Left to right: Howard J. Black, David W. Brumbaugh, Paul G. Hoffman, Roy E. Larsen, Maurice T. Moore, Henry R. Luce, William V. Griffin, Samuel W. Meek, Charles L. Stillman, Artemus L. Gates<lb/>
+•	Rental booklet for space to be sub-leased in new Time &amp; Life Building, [late 1950s?]<lb/>
+•	Souvenir trowel distributed at cornerstone ceremonies, 1959 June 23<lb/>
+•	Red pencil preferred by original <emph render="italic">Time</emph> editors, still in use</p></scopecontent></c><c id="aspace_988a5307d166132b90887829f4d1fd75" level="file"><did><unittitle>Materials contributed by Rockefeller Center, Inc. (paper documents)</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316964</unitid><unitdate datechar="creation" type="inclusive">1958-1959</unitdate><container id="aspace_c978263f3f4f7a247190a9169aea96bd" label="Mixed Materials [1804000005281]" type="Offsite-Box">1</container><container id="aspace_6ba0172a762759473803e45cf132ce82" parent="aspace_c978263f3f4f7a247190a9169aea96bd" type="Folder">10</container></did><scopecontent id="aspace_f1691013665b371662c7821482c622db"><head>Scope and Contents</head><p>Materials contributed by Rockefeller Center, Inc. (paper documents):<lb/>
+•	A Digest of Facts about Rockefeller Center, 1958 May 1<lb/>
+•	Rockefeller Center: A Photographic Narrative, edited by Samuel Chamberlain, 1958 (revised edition)<lb/>
+•	Fact sheet about the new Time &amp; Life Building, 1959<lb/></p></scopecontent></c><c id="aspace_ad8f759403fa2ee95739f656b29e2830" level="file"><did><unittitle>Materials contributed by Rockefeller Center, Inc. (microfilm)
+</unittitle><unitid type="aspace_uri">/repositories/2/archival_objects/316965</unitid><unitdate datechar="creation" type="inclusive">1959 June 23</unitdate><container id="aspace_dfd47ff15e2381428c8505a0ec432751" label="Mixed Materials [1804000005282]" type="Offsite-Box">2</container></did><scopecontent id="aspace_8a4fe5aca6ad90a2755582b270a2f97a"><head>Scope and Contents</head><p>Materials contributed by Rockefeller Center, Inc. (microfilm):<lb/>
+•	Microfilm of 72-page lease of space to Time Inc.<lb/>
+•	Microfilm of original architectural drawings showing progression of building design<lb/>
+•	Microfilm of photos of models, showing progression of building design</p></scopecontent></c></dsc>
+</archdesc>
+</ead>
