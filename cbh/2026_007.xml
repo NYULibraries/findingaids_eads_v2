@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/2026_007">2026_007</eadid><filedesc><titlestmt><titleproper>Guide to the Kingston Lounge nightclub photographs and ephemera <num>2026.007</num></titleproper><author>Dee Bowers</author></titlestmt><publicationstmt><publisher>Center for Brooklyn History</publisher><p><date>November 2026</date></p><address><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline><addressline>URL: <extptr xlink:href="https://www.bklynlibrary.org/cbh" xlink:show="new" xlink:title="https://www.bklynlibrary.org/cbh" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-11-20 22:38:53 +0000</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Center for Brooklyn History</corpname>
+    </repository>
+    <unittitle>Kingston Lounge nightclub photographs and ephemera</unittitle>
+    <origination label="source">
+      <persname role="fmo" source="local">Tibbs, Wilfred</persname>
+    </origination>
+    <origination label="source">
+      <corpname role="auc" rules="dacs" source="local">Swann Galleries</corpname>
+    </origination>
+    <unitid>2026.007</unitid>
+    <unitid type="aspace_uri">/repositories/3/resources/2042</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear feet</extent>
+      <extent altrender="carrier">in three folders.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1947/1948" type="inclusive">circa 1947-1948</unitdate>
+    <abstract id="aspace_ecefcd38c6263f03c0056440d0338a5f">Printed ephemera and photographs from the Kingston Lounge at 120 Kingston Avenue in Crown Heights from the late 1940s.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <container altrender="Full Manuscript Box Legal" id="aspace_4786f482f4af51116adc30e573995195" label="Mixed Materials" type="Box">A0142</container>
+  </did>
+  <accessrestrict id="aspace_5811375b1f45c60e8a796cfab165beb5">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_afde318771e855f1101587e9dc2d8479">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchase from Swann Galleries, 2026.</p>  </acqinfo>
+  <arrangement id="aspace_a6585dc9bb9b90e6aed9de31189408cf">
+    <head>Arrangement</head>
+<p>The collection is arranged into three folders by type: ephemera, staff photographs, and celebrity photographs.</p>  </arrangement>
+  <bioghist id="aspace_6c900f953f27706cf654dae0bd32103c">
+    <head>Historical note</head>
+<p>The Kingston Lounge opened on the southwest corner of Kingston Avenue and Bergen Street in Crown Heights in 1944. According to local history blogger Richard Nickel Jr., "during its heyday, the Kingston attracted guests from as far away as Harlem; even holding no more than 60 patrons at a time, the Lounge attracted musicians as renowned as Kenny Dorham, Randy Weston, Max Roach, Sahib Shihab and Matthew Gee. In fact, Dorham, Gee, Cecil Payne and company recorded a 1960 album under the name of The Swingers (Jazzland Records) on which the second track is entitled 'Kingston Lounge', in honor of the place where they practiced and jammed out, entertaining the block until the wee hours." The club did not admit white patrons until the 1970s. It fell into decline in the 1980s, and the building was abandoned by 2001.</p>    <list type="ordered">
+      <head>Sources:</head>
+      <item>"Kingston Lounge Wine &amp; Dine Restaurant &amp; Cocktail Lounge." Kingston Lounge blog, April 25, 2008. Accessed November 20, 2026. https://kingstonlounge.blogspot.com/2008/04/kingston-lounge-wine-dine-restaurant.html</item>
+      <item>"Kingston Lounge." Forgotten New York, December 8 2011. Accessed November 20, 2026. https://forgotten-ny.com/2011/12/kingston-lounge/</item>
+    </list>
+  </bioghist>
+  <phystech id="aspace_81d133bc56e1a5c3e6eda825fef5c149">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_81b574a66749da950ec4066a4ab6ddd9">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Kingston Lounge nightclub photographs and ephemera, 2026.007; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_abd08634c788f6a24fd6ed6e91860098">
+    <head>Processing Information</head>
+<p>Processed by Dee Bowers in November 2026. Items were removed from their binder and binder sleeves and rehoused.</p>  </processinfo>
+  <relatedmaterial id="aspace_660b508708af96e5749b0153bd2cb3cf">
+    <head>Related Materials</head>
+<p>Laura Fitzpatrick photograph collection (CBHM.0019)</p><p>Crown Heights photographs from a similar era in the Brooklyn Daily Eagle photographs (BCMS.0002)</p>  </relatedmaterial>
+  <scopecontent id="aspace_1b69c61c6aad745020f6ddd7d8f1d389">
+    <head>Scope and Contents</head>
+<p>31 items from the Kingston Lounge at 120 Kingston Avenue in Crown Heights, collected by former night bartender Wilfred Tibbs. Printed ephemera includes a souvenir menu from the club's 3rd anniversary celebration on 18 February 1947, a promotional handbill, and a business card of Wilfred Tibbs. The collection also includes publicity shots of Black entertainers, inscribed to Wilfred Tibbs, and candid photographs of the bar staff. The Kingston Lounge closed in 2001, and its neon signs were only removed very recently.</p><p>Celebrity subjects in the collection include The Charioteers, Dinah Washington, Gwen Tynes, Ida James, Cedric Wallace, Una Mae Carlisle, H. Byrd Moore, Melrose Colbert, Hadda Brooks, Dotty Saulters, The Gene Redd Trio, Lee Richardson, Eddie Vinson, Gene Strider, Maxine Sullivan, Teddy Brannon Trio, Rubel Blakely, Eddie Williams Trio, and Joe King.</p>  </scopecontent>
+  <userestrict id="aspace_a6fde8c0b579f2b3858228f5cc14be5d">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <persname role="fmo" source="local">Tibbs, Wilfred</persname>
+    <corpname source="local">Kingston Lounge</corpname>
+    <corpname role="auc" rules="dacs" source="local">Swann Galleries</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
